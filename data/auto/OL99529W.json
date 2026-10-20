@@ -1,0 +1,721 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL99529W",
+ "title": "The Book of Dragons",
+ "authors": [
+  "Edith Nesbit"
+ ],
+ "firstPublished": 1973,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #23661 (no chapter headings found, so the text is split into equal parts).",
+  "source": "Project Gutenberg eBook #23661",
+  "url": "https://www.gutenberg.org/ebooks/23661"
+ },
+ "sectionLabel": {
+  "singular": "Part",
+  "plural": "Parts"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Part 1",
+   "title": "about 8% through"
+  },
+  {
+   "id": "s2",
+   "label": "Part 2",
+   "title": "about 17% through"
+  },
+  {
+   "id": "s3",
+   "label": "Part 3",
+   "title": "about 25% through"
+  },
+  {
+   "id": "s4",
+   "label": "Part 4",
+   "title": "about 33% through"
+  },
+  {
+   "id": "s5",
+   "label": "Part 5",
+   "title": "about 42% through"
+  },
+  {
+   "id": "s6",
+   "label": "Part 6",
+   "title": "about 50% through"
+  },
+  {
+   "id": "s7",
+   "label": "Part 7",
+   "title": "about 58% through"
+  },
+  {
+   "id": "s8",
+   "label": "Part 8",
+   "title": "about 67% through"
+  },
+  {
+   "id": "s9",
+   "label": "Part 9",
+   "title": "about 75% through"
+  },
+  {
+   "id": "s10",
+   "label": "Part 10",
+   "title": "about 83% through"
+  },
+  {
+   "id": "s11",
+   "label": "Part 11",
+   "title": "about 92% through"
+  },
+  {
+   "id": "s12",
+   "label": "Part 12",
+   "title": "about 100% through"
+  }
+ ],
+ "characters": [
+  {
+   "id": "princess",
+   "name": "Princess",
+   "role": "protagonist",
+   "firstAppearance": "s2",
+   "summary": "First mention: “\"What will you do when you grow up, Princess?”"
+  },
+  {
+   "id": "edmund",
+   "name": "Edmund",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Kind Little Edmund, or The Caves and the Cockatrice 139”"
+  },
+  {
+   "id": "george",
+   "name": "George",
+   "aliases": [
+    "St. George"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s4",
+   "summary": "First mention: “It is a dragon like the one St.”"
+  },
+  {
+   "id": "jane",
+   "name": "Jane",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Their names were George and Jane.”"
+  },
+  {
+   "id": "king",
+   "name": "King",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “And then, quite suddenly, Nurse came in and said, \"Master Lionel, dear, they've come to fetch you to go and be King.\"”"
+  },
+  {
+   "id": "lionel",
+   "name": "Lionel",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “You see, there was a knock at the front door and voices talking downstairs, and Lionel thought it was the man come to see about the gas, which had not been allowed to be lighted since the day when Lionel made a swing…”"
+  },
+  {
+   "id": "prince",
+   "name": "Prince",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “But when the Prince had cut his tooth, rejoicings were not only admissible but correct, and the eleventh of December was proclaimed firework day.”"
+  },
+  {
+   "id": "tom",
+   "name": "Tom",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “\"I should like to marry you, Tom,\" said the Princess.”"
+  },
+  {
+   "id": "elfin",
+   "name": "Elfin",
+   "role": "major",
+   "firstAppearance": "s10",
+   "summary": "First mention: “\"I'm Elfin, the pig keeper,\" said the ragged youth.”"
+  },
+  {
+   "id": "effie",
+   "name": "Effie",
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “It all began with Effie's getting something in her eye.”"
+  },
+  {
+   "id": "queen",
+   "name": "Queen",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “As the Queen went in, keeping carefully in the middle of the arch, all the snakes lifted their wicked, flat heads and stared at her with their wicked, yellow eyes.”"
+  },
+  {
+   "id": "john",
+   "name": "John",
+   "role": "major",
+   "firstAppearance": "s8",
+   "summary": "First mention: “There was once an old, old castle--it was so old that its walls and towers and turrets and gateways and arches had crumbled to ruins, and of all its old splendor there were only two little rooms left; and it was here…”"
+  },
+  {
+   "id": "nigel",
+   "name": "Nigel",
+   "role": "major",
+   "firstAppearance": "s7",
+   "summary": "First mention: “Then the skipper said: \"All good things defend you, Nigel, from sailing near that light.”"
+  },
+  {
+   "id": "harry",
+   "name": "Harry",
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Effie's brother Harry fished something out of his tea, which he thought at first was an earwig.”"
+  },
+  {
+   "id": "johnnie",
+   "name": "Johnnie",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “The baby--named John, after his father, and called Johnnie for short--began presently to grow up.”"
+  },
+  {
+   "id": "uncle-james",
+   "name": "Uncle James",
+   "aliases": [
+    "James"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Uncle James, or The Purple Stranger 19”"
+  },
+  {
+   "id": "tina",
+   "name": "Tina",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “He was great friends with Tina, the daughter of the whitesmith, who lived nearly opposite.”"
+  },
+  {
+   "id": "sabrinetta",
+   "name": "Sabrinetta",
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Her name was Sabrinetta, and her grandmother was Sabra, who married St.”"
+  },
+  {
+   "id": "chancellor",
+   "name": "Chancellor",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “As they went along, the grave gentlemen, who were the Chancellor and the Prime Minister, explained the things which Lionel did not understand.”"
+  },
+  {
+   "id": "hippogriff",
+   "name": "Hippogriff",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “The book fell open wide, almost in the middle, and there was written at the bottom of the page, \"Hippogriff,\" and before Lionel had time to see what the picture was, there was a fluttering of great wings and a stampin…”"
+  },
+  {
+   "id": "manticora",
+   "name": "Manticora",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Then the King ran and opened the book at the page that had \"cora\" on it, and there was the picture--Manticora, all yellow, with a lion's body and a man's face, just as the Chancellor had said.”"
+  },
+  {
+   "id": "mary-ann",
+   "name": "Mary Ann",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Her elephant was devoted to her, and sometimes Mary Ann made her nurse quite cross by smuggling the dear little thing up to bed with her and letting it go to sleep with its long trunk laid lovingly across her throat,…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "king",
+   "target": "lionel",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "chancellor",
+   "target": "lionel",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "chancellor",
+   "target": "king",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "king",
+   "target": "manticora",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "hippogriff",
+   "target": "king",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "princess",
+   "target": "tom",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "princess",
+   "target": "uncle-james",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "mary-ann",
+   "target": "princess",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "tom",
+   "target": "uncle-james",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "mary-ann",
+   "target": "tom",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "effie",
+   "target": "harry",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "effie",
+   "target": "george",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "george",
+   "target": "harry",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "george",
+   "target": "jane",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 36
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 53
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "george",
+   "target": "prince",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "king",
+   "target": "queen",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "princess",
+   "target": "queen",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "king",
+   "target": "princess",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "prince",
+   "target": "princess",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 7."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "nigel",
+   "target": "princess",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "king",
+   "target": "nigel",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "johnnie",
+   "target": "tina",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "princess",
+   "target": "sabrinetta",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "george",
+   "target": "sabrinetta",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "prince",
+   "target": "sabrinetta",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "elfin",
+   "target": "prince",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "elfin",
+   "target": "princess",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 10."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "elfin",
+   "target": "sabrinetta",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 10."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

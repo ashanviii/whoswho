@@ -1,0 +1,637 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL262496W",
+ "title": "A Study in Scarlet",
+ "authors": [
+  "Arthur Conan Doyle"
+ ],
+ "firstPublished": 1887,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #244.",
+  "source": "Project Gutenberg eBook #244",
+  "url": "https://www.gutenberg.org/ebooks/244"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "part": "Part I"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "part": "Part I"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "THE LAURISTON GARDENS MYSTERY",
+   "part": "Part I"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "part": "Part I"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "part": "Part I"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "part": "Part I"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "part": "Part I"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 1",
+   "part": "Part II"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 2",
+   "part": "Part II"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 3",
+   "part": "Part II"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 4",
+   "part": "Part II"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 5",
+   "part": "Part II"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 6",
+   "part": "Part II"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 7",
+   "part": "Part II"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-ferrier",
+   "label": "Ferrier (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "sherlock-holmes",
+   "name": "Sherlock Holmes",
+   "aliases": [
+    "Holmes",
+    "Mr. Sherlock Holmes"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““You don’t know Sherlock Holmes yet,” he said; “perhaps you would not care for him as a constant companion.””"
+  },
+  {
+   "id": "drebber",
+   "name": "Drebber",
+   "aliases": [
+    "Mr. Drebber"
+   ],
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Drebber, Cleveland, Ohio, U.S.A.”"
+  },
+  {
+   "id": "john-ferrier",
+   "name": "John Ferrier",
+   "aliases": [
+    "Ferrier"
+   ],
+   "role": "major",
+   "group": "g-ferrier",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““My name is John Ferrier,” the wanderer explained; “me and that little un are all that’s left o’ twenty-one people.”"
+  },
+  {
+   "id": "lestrade",
+   "name": "Lestrade",
+   "aliases": [
+    "Mr. Lestrade"
+   ],
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “There was one little sallow rat-faced, dark-eyed fellow who was introduced to me as Mr.”"
+  },
+  {
+   "id": "gregson",
+   "name": "Gregson",
+   "aliases": [
+    "Mr. Gregson"
+   ],
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Gregson is the smartest of the Scotland Yarders,” my friend remarked; “he and Lestrade are the pick of a bad lot.”"
+  },
+  {
+   "id": "stangerson",
+   "name": "Stangerson",
+   "aliases": [
+    "Mr. Joseph Stangerson"
+   ],
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Have you made any inquiries as to this man, Stangerson?””"
+  },
+  {
+   "id": "jefferson-hope",
+   "name": "Jefferson Hope",
+   "role": "major",
+   "firstAppearance": "s9",
+   "summary": "First mention: “All this Jefferson Hope was able to tell him, and in a style which interested Lucy as well as her father.”"
+  },
+  {
+   "id": "lucy-ferrier",
+   "name": "Lucy Ferrier",
+   "aliases": [
+    "Lucy"
+   ],
+   "role": "major",
+   "group": "g-ferrier",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Lucy Ferrier grew up within the log-house, and assisted her adopted father in all his undertakings.”"
+  },
+  {
+   "id": "stamford",
+   "name": "Stamford",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “On the very day that I had come to this conclusion, I was standing at the Criterion Bar, when some one tapped me on the shoulder, and turning round I recognized young Stamford, who had been a dresser under me at Barts.”"
+  },
+  {
+   "id": "mormon",
+   "name": "Mormon",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Little Lucy Ferrier was borne along pleasantly enough in Elder Stangerson’s waggon, a retreat which she shared with the Mormon’s three wives and with his son, a headstrong forward boy of twelve.”"
+  },
+  {
+   "id": "rance",
+   "name": "Rance",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “We picked our way among groups of dirty children, and through lines of discoloured linen, until we came to Number 46, the door of which was decorated with a small slip of brass on which the name Rance was engraved.”"
+  },
+  {
+   "id": "elders",
+   "name": "Elders",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““Guess I’ll come with you on any terms,” said Ferrier, with such emphasis that the grave Elders could not restrain a smile.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "sherlock-holmes",
+   "target": "stamford",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "lestrade",
+   "target": "sherlock-holmes",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "gregson",
+   "target": "lestrade",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "gregson",
+   "target": "sherlock-holmes",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "drebber",
+   "target": "sherlock-holmes",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "drebber",
+   "target": "gregson",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "gregson",
+   "target": "stangerson",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "drebber",
+   "target": "stangerson",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "lestrade",
+   "target": "stangerson",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "drebber",
+   "target": "lestrade",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "sherlock-holmes",
+   "target": "stangerson",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "elders",
+   "target": "john-ferrier",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "john-ferrier",
+   "target": "mormon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "john-ferrier",
+   "target": "stangerson",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "drebber",
+   "target": "john-ferrier",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "john-ferrier",
+   "target": "lucy-ferrier",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "jefferson-hope",
+   "target": "john-ferrier",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "jefferson-hope",
+   "target": "lucy-ferrier",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "jefferson-hope",
+   "target": "mormon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "drebber",
+   "target": "lucy-ferrier",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "lucy-ferrier",
+   "target": "mormon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "drebber",
+   "target": "jefferson-hope",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "jefferson-hope",
+   "target": "stangerson",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "jefferson-hope",
+   "target": "lestrade",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

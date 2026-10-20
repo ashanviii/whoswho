@@ -1,0 +1,2530 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL88813W",
+ "title": "A Room with a View",
+ "authors": [
+  "E. M. Forster"
+ ],
+ "firstPublished": 1905,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #2641.",
+  "source": "Project Gutenberg eBook #2641",
+  "url": "https://www.gutenberg.org/ebooks/2641"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "The Bertolini",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "In Santa Croce with No Baedeker",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "Music, Violets, and the Letter “S”",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "Fourth Chapter",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "Possibilities of a Pleasant Outing",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "They Return",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "Medieval",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "Lucy As a Work of Art",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "Cecil as a Humourist",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "In Mrs. Vyse’s Well-Appointed Flat",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "Twelfth Chapter",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "How Miss Bartlett’s Boiler Was So Tiresome",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "How Lucy Faced the External Situation Bravely",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "The Disaster Within",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 2",
+   "title": "was found, and she glanced at its opening sentences.",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 16",
+   "title": "Lying to George",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 17",
+   "title": "Lying to Cecil",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 18",
+   "title": "Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and The Servants",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 19",
+   "title": "Lying to Mr. Emerson",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 20",
+   "title": "The End of the Middle Ages",
+   "part": "Part TWO"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-lavish",
+   "label": "Lavish (shared surname)"
+  },
+  {
+   "id": "g-honeychurch",
+   "label": "Honeychurch (shared surname)"
+  },
+  {
+   "id": "g-vyse",
+   "label": "Vyse (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "lucy",
+   "name": "Lucy",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Oh, Lucy!””"
+  },
+  {
+   "id": "cecil",
+   "name": "Cecil",
+   "role": "major",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““I am glad that Cecil is asking her this once more.””"
+  },
+  {
+   "id": "miss-bartlett",
+   "name": "Miss Bartlett",
+   "aliases": [
+    "Bartlett"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““The Signora had no business to do it,” said Miss Bartlett, “no business at all.”"
+  },
+  {
+   "id": "mr-beebe",
+   "name": "Mr. Beebe",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Why, it’s Mr.”"
+  },
+  {
+   "id": "freddy",
+   "name": "Freddy",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““I’m sure she will; and so will Freddy.””"
+  },
+  {
+   "id": "george",
+   "name": "George",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““This is my son,” said the old man; “his name’s George.”"
+  },
+  {
+   "id": "mr-emerson",
+   "name": "Mr. Emerson",
+   "aliases": [
+    "Emerson"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Emerson.””"
+  },
+  {
+   "id": "miss-lavish",
+   "name": "Miss Lavish",
+   "aliases": [
+    "Lavish"
+   ],
+   "role": "supporting",
+   "group": "g-lavish",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Miss Lavish—for that was the clever lady’s name—turned to the right along the sunny Lung’ Arno.”"
+  },
+  {
+   "id": "charlotte",
+   "name": "Charlotte",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Charlotte, don’t you feel, too, that we might be in London?”"
+  },
+  {
+   "id": "mrs-honeychurch",
+   "name": "Mrs. Honeychurch",
+   "role": "supporting",
+   "group": "g-honeychurch",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““The world,” she thought, “is certainly full of beautiful things, if only I could come across them.” It was not surprising that Mrs.”"
+  },
+  {
+   "id": "miss-honeychurch",
+   "name": "Miss Honeychurch",
+   "role": "supporting",
+   "group": "g-honeychurch",
+   "firstAppearance": "s1",
+   "summary": "First mention: “I expect that you have forgotten us: Miss Bartlett and Miss Honeychurch, who were at Tunbridge Wells when you helped the Vicar of St.”"
+  },
+  {
+   "id": "mr-eager",
+   "name": "Mr. Eager",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “It’s that Mr.”"
+  },
+  {
+   "id": "mr-vyse",
+   "name": "Mr. Vyse",
+   "role": "minor",
+   "group": "g-vyse",
+   "firstAppearance": "s8",
+   "summary": "First mention: “He said: ‘Mr.”"
+  },
+  {
+   "id": "sir-harry-otway",
+   "name": "Sir Harry",
+   "aliases": [
+    "Sir Harry Otway"
+   ],
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Do you know Sir Harry Otway—a Radical if ever there was?””"
+  },
+  {
+   "id": "miss-alans",
+   "name": "Miss Alans",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Those gossiping little Miss Alans must have—” She checked herself.”"
+  },
+  {
+   "id": "minnie",
+   "name": "Minnie",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: ““Well, if they are coming—No, Minnie, not Saturn.”"
+  },
+  {
+   "id": "george-emerson",
+   "name": "George Emerson",
+   "aliases": [
+    "Mr. George Emerson"
+   ],
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "miss-alan",
+   "name": "Miss Alan",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Beebe was not able to tell the ladies of his adventure at Modena, where the chambermaid burst in upon him in his bath, exclaiming cheerfully, “Fa niente, sono vecchia.” He contented himself with saying: “I quite agree…”"
+  },
+  {
+   "id": "arno",
+   "name": "Arno",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““I want so to see the Arno.”"
+  },
+  {
+   "id": "baedeker",
+   "name": "Baedeker",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Lucy said that this was most kind, and at once opened the Baedeker, to see where Santa Croce was.”"
+  },
+  {
+   "id": "eleanor-lavish",
+   "name": "Eleanor Lavish",
+   "aliases": [
+    "Eleanor"
+   ],
+   "role": "minor",
+   "group": "g-lavish",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Leonora,” said Miss Lavish; her own name was Eleanor.”"
+  },
+  {
+   "id": "mrs-vyse",
+   "name": "Mrs. Vyse",
+   "role": "minor",
+   "group": "g-vyse",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Mrs.”"
+  },
+  {
+   "id": "bertolini",
+   "name": "Bertolini",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Pension Bertolini had decided, almost enthusiastically, that they would do.”"
+  },
+  {
+   "id": "phaethon",
+   "name": "Phaethon",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “It was Phaethon who drove them to Fiesole that memorable day, a youth all irresponsibility and fire, recklessly urging his master’s horses up the stony hill.”"
+  },
+  {
+   "id": "weald",
+   "name": "Weald",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “About five miles from Dorking, looking over the Weald.””"
+  },
+  {
+   "id": "loggia",
+   "name": "Loggia",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Two Italians by the Loggia had been bickering about a debt.”"
+  },
+  {
+   "id": "saturn",
+   "name": "Saturn",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: ““Well, if they are coming—No, Minnie, not Saturn.”"
+  },
+  {
+   "id": "schumann",
+   "name": "Schumann",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “She played Schumann.”"
+  },
+  {
+   "id": "signora",
+   "name": "Signora",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““And a Cockney, besides!” said Lucy, who had been further saddened by the Signora’s unexpected accent.”"
+  },
+  {
+   "id": "mrs-butterworth",
+   "name": "Mrs. Butterworth",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““And old Mrs.”"
+  },
+  {
+   "id": "piazza",
+   "name": "Piazza",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “But it gave them strength to drift into another Piazza, large and dusty, on the farther side of which rose a black-and-white façade of surpassing ugliness.”"
+  },
+  {
+   "id": "albert",
+   "name": "Albert",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “He has bought Cissie and Albert from Mr.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "lucy",
+   "target": "miss-bartlett",
+   "weight": 140,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 59
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "miss-bartlett",
+   "target": "signora",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "charlotte",
+   "target": "miss-bartlett",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "lucy",
+   "target": "signora",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "charlotte",
+   "target": "lucy",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "arno",
+   "target": "miss-bartlett",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "arno",
+   "target": "signora",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "arno",
+   "target": "lucy",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "arno",
+   "target": "charlotte",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "george",
+   "target": "lucy",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "lucy",
+   "target": "mr-beebe",
+   "weight": 118,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "charlotte",
+   "target": "mr-beebe",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "miss-bartlett",
+   "target": "mr-beebe",
+   "weight": 67,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "miss-bartlett",
+   "target": "miss-honeychurch",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "miss-honeychurch",
+   "target": "mr-beebe",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "lucy",
+   "target": "miss-honeychurch",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "bertolini",
+   "target": "miss-bartlett",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "bertolini",
+   "target": "lucy",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "freddy",
+   "target": "mr-beebe",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "lucy",
+   "target": "mr-emerson",
+   "weight": 60,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "miss-bartlett",
+   "target": "mr-emerson",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mr-beebe",
+   "target": "mr-emerson",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "baedeker",
+   "target": "lucy",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "lucy",
+   "target": "miss-lavish",
+   "weight": 45,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "arno",
+   "target": "miss-lavish",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "miss-honeychurch",
+   "target": "miss-lavish",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "baedeker",
+   "target": "miss-lavish",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "lucy",
+   "target": "piazza",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "miss-lavish",
+   "target": "piazza",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "miss-lavish",
+   "target": "mr-emerson",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "george",
+   "target": "mr-emerson",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "baedeker",
+   "target": "miss-bartlett",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "bertolini",
+   "target": "miss-lavish",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "miss-bartlett",
+   "target": "miss-lavish",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "bertolini",
+   "target": "mr-beebe",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "miss-lavish",
+   "target": "mr-beebe",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "miss-alan",
+   "target": "miss-honeychurch",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "lucy",
+   "target": "miss-alan",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "miss-alan",
+   "target": "mr-beebe",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "miss-alan",
+   "target": "miss-lavish",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "miss-alan",
+   "target": "mr-emerson",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "mr-beebe",
+   "target": "mr-eager",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "miss-lavish",
+   "target": "mr-eager",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "miss-bartlett",
+   "target": "mr-eager",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "lucy",
+   "target": "mr-eager",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "miss-alans",
+   "target": "mr-beebe",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "lucy",
+   "target": "miss-alans",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "miss-bartlett",
+   "target": "mrs-honeychurch",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "lucy",
+   "target": "mrs-honeychurch",
+   "weight": 74,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "loggia",
+   "target": "lucy",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "george-emerson",
+   "target": "loggia",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "george-emerson",
+   "target": "lucy",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "george-emerson",
+   "target": "miss-lavish",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "george-emerson",
+   "target": "mr-beebe",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "freddy",
+   "target": "miss-bartlett",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "freddy",
+   "target": "lucy",
+   "weight": 62,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "charlotte",
+   "target": "george-emerson",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "george-emerson",
+   "target": "miss-bartlett",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "loggia",
+   "target": "miss-lavish",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "eleanor-lavish",
+   "target": "miss-bartlett",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "eleanor-lavish",
+   "target": "miss-lavish",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "eleanor-lavish",
+   "target": "mr-eager",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "eleanor-lavish",
+   "target": "lucy",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "charlotte",
+   "target": "eleanor-lavish",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "lucy",
+   "target": "sir-harry-otway",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "miss-bartlett",
+   "target": "mrs-vyse",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "lucy",
+   "target": "mrs-vyse",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "mr-emerson",
+   "target": "phaethon",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "mr-eager",
+   "target": "mr-emerson",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "george-emerson",
+   "target": "phaethon",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "mr-beebe",
+   "target": "phaethon",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "mr-eager",
+   "target": "phaethon",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "lucy",
+   "target": "phaethon",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "george",
+   "target": "mr-beebe",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "freddy",
+   "target": "mrs-honeychurch",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "cecil",
+   "target": "lucy",
+   "weight": 140,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "cecil",
+   "target": "freddy",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "cecil",
+   "target": "mrs-honeychurch",
+   "weight": 46,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "mr-beebe",
+   "target": "mrs-honeychurch",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "mr-beebe",
+   "target": "mr-vyse",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "lucy",
+   "target": "mr-vyse",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "cecil",
+   "target": "mr-beebe",
+   "weight": 47,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "cecil",
+   "target": "mr-vyse",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "cecil",
+   "target": "mrs-vyse",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "mr-beebe",
+   "target": "sir-harry-otway",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "albert",
+   "target": "mr-beebe",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "albert",
+   "target": "sir-harry-otway",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "cecil",
+   "target": "sir-harry-otway",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "albert",
+   "target": "cecil",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "freddy",
+   "target": "miss-honeychurch",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "mrs-honeychurch",
+   "target": "sir-harry-otway",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "freddy",
+   "target": "sir-harry-otway",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "miss-alans",
+   "target": "mrs-honeychurch",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "cecil",
+   "target": "miss-alans",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "minnie",
+   "target": "mr-beebe",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "minnie",
+   "target": "saturn",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "freddy",
+   "target": "minnie",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "minnie",
+   "target": "mrs-honeychurch",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "lucy",
+   "target": "minnie",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "freddy",
+   "target": "miss-alans",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "lucy",
+   "target": "weald",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "cecil",
+   "target": "mr-emerson",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "freddy",
+   "target": "mr-vyse",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "charlotte",
+   "target": "mrs-honeychurch",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "cecil",
+   "target": "miss-bartlett",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "cecil",
+   "target": "charlotte",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "lucy",
+   "target": "schumann",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "freddy",
+   "target": "george",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "cecil",
+   "target": "mrs-butterworth",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r110",
+   "source": "cecil",
+   "target": "george",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r111",
+   "source": "lucy",
+   "target": "mrs-butterworth",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r112",
+   "source": "cecil",
+   "target": "weald",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r113",
+   "source": "mrs-honeychurch",
+   "target": "weald",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r114",
+   "source": "bertolini",
+   "target": "mrs-honeychurch",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r115",
+   "source": "miss-bartlett",
+   "target": "mr-vyse",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r116",
+   "source": "minnie",
+   "target": "miss-bartlett",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r117",
+   "source": "mr-beebe",
+   "target": "weald",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

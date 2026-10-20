@@ -1,0 +1,928 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL455512W",
+ "title": "The Blithedale Romance",
+ "authors": [
+  "Nathaniel Hawthorne"
+ ],
+ "firstPublished": 1852,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #2081.",
+  "source": "Project Gutenberg eBook #2081",
+  "url": "https://www.gutenberg.org/ebooks/2081"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "OLD MOODIE"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "BLITHEDALE"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "A KNOT OF DREAMERS"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "THE SUPPER-TABLE"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "UNTIL BEDTIME"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "COVERDALE'S SICK-CHAMBER"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "THE CONVALESCENT"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "A MODERN ARCADIA"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "HOLLINGSWORTH, ZENOBIA, PRISCILLA"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "A VISITOR FROM TOWN"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "THE WOOD-PATH"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "COVERDALE'S HERMITAGE"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "ZENOBIA'S LEGEND"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "ELIOT'S PULPIT"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "A CRISIS"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "LEAVE-TAKINGS"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "THE HOTEL"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "THE BOARDING-HOUSE"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "ZENOBIA'S DRAWING-ROOM"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "THEY VANISH"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21",
+   "title": "AN OLD ACQUAINTANCE"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "FAUNTLEROY"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23",
+   "title": "A VILLAGE HALL"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24",
+   "title": "THE MASQUERADERS"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25",
+   "title": "THE THREE TOGETHER"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26",
+   "title": "ZENOBIA AND COVERDALE"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 27",
+   "title": "MIDNIGHT"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 28",
+   "title": "BLITHEDALE PASTURE"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 29",
+   "title": "MILES COVERDALE'S CONFESSION"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-coverdale",
+   "label": "Coverdale (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "zenobia",
+   "name": "Zenobia",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “\"I wonder, sir,\" said he, \"whether you know a lady whom they call Zenobia?\"”"
+  },
+  {
+   "id": "hollingsworth",
+   "name": "Hollingsworth",
+   "aliases": [
+    "Mr. Hollingsworth"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “\"However, if an older man will suit you better, there is Mr.”"
+  },
+  {
+   "id": "priscilla",
+   "name": "Priscilla",
+   "role": "protagonist",
+   "firstAppearance": "s4",
+   "summary": "First mention: “\"Priscilla,\" said the girl; and it appeared to me that she hesitated whether to add anything more, and decided in the negative.”"
+  },
+  {
+   "id": "silas-foster",
+   "name": "Silas Foster",
+   "aliases": [
+    "Foster",
+    "Silas"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Foster (the wife of stout Silas Foster, who was to manage the farm at a fair stipend, and be our tutor in the art of husbandry) bade us a hearty welcome.”"
+  },
+  {
+   "id": "mr-moodie",
+   "name": "Moodie",
+   "aliases": [
+    "Mr. Moodie"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “He was a very shy personage, this Mr.”"
+  },
+  {
+   "id": "mr-coverdale",
+   "name": "Mr. Coverdale",
+   "role": "supporting",
+   "group": "g-coverdale",
+   "firstAppearance": "s1",
+   "summary": "First mention: “\"Mr.”"
+  },
+  {
+   "id": "veiled-lady",
+   "name": "Veiled Lady",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The evening before my departure for Blithedale, I was returning to my bachelor apartments, after attending the wonderful exhibition of the Veiled Lady, when an elderly man of rather shabby appearance met me in an obsc…”"
+  },
+  {
+   "id": "theodore",
+   "name": "Theodore",
+   "role": "minor",
+   "firstAppearance": "s13",
+   "summary": "First mention: “It is essential to the purposes of my legend to distinguish one of these young gentlemen from his companions; so, for the sake of a soft and pretty name (such as we of the literary sisterhood invariably bestow upon ou…”"
+  },
+  {
+   "id": "westervelt",
+   "name": "Westervelt",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Meanwhile, my inclination for a ramble having been balked, I lingered in the vicinity of the farm, with perhaps a vague idea that some new event would grow out of Westervelt's proposed interview with Zenobia.”"
+  },
+  {
+   "id": "fauntleroy",
+   "name": "Fauntleroy",
+   "role": "minor",
+   "firstAppearance": "s22",
+   "summary": "First mention: “Five-and-twenty years ago, at the epoch of this story, there dwelt in one of the Middle States a man whom we shall call Fauntleroy; a man of wealth, and magnificent tastes, and prodigal expenditure.”"
+  },
+  {
+   "id": "community",
+   "name": "Community",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “All the other members of the Community showed me kindness, according to the full measure of their capacity.”"
+  },
+  {
+   "id": "eliot",
+   "name": "Eliot",
+   "role": "minor",
+   "firstAppearance": "s14",
+   "summary": "First mention: “It was known to us under the name of Eliot's pulpit, from a tradition that the venerable Apostle Eliot had preached there, two centuries gone by, to an Indian auditory.”"
+  },
+  {
+   "id": "miles-coverdale",
+   "name": "Miles Coverdale",
+   "role": "minor",
+   "group": "g-coverdale",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Miles Coverdale is not in earnest, either as a poet or a laborer.\"”"
+  },
+  {
+   "id": "fourier",
+   "name": "Fourier",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: “Fourier's works, also, in a series of horribly tedious volumes, attracted a good deal of my attention, from the analogy which I could not but recognize between his system and our own.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "mr-coverdale",
+   "target": "veiled-lady",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "mr-coverdale",
+   "target": "mr-moodie",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "hollingsworth",
+   "target": "mr-coverdale",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "hollingsworth",
+   "target": "mr-moodie",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "mr-moodie",
+   "target": "zenobia",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "veiled-lady",
+   "target": "zenobia",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "mr-coverdale",
+   "target": "zenobia",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "silas-foster",
+   "target": "zenobia",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "hollingsworth",
+   "target": "zenobia",
+   "weight": 159,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 51
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "priscilla",
+   "target": "zenobia",
+   "weight": 141,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "hollingsworth",
+   "target": "priscilla",
+   "weight": 108,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "hollingsworth",
+   "target": "silas-foster",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "priscilla",
+   "target": "silas-foster",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "mr-coverdale",
+   "target": "priscilla",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "community",
+   "target": "hollingsworth",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "community",
+   "target": "zenobia",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "hollingsworth",
+   "target": "veiled-lady",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "community",
+   "target": "priscilla",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "fourier",
+   "target": "hollingsworth",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "miles-coverdale",
+   "target": "zenobia",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "mr-moodie",
+   "target": "priscilla",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "priscilla",
+   "target": "westervelt",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "westervelt",
+   "target": "zenobia",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "theodore",
+   "target": "veiled-lady",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "priscilla",
+   "target": "veiled-lady",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "eliot",
+   "target": "zenobia",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "eliot",
+   "target": "priscilla",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "eliot",
+   "target": "hollingsworth",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "hollingsworth",
+   "target": "westervelt",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "mr-coverdale",
+   "target": "westervelt",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "fauntleroy",
+   "target": "mr-moodie",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "fauntleroy",
+   "target": "priscilla",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 22."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "fauntleroy",
+   "target": "zenobia",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 22."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "miles-coverdale",
+   "target": "silas-foster",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 27."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

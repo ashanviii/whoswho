@@ -1,0 +1,2225 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL20874W",
+ "title": "Silas Marner",
+ "authors": [
+  "George Eliot",
+  "John O'Connor",
+  "Mary Anne Evans"
+ ],
+ "firstPublished": 1800,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #550.",
+  "source": "Project Gutenberg eBook #550",
+  "url": "https://www.gutenberg.org/ebooks/550"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "In the days when the spinning-wheels hummed busily in the",
+   "part": "Part I"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "Even people whose lives have been made various by learning, sometimes",
+   "part": "Part I"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "part": "Part I"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "part": "Part I"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "part": "Part I"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "The conversation, which was at a high pitch of animation when Silas",
+   "part": "Part I"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "part": "Part I"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "part": "Part I"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "Godfrey rose and took his own breakfast earlier than usual, but",
+   "part": "Part I"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "part": "Part I"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "part": "Part I"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "part": "Part I"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "It was after the early supper-time at the Red House, and the",
+   "part": "Part I"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "part": "Part I"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "There was one person, as you will believe, who watched with keener",
+   "part": "Part I"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "It was a bright autumn Sunday, sixteen years after Silas Marner had",
+   "part": "Part II"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "While Silas and Eppie were seated on the bank discoursing in the",
+   "part": "Part II"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "Some one opened the door at the other end of the room, and Nancy felt",
+   "part": "Part II"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "Between eight and nine o’clock that evening, Eppie and Silas were",
+   "part": "Part II"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "part": "Part II"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21",
+   "part": "Part II"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-cass",
+   "label": "Cass (shared surname)"
+  },
+  {
+   "id": "g-lammeter",
+   "label": "Lammeter (shared surname)"
+  },
+  {
+   "id": "g-winthrop",
+   "label": "Winthrop (shared surname)"
+  },
+  {
+   "id": "g-osgood",
+   "label": "Osgood (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "silas-marner",
+   "name": "Silas Marner",
+   "aliases": [
+    "Silas",
+    "Master Marner"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “In the early years of this century, such a linen-weaver, named Silas Marner, worked at his vocation in a stone cottage that stood among the nutty hedgerows near the village of Raveloe, and not far from the edge of a d…”"
+  },
+  {
+   "id": "godfrey-cass",
+   "name": "Godfrey Cass",
+   "aliases": [
+    "Godfrey",
+    "Mr. Godfrey",
+    "Mr. Godfrey Cass",
+    "Master Godfrey"
+   ],
+   "role": "protagonist",
+   "group": "g-cass",
+   "firstAppearance": "s3",
+   "summary": "First mention: “But it would be a thousand pities if Mr.”"
+  },
+  {
+   "id": "nancy-lammeter",
+   "name": "Nancy Lammeter",
+   "aliases": [
+    "Nancy",
+    "Miss Nancy",
+    "Miss Nancy Lammeter"
+   ],
+   "role": "major",
+   "group": "g-lammeter",
+   "firstAppearance": "s3",
+   "summary": "First mention: “If he went on in that way, he would lose Miss Nancy Lammeter; for it was well known that she had looked very shyly on him ever since last Whitsuntide twelvemonth, when there was so much talk about his being away from…”"
+  },
+  {
+   "id": "eppie",
+   "name": "Eppie",
+   "role": "major",
+   "firstAppearance": "s14",
+   "summary": "First mention: ““We called her Eppie,” said Silas.”"
+  },
+  {
+   "id": "squire-cass",
+   "name": "Squire Cass",
+   "aliases": [
+    "Squire"
+   ],
+   "role": "major",
+   "group": "g-cass",
+   "firstAppearance": "s1",
+   "summary": "First mention: “All this Jem swore he had seen, more by token that it was the very day he had been mole-catching on Squire Cass’s land, down by the old saw-pit.”"
+  },
+  {
+   "id": "dolly-winthrop",
+   "name": "Dolly Winthrop",
+   "aliases": [
+    "Dolly"
+   ],
+   "role": "supporting",
+   "group": "g-winthrop",
+   "firstAppearance": "s10",
+   "summary": "First mention: “It seemed surprising that Ben Winthrop, who loved his quart-pot and his joke, got along so well with Dolly; but she took her husband’s jokes and joviality as patiently as everything else, considering that “men _would_…”"
+  },
+  {
+   "id": "mr-macey",
+   "name": "Mr. Macey",
+   "aliases": [
+    "Macey"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Some said Marner must have been in a “fit,” a word which seemed to explain things otherwise incredible; but the argumentative Mr.”"
+  },
+  {
+   "id": "dunstan",
+   "name": "Dunstan",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Raveloe was not a place where moral censure was severe, but it was thought a weakness in the Squire that he had kept all his sons at home in idleness; and though some licence was to be allowed to young men whose fathe…”"
+  },
+  {
+   "id": "aaron",
+   "name": "Aaron",
+   "role": "supporting",
+   "firstAppearance": "s6",
+   "summary": "First mention: “There’s my little lad Aaron, he’s got a gift—he can sing a tune off straight, like a throstle.”"
+  },
+  {
+   "id": "priscilla",
+   "name": "Priscilla",
+   "role": "supporting",
+   "firstAppearance": "s11",
+   "summary": "First mention: “She wished her sister Priscilla had come up at the same time behind the servant, for then she would have contrived that Mr.”"
+  },
+  {
+   "id": "dunsey-cass",
+   "name": "Dunsey Cass",
+   "aliases": [
+    "Dunsey"
+   ],
+   "role": "supporting",
+   "group": "g-cass",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Raveloe was not a place where moral censure was severe, but it was thought a weakness in the Squire that he had kept all his sons at home in idleness; and though some licence was to be allowed to young men whose fathe…”"
+  },
+  {
+   "id": "wildfire",
+   "name": "Wildfire",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Well, then, sell Wildfire.””"
+  },
+  {
+   "id": "william",
+   "name": "William",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The real name of the friend was William Dane, and he, too, was regarded as a shining instance of youthful piety, though somewhat given to over-severity towards weaker brethren, and to be so dazzled by his own light as…”"
+  },
+  {
+   "id": "jem-rodney",
+   "name": "Jem Rodney",
+   "aliases": [
+    "Jem"
+   ],
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “This view of Marner’s personality was not without another ground than his pale face and unexampled eyes; for Jem Rodney, the mole-catcher, averred that one evening as he was returning homeward, he saw Silas Marner lea…”"
+  },
+  {
+   "id": "mr-lammeter",
+   "name": "Mr. Lammeter",
+   "role": "minor",
+   "group": "g-lammeter",
+   "firstAppearance": "s5",
+   "summary": "First mention: “It had slipped his memory, because, in coming from Mr.”"
+  },
+  {
+   "id": "bryce",
+   "name": "Bryce",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “There’ll be Bryce and Keating there, for sure.”"
+  },
+  {
+   "id": "mr-crackenthorp",
+   "name": "Mr. Crackenthorp",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Macey,” said poor Tookey, serious amidst the general laughter, “I undertook to partially fill up the office of parish-clerk by Mr.”"
+  },
+  {
+   "id": "mrs-winthrop",
+   "name": "Mrs. Winthrop",
+   "role": "minor",
+   "group": "g-winthrop",
+   "firstAppearance": "s10",
+   "summary": "First mention: “This was Mrs.”"
+  },
+  {
+   "id": "ben-winthrop",
+   "name": "Ben Winthrop",
+   "aliases": [
+    "Ben"
+   ],
+   "role": "minor",
+   "group": "g-winthrop",
+   "firstAppearance": "s6",
+   "summary": "First mention: “but the old gentleman and you are two folks,” said Ben Winthrop.”"
+  },
+  {
+   "id": "mr-snell",
+   "name": "Mr. Snell",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “At last Mr.”"
+  },
+  {
+   "id": "mrs-osgood",
+   "name": "Mrs. Osgood",
+   "role": "minor",
+   "group": "g-osgood",
+   "firstAppearance": "s2",
+   "summary": "First mention: “His first movement after the shock had been to work in his loom; and he went on with this unremittingly, never asking himself why, now he was come to Raveloe, he worked far on into the night to finish the tale of Mrs.”"
+  },
+  {
+   "id": "mr-cass",
+   "name": "Mr. Cass",
+   "role": "minor",
+   "group": "g-cass",
+   "firstAppearance": "s16",
+   "summary": "First mention: “And I’ll bring you some soil from Mr.”"
+  },
+  {
+   "id": "mr-osgood",
+   "name": "Mr. Osgood",
+   "role": "minor",
+   "group": "g-osgood",
+   "firstAppearance": "s3",
+   "summary": "First mention: “He was only one among several landed parishioners, but he alone was honoured with the title of Squire; for though Mr.”"
+  },
+  {
+   "id": "miss-gunns",
+   "name": "Miss Gunns",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “On the one hand, there were ladies no less important than the two Miss Gunns, the wine merchant’s daughters from Lytherly, dressed in the height of fashion, with the tightest skirts and the shortest waists, and gazed…”"
+  },
+  {
+   "id": "tookey",
+   "name": "Tookey",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Macey, who felt very well satisfied with this attack on youthful presumption; “you’re right there, Tookey: there’s allays two ’pinions; there’s the ’pinion a man has of himsen, and there’s the ’pinion other folks have…”"
+  },
+  {
+   "id": "solomon",
+   "name": "Solomon",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Eh, it’s a pity but what Solomon lived in our village, and could give us a tune when we liked; eh, Mr.”"
+  },
+  {
+   "id": "eve",
+   "name": "Eve",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “It was the great dance on New Year’s Eve that made the glory of Squire Cass’s hospitality, as of his forefathers,’ time out of mind.”"
+  },
+  {
+   "id": "jane",
+   "name": "Jane",
+   "role": "minor",
+   "firstAppearance": "s17",
+   "summary": "First mention: “It was, in fact, a little before the usual time for tea; but Jane had her reasons.”"
+  },
+  {
+   "id": "sarah",
+   "name": "Sarah",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “For some months he had been engaged to a young servant-woman, waiting only for a little increase to their mutual savings in order to their marriage; and it was a great delight to him that Sarah did not object to Willi…”"
+  },
+  {
+   "id": "fowler",
+   "name": "Fowler",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““I want to tell you, I must hand over that rent of Fowler’s to the Squire, or else tell him I gave it you; for he’s threatening to distrain for it, and it’ll all be out soon, whether I tell him or not.”"
+  },
+  {
+   "id": "dowlas",
+   "name": "Dowlas",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: ““What do you say to that, eh, Dowlas?”"
+  },
+  {
+   "id": "mr-kimble",
+   "name": "Mr. Kimble",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “The doctor and his wife, uncle and aunt Kimble, were there, and the annual Christmas talk was carried through without any omissions, rising to the climax of Mr.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "jem-rodney",
+   "target": "silas-marner",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "silas-marner",
+   "target": "squire-cass",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "mr-macey",
+   "target": "silas-marner",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "jem-rodney",
+   "target": "squire-cass",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "jem-rodney",
+   "target": "mr-macey",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "mr-macey",
+   "target": "squire-cass",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "silas-marner",
+   "target": "william",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "sarah",
+   "target": "william",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "sarah",
+   "target": "silas-marner",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "mrs-osgood",
+   "target": "silas-marner",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "mr-osgood",
+   "target": "squire-cass",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "dunsey-cass",
+   "target": "squire-cass",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "godfrey-cass",
+   "target": "squire-cass",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "nancy-lammeter",
+   "target": "squire-cass",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "godfrey-cass",
+   "target": "mr-osgood",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "mr-osgood",
+   "target": "nancy-lammeter",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "dunsey-cass",
+   "target": "dunstan",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "dunstan",
+   "target": "godfrey-cass",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "dunstan",
+   "target": "nancy-lammeter",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "dunsey-cass",
+   "target": "godfrey-cass",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "dunsey-cass",
+   "target": "nancy-lammeter",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "godfrey-cass",
+   "target": "nancy-lammeter",
+   "weight": 125,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 52
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "godfrey-cass",
+   "target": "silas-marner",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "nancy-lammeter",
+   "target": "silas-marner",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "fowler",
+   "target": "godfrey-cass",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "dunsey-cass",
+   "target": "fowler",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "fowler",
+   "target": "squire-cass",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "bryce",
+   "target": "mrs-osgood",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "mrs-osgood",
+   "target": "nancy-lammeter",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "godfrey-cass",
+   "target": "wildfire",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "dunstan",
+   "target": "wildfire",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "nancy-lammeter",
+   "target": "wildfire",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "dunstan",
+   "target": "fowler",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "bryce",
+   "target": "dunstan",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "bryce",
+   "target": "godfrey-cass",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "bryce",
+   "target": "wildfire",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "bryce",
+   "target": "dunsey-cass",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "dunsey-cass",
+   "target": "wildfire",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "mr-lammeter",
+   "target": "silas-marner",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "mrs-osgood",
+   "target": "squire-cass",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "godfrey-cass",
+   "target": "mrs-osgood",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "mr-snell",
+   "target": "squire-cass",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "godfrey-cass",
+   "target": "mr-snell",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "mr-snell",
+   "target": "silas-marner",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "mr-lammeter",
+   "target": "mr-macey",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "mr-macey",
+   "target": "tookey",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "mr-crackenthorp",
+   "target": "mr-macey",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "mr-crackenthorp",
+   "target": "tookey",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "ben-winthrop",
+   "target": "mr-macey",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "aaron",
+   "target": "mr-macey",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "ben-winthrop",
+   "target": "tookey",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "ben-winthrop",
+   "target": "mr-crackenthorp",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "mr-crackenthorp",
+   "target": "squire-cass",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "ben-winthrop",
+   "target": "squire-cass",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "aaron",
+   "target": "ben-winthrop",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "mr-macey",
+   "target": "solomon",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "mr-lammeter",
+   "target": "solomon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "mr-macey",
+   "target": "mr-snell",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "mr-lammeter",
+   "target": "squire-cass",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "dowlas",
+   "target": "mr-macey",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "mr-crackenthorp",
+   "target": "silas-marner",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "mr-macey",
+   "target": "mrs-osgood",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "mr-crackenthorp",
+   "target": "mr-snell",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "godfrey-cass",
+   "target": "mr-lammeter",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "mr-lammeter",
+   "target": "nancy-lammeter",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "mrs-winthrop",
+   "target": "silas-marner",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "ben-winthrop",
+   "target": "silas-marner",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "dolly-winthrop",
+   "target": "silas-marner",
+   "weight": 78,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 61
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "dolly-winthrop",
+   "target": "mr-macey",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "dolly-winthrop",
+   "target": "mrs-winthrop",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "ben-winthrop",
+   "target": "dolly-winthrop",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "aaron",
+   "target": "mrs-winthrop",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "aaron",
+   "target": "dolly-winthrop",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "aaron",
+   "target": "silas-marner",
+   "weight": 52,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "mr-kimble",
+   "target": "squire-cass",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "eve",
+   "target": "squire-cass",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "eve",
+   "target": "godfrey-cass",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "eve",
+   "target": "nancy-lammeter",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "nancy-lammeter",
+   "target": "priscilla",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "godfrey-cass",
+   "target": "priscilla",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "priscilla",
+   "target": "squire-cass",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "miss-gunns",
+   "target": "nancy-lammeter",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "miss-gunns",
+   "target": "priscilla",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "mrs-osgood",
+   "target": "priscilla",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "miss-gunns",
+   "target": "mrs-osgood",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "godfrey-cass",
+   "target": "mr-crackenthorp",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "godfrey-cass",
+   "target": "mr-kimble",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "solomon",
+   "target": "squire-cass",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "dolly-winthrop",
+   "target": "godfrey-cass",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "mr-kimble",
+   "target": "silas-marner",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "dolly-winthrop",
+   "target": "eppie",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "eppie",
+   "target": "silas-marner",
+   "weight": 105,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 63
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "aaron",
+   "target": "eppie",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "mr-osgood",
+   "target": "silas-marner",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "eppie",
+   "target": "mr-osgood",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "eppie",
+   "target": "mrs-winthrop",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "eppie",
+   "target": "nancy-lammeter",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "mr-cass",
+   "target": "silas-marner",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "eppie",
+   "target": "mr-cass",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "eppie",
+   "target": "godfrey-cass",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "mr-cass",
+   "target": "mr-osgood",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "mr-cass",
+   "target": "nancy-lammeter",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "godfrey-cass",
+   "target": "mr-cass",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "godfrey-cass",
+   "target": "jane",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "jane",
+   "target": "nancy-lammeter",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

@@ -1,0 +1,1329 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL86320W",
+ "title": "Dubliners",
+ "authors": [
+  "James Joyce"
+ ],
+ "firstPublished": 1914,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #2814 (no chapter headings found, so the text is split into equal parts).",
+  "source": "Project Gutenberg eBook #2814",
+  "url": "https://www.gutenberg.org/ebooks/2814"
+ },
+ "sectionLabel": {
+  "singular": "Part",
+  "plural": "Parts"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Part 1",
+   "title": "about 8% through"
+  },
+  {
+   "id": "s2",
+   "label": "Part 2",
+   "title": "about 17% through"
+  },
+  {
+   "id": "s3",
+   "label": "Part 3",
+   "title": "about 25% through"
+  },
+  {
+   "id": "s4",
+   "label": "Part 4",
+   "title": "about 33% through"
+  },
+  {
+   "id": "s5",
+   "label": "Part 5",
+   "title": "about 42% through"
+  },
+  {
+   "id": "s6",
+   "label": "Part 6",
+   "title": "about 50% through"
+  },
+  {
+   "id": "s7",
+   "label": "Part 7",
+   "title": "about 58% through"
+  },
+  {
+   "id": "s8",
+   "label": "Part 8",
+   "title": "about 67% through"
+  },
+  {
+   "id": "s9",
+   "label": "Part 9",
+   "title": "about 75% through"
+  },
+  {
+   "id": "s10",
+   "label": "Part 10",
+   "title": "about 83% through"
+  },
+  {
+   "id": "s11",
+   "label": "Part 11",
+   "title": "about 92% through"
+  },
+  {
+   "id": "s12",
+   "label": "Part 12",
+   "title": "about 100% through"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-kernan",
+   "label": "Kernan (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "gabriel",
+   "name": "Gabriel",
+   "role": "protagonist",
+   "firstAppearance": "s9",
+   "summary": "First mention: “And then it was long after ten o’clock and yet there was no sign of Gabriel and his wife.”"
+  },
+  {
+   "id": "aunt-kate",
+   "name": "Aunt Kate",
+   "aliases": [
+    "Kate"
+   ],
+   "role": "major",
+   "firstAppearance": "s9",
+   "summary": "First mention: “But Miss Kate and Miss Julia had thought of that and had converted the bathroom upstairs into a ladies’ dressing-room.”"
+  },
+  {
+   "id": "mr-kernan",
+   "name": "Mr. Kernan",
+   "role": "major",
+   "group": "g-kernan",
+   "firstAppearance": "s7",
+   "summary": "First mention: “Mr Kernan was hoisted on to the car and, while Mr Power was giving directions to the carman, he expressed his gratitude to the young man and regretted that they could not have a little drink together.”"
+  },
+  {
+   "id": "mr-cunningham",
+   "name": "Mr. Cunningham",
+   "role": "major",
+   "firstAppearance": "s8",
+   "summary": "First mention: “He was quite unconscious that he was the victim of a plot which his friends, Mr Cunningham, Mr M’Coy and Mr Power had disclosed to Mrs Kernan in the parlour.”"
+  },
+  {
+   "id": "ignatius-gallaher",
+   "name": "Ignatius Gallaher",
+   "aliases": [
+    "Gallaher"
+   ],
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Gallaher had got on.”"
+  },
+  {
+   "id": "mary-jane",
+   "name": "Mary Jane",
+   "role": "major",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Everybody who knew them came to it, members of the family, old friends of the family, the members of Julia’s choir, any of Kate’s pupils that were grown up enough, and even some of Mary Jane’s pupils too.”"
+  },
+  {
+   "id": "mr-henchy",
+   "name": "Mr. Henchy",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Sit down here, Mr Henchy,” said the old man, offering him his chair.”"
+  },
+  {
+   "id": "mr-power",
+   "name": "Mr. Power",
+   "role": "major",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““All right, Mr Power!””"
+  },
+  {
+   "id": "aunt-julia",
+   "name": "Aunt Julia",
+   "aliases": [
+    "Julia"
+   ],
+   "role": "major",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Everybody who knew them came to it, members of the family, old friends of the family, the members of Julia’s choir, any of Kate’s pupils that were grown up enough, and even some of Mary Jane’s pupils too.”"
+  },
+  {
+   "id": "corley",
+   "name": "Corley",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““And where did you pick her up, Corley?”"
+  },
+  {
+   "id": "mrs-kearney",
+   "name": "Mrs. Kearney",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “He walked up and down constantly, stood by the hour at street corners arguing the point and made notes; but in the end it was Mrs Kearney who arranged everything.”"
+  },
+  {
+   "id": "connor",
+   "name": "Connor",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““That’s better now, Mr O’Connor.””"
+  },
+  {
+   "id": "mr-browne",
+   "name": "Mr. Browne",
+   "role": "major",
+   "firstAppearance": "s10",
+   "summary": "First mention: ““Julia,” said Aunt Kate summarily, “and here’s Mr Browne and Miss Furlong.”"
+  },
+  {
+   "id": "maria",
+   "name": "Maria",
+   "role": "major",
+   "firstAppearance": "s4",
+   "summary": "First mention: “The matron had given her leave to go out as soon as the women’s tea was over and Maria looked forward to her evening out.”"
+  },
+  {
+   "id": "mr-holohan",
+   "name": "Mr. Holohan",
+   "role": "supporting",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Mr Holohan, assistant secretary of the _Eire Abu_ Society, had been walking up and down Dublin for nearly a month, with his hands and pockets full of dirty pieces of paper, arranging about the series of concerts.”"
+  },
+  {
+   "id": "coy",
+   "name": "Coy",
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: “He was quite unconscious that he was the victim of a plot which his friends, Mr Cunningham, Mr M’Coy and Mr Power had disclosed to Mrs Kernan in the parlour.”"
+  },
+  {
+   "id": "freddy-malins",
+   "name": "Freddy Malins",
+   "aliases": [
+    "Freddy"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Besides they were dreadfully afraid that Freddy Malins might turn up screwed.”"
+  },
+  {
+   "id": "lenehan",
+   "name": "Lenehan",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Most people considered Lenehan a leech but, in spite of this reputation, his adroitness and eloquence had always prevented his friends from forming any general policy against him.”"
+  },
+  {
+   "id": "joe",
+   "name": "Joe",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “She was very fond of that purse because Joe had brought it to her five years before when he and Alphy had gone to Belfast on a Whit-Monday trip.”"
+  },
+  {
+   "id": "farrington",
+   "name": "Farrington",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Send Farrington here!””"
+  },
+  {
+   "id": "jimmy",
+   "name": "Jimmy",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Jimmy did not study very earnestly and took to bad courses for a while.”"
+  },
+  {
+   "id": "mr-alleyne",
+   "name": "Mr. Alleyne",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Mr Alleyne wants you upstairs.””"
+  },
+  {
+   "id": "mahony",
+   "name": "Mahony",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “With Leo Dillon and a boy named Mahony I planned a day’s miching.”"
+  },
+  {
+   "id": "miss-ivors",
+   "name": "Miss Ivors",
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Gabriel found himself partnered with Miss Ivors.”"
+  },
+  {
+   "id": "mr-hynes",
+   "name": "Mr. Hynes",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “What are you doing in the dark?” said Mr Hynes advancing into the light of the fire.”"
+  },
+  {
+   "id": "crofton",
+   "name": "Crofton",
+   "aliases": [
+    "Mr. Crofton"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s6",
+   "summary": "First mention: “I got him one or two sure things in Dawson Street, Crofton and myself.”"
+  },
+  {
+   "id": "jack",
+   "name": "Jack",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Am I right, Jack?””"
+  },
+  {
+   "id": "mr-fitzpatrick",
+   "name": "Mr. Fitzpatrick",
+   "role": "supporting",
+   "firstAppearance": "s7",
+   "summary": "First mention: “In the dressing-room behind the stage she was introduced to the secretary of the Society, Mr Fitzpatrick.”"
+  },
+  {
+   "id": "tom",
+   "name": "Tom",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Tom.””"
+  },
+  {
+   "id": "mr-fogarty",
+   "name": "Mr. Fogarty",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: ““Mr Fogarty.””"
+  },
+  {
+   "id": "polly",
+   "name": "Polly",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Polly was a slim girl of nineteen; she had light soft hair and a small full mouth.”"
+  },
+  {
+   "id": "mrs-kernan",
+   "name": "Mrs. Kernan",
+   "role": "supporting",
+   "group": "g-kernan",
+   "firstAppearance": "s7",
+   "summary": "First mention: “After a while Mrs Kernan entered the kitchen, exclaiming:”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "corley",
+   "target": "lenehan",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "farrington",
+   "target": "mr-alleyne",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "joe",
+   "target": "maria",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "connor",
+   "target": "jack",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "connor",
+   "target": "mr-hynes",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "jack",
+   "target": "mr-hynes",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "joe",
+   "target": "mr-hynes",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "connor",
+   "target": "joe",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "jack",
+   "target": "mr-henchy",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "mr-henchy",
+   "target": "mr-hynes",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "connor",
+   "target": "mr-henchy",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "joe",
+   "target": "mr-henchy",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "crofton",
+   "target": "mr-henchy",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "connor",
+   "target": "crofton",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "crofton",
+   "target": "joe",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "mr-holohan",
+   "target": "mrs-kearney",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 29
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "mr-fitzpatrick",
+   "target": "mr-holohan",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "mr-fitzpatrick",
+   "target": "mrs-kearney",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "mr-power",
+   "target": "tom",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "mr-kernan",
+   "target": "mr-power",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 7."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "mr-power",
+   "target": "mrs-kernan",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mr-kernan",
+   "target": "mrs-kernan",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "mr-cunningham",
+   "target": "mr-kernan",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "coy",
+   "target": "mr-kernan",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "coy",
+   "target": "mr-cunningham",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "mr-cunningham",
+   "target": "mr-power",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Part 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "mr-cunningham",
+   "target": "mrs-kernan",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "coy",
+   "target": "mr-power",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "coy",
+   "target": "mrs-kernan",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "mr-kernan",
+   "target": "tom",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "mr-cunningham",
+   "target": "tom",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "coy",
+   "target": "jack",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "jack",
+   "target": "mr-power",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "coy",
+   "target": "tom",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "crofton",
+   "target": "mr-kernan",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "mr-fogarty",
+   "target": "mr-kernan",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "mr-fogarty",
+   "target": "mr-power",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "mr-cunningham",
+   "target": "mr-fogarty",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "coy",
+   "target": "mr-fogarty",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "aunt-julia",
+   "target": "aunt-kate",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "aunt-kate",
+   "target": "mary-jane",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "aunt-julia",
+   "target": "mary-jane",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "aunt-julia",
+   "target": "gabriel",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "aunt-julia",
+   "target": "freddy-malins",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "aunt-kate",
+   "target": "gabriel",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "aunt-kate",
+   "target": "freddy-malins",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "gabriel",
+   "target": "mary-jane",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "freddy-malins",
+   "target": "mary-jane",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "freddy-malins",
+   "target": "gabriel",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "aunt-julia",
+   "target": "mr-browne",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 10."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "aunt-kate",
+   "target": "mr-browne",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 10."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "mary-jane",
+   "target": "mr-browne",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 10."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "freddy-malins",
+   "target": "mr-browne",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 10."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "gabriel",
+   "target": "mr-browne",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 10."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "mary-jane",
+   "target": "miss-ivors",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "gabriel",
+   "target": "miss-ivors",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "freddy-malins",
+   "target": "miss-ivors",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 10."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

@@ -1,0 +1,1175 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL99522W",
+ "title": "The Story of the Treasure Seekers",
+ "authors": [
+  "Edith Nesbit"
+ ],
+ "firstPublished": 1899,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #770.",
+  "source": "Project Gutenberg eBook #770",
+  "url": "https://www.gutenberg.org/ebooks/770"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "THE COUNCIL OF WAYS AND MEANS"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "DIGGING FOR TREASURE"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "BEING DETECTIVES"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "GOOD HUNTING"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "THE POET AND THE EDITOR"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "NOEL’S PRINCESS"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "BEING BANDITS"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "BEING EDITORS"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 1",
+   "title": "by Dora"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 9",
+   "title": "THE G. B."
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 10",
+   "title": "LORD TOTTENHAM"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 11",
+   "title": "CASTILIAN AMOROSO"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 12",
+   "title": "THE NOBLENESS OF OSWALD"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 13",
+   "title": "THE ROBBER AND THE BURGLAR"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 14",
+   "title": "THE DIVINING-ROD"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 15",
+   "title": "‘LO, THE POOR INDIAN!’"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 16",
+   "title": "THE END OF THE TREASURE-SEEKING"
+  }
+ ],
+ "characters": [
+  {
+   "id": "alice",
+   "name": "Alice",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Alice and Noel are twins: they are ten, and Horace Octavius is my youngest brother.”"
+  },
+  {
+   "id": "oswald",
+   "name": "Oswald",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Oswald won the Latin prize at his preparatory school--and Dicky is good at sums.”"
+  },
+  {
+   "id": "noel",
+   "name": "Noel",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Alice and Noel are twins: they are ten, and Horace Octavius is my youngest brother.”"
+  },
+  {
+   "id": "dicky",
+   "name": "Dicky",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Then Oswald--and then Dicky.”"
+  },
+  {
+   "id": "dora",
+   "name": "Dora",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Dora is the eldest.”"
+  },
+  {
+   "id": "albert",
+   "name": "Albert",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “I said so to Albert-next-door’s uncle, who writes books, and he said, ‘Quite right, that’s what we call selection, a necessity of true art.”"
+  },
+  {
+   "id": "eliza",
+   "name": "Eliza",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “I asked Eliza what that meant, and she kindly explained to me, and I was so sorry for Father.”"
+  },
+  {
+   "id": "lord-tottenham",
+   "name": "Lord Tottenham",
+   "aliases": [
+    "Tottenham"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “‘But I know some one with a title--Lord Tottenham.’”"
+  },
+  {
+   "id": "pincher",
+   "name": "Pincher",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Pincher worked too--he is our dog and he is very good at digging.”"
+  },
+  {
+   "id": "heath",
+   "name": "Heath",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “But he goes over the Heath every day at three, and he strides along like a giant--with a black cloak like Lord Tennyson’s flying behind him, and he talks to himself like one o’clock.’”"
+  },
+  {
+   "id": "princess",
+   "name": "Princess",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “‘A Princess or a poetry book,’ said Noel sleepily.”"
+  },
+  {
+   "id": "oswald-bastable",
+   "name": "Oswald Bastable",
+   "aliases": [
+    "Bastable"
+   ],
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “That was one way we had of knowing that the fortunes of the ancient House of Bastable were really fallen.”"
+  },
+  {
+   "id": "sam-redfern",
+   "name": "Sam Redfern",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “‘Sam Redfern the Bushranger is about this part of the Bush just now.”"
+  },
+  {
+   "id": "jane",
+   "name": "Jane",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “Just before we rang the bell we heard some one inside call ‘Jane!”"
+  },
+  {
+   "id": "mrs-leslie",
+   "name": "Mrs. Leslie",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “DEAR MR EDITOR, I want you to print my poetry and pay for it, and I am a friend of Mrs Leslie’s; she is a poet too.”"
+  },
+  {
+   "id": "annie",
+   "name": "Annie",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “‘Well, Annie, I have bad news for you,’ said Mr Ridgway, as he entered the comfortable dining-room of his cabin in the Bush.”"
+  },
+  {
+   "id": "queen",
+   "name": "Queen",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “‘Oh, the Queen and the Princes, and people with titles, and people who write, or sing, or act--or do something clever or wicked.’”"
+  },
+  {
+   "id": "mr-rosenbaum",
+   "name": "Mr. Rosenbaum",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “We rang a bell and a boy opened the door and we asked for Mr Rosenbaum.”"
+  },
+  {
+   "id": "mr-mallow",
+   "name": "Mr. Mallow",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “We asked if we could see Mr Mallow.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "dicky",
+   "target": "dora",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "dora",
+   "target": "oswald",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "alice",
+   "target": "dora",
+   "weight": 52,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "dora",
+   "target": "noel",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "dicky",
+   "target": "oswald",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "alice",
+   "target": "dicky",
+   "weight": 55,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "dicky",
+   "target": "noel",
+   "weight": 56,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "alice",
+   "target": "oswald",
+   "weight": 73,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "noel",
+   "target": "oswald",
+   "weight": 54,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "alice",
+   "target": "noel",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "dora",
+   "target": "oswald-bastable",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "noel",
+   "target": "oswald-bastable",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "albert",
+   "target": "oswald",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "albert",
+   "target": "alice",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "alice",
+   "target": "pincher",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "oswald",
+   "target": "pincher",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "albert",
+   "target": "dora",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "albert",
+   "target": "dicky",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "dicky",
+   "target": "eliza",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "alice",
+   "target": "eliza",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "dicky",
+   "target": "pincher",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "eliza",
+   "target": "noel",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "dora",
+   "target": "pincher",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "noel",
+   "target": "princess",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "alice",
+   "target": "princess",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "dicky",
+   "target": "princess",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "mrs-leslie",
+   "target": "noel",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "mrs-leslie",
+   "target": "oswald",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "oswald",
+   "target": "queen",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "lord-tottenham",
+   "target": "oswald",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "eliza",
+   "target": "heath",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "oswald",
+   "target": "princess",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "dora",
+   "target": "princess",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "heath",
+   "target": "noel",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "heath",
+   "target": "oswald",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "albert",
+   "target": "noel",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "lord-tottenham",
+   "target": "noel",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "annie",
+   "target": "sam-redfern",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "lord-tottenham",
+   "target": "pincher",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "dicky",
+   "target": "lord-tottenham",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "dicky",
+   "target": "heath",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "alice",
+   "target": "lord-tottenham",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "alice",
+   "target": "heath",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "alice",
+   "target": "mr-mallow",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "dora",
+   "target": "eliza",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "eliza",
+   "target": "oswald",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "albert",
+   "target": "mrs-leslie",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

@@ -1,0 +1,2232 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL114967W",
+ "title": "The Jungle",
+ "authors": [
+  "Upton Sinclair"
+ ],
+ "firstPublished": 1791,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #140.",
+  "source": "Project Gutenberg eBook #140",
+  "url": "https://www.gutenberg.org/ebooks/140"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "Jurgis talked lightly about work, because he was young. They told him"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "In his capacity as delicatessen vender, Jokubas Szedvilas had many"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "They had bought their home. It was hard for them to realize that the"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "Jurgis and Ona were very much in love; they had waited a long time—it"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "All summer long the family toiled, and in the fall they had money"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "One of the first consequences of the discovery of the union was that"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "During the summer the packing houses were in full activity again, and"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "With one member trimming beef in a cannery, and another working in a"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "The beginning of these perplexing things was in the summer; and each"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "When Jurgis got up again he went quietly enough. He was exhausted and"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "At seven o’clock the next morning Jurgis was let out to get water to"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "Jurgis did not get out of the Bridewell quite as soon as he had"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "But a big man cannot stay drunk very long on three dollars. That was"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "Jurgis took the news in a peculiar way. He turned deadly pale, but he"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23",
+   "title": "Early in the fall Jurgis set out for Chicago again. All the joy went"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25",
+   "title": "Jurgis got up, wild with rage, but the door was shut and the great"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 27",
+   "title": "Poor Jurgis was now an outcast and a tramp once more. He was"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 28"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 29"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 30",
+   "title": "Jurgis had breakfast with Ostrinski and his family, and then he went"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 31"
+  }
+ ],
+ "characters": [
+  {
+   "id": "jurgis-rudkus",
+   "name": "Jurgis Rudkus",
+   "aliases": [
+    "Jurgis"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “She was so young—not quite sixteen—and small for her age, a mere child; and she had just been married—and married to Jurgis,[1] of all men, to Jurgis Rudkus, he with the white flower in the buttonhole of his new black…”"
+  },
+  {
+   "id": "ona",
+   "name": "Ona",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Ona was blue-eyed and fair, while Jurgis had great black eyes with beetling brows, and thick black hair that curled in waves about his ears—in short, they were one of those incongruous and impossible married couples w…”"
+  },
+  {
+   "id": "marija-berczynskas",
+   "name": "Marija Berczynskas",
+   "aliases": [
+    "Marija"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “There had been a crowd following all the way, owing to the exuberance of Marija Berczynskas.”"
+  },
+  {
+   "id": "teta-elzbieta",
+   "name": "Teta Elzbieta",
+   "aliases": [
+    "Elzbieta"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Suddenly some of the steam begins to advance, and, peering through it, you discern Aunt Elizabeth, Ona’s stepmother—Teta Elzbieta, as they call her—bearing aloft a great platter of stewed duck.”"
+  },
+  {
+   "id": "dede-antanas",
+   "name": "Dede Antanas",
+   "aliases": [
+    "Antanas"
+   ],
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “When the song is over, it is time for the speech, and old Dede Antanas rises to his feet.”"
+  },
+  {
+   "id": "mike-scully",
+   "name": "Mike Scully",
+   "aliases": [
+    "Scully"
+   ],
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “The ruler of the district was therefore the Democratic boss, a little Irishman named Mike Scully.”"
+  },
+  {
+   "id": "jokubas-szedvilas",
+   "name": "Jokubas Szedvilas",
+   "aliases": [
+    "Szedvilas",
+    "Jokubas"
+   ],
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “His speech leaves them all so tearful that one of the guests, Jokubas Szedvilas, who keeps a delicatessen store on Halsted Street, and is fat and hearty, is moved to rise and say that things may not be as bad as that,…”"
+  },
+  {
+   "id": "stanislovas",
+   "name": "Stanislovas",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “The oldest of them, little Stanislovas, was but thirteen, and small for his age at that; and while the oldest son of Szedvilas was only twelve, and had worked for over a year at Jones’s, Jurgis would have it that Stan…”"
+  },
+  {
+   "id": "freddie-jones",
+   "name": "Freddie Jones",
+   "aliases": [
+    "Master Freddie",
+    "Jones",
+    "Freddie"
+   ],
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Promptly at seven o’clock this same Monday morning they will every one of them have to be in their places at Durham’s or Brown’s or Jones’s, each in his working clothes.”"
+  },
+  {
+   "id": "jack-duane",
+   "name": "Jack Duane",
+   "aliases": [
+    "Duane"
+   ],
+   "role": "minor",
+   "firstAppearance": "s17",
+   "summary": "First mention: ““My name’s Duane—Jack Duane.”"
+  },
+  {
+   "id": "tamoszius-kuszleika",
+   "name": "Tamoszius Kuszleika",
+   "aliases": [
+    "Tamoszius"
+   ],
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Tamoszius Kuszleika is his name, and he has taught himself to play the violin by practicing all night, after working all day on the “killing beds.”"
+  },
+  {
+   "id": "jonas",
+   "name": "Jonas",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “There was also her brother Jonas, a dried-up little man who had worked upon the farm.”"
+  },
+  {
+   "id": "aniele",
+   "name": "Aniele",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “And then there was withered old poni Aniele—who was a widow, and had three children, and the rheumatism besides, and did washing for the tradespeople on Halsted Street at prices it would break your heart to hear named.”"
+  },
+  {
+   "id": "ostrinski",
+   "name": "Ostrinski",
+   "role": "minor",
+   "firstAppearance": "s29",
+   "summary": "First mention: ““There is Ostrinski—but he is a Pole—””"
+  },
+  {
+   "id": "socialism",
+   "name": "Socialism",
+   "role": "minor",
+   "firstAppearance": "s29",
+   "summary": "First mention: ““You want to know more about Socialism?”"
+  },
+  {
+   "id": "jadvyga",
+   "name": "Jadvyga",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Jadvyga likewise paints cans, but then she has an invalid mother and three little sisters to support by it, and so she does not spend her wages for shirtwaists.”"
+  },
+  {
+   "id": "connor",
+   "name": "Connor",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Worse than this, the woman lived in a bawdy-house downtown, with a coarse, red-faced Irishman named Connor, who was the boss of the loading-gang outside, and would make free with the girls as they went to and from the…”"
+  },
+  {
+   "id": "grandmother-majauszkiene",
+   "name": "Grandmother Majauszkiene",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Behind her is Kotrina, making her way cautiously, staggering beneath a similar burden; and half a minute later there appears old Grandmother Majauszkiene, with a big yellow bowl of smoking potatoes, nearly as big as h…”"
+  },
+  {
+   "id": "tommy-hinds",
+   "name": "Tommy Hinds",
+   "aliases": [
+    "Hinds"
+   ],
+   "role": "minor",
+   "firstAppearance": "s30",
+   "summary": "First mention: “So, after that, Jurgis was known to his “boss” as “Comrade Jurgis,” and in return he was expected to call him “Comrade Hinds.”"
+  },
+  {
+   "id": "harper",
+   "name": "Harper",
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: “And just at that juncture it happened that Jurgis was introduced to a man named Harper whom he recognized as the night watchman at Brown’s, who had been instrumental in making him an American citizen, the first year o…”"
+  },
+  {
+   "id": "kotrina",
+   "name": "Kotrina",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Behind her is Kotrina, making her way cautiously, staggering beneath a similar burden; and half a minute later there appears old Grandmother Majauszkiene, with a big yellow bowl of smoking potatoes, nearly as big as h…”"
+  },
+  {
+   "id": "madame-haupt",
+   "name": "Madame Haupt",
+   "role": "minor",
+   "firstAppearance": "s19",
+   "summary": "First mention: “Madame Haupt was frying pork and onions, and had her door half open to let out the smoke.”"
+  },
+  {
+   "id": "harry-adams",
+   "name": "Harry Adams",
+   "aliases": [
+    "Adams"
+   ],
+   "role": "minor",
+   "firstAppearance": "s30",
+   "summary": "First mention: “That was Amos Struver; and then there was Harry Adams, the assistant clerk, a pale, scholarly-looking man, who came from Massachusetts, of Pilgrim stock.”"
+  },
+  {
+   "id": "irishman",
+   "name": "Irishman",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “There was a delegate of the butcher-helpers’ union who came to see Jurgis to enroll him; and when Jurgis found that this meant that he would have to part with some of his money, he froze up directly, and the delegate,…”"
+  },
+  {
+   "id": "harry",
+   "name": "Harry",
+   "role": "minor",
+   "firstAppearance": "s24",
+   "summary": "First mention: “Better come home wiz me—yes, by Harry, thass the trick, you’ll come home an’ hassome supper—hic—wiz me!”"
+  },
+  {
+   "id": "republicans",
+   "name": "Republicans",
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: ““Buck” Halloran was a “Democrat,” and so Jurgis became a Democrat also; but he was not a bitter one—the Republicans were good fellows, too, and were to have a pile of money in this next campaign.”"
+  },
+  {
+   "id": "socialists",
+   "name": "Socialists",
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: “They were the Socialists; and it was a devil of a mess, said “Bush” Harper.”"
+  },
+  {
+   "id": "halloran",
+   "name": "Halloran",
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: “He was introduced by his friend to an Irishman named “Buck” Halloran, who was a political “worker” and on the inside of things.”"
+  },
+  {
+   "id": "miss-henderson",
+   "name": "Miss Henderson",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “For a long time Ona had seen that Miss Henderson, the forelady in her department, did not like her.”"
+  },
+  {
+   "id": "schliemann",
+   "name": "Schliemann",
+   "role": "minor",
+   "firstAppearance": "s31",
+   "summary": "First mention: ““Bravo!” cried Schliemann, laughing.”"
+  },
+  {
+   "id": "mikolas",
+   "name": "Mikolas",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “She wears an old white dress which she has made herself and worn to parties for the past five years; it is high-waisted—almost under her arms, and not very becoming,—but that does not trouble Jadvyga, who is dancing w…”"
+  },
+  {
+   "id": "kristoforas",
+   "name": "Kristoforas",
+   "role": "minor",
+   "firstAppearance": "s13",
+   "summary": "First mention: “During this time that Jurgis was looking for work occurred the death of little Kristoforas, one of the children of Teta Elzbieta.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "jurgis-rudkus",
+   "target": "ona",
+   "weight": 183,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "ona",
+   "target": "teta-elzbieta",
+   "weight": 71,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "kotrina",
+   "target": "ona",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "grandmother-majauszkiene",
+   "target": "ona",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "marija-berczynskas",
+   "target": "ona",
+   "weight": 75,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "kotrina",
+   "target": "teta-elzbieta",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "grandmother-majauszkiene",
+   "target": "teta-elzbieta",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "marija-berczynskas",
+   "target": "teta-elzbieta",
+   "weight": 58,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "jurgis-rudkus",
+   "target": "teta-elzbieta",
+   "weight": 115,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "jurgis-rudkus",
+   "target": "kotrina",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "grandmother-majauszkiene",
+   "target": "marija-berczynskas",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "grandmother-majauszkiene",
+   "target": "jurgis-rudkus",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "jurgis-rudkus",
+   "target": "marija-berczynskas",
+   "weight": 139,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "tamoszius-kuszleika",
+   "target": "teta-elzbieta",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "jurgis-rudkus",
+   "target": "tamoszius-kuszleika",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "ona",
+   "target": "tamoszius-kuszleika",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "marija-berczynskas",
+   "target": "tamoszius-kuszleika",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "dede-antanas",
+   "target": "jurgis-rudkus",
+   "weight": 48,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "dede-antanas",
+   "target": "jokubas-szedvilas",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "dede-antanas",
+   "target": "ona",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "jokubas-szedvilas",
+   "target": "jurgis-rudkus",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "jokubas-szedvilas",
+   "target": "ona",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "jadvyga",
+   "target": "mikolas",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "jadvyga",
+   "target": "tamoszius-kuszleika",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "jokubas-szedvilas",
+   "target": "teta-elzbieta",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "dede-antanas",
+   "target": "marija-berczynskas",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "dede-antanas",
+   "target": "teta-elzbieta",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "aniele",
+   "target": "ona",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "aniele",
+   "target": "jokubas-szedvilas",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "aniele",
+   "target": "teta-elzbieta",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "aniele",
+   "target": "jurgis-rudkus",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "freddie-jones",
+   "target": "jurgis-rudkus",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 37
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "freddie-jones",
+   "target": "marija-berczynskas",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "freddie-jones",
+   "target": "ona",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "jonas",
+   "target": "jurgis-rudkus",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "jonas",
+   "target": "ona",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "jonas",
+   "target": "teta-elzbieta",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "jokubas-szedvilas",
+   "target": "jonas",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "dede-antanas",
+   "target": "jonas",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "aniele",
+   "target": "marija-berczynskas",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "jonas",
+   "target": "marija-berczynskas",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "jonas",
+   "target": "stanislovas",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "marija-berczynskas",
+   "target": "stanislovas",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "jurgis-rudkus",
+   "target": "stanislovas",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "stanislovas",
+   "target": "teta-elzbieta",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "freddie-jones",
+   "target": "teta-elzbieta",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "ona",
+   "target": "stanislovas",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "irishman",
+   "target": "jurgis-rudkus",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "jadvyga",
+   "target": "jurgis-rudkus",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "jadvyga",
+   "target": "marija-berczynskas",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "irishman",
+   "target": "marija-berczynskas",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "jurgis-rudkus",
+   "target": "mike-scully",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "irishman",
+   "target": "mike-scully",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "irishman",
+   "target": "ona",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "mike-scully",
+   "target": "ona",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "marija-berczynskas",
+   "target": "miss-henderson",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "connor",
+   "target": "marija-berczynskas",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "jurgis-rudkus",
+   "target": "miss-henderson",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "connor",
+   "target": "jurgis-rudkus",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "miss-henderson",
+   "target": "ona",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "connor",
+   "target": "ona",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "connor",
+   "target": "miss-henderson",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "connor",
+   "target": "irishman",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "kotrina",
+   "target": "stanislovas",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "jurgis-rudkus",
+   "target": "kristoforas",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "kristoforas",
+   "target": "teta-elzbieta",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "jadvyga",
+   "target": "ona",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "jack-duane",
+   "target": "jurgis-rudkus",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 26
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "connor",
+   "target": "kotrina",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "jurgis-rudkus",
+   "target": "madame-haupt",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "madame-haupt",
+   "target": "ona",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "aniele",
+   "target": "madame-haupt",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "madame-haupt",
+   "target": "marija-berczynskas",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "harry",
+   "target": "jurgis-rudkus",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "freddie-jones",
+   "target": "harry",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "halloran",
+   "target": "jurgis-rudkus",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "halloran",
+   "target": "jack-duane",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "jurgis-rudkus",
+   "target": "republicans",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "jack-duane",
+   "target": "republicans",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "halloran",
+   "target": "republicans",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "harper",
+   "target": "jurgis-rudkus",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "harper",
+   "target": "republicans",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "harper",
+   "target": "jack-duane",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "jurgis-rudkus",
+   "target": "socialists",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 25."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "harper",
+   "target": "mike-scully",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "mike-scully",
+   "target": "republicans",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "mike-scully",
+   "target": "socialists",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "republicans",
+   "target": "socialists",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "jack-duane",
+   "target": "marija-berczynskas",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 28."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "jurgis-rudkus",
+   "target": "socialism",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 29."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "jurgis-rudkus",
+   "target": "ostrinski",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "ostrinski",
+   "target": "socialism",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "ostrinski",
+   "target": "socialists",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "socialism",
+   "target": "socialists",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "ostrinski",
+   "target": "teta-elzbieta",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "jurgis-rudkus",
+   "target": "tommy-hinds",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "socialism",
+   "target": "tommy-hinds",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "harry-adams",
+   "target": "socialism",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "harry-adams",
+   "target": "jurgis-rudkus",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "socialists",
+   "target": "tommy-hinds",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "harry-adams",
+   "target": "socialists",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "schliemann",
+   "target": "socialism",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 31."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

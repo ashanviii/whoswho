@@ -1,0 +1,1011 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL14868497W",
+ "title": "The Battle of Life",
+ "authors": [
+  "Charles Dickens",
+  "Edward Stirling",
+  "Shahid Akram"
+ ],
+ "firstPublished": 1846,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #676 (no chapter headings found, so the text is split into equal parts).",
+  "source": "Project Gutenberg eBook #676",
+  "url": "https://www.gutenberg.org/ebooks/676"
+ },
+ "sectionLabel": {
+  "singular": "Part",
+  "plural": "Parts"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Part 1",
+   "title": "about 8% through"
+  },
+  {
+   "id": "s2",
+   "label": "Part 2",
+   "title": "about 17% through"
+  },
+  {
+   "id": "s3",
+   "label": "Part 3",
+   "title": "about 25% through"
+  },
+  {
+   "id": "s4",
+   "label": "Part 4",
+   "title": "about 33% through"
+  },
+  {
+   "id": "s5",
+   "label": "Part 5",
+   "title": "about 42% through"
+  },
+  {
+   "id": "s6",
+   "label": "Part 6",
+   "title": "about 50% through"
+  },
+  {
+   "id": "s7",
+   "label": "Part 7",
+   "title": "about 58% through"
+  },
+  {
+   "id": "s8",
+   "label": "Part 8",
+   "title": "about 67% through"
+  },
+  {
+   "id": "s9",
+   "label": "Part 9",
+   "title": "about 75% through"
+  },
+  {
+   "id": "s10",
+   "label": "Part 10",
+   "title": "about 83% through"
+  },
+  {
+   "id": "s11",
+   "label": "Part 11",
+   "title": "about 92% through"
+  },
+  {
+   "id": "s12",
+   "label": "Part 12",
+   "title": "about 100% through"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-snitchey",
+   "label": "Snitchey (shared surname)"
+  },
+  {
+   "id": "g-craggs",
+   "label": "Craggs (shared surname)"
+  },
+  {
+   "id": "g-jeddler",
+   "label": "Jeddler (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "clemency-newcome",
+   "name": "Clemency Newcome",
+   "aliases": [
+    "Clemency"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “where’s Clemency?’”"
+  },
+  {
+   "id": "marion",
+   "name": "Marion",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Why, Grace, why, Marion!”"
+  },
+  {
+   "id": "alfred",
+   "name": "Alfred",
+   "aliases": [
+    "Mr. Alfred"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘Alfred sent the music,’ said his daughter Grace, adjusting a few simple flowers in her sister’s hair, with which, in her admiration of that youthful beauty, she had herself adorned it half-an-hour before, and which t…”"
+  },
+  {
+   "id": "mr-snitchey",
+   "name": "Mr. Snitchey",
+   "role": "major",
+   "group": "g-snitchey",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘Ladies!’ said Mr.”"
+  },
+  {
+   "id": "mr-craggs",
+   "name": "Mr. Craggs",
+   "role": "major",
+   "group": "g-craggs",
+   "firstAppearance": "s2",
+   "summary": "First mention: “‘It’s made a great deal too easy,’ said Mr.”"
+  },
+  {
+   "id": "benjamin-britain",
+   "name": "Benjamin Britain",
+   "aliases": [
+    "Mr. Britain",
+    "Benjamin"
+   ],
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Although this forlorn summary of his general condition may have been overcharged in an access of despondency, Benjamin Britain—sometimes called Little Britain, to distinguish him from Great; as we might say Young Engl…”"
+  },
+  {
+   "id": "michael-warden",
+   "name": "Michael Warden",
+   "aliases": [
+    "Mr. Warden",
+    "Mr. Michael Warden"
+   ],
+   "role": "major",
+   "firstAppearance": "s4",
+   "summary": "First mention: “And the name on the box being Michael Warden, Esquire, we may conclude from these premises that the name and the box were both his, and that the affairs of Michael Warden, Esquire, were in a bad way.”"
+  },
+  {
+   "id": "mrs-snitchey",
+   "name": "Mrs. Snitchey",
+   "role": "supporting",
+   "group": "g-snitchey",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Snitchey and Craggs were the best friends in the world, and had a real confidence in one another; but Mrs.”"
+  },
+  {
+   "id": "ben",
+   "name": "Ben",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “‘She hadn’t much to do, I think,’ said Ben.”"
+  },
+  {
+   "id": "mrs-craggs",
+   "name": "Mrs. Craggs",
+   "role": "supporting",
+   "group": "g-craggs",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Craggs; and Mrs.”"
+  },
+  {
+   "id": "doctor-jeddler",
+   "name": "Doctor Jeddler",
+   "role": "supporting",
+   "group": "g-jeddler",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The more actively, perhaps, because an elderly gentleman, who was no other than Doctor Jeddler himself—it was Doctor Jeddler’s house and orchard, you should know, and these were Doctor Jeddler’s daughters—came bustlin…”"
+  },
+  {
+   "id": "dr-jeddler",
+   "name": "Dr. Jeddler",
+   "role": "supporting",
+   "group": "g-jeddler",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘I couldn’t do anything, Dr.”"
+  },
+  {
+   "id": "firm",
+   "name": "Firm",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Having executed these orders, and moderately supplied the Doctor (he seemed to know that nobody else wanted anything to eat), he lingered as near the Firm as he decently could, watching with an austere eye their dispo…”"
+  },
+  {
+   "id": "aunt-martha",
+   "name": "Aunt Martha",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “I wrote to good Aunt Martha, for a refuge in her house: I did not then tell her all, but something of my story, and she freely promised it.”"
+  },
+  {
+   "id": "clem",
+   "name": "Clem",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “I’m greatly beholden to you, you know, Clem.’”"
+  },
+  {
+   "id": "paradise",
+   "name": "Paradise",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: “The feather of a Bird of Paradise in Mrs.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "alfred",
+   "target": "marion",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "clemency-newcome",
+   "target": "dr-jeddler",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "clemency-newcome",
+   "target": "marion",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "marion",
+   "target": "mr-snitchey",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "doctor-jeddler",
+   "target": "mr-snitchey",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "alfred",
+   "target": "clemency-newcome",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "alfred",
+   "target": "mr-craggs",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "marion",
+   "target": "mr-craggs",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "dr-jeddler",
+   "target": "marion",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "dr-jeddler",
+   "target": "mr-craggs",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "alfred",
+   "target": "dr-jeddler",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "dr-jeddler",
+   "target": "mr-snitchey",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "alfred",
+   "target": "mr-snitchey",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "clemency-newcome",
+   "target": "mr-snitchey",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "firm",
+   "target": "mr-craggs",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "mr-craggs",
+   "target": "mr-snitchey",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "clemency-newcome",
+   "target": "firm",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "benjamin-britain",
+   "target": "clemency-newcome",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 32
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "mr-craggs",
+   "target": "mrs-snitchey",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "mrs-craggs",
+   "target": "mrs-snitchey",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "mr-snitchey",
+   "target": "mrs-snitchey",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mr-craggs",
+   "target": "mrs-craggs",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "mr-snitchey",
+   "target": "mrs-craggs",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "michael-warden",
+   "target": "mr-snitchey",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "michael-warden",
+   "target": "mr-craggs",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "marion",
+   "target": "michael-warden",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "michael-warden",
+   "target": "mrs-craggs",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "clem",
+   "target": "clemency-newcome",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "benjamin-britain",
+   "target": "clem",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "clemency-newcome",
+   "target": "michael-warden",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "benjamin-britain",
+   "target": "marion",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "marion",
+   "target": "mrs-snitchey",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "mrs-craggs",
+   "target": "paradise",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "mrs-snitchey",
+   "target": "paradise",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "mr-craggs",
+   "target": "paradise",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "mr-snitchey",
+   "target": "paradise",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "firm",
+   "target": "mr-snitchey",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "firm",
+   "target": "mrs-craggs",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "ben",
+   "target": "benjamin-britain",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "ben",
+   "target": "clemency-newcome",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "ben",
+   "target": "clem",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "benjamin-britain",
+   "target": "michael-warden",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "ben",
+   "target": "michael-warden",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "aunt-martha",
+   "target": "marion",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "aunt-martha",
+   "target": "michael-warden",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 12."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

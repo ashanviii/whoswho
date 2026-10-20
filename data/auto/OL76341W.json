@@ -1,0 +1,1509 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL76341W",
+ "title": "The Innocence of Father Brown (Father Brown Mystery)",
+ "authors": [
+  "Gilbert Keith Chesterton"
+ ],
+ "firstPublished": 1583,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #204 (no chapter headings found, so the text is split into equal parts).",
+  "source": "Project Gutenberg eBook #204",
+  "url": "https://www.gutenberg.org/ebooks/204"
+ },
+ "sectionLabel": {
+  "singular": "Part",
+  "plural": "Parts"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Part 1",
+   "title": "about 8% through"
+  },
+  {
+   "id": "s2",
+   "label": "Part 2",
+   "title": "about 17% through"
+  },
+  {
+   "id": "s3",
+   "label": "Part 3",
+   "title": "about 25% through"
+  },
+  {
+   "id": "s4",
+   "label": "Part 4",
+   "title": "about 33% through"
+  },
+  {
+   "id": "s5",
+   "label": "Part 5",
+   "title": "about 42% through"
+  },
+  {
+   "id": "s6",
+   "label": "Part 6",
+   "title": "about 50% through"
+  },
+  {
+   "id": "s7",
+   "label": "Part 7",
+   "title": "about 58% through"
+  },
+  {
+   "id": "s8",
+   "label": "Part 8",
+   "title": "about 67% through"
+  },
+  {
+   "id": "s9",
+   "label": "Part 9",
+   "title": "about 75% through"
+  },
+  {
+   "id": "s10",
+   "label": "Part 10",
+   "title": "about 83% through"
+  },
+  {
+   "id": "s11",
+   "label": "Part 11",
+   "title": "about 92% through"
+  },
+  {
+   "id": "s12",
+   "label": "Part 12",
+   "title": "about 100% through"
+  }
+ ],
+ "characters": [
+  {
+   "id": "flambeau",
+   "name": "Flambeau",
+   "aliases": [
+    "Mr. Flambeau"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Flambeau was in England.”"
+  },
+  {
+   "id": "father-brown",
+   "name": "Father Brown",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Valentin had learned by his inquiries that morning that a Father Brown from Essex was bringing up a silver cross with sapphires, a relic of considerable value, to show some of the foreign priests at the congress.”"
+  },
+  {
+   "id": "valentin",
+   "name": "Valentin",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “For this was Valentin himself, the head of the Paris police and the most famous investigator of the world; and he was coming from Brussels to London to make the greatest arrest of the century.”"
+  },
+  {
+   "id": "wilfred-bohun",
+   "name": "Wilfred Bohun",
+   "aliases": [
+    "Wilfred",
+    "Bohun"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Wilfred Bohun was very devout, and was making his way to some austere exercises of prayer or contemplation at dawn.”"
+  },
+  {
+   "id": "angus",
+   "name": "Angus",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “His name was John Turnbull Angus.”"
+  },
+  {
+   "id": "quinton",
+   "name": "Quinton",
+   "role": "supporting",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Quinton was a genius, if a morbid one; and even his morbidity appeared more in his life than in his work.”"
+  },
+  {
+   "id": "prince-saradine",
+   "name": "Prince Saradine",
+   "aliases": [
+    "Saradine"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Blue Cross The Secret Garden The Queer Feet The Flying Stars The Invisible Man The Honour of Israel Gow The Wrong Shape The Sins of Prince Saradine The Hammer of God The Eye of Apollo The Sign of the Broken Sword…”"
+  },
+  {
+   "id": "brien",
+   "name": "Brien",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “This was Commandant O’Brien, of the French Foreign Legion.”"
+  },
+  {
+   "id": "brayne",
+   "name": "Brayne",
+   "aliases": [
+    "Mr. Brayne"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Brayne, that multi-millionaire whose colossal and even crushing endowments of small religions have occasioned so much easy sport and easier solemnity for the American and English papers.”"
+  },
+  {
+   "id": "ivan",
+   "name": "Ivan",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “These were, however, reassured by his confidential servant, Ivan, the old man with a scar, and a face almost as grey as his moustaches, who always sat at a table in the entrance hall--a hall hung with weapons.”"
+  },
+  {
+   "id": "dr-simon",
+   "name": "Dr. Simon",
+   "aliases": [
+    "Simon"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “He saw Dr.”"
+  },
+  {
+   "id": "st-clare",
+   "name": "St. Clare",
+   "role": "supporting",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Do you know anything of that great St.”"
+  },
+  {
+   "id": "isidore-smythe",
+   "name": "Isidore Smythe",
+   "aliases": [
+    "Smythe"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “His name was Isidore Smythe; and I can see him still, with his little dark face, just coming up to the counter, making a jumping kangaroo out of five cigars.”"
+  },
+  {
+   "id": "mr-paul",
+   "name": "Paul",
+   "aliases": [
+    "Mr. Paul"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "sir-leopold-fischer",
+   "name": "Fischer",
+   "aliases": [
+    "Sir Leopold",
+    "Sir Leopold Fischer"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Oh, that’s my godfather, Sir Leopold Fischer.”"
+  },
+  {
+   "id": "kalon",
+   "name": "Kalon",
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: “The fact is that a fellow calling himself Kalon (I don’t know what his name is, except that it can’t be that) has taken the flat just above me.”"
+  },
+  {
+   "id": "olivier",
+   "name": "Olivier",
+   "role": "supporting",
+   "firstAppearance": "s11",
+   "summary": "First mention: “It knows that after splendid yet careful campaigns both in India and Africa he was in command against Brazil when the great Brazilian patriot Olivier issued his ultimatum.”"
+  },
+  {
+   "id": "patrick-royce",
+   "name": "Patrick Royce",
+   "aliases": [
+    "Royce"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s12",
+   "summary": "First mention: “A few more bewildered moments brought out a big fair-bearded man, whom some travellers could salute as the dead man’s secretary, Patrick Royce, once well known in Bohemian society and even famous in the Bohemian arts.”"
+  },
+  {
+   "id": "gilder",
+   "name": "Gilder",
+   "role": "supporting",
+   "firstAppearance": "s12",
+   "summary": "First mention: “Merton’s official superior, a grizzled and capable detective named Gilder, was standing on the green bank waiting for the coroner, talking to Patrick Royce, whose big shoulders and bristly beard and hair towered above…”"
+  },
+  {
+   "id": "apollo",
+   "name": "Apollo",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Blue Cross The Secret Garden The Queer Feet The Flying Stars The Invisible Man The Honour of Israel Gow The Wrong Shape The Sins of Prince Saradine The Hammer of God The Eye of Apollo The Sign of the Broken Sword…”"
+  },
+  {
+   "id": "antonelli",
+   "name": "Antonelli",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““If you are Prince Saradine,” said the young man, “I may tell you that my name is Antonelli.””"
+  },
+  {
+   "id": "merton",
+   "name": "Merton",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “Hence, while the young detective (whose name was Merton) led the little priest across the fields to the railway, their talk was more confidential than could be expected between two total strangers.”"
+  },
+  {
+   "id": "lord-galloway",
+   "name": "Lord Galloway",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “He saw all the other pillars of the little party; he saw Lord Galloway, the English Ambassador--a choleric old man with a russet face like an apple, wearing the blue ribbon of the Garter.”"
+  },
+  {
+   "id": "commandant",
+   "name": "Commandant",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “This was Commandant O’Brien, of the French Foreign Legion.”"
+  },
+  {
+   "id": "mr-audley",
+   "name": "Mr. Audley",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Its president was Mr.”"
+  },
+  {
+   "id": "welkin",
+   "name": "Welkin",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Smythe’s first letter was simply to say that he had started out walking with Welkin to London; but Welkin was such a good walker that the little man dropped out of it, and took a rest by the roadside.”"
+  },
+  {
+   "id": "atkinson",
+   "name": "Atkinson",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: “Atkinson can’t get in, because I locked the door.””"
+  },
+  {
+   "id": "craven",
+   "name": "Craven",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: ““We must get a candle,” said Craven, suddenly.”"
+  },
+  {
+   "id": "dr-harris",
+   "name": "Dr. Harris",
+   "aliases": [
+    "Harris"
+   ],
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““In that case, Dr.”"
+  },
+  {
+   "id": "armstrong",
+   "name": "Armstrong",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “Who would kill such a cheery old chap as Armstrong?”"
+  },
+  {
+   "id": "crook",
+   "name": "Crook",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Whichever side you are on,” said the young man named Crook.”"
+  },
+  {
+   "id": "pauline",
+   "name": "Pauline",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Not only is it true that Pauline loved me, but it is also true that this very morning, before she died, she wrote at that table a will leaving me and my new church half a million.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "father-brown",
+   "target": "valentin",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "father-brown",
+   "target": "flambeau",
+   "weight": 101,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 49
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "ivan",
+   "target": "valentin",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "lord-galloway",
+   "target": "valentin",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "dr-simon",
+   "target": "valentin",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "commandant",
+   "target": "valentin",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "brien",
+   "target": "valentin",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "brayne",
+   "target": "valentin",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "dr-simon",
+   "target": "lord-galloway",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "commandant",
+   "target": "lord-galloway",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "brien",
+   "target": "lord-galloway",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "brayne",
+   "target": "lord-galloway",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "dr-simon",
+   "target": "father-brown",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "brien",
+   "target": "dr-simon",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "brayne",
+   "target": "dr-simon",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "brayne",
+   "target": "father-brown",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "brien",
+   "target": "commandant",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "brayne",
+   "target": "commandant",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "brayne",
+   "target": "brien",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "dr-simon",
+   "target": "ivan",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "brien",
+   "target": "ivan",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "commandant",
+   "target": "ivan",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "brayne",
+   "target": "ivan",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "crook",
+   "target": "sir-leopold-fischer",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "father-brown",
+   "target": "sir-leopold-fischer",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "crook",
+   "target": "father-brown",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "angus",
+   "target": "isidore-smythe",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "angus",
+   "target": "welkin",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "isidore-smythe",
+   "target": "welkin",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "flambeau",
+   "target": "welkin",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "flambeau",
+   "target": "isidore-smythe",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "angus",
+   "target": "flambeau",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "angus",
+   "target": "father-brown",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "craven",
+   "target": "flambeau",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "craven",
+   "target": "father-brown",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "father-brown",
+   "target": "quinton",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "flambeau",
+   "target": "quinton",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "atkinson",
+   "target": "father-brown",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "atkinson",
+   "target": "quinton",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "dr-harris",
+   "target": "quinton",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "atkinson",
+   "target": "flambeau",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "dr-harris",
+   "target": "flambeau",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "dr-harris",
+   "target": "father-brown",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "father-brown",
+   "target": "prince-saradine",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "flambeau",
+   "target": "prince-saradine",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "flambeau",
+   "target": "mr-paul",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 8."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "father-brown",
+   "target": "mr-paul",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "mr-paul",
+   "target": "prince-saradine",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "antonelli",
+   "target": "father-brown",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "antonelli",
+   "target": "prince-saradine",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "antonelli",
+   "target": "mr-paul",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "antonelli",
+   "target": "flambeau",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "father-brown",
+   "target": "wilfred-bohun",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "flambeau",
+   "target": "kalon",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "apollo",
+   "target": "flambeau",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "father-brown",
+   "target": "kalon",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "apollo",
+   "target": "father-brown",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "apollo",
+   "target": "kalon",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "flambeau",
+   "target": "pauline",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "kalon",
+   "target": "pauline",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "flambeau",
+   "target": "st-clare",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "father-brown",
+   "target": "st-clare",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "flambeau",
+   "target": "olivier",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "olivier",
+   "target": "st-clare",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Part 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "father-brown",
+   "target": "patrick-royce",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "merton",
+   "target": "patrick-royce",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "father-brown",
+   "target": "merton",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "armstrong",
+   "target": "father-brown",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "armstrong",
+   "target": "patrick-royce",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "armstrong",
+   "target": "merton",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "armstrong",
+   "target": "gilder",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "father-brown",
+   "target": "gilder",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "gilder",
+   "target": "merton",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "gilder",
+   "target": "patrick-royce",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 12."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

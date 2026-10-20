@@ -1,0 +1,241 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+/* Self-hosted variable fonts: Figtree for the interface, Newsreader for headings. */
+@import '@fontsource-variable/figtree';
+@import '@fontsource-variable/newsreader/wght.css';
+@import '@fontsource-variable/newsreader/wght-italic.css';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/*
+ * shadcn/ui theme tokens, tuned to Character Chart's warm "paper & ink" palette.
+ * `primary` is the oxblood brand colour; `primary-soft` and `success` are app extras.
+ */
+:root {
+  color-scheme: light;
+  --radius: 0.75rem;
+  --background: #f7f4ee;
+  --foreground: #1d1a16;
+  --card: #ffffff;
+  --card-foreground: #1d1a16;
+  --popover: #ffffff;
+  --popover-foreground: #1d1a16;
+  --primary: #8b2c3b;
+  --primary-foreground: #ffffff;
+  --primary-soft: #f5e6e8;
+  --secondary: #f1ede5;
+  --secondary-foreground: #1d1a16;
+  --muted: #f1ede5;
+  --muted-foreground: #6b645a;
+  --accent: #efe9df;
+  --accent-foreground: #1d1a16;
+  --destructive: #c2410c;
+  --success: #17803d;
+  --success-soft: #e3f4e8;
+  --border: #e4ddd1;
+  --input: #ddd5c7;
+  --ring: #8b2c3b;
+  --chart-1: #2f6fd6;
+  --chart-2: #d6336c;
+  --chart-3: #1f9254;
+  --chart-4: #e0681b;
+  --chart-5: #7b4fd8;
+}
+
+.dark {
+  color-scheme: dark;
+  --background: #14120f;
+  --foreground: #f1ece4;
+  --card: #1d1a16;
+  --card-foreground: #f1ece4;
+  --popover: #1f1c18;
+  --popover-foreground: #f1ece4;
+  --primary: #e0788a;
+  --primary-foreground: #1d1a16;
+  --primary-soft: #3a2328;
+  --secondary: #262220;
+  --secondary-foreground: #f1ece4;
+  --muted: #262220;
+  --muted-foreground: #a39b8f;
+  --accent: #2c2825;
+  --accent-foreground: #f1ece4;
+  --destructive: #f08a5d;
+  --success: #5cc985;
+  --success-soft: #1c3325;
+  --border: #36302a;
+  --input: #403933;
+  --ring: #e0788a;
+  --chart-1: #7aa7f0;
+  --chart-2: #f483a8;
+  --chart-3: #5fd18f;
+  --chart-4: #f5a05f;
+  --chart-5: #b39af2;
+}
+
+@theme inline {
+  --font-sans: 'Figtree Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Newsreader Variable', 'Iowan Old Style', Georgia, 'Times New Roman', serif;
+
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --font-heading: var(--font-serif);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary-soft: var(--primary-soft);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    -webkit-tap-highlight-color: transparent;
+    @apply font-sans;
+  }
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
+  }
+  .font-serif {
+    font-optical-sizing: auto;
+    letter-spacing: -0.01em;
+  }
+  /* Every shadcn button gets a soft press. */
+  [data-slot='button'],
+  [data-slot='toggle'],
+  [data-slot='toggle-group-item'] {
+    transition-property: color, background-color, border-color, box-shadow, opacity, transform;
+    transition-duration: 160ms;
+    transition-timing-function: var(--ease-out-soft);
+  }
+  [data-slot='button']:active:not(:disabled),
+  [data-slot='toggle']:active:not(:disabled),
+  [data-slot='toggle-group-item']:active:not(:disabled) {
+    transform: scale(0.96);
+  }
+  ::selection {
+    background: var(--primary-soft);
+  }
+  button:not(:disabled),
+  [role='button']:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
+/* ── Micro-animations ─────────────────────────────────────────── */
+
+/* Fade-and-rise entrance. Set --i on siblings for a gentle stagger. */
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.reveal {
+  animation: reveal 0.6s var(--ease-out-soft) both;
+  animation-delay: calc(min(var(--i, 0), 14) * 40ms);
+}
+
+/* Route change. */
+@keyframes page-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.page-in {
+  animation: page-in 0.4s var(--ease-out-soft) both;
+}
+
+/* Small pop for markers and counters. */
+@keyframes pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+.pop {
+  animation: pop 0.45s var(--ease-spring) both;
+}
+
+/* Text that changes value (counts, chapter names) cross-fades in. */
+@keyframes tick {
+  from {
+    opacity: 0;
+    transform: translateY(40%);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.tick {
+  display: inline-block;
+  animation: tick 0.35s var(--ease-out-soft) both;
+}
+
+/* Soft halo used on the spoiler shield when it changes. */
+@keyframes halo {
+  0% {
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--primary) 45%, transparent);
+  }
+  100% {
+    box-shadow: 0 0 0 10px transparent;
+  }
+}
+.halo {
+  animation: halo 0.8s ease-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

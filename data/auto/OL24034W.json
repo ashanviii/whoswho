@@ -1,0 +1,1228 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL24034W",
+ "title": "Treasure Island",
+ "authors": [
+  "Robert Louis Stevenson"
+ ],
+ "firstPublished": 1880,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #120.",
+  "source": "Project Gutenberg eBook #120",
+  "url": "https://www.gutenberg.org/ebooks/120"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "The Old Sea-dog at the Admiral Benbow",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "Black Dog Appears and Disappears",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "The Black Spot",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "The Sea-chest",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "The Last of the Blind Man",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "The Captain’s Papers",
+   "part": "Part ONE"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "I Go to Bristol",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "At the Sign of the Spy-glass",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "Powder and Arms",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "The Voyage",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "What I Heard in the Apple-Barrel",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "Council of War",
+   "part": "Part TWO"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "How I Began My Shore Adventure",
+   "part": "Part THREE"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "The First Blow",
+   "part": "Part THREE"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "The Man of the Island",
+   "part": "Part THREE"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "Narrative Continued by the Doctor: How the Ship Was Abandoned",
+   "part": "Part FOUR"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 27",
+   "title": "Narrative Continued by the Doctor: The Jolly-boat’s Last Trip",
+   "part": "Part FOUR"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "Narrative Continued by the Doctor: End of the First Day’s Fighting",
+   "part": "Part FOUR"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "Narrative Resumed by Jim Hawkins: The Garrison in the Stockade",
+   "part": "Part FOUR"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "Silver’s Embassy",
+   "part": "Part FOUR"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21",
+   "title": "The Attack",
+   "part": "Part FOUR"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "How I Began My Sea Adventure",
+   "part": "Part FIVE"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23",
+   "title": "The Ebb-tide Runs",
+   "part": "Part FIVE"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24",
+   "title": "The Cruise of the Coracle",
+   "part": "Part FIVE"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25",
+   "title": "I Strike the Jolly Roger",
+   "part": "Part FIVE"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26",
+   "title": "Israel Hands",
+   "part": "Part FIVE"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 28",
+   "title": "In the Enemy’s Camp",
+   "part": "Part SIX"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 29",
+   "title": "The Black Spot Again",
+   "part": "Part SIX"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 30",
+   "title": "On Parole",
+   "part": "Part SIX"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 31",
+   "title": "The Treasure-hunt--Flint’s Pointer",
+   "part": "Part SIX"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 32",
+   "title": "The Treasure-hunt--The Voice Among the Trees",
+   "part": "Part SIX"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 33",
+   "title": "The Fall of a Chieftain",
+   "part": "Part SIX"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 34",
+   "title": "And Last",
+   "part": "Part SIX"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-livesey",
+   "label": "Livesey (shared surname)"
+  },
+  {
+   "id": "g-silver",
+   "label": "Silver (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "jim",
+   "name": "Jim",
+   "role": "protagonist",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““Jim,” says he, “rum”; and as he spoke, he reeled a little, and caught himself with one hand against the wall.”"
+  },
+  {
+   "id": "dr-livesey",
+   "name": "Dr. Livesey",
+   "aliases": [
+    "Livesey"
+   ],
+   "role": "protagonist",
+   "group": "g-livesey",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Squire Trelawney, Dr.”"
+  },
+  {
+   "id": "flint",
+   "name": "Flint",
+   "aliases": [
+    "Captain Flint"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s3",
+   "summary": "First mention: “I seen old Flint in the corner there, behind you; as plain as print, I seen him; and if I get the horrors, I’m a man that has lived rough, and I’ll raise Cain.”"
+  },
+  {
+   "id": "jim-hawkins",
+   "name": "Jim Hawkins",
+   "aliases": [
+    "Hawkins"
+   ],
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Well, then, Hawkins, what in fortune were they after?”"
+  },
+  {
+   "id": "ben-gunn",
+   "name": "Ben Gunn",
+   "role": "major",
+   "firstAppearance": "s15",
+   "summary": "First mention: ““Ben Gunn,” he answered, and his voice sounded hoarse and awkward, like a rusty lock.”"
+  },
+  {
+   "id": "george-merry",
+   "name": "George Merry",
+   "aliases": [
+    "George",
+    "Merry"
+   ],
+   "role": "major",
+   "firstAppearance": "s28",
+   "summary": "First mention: ““Thanky, George,” replied the sea-cook.”"
+  },
+  {
+   "id": "gray",
+   "name": "Gray",
+   "role": "major",
+   "firstAppearance": "s16",
+   "summary": "First mention: ““Gray,” resumed Mr.”"
+  },
+  {
+   "id": "tom-morgan",
+   "name": "Tom Morgan",
+   "aliases": [
+    "Morgan"
+   ],
+   "role": "major",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Was that you drinking with him, Morgan?”"
+  },
+  {
+   "id": "captain-smollett",
+   "name": "Captain Smollett",
+   "role": "major",
+   "firstAppearance": "s9",
+   "summary": "First mention: ““Captain Smollett, sir, axing to speak with you,” said he.”"
+  },
+  {
+   "id": "hunter",
+   "name": "Hunter",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “We’ll take Redruth, Joyce, and Hunter.”"
+  },
+  {
+   "id": "dick",
+   "name": "Dick",
+   "role": "major",
+   "firstAppearance": "s11",
+   "summary": "First mention: ““Dick’s square,” said Silver.”"
+  },
+  {
+   "id": "bill",
+   "name": "Bill",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““Is this here table for my mate Bill?”"
+  },
+  {
+   "id": "pew",
+   "name": "Pew",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Pew,” he cried, “they’ve been before us.”"
+  },
+  {
+   "id": "mr-trelawney",
+   "name": "Mr. Trelawney",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Long before it was done, Mr.”"
+  },
+  {
+   "id": "tom-redruth",
+   "name": "Tom Redruth",
+   "aliases": [
+    "Redruth"
+   ],
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “We’ll take Redruth, Joyce, and Hunter.”"
+  },
+  {
+   "id": "admiral-benbow",
+   "name": "Admiral Benbow",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Old Sea-dog at the Admiral Benbow”"
+  },
+  {
+   "id": "joyce",
+   "name": "Joyce",
+   "role": "supporting",
+   "firstAppearance": "s6",
+   "summary": "First mention: “We’ll take Redruth, Joyce, and Hunter.”"
+  },
+  {
+   "id": "billy-bones",
+   "name": "Billy Bones",
+   "aliases": [
+    "Billy"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““Black Dog as ever was, come for to see his old shipmate Billy, at the Admiral Benbow inn.”"
+  },
+  {
+   "id": "john-silver",
+   "name": "John Silver",
+   "role": "supporting",
+   "group": "g-silver",
+   "firstAppearance": "s8",
+   "summary": "First mention: “When I had done breakfasting the squire gave me a note addressed to John Silver, at the sign of the Spy-glass, and told me I should easily find the place by following the line of the docks and keeping a bright lookout…”"
+  },
+  {
+   "id": "israel",
+   "name": "Israel",
+   "role": "supporting",
+   "firstAppearance": "s11",
+   "summary": "First mention: ““Israel,” said Silver, “your head ain’t much account, nor ever was.”"
+  },
+  {
+   "id": "mr-dance",
+   "name": "Mr. Dance",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "mr-arrow",
+   "name": "Mr. Arrow",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “At last, however, we got alongside, and were met and saluted as we stepped aboard by the mate, Mr.”"
+  },
+  {
+   "id": "mr-hands",
+   "name": "Mr. Hands",
+   "role": "supporting",
+   "firstAppearance": "s16",
+   "summary": "First mention: ““Mr.”"
+  },
+  {
+   "id": "brien",
+   "name": "Brien",
+   "role": "supporting",
+   "firstAppearance": "s25",
+   "summary": "First mention: ““This man,” he began, nodding feebly at the corpse “--O’Brien were his name, a rank Irelander--this man and me got the canvas on her, meaning for to sail her back.”"
+  },
+  {
+   "id": "ben",
+   "name": "Ben",
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Ben, run and help Harry.”"
+  },
+  {
+   "id": "doctor-livesey",
+   "name": "Doctor Livesey",
+   "role": "minor",
+   "group": "g-livesey",
+   "firstAppearance": "s2",
+   "summary": "First mention: “It was a happy relief for us when the door opened and Doctor Livesey came in, on his visit to my father.”"
+  },
+  {
+   "id": "anderson",
+   "name": "Anderson",
+   "role": "minor",
+   "firstAppearance": "s13",
+   "summary": "First mention: “Anderson was in command of my boat, and instead of keeping the crew in order, he grumbled as loud as the worst.”"
+  },
+  {
+   "id": "cap-n-silver",
+   "name": "Cap’n Silver",
+   "role": "minor",
+   "group": "g-silver",
+   "firstAppearance": "s20",
+   "summary": "First mention: ““Cap’n Silver, sir, to come on board and make terms,” he shouted.”"
+  },
+  {
+   "id": "darby",
+   "name": "Darby",
+   "role": "minor",
+   "firstAppearance": "s31",
+   "summary": "First mention: ““Darby M’Graw,” it wailed--for that is the word that best describes the sound--“Darby M’Graw!”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "admiral-benbow",
+   "target": "dr-livesey",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "flint",
+   "target": "jim",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "dr-livesey",
+   "target": "jim",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "dr-livesey",
+   "target": "mr-dance",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "jim-hawkins",
+   "target": "mr-dance",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "dr-livesey",
+   "target": "jim-hawkins",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "dr-livesey",
+   "target": "mr-trelawney",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "jim",
+   "target": "jim-hawkins",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "dr-livesey",
+   "target": "tom-redruth",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "jim-hawkins",
+   "target": "tom-redruth",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "jim-hawkins",
+   "target": "joyce",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "hunter",
+   "target": "jim-hawkins",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "joyce",
+   "target": "tom-redruth",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "hunter",
+   "target": "tom-redruth",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "hunter",
+   "target": "joyce",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "captain-smollett",
+   "target": "dr-livesey",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "jim-hawkins",
+   "target": "mr-trelawney",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "captain-smollett",
+   "target": "mr-trelawney",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "flint",
+   "target": "pew",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "dick",
+   "target": "israel",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "flint",
+   "target": "israel",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "dick",
+   "target": "flint",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "billy-bones",
+   "target": "flint",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "ben-gunn",
+   "target": "jim",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "captain-smollett",
+   "target": "joyce",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "captain-smollett",
+   "target": "hunter",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "captain-smollett",
+   "target": "tom-redruth",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "gray",
+   "target": "tom-redruth",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "gray",
+   "target": "hunter",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "ben",
+   "target": "ben-gunn",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "gray",
+   "target": "joyce",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "ben-gunn",
+   "target": "captain-smollett",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "gray",
+   "target": "mr-trelawney",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "hunter",
+   "target": "mr-trelawney",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "ben-gunn",
+   "target": "gray",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 22."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "brien",
+   "target": "mr-hands",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "brien",
+   "target": "jim",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "brien",
+   "target": "israel",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "billy-bones",
+   "target": "tom-morgan",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 28."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "george-merry",
+   "target": "john-silver",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "anderson",
+   "target": "george-merry",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "george-merry",
+   "target": "tom-morgan",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "flint",
+   "target": "george-merry",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "dick",
+   "target": "tom-morgan",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "flint",
+   "target": "tom-morgan",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 31."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "ben-gunn",
+   "target": "flint",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 32."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "ben-gunn",
+   "target": "tom-morgan",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 32."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "ben-gunn",
+   "target": "dick",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 32."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "ben-gunn",
+   "target": "george-merry",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 32."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

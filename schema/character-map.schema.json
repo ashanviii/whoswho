@@ -1,0 +1,150 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://character-chart.example/schema/character-map.schema.json",
+  "title": "Character map (schemaVersion 1)",
+  "description": "Characters and relationships of one Open Library work, with section-level spoiler annotations. Referential integrity (ids, reading order) is enforced by `npm run data:validate`, which goes beyond what JSON Schema can express.",
+  "type": "object",
+  "required": ["schemaVersion", "workId", "title", "authors", "edition", "sectionLabel", "sections", "characters", "relationships", "provenance", "license"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "schemaVersion": { "const": 1 },
+    "workId": { "type": "string", "pattern": "^OL\\d+W$", "description": "Open Library work id" },
+    "title": { "type": "string", "minLength": 1 },
+    "authors": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "firstPublished": { "type": "integer" },
+    "edition": {
+      "type": "object",
+      "required": ["description"],
+      "additionalProperties": false,
+      "properties": {
+        "description": { "type": "string", "description": "Which text the section numbering follows" },
+        "source": { "type": "string" },
+        "url": { "type": "string", "format": "uri" }
+      }
+    },
+    "sectionLabel": {
+      "type": "object",
+      "required": ["singular", "plural"],
+      "additionalProperties": false,
+      "properties": { "singular": { "type": "string" }, "plural": { "type": "string" } }
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Reading units in reading order",
+      "items": {
+        "type": "object",
+        "required": ["id", "label"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "$ref": "#/$defs/id" },
+          "label": { "type": "string" },
+          "title": { "type": "string" },
+          "part": { "type": "string" }
+        }
+      }
+    },
+    "groups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label"],
+        "additionalProperties": false,
+        "properties": { "id": { "$ref": "#/$defs/id" }, "label": { "type": "string" } }
+      }
+    },
+    "characters": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "role", "firstAppearance", "summary"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "$ref": "#/$defs/id" },
+          "name": { "type": "string" },
+          "aliases": { "type": "array", "items": { "type": "string" } },
+          "role": { "enum": ["protagonist", "major", "supporting", "minor"] },
+          "group": { "$ref": "#/$defs/id" },
+          "firstAppearance": { "$ref": "#/$defs/id", "description": "Section id where the character first appears or is named" },
+          "summary": { "type": "string", "description": "Spoiler-safe as of firstAppearance" },
+          "summarySource": {
+            "type": "object",
+            "required": ["name", "url", "license"],
+            "additionalProperties": false,
+            "properties": { "name": { "type": "string" }, "url": { "type": "string", "format": "uri" }, "license": { "type": "string" } }
+          },
+          "notes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["at", "text"],
+              "additionalProperties": false,
+              "properties": { "at": { "$ref": "#/$defs/id" }, "text": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "source", "target", "phases"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "$ref": "#/$defs/id" },
+          "weight": { "type": "integer", "minimum": 1 },
+          "source": { "$ref": "#/$defs/id" },
+          "target": { "$ref": "#/$defs/id" },
+          "phases": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["at", "type", "label"],
+              "additionalProperties": false,
+              "properties": {
+                "at": { "$ref": "#/$defs/id" },
+                "type": { "enum": ["family", "romance", "friendship", "rivalry", "alliance", "mentorship", "service", "acquaintance", "together"] },
+                "label": { "type": "string" },
+                "sourceRole": { "type": "string" },
+                "targetRole": { "type": "string" },
+                "note": { "type": "string" },
+                "weight": { "type": "integer", "minimum": 1 }
+              }
+            }
+          }
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["method", "contributors", "createdAt", "updatedAt", "review"],
+      "additionalProperties": false,
+      "properties": {
+        "kind": { "enum": ["curated", "auto-text", "wikidata"] },
+        "method": { "type": "string" },
+        "contributors": { "type": "array", "items": { "type": "string" } },
+        "createdAt": { "type": "string", "format": "date" },
+        "updatedAt": { "type": "string", "format": "date" },
+        "review": {
+          "type": "object",
+          "required": ["status"],
+          "additionalProperties": false,
+          "properties": {
+            "status": { "enum": ["unreviewed", "reviewed"] },
+            "reviewedBy": { "type": "array", "items": { "type": "string" } },
+            "reviewedAt": { "type": "string", "format": "date" },
+            "notes": { "type": "string" }
+          }
+        }
+      }
+    },
+    "license": { "type": "string" }
+  },
+  "$defs": {
+    "id": { "type": "string", "pattern": "^[A-Za-z0-9_.-]+$" }
+  }
+}

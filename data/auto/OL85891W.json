@@ -1,0 +1,1336 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL85891W",
+ "title": "The Jewel of Seven Stars",
+ "authors": [
+  "Bram Stoker"
+ ],
+ "firstPublished": 1902,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #3781.",
+  "source": "Project Gutenberg eBook #3781",
+  "url": "https://www.gutenberg.org/ebooks/3781"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "A Summons in the Night"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "Strange Instructions"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "The Watchers"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "The Second Attempt"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "More Strange Instructions"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "Suspicions"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "The Traveller’s Loss"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "The Finding of the Lamps"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "The Need of Knowledge"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "The Valley of the Sorcerer"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "A Queen’s Tomb"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "The Magic Coffer"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "Awaking From the Trance"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "The Birth-Mark"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "The Purpose of Queen Tera"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "The Cavern"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "Doubts and Fears"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "The Lesson of the “Ka”"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "The Great Experiment"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-trelawny",
+   "label": "Trelawny (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "margaret",
+   "name": "Margaret",
+   "role": "protagonist",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Once more, my dear Margaret, let me impress on you the need for observation and just reasoning to conclusions, howsoever strange.”"
+  },
+  {
+   "id": "mr-trelawny",
+   "name": "Mr. Trelawny",
+   "role": "protagonist",
+   "group": "g-trelawny",
+   "firstAppearance": "s1",
+   "summary": "First mention: “We ascended to Mr.”"
+  },
+  {
+   "id": "miss-trelawny",
+   "name": "Miss Trelawny",
+   "role": "protagonist",
+   "group": "g-trelawny",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Miss Trelawny, sir, sent a man to tell us to get out a carriage at once; and when we was ready she come herself and gave me the letter and told Morgan—the coachman, sir—to fly.”"
+  },
+  {
+   "id": "doctor-winchester",
+   "name": "Doctor Winchester",
+   "aliases": [
+    "Winchester"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Miss Trelawny introduced us: “Doctor Winchester, Mr.”"
+  },
+  {
+   "id": "mr-corbeck",
+   "name": "Mr. Corbeck",
+   "aliases": [
+    "Corbeck"
+   ],
+   "role": "major",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““My name is Corbeck.”"
+  },
+  {
+   "id": "silvio",
+   "name": "Silvio",
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “That is my Silvio.”"
+  },
+  {
+   "id": "queen",
+   "name": "Queen",
+   "role": "major",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Then they told me that a great Sorcerer in ancient days—‘millions of millions of years’ was the term they used—a King or a Queen, they could not say which, was buried there.”"
+  },
+  {
+   "id": "sergeant-daw",
+   "name": "Sergeant Daw",
+   "aliases": [
+    "Daw"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “So I sent a note asking to have Sergeant Daw sent at once.”"
+  },
+  {
+   "id": "mrs-grant",
+   "name": "Mrs. Grant",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““We lifted Father on a sofa; and the housekeeper, Mrs.”"
+  },
+  {
+   "id": "queen-tera",
+   "name": "Queen Tera",
+   "role": "major",
+   "firstAppearance": "s11",
+   "summary": "First mention: ““Queen Tera was of the Eleventh, or Theban Dynasty of Egyptian Kings which held sway between the twenty-ninth and twenty-fifth centuries before Christ.”"
+  },
+  {
+   "id": "mr-ross",
+   "name": "Mr. Ross",
+   "aliases": [
+    "Ross"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “You see, Mr.”"
+  },
+  {
+   "id": "van-huyn",
+   "name": "Van Huyn",
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: “It was of little wonder that I had connected it with such a narrative; for if my eyes told me truly, here, in this room with me, was the very hand of which the traveller Van Huyn had written.”"
+  },
+  {
+   "id": "malcolm-ross",
+   "name": "Malcolm Ross",
+   "aliases": [
+    "Malcolm"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s13",
+   "summary": "First mention: ““My name, as I told you, is Ross, Malcolm Ross.”"
+  },
+  {
+   "id": "mr-marvin",
+   "name": "Mr. Marvin",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “My solicitors, Marvin & Jewkes, of 27B Lincoln’s Inn, have full instructions in case of my death; and Mr.”"
+  },
+  {
+   "id": "superintendent",
+   "name": "Superintendent",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “So I said to the Superintendent:”"
+  },
+  {
+   "id": "hathor",
+   "name": "Hathor",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “one on each, the seven forms of Hathor.”"
+  },
+  {
+   "id": "kennedy",
+   "name": "Kennedy",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Nurse Kennedy, on the other hand, was rather under than over a woman’s average height.”"
+  },
+  {
+   "id": "egyptians",
+   "name": "Egyptians",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “The Arabs were not bound by the same superstitious fears as the Egyptians; Sheik Abu Some and his following were willing to take a part in the explorations.”"
+  },
+  {
+   "id": "sir-james-frere",
+   "name": "Sir James Frere",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““He is Sir James Frere.”"
+  },
+  {
+   "id": "princess",
+   "name": "Princess",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: ““No wonder the house is like a King’s house, when the mistress is a Princess!””"
+  },
+  {
+   "id": "sheik",
+   "name": "Sheik",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “I would fain have gone with my companions to seek him and give him sepulture of some kind; but the Sheik made light of it, and sent two of his men to see to it whilst we went on our way.”"
+  },
+  {
+   "id": "chapel",
+   "name": "Chapel",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Passing within the portico, we found two of the architectural features of a rock tomb, the Chamber, or Chapel, and the Pit, all complete as Van Huyn had noticed, though in his day the names given to these parts by the…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "miss-trelawny",
+   "target": "superintendent",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "mr-ross",
+   "target": "superintendent",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "miss-trelawny",
+   "target": "mr-trelawny",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "doctor-winchester",
+   "target": "mr-trelawny",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "mr-ross",
+   "target": "mr-trelawny",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "doctor-winchester",
+   "target": "miss-trelawny",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "miss-trelawny",
+   "target": "mr-ross",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "doctor-winchester",
+   "target": "mr-ross",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "miss-trelawny",
+   "target": "mrs-grant",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "miss-trelawny",
+   "target": "sergeant-daw",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "doctor-winchester",
+   "target": "sergeant-daw",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "miss-trelawny",
+   "target": "mr-marvin",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "kennedy",
+   "target": "miss-trelawny",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "doctor-winchester",
+   "target": "kennedy",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "kennedy",
+   "target": "sergeant-daw",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "doctor-winchester",
+   "target": "mrs-grant",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "mrs-grant",
+   "target": "sergeant-daw",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "miss-trelawny",
+   "target": "silvio",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "doctor-winchester",
+   "target": "silvio",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "mr-trelawny",
+   "target": "sergeant-daw",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "kennedy",
+   "target": "mr-trelawny",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mr-trelawny",
+   "target": "mrs-grant",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "margaret",
+   "target": "silvio",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "doctor-winchester",
+   "target": "sir-james-frere",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "miss-trelawny",
+   "target": "sir-james-frere",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "mr-trelawny",
+   "target": "silvio",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "miss-trelawny",
+   "target": "mr-corbeck",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "mr-corbeck",
+   "target": "mr-ross",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "mr-corbeck",
+   "target": "mr-trelawny",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "margaret",
+   "target": "mr-ross",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "mr-corbeck",
+   "target": "sergeant-daw",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "margaret",
+   "target": "mr-corbeck",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "margaret",
+   "target": "mr-trelawny",
+   "weight": 75,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "mr-corbeck",
+   "target": "mrs-grant",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "doctor-winchester",
+   "target": "mr-corbeck",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "mr-corbeck",
+   "target": "silvio",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "egyptians",
+   "target": "queen",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "doctor-winchester",
+   "target": "margaret",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "mr-trelawny",
+   "target": "van-huyn",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "mr-trelawny",
+   "target": "sheik",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "egyptians",
+   "target": "mr-trelawny",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "egyptians",
+   "target": "hathor",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "queen",
+   "target": "queen-tera",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "mr-trelawny",
+   "target": "queen-tera",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "malcolm-ross",
+   "target": "mr-trelawny",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "mr-trelawny",
+   "target": "queen",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "malcolm-ross",
+   "target": "mr-ross",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "malcolm-ross",
+   "target": "queen",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "malcolm-ross",
+   "target": "margaret",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "margaret",
+   "target": "queen",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "malcolm-ross",
+   "target": "miss-trelawny",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "doctor-winchester",
+   "target": "queen",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "egyptians",
+   "target": "queen-tera",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "mr-corbeck",
+   "target": "queen",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "queen-tera",
+   "target": "van-huyn",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "queen",
+   "target": "van-huyn",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "margaret",
+   "target": "queen-tera",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "margaret",
+   "target": "van-huyn",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

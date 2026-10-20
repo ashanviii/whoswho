@@ -1,0 +1,3142 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL66544W",
+ "title": "Persuasion",
+ "authors": [
+  "Jane Austen"
+ ],
+ "firstPublished": 1789,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #105.",
+  "source": "Project Gutenberg eBook #105",
+  "url": "https://www.gutenberg.org/ebooks/105"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "“I must take leave to observe, Sir Walter,” said Mr Shepherd one"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "_He_ was not Mr Wentworth, the former curate of Monkford, however"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "On the morning appointed for Admiral and Mrs Croft’s seeing Kellynch"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "Anne had not wanted this visit to Uppercross, to learn that a removal"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "A very few days more, and Captain Wentworth was known to be at"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "The time now approached for Lady Russell’s return: the day was even"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "Anne and Henrietta, finding themselves the earliest of the party the"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "The remainder of Anne’s time at Uppercross, comprehending only two"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "Though Charles and Mary had remained at Lyme much longer after Mr and"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "Sir Walter had taken a very good house in Camden Place, a lofty"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "While Sir Walter and Elizabeth were assiduously pushing their good"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "It was the beginning of February; and Anne, having been a month in"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "Sir Walter, his two daughters, and Mrs Clay, were the earliest of all"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-wentworth",
+   "label": "Wentworth (shared surname)"
+  },
+  {
+   "id": "g-musgrove",
+   "label": "Musgrove (shared surname)"
+  },
+  {
+   "id": "g-croft",
+   "label": "Croft (shared surname)"
+  },
+  {
+   "id": "g-harville",
+   "label": "Harville (shared surname)"
+  },
+  {
+   "id": "g-wallis",
+   "label": "Wallis (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "anne-elliot",
+   "name": "Anne Elliot",
+   "aliases": [
+    "Anne",
+    "Miss Anne",
+    "Miss Anne Elliot"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “of South Park, in the county of Gloucester, by which lady (who died 1800) he has issue Elizabeth, born June 1, 1785; Anne, born August 9, 1787; a still-born son, November 5, 1789; Mary, born November 20, 1791.””"
+  },
+  {
+   "id": "captain-wentworth",
+   "name": "Captain Wentworth",
+   "role": "major",
+   "group": "g-wentworth",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Captain Wentworth had no fortune.”"
+  },
+  {
+   "id": "mr-elliot",
+   "name": "Mr. Elliot",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “He had not been known to them as a boy; but soon after Lady Elliot’s death, Sir Walter had sought the acquaintance, and though his overtures had not been met with any warmth, he had persevered in seeking it, making al…”"
+  },
+  {
+   "id": "lady-russell",
+   "name": "Lady Russell",
+   "aliases": [
+    "Russell"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “That Lady Russell, of steady age and character, and extremely well provided for, should have no thought of a second marriage, needs no apology to the public, which is rather apt to be unreasonably discontented when a…”"
+  },
+  {
+   "id": "sir-walter-elliot",
+   "name": "Sir Walter",
+   "aliases": [
+    "Sir Walter Elliot",
+    "Walter"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Sir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the Baronetage; there he found occupation for an idle hour, and consolation in a distressed one;…”"
+  },
+  {
+   "id": "mary",
+   "name": "Mary",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “of South Park, in the county of Gloucester, by which lady (who died 1800) he has issue Elizabeth, born June 1, 1785; Anne, born August 9, 1787; a still-born son, November 5, 1789; Mary, born November 20, 1791.””"
+  },
+  {
+   "id": "louisa",
+   "name": "Louisa",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “So, there was I, crowded into the back seat with Henrietta and Louisa; and I think it very likely that my illness to-day may be owing to it.””"
+  },
+  {
+   "id": "elizabeth",
+   "name": "Elizabeth",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Walter Elliot, born March 1, 1760, married, July 15, 1784, Elizabeth, daughter of James Stevenson, Esq.”"
+  },
+  {
+   "id": "henrietta",
+   "name": "Henrietta",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “So, there was I, crowded into the back seat with Henrietta and Louisa; and I think it very likely that my illness to-day may be owing to it.””"
+  },
+  {
+   "id": "mrs-clay",
+   "name": "Mrs. Clay",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “She had been repeatedly very earnest in trying to get Anne included in the visit to London, sensibly open to all the injustice and all the discredit of the selfish arrangements which shut her out, and on many lesser o…”"
+  },
+  {
+   "id": "mrs-musgrove",
+   "name": "Mrs. Musgrove",
+   "role": "supporting",
+   "group": "g-musgrove",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Mr and Mrs Musgrove took me, and we were so crowded!”"
+  },
+  {
+   "id": "mrs-smith",
+   "name": "Mrs. Smith",
+   "role": "supporting",
+   "firstAppearance": "s17",
+   "summary": "First mention: “Miss Hamilton, now Mrs Smith, had shewn her kindness in one of those periods of her life when it had been most valuable.”"
+  },
+  {
+   "id": "captain-benwick",
+   "name": "Captain Benwick",
+   "role": "supporting",
+   "firstAppearance": "s11",
+   "summary": "First mention: “They were by no means tired of wondering and admiring; and not even Louisa seemed to feel that they had parted with Captain Wentworth long, when they saw him coming after them, with three companions, all well known al…”"
+  },
+  {
+   "id": "admiral-croft",
+   "name": "Admiral Croft",
+   "aliases": [
+    "Admiral"
+   ],
+   "role": "supporting",
+   "group": "g-croft",
+   "firstAppearance": "s3",
+   "summary": "First mention: “It seemed as if Mr Shepherd, in this anxiety to bespeak Sir Walter’s good will towards a naval officer as tenant, had been gifted with foresight; for the very first application for the house was from an Admiral Croft,…”"
+  },
+  {
+   "id": "miss-elliot",
+   "name": "Miss Elliot",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “It was so with Elizabeth, still the same handsome Miss Elliot that she had begun to be thirteen years ago, and Sir Walter might be excused, therefore, in forgetting her age, or, at least, be deemed only half a fool, f…”"
+  },
+  {
+   "id": "mrs-croft",
+   "name": "Mrs. Croft",
+   "aliases": [
+    "Croft"
+   ],
+   "role": "supporting",
+   "group": "g-croft",
+   "firstAppearance": "s3",
+   "summary": "First mention: “He had seen Mrs Croft, too; she was at Taunton with the admiral, and had been present almost all the time they were talking the matter over.”"
+  },
+  {
+   "id": "captain-harville",
+   "name": "Captain Harville",
+   "role": "supporting",
+   "group": "g-harville",
+   "firstAppearance": "s11",
+   "summary": "First mention: “A letter from his friend, Captain Harville, having found him out at last, had brought intelligence of Captain Harville’s being settled with his family at Lyme for the winter; of their being therefore, quite unknowingl…”"
+  },
+  {
+   "id": "charles-hayter",
+   "name": "Charles Hayter",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “It was unvarying, warm admiration everywhere; but this intimate footing was not more than established, when a certain Charles Hayter returned among them, to be a good deal disturbed by it, and to think Captain Wentwor…”"
+  },
+  {
+   "id": "mr-shepherd",
+   "name": "Mr. Shepherd",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “She knew, that when he now took up the Baronetage, it was to drive the heavy bills of his tradespeople, and the unwelcome hints of Mr Shepherd, his agent, from his thoughts.”"
+  },
+  {
+   "id": "mrs-harville",
+   "name": "Mrs. Harville",
+   "role": "minor",
+   "group": "g-harville",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““But you, yourself, brought Mrs Harville, her sister, her cousin, and three children, round from Portsmouth to Plymouth.”"
+  },
+  {
+   "id": "lady-dalrymple",
+   "name": "Lady Dalrymple",
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “She had hoped better things from their high ideas of their own situation in life, and was reduced to form a wish which she had never foreseen; a wish that they had more pride; for “our cousins Lady Dalrymple and Miss…”"
+  },
+  {
+   "id": "colonel-wallis",
+   "name": "Colonel Wallis",
+   "role": "minor",
+   "group": "g-wallis",
+   "firstAppearance": "s15",
+   "summary": "First mention: “This was an article not to be entered on by himself; but a very intimate friend of his, a Colonel Wallis, a highly respectable man, perfectly the gentleman, (and not an ill-looking man, Sir Walter added), who was livi…”"
+  },
+  {
+   "id": "mr-musgrove",
+   "name": "Mr. Musgrove",
+   "role": "minor",
+   "group": "g-musgrove",
+   "firstAppearance": "s5",
+   "summary": "First mention: “I have not seen one of them to-day, except Mr Musgrove, who just stopped and spoke through the window, but without getting off his horse; and though I told him how ill I was, not one of them have been near me.”"
+  },
+  {
+   "id": "miss-musgroves",
+   "name": "Miss Musgroves",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “It did not happen to suit the Miss Musgroves, I suppose, and they never put themselves out of their way.””"
+  },
+  {
+   "id": "frederick-wentworth",
+   "name": "Frederick Wentworth",
+   "aliases": [
+    "Frederick"
+   ],
+   "role": "minor",
+   "group": "g-wentworth",
+   "firstAppearance": "s4",
+   "summary": "First mention: “No one had ever come within the Kellynch circle, who could bear a comparison with Frederick Wentworth, as he stood in her memory.”"
+  },
+  {
+   "id": "louisa-musgrove",
+   "name": "Louisa Musgrove",
+   "role": "minor",
+   "group": "g-musgrove",
+   "firstAppearance": "s13",
+   "summary": "First mention: “Their concerns had been sunk under those of Uppercross; and when Lady Russell reverted to their former hopes and fears, and spoke her satisfaction in the house in Camden Place, which had been taken, and her regret tha…”"
+  },
+  {
+   "id": "lady-elliot",
+   "name": "Lady Elliot",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Lady Elliot had been an excellent woman, sensible and amiable; whose judgement and conduct, if they might be pardoned the youthful infatuation which made her Lady Elliot, had never required indulgence afterwards.”"
+  },
+  {
+   "id": "mrs-wallis",
+   "name": "Mrs. Wallis",
+   "role": "minor",
+   "group": "g-wallis",
+   "firstAppearance": "s15",
+   "summary": "First mention: “and Mr Elliot so anxious that he should!” and there was a Mrs Wallis, at present known only to them by description, as she was in daily expectation of her confinement; but Mr Elliot spoke of her as “a most charming wo…”"
+  },
+  {
+   "id": "mrs-charles-musgrove",
+   "name": "Mrs. Charles Musgrove",
+   "aliases": [
+    "Mrs. Charles"
+   ],
+   "role": "minor",
+   "group": "g-musgrove",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Mary had acquired a little artificial importance, by becoming Mrs Charles Musgrove; but Anne, with an elegance of mind and sweetness of character, which must have placed her high with any people of real understanding,…”"
+  },
+  {
+   "id": "miss-carteret",
+   "name": "Miss Carteret",
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “She had hoped better things from their high ideas of their own situation in life, and was reduced to form a wish which she had never foreseen; a wish that they had more pride; for “our cousins Lady Dalrymple and Miss…”"
+  },
+  {
+   "id": "charles-musgrove",
+   "name": "Charles Musgrove",
+   "role": "minor",
+   "group": "g-musgrove",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Precisely such had the paragraph originally stood from the printer’s hands; but Sir Walter had improved it by adding, for the information of himself and his family, these words, after the date of Mary’s birth—“Married…”"
+  },
+  {
+   "id": "dr-shirley",
+   "name": "Dr. Shirley",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “It had then seemed the object nearest her heart, that Dr Shirley, the rector, who for more than forty years had been zealously discharging all the duties of his office, but was now growing too infirm for many of them,…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "anne-elliot",
+   "target": "elizabeth",
+   "weight": 77,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "elizabeth",
+   "target": "mary",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "elizabeth",
+   "target": "sir-walter-elliot",
+   "weight": 54,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "anne-elliot",
+   "target": "mary",
+   "weight": 133,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "anne-elliot",
+   "target": "sir-walter-elliot",
+   "weight": 90,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "anne-elliot",
+   "target": "charles-musgrove",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "charles-musgrove",
+   "target": "mary",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "charles-musgrove",
+   "target": "sir-walter-elliot",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "lady-elliot",
+   "target": "sir-walter-elliot",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "lady-russell",
+   "target": "sir-walter-elliot",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "mrs-charles-musgrove",
+   "target": "sir-walter-elliot",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "lady-elliot",
+   "target": "lady-russell",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "anne-elliot",
+   "target": "lady-elliot",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "elizabeth",
+   "target": "lady-russell",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "lady-russell",
+   "target": "mary",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "anne-elliot",
+   "target": "lady-russell",
+   "weight": 123,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "elizabeth",
+   "target": "mrs-charles-musgrove",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "mary",
+   "target": "mrs-charles-musgrove",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "anne-elliot",
+   "target": "mrs-charles-musgrove",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "anne-elliot",
+   "target": "miss-elliot",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "elizabeth",
+   "target": "miss-elliot",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "miss-elliot",
+   "target": "sir-walter-elliot",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "lady-elliot",
+   "target": "mr-elliot",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "mr-elliot",
+   "target": "sir-walter-elliot",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "elizabeth",
+   "target": "mr-elliot",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "mr-shepherd",
+   "target": "sir-walter-elliot",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "elizabeth",
+   "target": "mr-shepherd",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "anne-elliot",
+   "target": "mr-shepherd",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "lady-russell",
+   "target": "mr-shepherd",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "lady-russell",
+   "target": "mrs-clay",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "mrs-clay",
+   "target": "sir-walter-elliot",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "elizabeth",
+   "target": "mrs-clay",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "anne-elliot",
+   "target": "mrs-clay",
+   "weight": 60,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "admiral-croft",
+   "target": "sir-walter-elliot",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "admiral-croft",
+   "target": "mr-shepherd",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "admiral-croft",
+   "target": "anne-elliot",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "admiral-croft",
+   "target": "mrs-croft",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "miss-elliot",
+   "target": "mrs-croft",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "anne-elliot",
+   "target": "captain-wentworth",
+   "weight": 187,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "captain-wentworth",
+   "target": "lady-russell",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "anne-elliot",
+   "target": "frederick-wentworth",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "charles-musgrove",
+   "target": "lady-russell",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "admiral-croft",
+   "target": "captain-wentworth",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "captain-wentworth",
+   "target": "mrs-croft",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "captain-wentworth",
+   "target": "mary",
+   "weight": 58,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "lady-russell",
+   "target": "mrs-croft",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "anne-elliot",
+   "target": "mrs-croft",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "anne-elliot",
+   "target": "mr-musgrove",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "anne-elliot",
+   "target": "miss-musgroves",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "mr-musgrove",
+   "target": "mrs-musgrove",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "henrietta",
+   "target": "mrs-musgrove",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "louisa",
+   "target": "mrs-musgrove",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "anne-elliot",
+   "target": "mrs-musgrove",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "mary",
+   "target": "mrs-musgrove",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "henrietta",
+   "target": "mr-musgrove",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "mary",
+   "target": "mr-musgrove",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "henrietta",
+   "target": "louisa",
+   "weight": 54,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "anne-elliot",
+   "target": "henrietta",
+   "weight": 70,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "henrietta",
+   "target": "mary",
+   "weight": 55,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "anne-elliot",
+   "target": "louisa",
+   "weight": 89,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 52
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "louisa",
+   "target": "mary",
+   "weight": 47,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "miss-musgroves",
+   "target": "mrs-musgrove",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "henrietta",
+   "target": "miss-musgroves",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "mary",
+   "target": "miss-musgroves",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "frederick-wentworth",
+   "target": "mrs-croft",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "admiral-croft",
+   "target": "frederick-wentworth",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "captain-wentworth",
+   "target": "louisa",
+   "weight": 63,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "captain-wentworth",
+   "target": "mr-musgrove",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "captain-wentworth",
+   "target": "charles-musgrove",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "captain-wentworth",
+   "target": "mrs-musgrove",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "captain-wentworth",
+   "target": "mrs-charles-musgrove",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "captain-wentworth",
+   "target": "miss-musgroves",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "captain-wentworth",
+   "target": "henrietta",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "captain-wentworth",
+   "target": "frederick-wentworth",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "captain-wentworth",
+   "target": "miss-elliot",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "captain-wentworth",
+   "target": "charles-hayter",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "charles-hayter",
+   "target": "henrietta",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "anne-elliot",
+   "target": "charles-hayter",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "charles-hayter",
+   "target": "louisa",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "charles-hayter",
+   "target": "mary",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "captain-wentworth",
+   "target": "dr-shirley",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "dr-shirley",
+   "target": "henrietta",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "dr-shirley",
+   "target": "louisa",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "anne-elliot",
+   "target": "dr-shirley",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "captain-harville",
+   "target": "captain-wentworth",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "captain-harville",
+   "target": "louisa",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "anne-elliot",
+   "target": "captain-harville",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "captain-wentworth",
+   "target": "mrs-harville",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "captain-benwick",
+   "target": "captain-wentworth",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "louisa",
+   "target": "mrs-harville",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "captain-benwick",
+   "target": "louisa",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "captain-benwick",
+   "target": "mrs-harville",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "captain-harville",
+   "target": "mrs-harville",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "captain-benwick",
+   "target": "captain-harville",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "anne-elliot",
+   "target": "captain-benwick",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "anne-elliot",
+   "target": "mrs-harville",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "captain-wentworth",
+   "target": "mr-elliot",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "mary",
+   "target": "mr-elliot",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "anne-elliot",
+   "target": "mr-elliot",
+   "weight": 129,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "captain-benwick",
+   "target": "mary",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "mrs-harville",
+   "target": "mrs-musgrove",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "lady-russell",
+   "target": "louisa-musgrove",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "anne-elliot",
+   "target": "louisa-musgrove",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "captain-benwick",
+   "target": "louisa-musgrove",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "captain-wentworth",
+   "target": "louisa-musgrove",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "louisa",
+   "target": "louisa-musgrove",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "lady-russell",
+   "target": "mr-elliot",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "colonel-wallis",
+   "target": "sir-walter-elliot",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "colonel-wallis",
+   "target": "mr-elliot",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r110",
+   "source": "colonel-wallis",
+   "target": "elizabeth",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r111",
+   "source": "mr-elliot",
+   "target": "mrs-clay",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r112",
+   "source": "anne-elliot",
+   "target": "colonel-wallis",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r113",
+   "source": "anne-elliot",
+   "target": "mrs-wallis",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r114",
+   "source": "mr-elliot",
+   "target": "mrs-wallis",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r115",
+   "source": "mrs-wallis",
+   "target": "sir-walter-elliot",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r116",
+   "source": "colonel-wallis",
+   "target": "mrs-wallis",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r117",
+   "source": "colonel-wallis",
+   "target": "mrs-clay",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r118",
+   "source": "mrs-clay",
+   "target": "mrs-wallis",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r119",
+   "source": "miss-elliot",
+   "target": "mr-elliot",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r120",
+   "source": "anne-elliot",
+   "target": "lady-dalrymple",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r121",
+   "source": "anne-elliot",
+   "target": "miss-carteret",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r122",
+   "source": "lady-dalrymple",
+   "target": "miss-carteret",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r123",
+   "source": "lady-dalrymple",
+   "target": "sir-walter-elliot",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r124",
+   "source": "lady-dalrymple",
+   "target": "mr-elliot",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r125",
+   "source": "lady-russell",
+   "target": "miss-carteret",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r126",
+   "source": "miss-carteret",
+   "target": "mr-elliot",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r127",
+   "source": "mrs-smith",
+   "target": "sir-walter-elliot",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r128",
+   "source": "anne-elliot",
+   "target": "mrs-smith",
+   "weight": 67,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 59
+    }
+   ]
+  },
+  {
+   "id": "r129",
+   "source": "miss-elliot",
+   "target": "mrs-smith",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r130",
+   "source": "mr-elliot",
+   "target": "mrs-smith",
+   "weight": 46,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r131",
+   "source": "captain-benwick",
+   "target": "frederick-wentworth",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r132",
+   "source": "captain-wentworth",
+   "target": "lady-dalrymple",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 19."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r133",
+   "source": "captain-wentworth",
+   "target": "miss-carteret",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r134",
+   "source": "captain-wentworth",
+   "target": "mrs-smith",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 19."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r135",
+   "source": "lady-elliot",
+   "target": "mrs-smith",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

@@ -1,0 +1,2605 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL1253285W",
+ "title": "The Scarlet Pimpernel",
+ "authors": [
+  "Emma Orczy"
+ ],
+ "firstPublished": 1900,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #60.",
+  "source": "Project Gutenberg eBook #60",
+  "url": "https://www.gutenberg.org/ebooks/60"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "PARIS: SEPTEMBER, 1792"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "“THE FISHERMAN’S REST”"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "THE REFUGEES"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "THE LEAGUE OF THE SCARLET PIMPERNEL"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "MARGUERITE"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "AN EXQUISITE OF ’92"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "THE SECRET ORCHARD"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "THE ACCREDITED AGENT"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "THE OUTRAGE"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "IN THE OPERA BOX"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "LORD GRENVILLE’S BALL"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "THE SCRAP OF PAPER"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "DOUBT"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "RICHMOND"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "FAREWELL"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "THE MYSTERIOUS DEVICE"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "THE SCARLET PIMPERNEL"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "THE FRIEND"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21",
+   "title": "SUSPENSE"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "CALAIS"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23",
+   "title": "HOPE"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24",
+   "title": "THE DEATH-TRAP"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25",
+   "title": "THE EAGLE AND THE FOX"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26",
+   "title": "THE JEW"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 27",
+   "title": "ON THE TRACK"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 28",
+   "title": "THE PÈRE BLANCHARD’S HUT"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 29",
+   "title": "TRAPPED"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 30",
+   "title": "THE SCHOONER"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 31",
+   "title": "THE ESCAPE"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-blakeney",
+   "label": "Blakeney (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "chauvelin",
+   "name": "Chauvelin",
+   "role": "protagonist",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““Chauvelin!”"
+  },
+  {
+   "id": "marguerite",
+   "name": "Marguerite",
+   "role": "protagonist",
+   "firstAppearance": "s4",
+   "summary": "First mention: “I was very fond of Marguerite, and I cannot believe that she ever did anything so wicked.””"
+  },
+  {
+   "id": "sir-andrew-ffoulkes",
+   "name": "Sir Andrew",
+   "aliases": [
+    "Sir Andrew Ffoulkes",
+    "Ffoulkes"
+   ],
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Dukes and duchesses from over the water yonder, whom the young lord and his friend, Sir Andrew Ffoulkes, and other young noblemen have helped out of the clutches of them murderin’ devils.””"
+  },
+  {
+   "id": "percy-blakeney",
+   "name": "Percy Blakeney",
+   "aliases": [
+    "Sir Percy",
+    "Sir Percy Blakeney"
+   ],
+   "role": "major",
+   "group": "g-blakeney",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Well, my lord, Sir Percy Blakeney and his lady will be here presently, but they ain’t a-goin’ to stay—””"
+  },
+  {
+   "id": "scarlet-pimpernel",
+   "name": "Scarlet Pimpernel",
+   "aliases": [
+    "Pimpernel"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The paper always contained a brief notice that the band of meddlesome Englishmen were at work, and it was always signed with a device drawn in red—a little star-shaped flower, which we in England call the Scarlet Pimp…”"
+  },
+  {
+   "id": "armand",
+   "name": "Armand",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: ““That’s right,” said Blakeney, “then Armand can join us in the merry bowl.”"
+  },
+  {
+   "id": "mr-jellyband",
+   "name": "Mr. Jellyband",
+   "aliases": [
+    "Jellyband"
+   ],
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Jellyband, landlord of “The Fisherman’s Rest” at Dover, was a prosperous man, was of course clear to the most casual observer.”"
+  },
+  {
+   "id": "percy",
+   "name": "Percy",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Percy had just been born when the late Lady Blakeney fell a prey to the terrible malady which in those days was looked upon as hopelessly incurable and nothing short of a curse of God upon the entire family.”"
+  },
+  {
+   "id": "englishman",
+   "name": "Englishman",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Everyone felt that Bibot would be that man, and Bibot allowed that belief to take firm root in everybody’s mind; and so, day after day, people came to watch him at the West Gate, so as to be present when he laid hands…”"
+  },
+  {
+   "id": "desgas",
+   "name": "Desgas",
+   "role": "supporting",
+   "firstAppearance": "s24",
+   "summary": "First mention: “In him Marguerite at once recognised Desgas, Chauvelin’s secretary and confidential factotum, whom she had often seen in Paris, in the days gone by.”"
+  },
+  {
+   "id": "lady-blakeney",
+   "name": "Lady Blakeney",
+   "role": "supporting",
+   "group": "g-blakeney",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Lady Blakeney?”"
+  },
+  {
+   "id": "jew",
+   "name": "Jew",
+   "role": "supporting",
+   "firstAppearance": "s25",
+   "summary": "First mention: ““I was saying,” said Blakeney, going up to Chauvelin, by the fire, “that the Jew in Piccadilly has sold me better snuff this time than I have ever tasted.”"
+  },
+  {
+   "id": "suzanne",
+   "name": "Suzanne",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Suzanne,” came in stern, commanding accents from the rigid Comtesse.”"
+  },
+  {
+   "id": "lord-antony-dewhurst",
+   "name": "Lord Antony",
+   "aliases": [
+    "Lord Antony Dewhurst"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““I think I see’d my Lord Antony’s horse out in the yard, father,” she said, as she ran across the coffee-room.”"
+  },
+  {
+   "id": "sally",
+   "name": "Sally",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “In the kitchen Sally was extremely busy—saucepans and frying-pans were standing in rows on the gigantic hearth, the huge stock-pot stood in a corner, and the jack turned with slow deliberation, and presented alternate…”"
+  },
+  {
+   "id": "comtesse",
+   "name": "Comtesse",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Straight ahead, Comtesse, the door on your right,” said a pleasant voice outside.”"
+  },
+  {
+   "id": "brogard",
+   "name": "Brogard",
+   "role": "supporting",
+   "firstAppearance": "s22",
+   "summary": "First mention: “The landlord of the “Chat Gris”—by name, Brogard—had taken no further notice of his guests; he concluded that presently they would order supper, and in the meanwhile it was not for a free citizen to show deference, or…”"
+  },
+  {
+   "id": "lord-grenville",
+   "name": "Lord Grenville",
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Lord Grenville—Foreign Secretary of State—paid him marked, though frigid deference.”"
+  },
+  {
+   "id": "prince",
+   "name": "Prince",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Sir Percy Blakeney, her husband, is a very wealthy man, of high social position, the intimate friend of the Prince of Wales .”"
+  },
+  {
+   "id": "bibot",
+   "name": "Bibot",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Bibot would look at his prey as a cat looks upon the mouse, play with him, sometimes for quite a quarter of an hour, pretend to be hoodwinked by the disguise, by the wigs and other bits of theatrical make-up which hid…”"
+  },
+  {
+   "id": "marguerite-blakeney",
+   "name": "Marguerite Blakeney",
+   "role": "supporting",
+   "group": "g-blakeney",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Marguerite Blakeney was then scarcely five-and-twenty, and her beauty was at its most dazzling stage.”"
+  },
+  {
+   "id": "lord-tony",
+   "name": "Lord Tony",
+   "aliases": [
+    "Tony"
+   ],
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““Get on with my Lord Tony’s supper, for, if it ain’t the best we can do, and ’e not satisfied, see what you’ll get, that’s all.””"
+  },
+  {
+   "id": "vicomte",
+   "name": "Vicomte",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Harry Waite’s friends had at last succeeded in taking him out of the room, for his temper was growing more and more violent under the Vicomte’s obvious admiration for Sally.”"
+  },
+  {
+   "id": "reuben-goldstein",
+   "name": "Reuben Goldstein",
+   "aliases": [
+    "Reuben"
+   ],
+   "role": "minor",
+   "firstAppearance": "s26",
+   "summary": "First mention: ““A tall Englishman had a long conversation about three-quarters of an hour ago with a Jew, Reuben by name, who lives not ten paces from here.””"
+  },
+  {
+   "id": "mr-hempseed",
+   "name": "Mr. Hempseed",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Jellyband?” asked Mr.”"
+  },
+  {
+   "id": "marquis-de-st",
+   "name": "Marquis de St",
+   "aliases": [
+    "Marquis"
+   ],
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “She denounced the Marquis de St.”"
+  },
+  {
+   "id": "st-just",
+   "name": "St. Just",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “In France, St.”"
+  },
+  {
+   "id": "englishmen",
+   "name": "Englishmen",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “It was asserted that these escapes were organised by a band of Englishmen, whose daring seemed to be unparalleled, and who, from sheer desire to meddle in what did not concern them, spent their spare time in snatching…”"
+  },
+  {
+   "id": "comte-de-tournay",
+   "name": "Comte de Tournay",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “le Comte de Tournay de Basserive,” said Lord Antony, merrily.”"
+  },
+  {
+   "id": "blanchard",
+   "name": "Blanchard",
+   "role": "minor",
+   "firstAppearance": "s14",
+   "summary": "First mention: “The papers found at Dover upon the person of Sir Andrew Ffoulkes speak of the neighbourhood of Calais, of an inn which I know well, called ‘Le Chat Gris,’ of a lonely place somewhere on the coast—the Père Blanchard’s…”"
+  },
+  {
+   "id": "frenchman",
+   "name": "Frenchman",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “She looked a very dainty picture of English rural life, and no wonder that the susceptible young Frenchman could scarce take his eyes off her pretty face.”"
+  },
+  {
+   "id": "grospierre",
+   "name": "Grospierre",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Bah!” he said to his trusted corporal, “Citoyen Grospierre was a fool!”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "englishmen",
+   "target": "scarlet-pimpernel",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "englishman",
+   "target": "englishmen",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "bibot",
+   "target": "scarlet-pimpernel",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "englishman",
+   "target": "scarlet-pimpernel",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "bibot",
+   "target": "englishman",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "bibot",
+   "target": "grospierre",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "englishman",
+   "target": "grospierre",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "mr-jellyband",
+   "target": "sally",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "mr-hempseed",
+   "target": "mr-jellyband",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "englishmen",
+   "target": "mr-jellyband",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "englishmen",
+   "target": "mr-hempseed",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "mr-hempseed",
+   "target": "sally",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "lord-tony",
+   "target": "mr-jellyband",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "mr-jellyband",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "sally",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "lord-tony",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "lord-antony-dewhurst",
+   "target": "mr-jellyband",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "lord-antony-dewhurst",
+   "target": "sally",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "lady-blakeney",
+   "target": "percy-blakeney",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "comtesse",
+   "target": "lord-antony-dewhurst",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "comtesse",
+   "target": "sally",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "lord-antony-dewhurst",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "lord-antony-dewhurst",
+   "target": "vicomte",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "comtesse",
+   "target": "vicomte",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "comtesse",
+   "target": "suzanne",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "comtesse",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "sir-andrew-ffoulkes",
+   "target": "suzanne",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "englishman",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "scarlet-pimpernel",
+   "target": "suzanne",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "scarlet-pimpernel",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "comtesse",
+   "target": "marquis-de-st",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "marquis-de-st",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "comtesse",
+   "target": "lady-blakeney",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "lady-blakeney",
+   "target": "suzanne",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "lady-blakeney",
+   "target": "marguerite",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "marguerite",
+   "target": "suzanne",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "marguerite",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 110,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "marguerite",
+   "target": "marquis-de-st",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "marquis-de-st",
+   "target": "percy-blakeney",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "percy-blakeney",
+   "target": "prince",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "lady-blakeney",
+   "target": "prince",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "percy-blakeney",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "lady-blakeney",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "marguerite-blakeney",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "sir-andrew-ffoulkes",
+   "target": "st-just",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "marguerite",
+   "target": "marguerite-blakeney",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "comtesse",
+   "target": "marguerite",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "marguerite",
+   "target": "sally",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "lord-tony",
+   "target": "percy-blakeney",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "lord-tony",
+   "target": "marguerite",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "marguerite",
+   "target": "percy-blakeney",
+   "weight": 75,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "marguerite",
+   "target": "vicomte",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "percy-blakeney",
+   "target": "vicomte",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "lord-tony",
+   "target": "vicomte",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "frenchman",
+   "target": "percy-blakeney",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "frenchman",
+   "target": "vicomte",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "englishman",
+   "target": "frenchman",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "marguerite",
+   "target": "percy",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "frenchman",
+   "target": "marguerite",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "englishman",
+   "target": "marguerite",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "marguerite",
+   "target": "mr-jellyband",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "armand",
+   "target": "marguerite",
+   "weight": 46,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "marguerite-blakeney",
+   "target": "percy-blakeney",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "armand",
+   "target": "percy",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "armand",
+   "target": "marquis-de-st",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "armand",
+   "target": "st-just",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "marguerite",
+   "target": "st-just",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "chauvelin",
+   "target": "marguerite",
+   "weight": 137,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "armand",
+   "target": "chauvelin",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "chauvelin",
+   "target": "percy-blakeney",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "chauvelin",
+   "target": "scarlet-pimpernel",
+   "weight": 83,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "chauvelin",
+   "target": "prince",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "armand",
+   "target": "scarlet-pimpernel",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "marguerite",
+   "target": "scarlet-pimpernel",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "chauvelin",
+   "target": "lady-blakeney",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "chauvelin",
+   "target": "englishman",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "chauvelin",
+   "target": "marguerite-blakeney",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "comte-de-tournay",
+   "target": "scarlet-pimpernel",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "scarlet-pimpernel",
+   "target": "st-just",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "chauvelin",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "marguerite-blakeney",
+   "target": "scarlet-pimpernel",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "lord-grenville",
+   "target": "prince",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "lord-grenville",
+   "target": "scarlet-pimpernel",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "lady-blakeney",
+   "target": "lord-grenville",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "lord-grenville",
+   "target": "percy-blakeney",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "chauvelin",
+   "target": "lord-grenville",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "chauvelin",
+   "target": "st-just",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "armand",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "chauvelin",
+   "target": "frenchman",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "marguerite",
+   "target": "prince",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "comte-de-tournay",
+   "target": "suzanne",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "armand",
+   "target": "comte-de-tournay",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "chauvelin",
+   "target": "comte-de-tournay",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "blanchard",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "blanchard",
+   "target": "englishman",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "blanchard",
+   "target": "scarlet-pimpernel",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "percy",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "chauvelin",
+   "target": "percy",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "percy",
+   "target": "scarlet-pimpernel",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "comte-de-tournay",
+   "target": "percy",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "brogard",
+   "target": "sir-andrew-ffoulkes",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "brogard",
+   "target": "marguerite",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 22."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "brogard",
+   "target": "englishman",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 22."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "brogard",
+   "target": "chauvelin",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 23."
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "blanchard",
+   "target": "chauvelin",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 23."
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "brogard",
+   "target": "percy-blakeney",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 23."
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "chauvelin",
+   "target": "desgas",
+   "weight": 65,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 24."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "desgas",
+   "target": "marguerite",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 24."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "desgas",
+   "target": "scarlet-pimpernel",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 24."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r110",
+   "source": "desgas",
+   "target": "englishman",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 25."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r111",
+   "source": "chauvelin",
+   "target": "jew",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 25."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r112",
+   "source": "blanchard",
+   "target": "desgas",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r113",
+   "source": "englishman",
+   "target": "jew",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r114",
+   "source": "englishman",
+   "target": "reuben-goldstein",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r115",
+   "source": "jew",
+   "target": "reuben-goldstein",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r116",
+   "source": "chauvelin",
+   "target": "reuben-goldstein",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r117",
+   "source": "desgas",
+   "target": "reuben-goldstein",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r118",
+   "source": "reuben-goldstein",
+   "target": "scarlet-pimpernel",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r119",
+   "source": "desgas",
+   "target": "jew",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r120",
+   "source": "jew",
+   "target": "marguerite",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

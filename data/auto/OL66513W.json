@@ -1,0 +1,3754 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL66513W",
+ "title": "Emma",
+ "authors": [
+  "Jane Austen"
+ ],
+ "firstPublished": 1815,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #158.",
+  "source": "Project Gutenberg eBook #158",
+  "url": "https://www.gutenberg.org/ebooks/158"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "part": "Volume I"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "part": "Volume I"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "part": "Volume I"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "Harriet Smith’s intimacy at Hartfield was soon a settled thing. Quick",
+   "part": "Volume I"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "part": "Volume I"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "Emma could not feel a doubt of having given Harriet’s fancy a proper",
+   "part": "Volume I"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "The very day of Mr. Elton’s going to London produced a fresh occasion",
+   "part": "Volume I"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "part": "Volume I"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "Mr. Knightley might quarrel with her, but Emma could not quarrel with",
+   "part": "Volume I"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "Though now the middle of December, there had yet been no weather to",
+   "part": "Volume I"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "part": "Volume I"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "Mr. Knightley was to dine with them—rather against the inclination of",
+   "part": "Volume I"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "There could hardly be a happier creature in the world than Mrs. John",
+   "part": "Volume I"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "Some change of countenance was necessary for each gentleman as they",
+   "part": "Volume I"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "part": "Volume I"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "part": "Volume I"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "Mr. and Mrs. John Knightley were not detained long at Hartfield. The",
+   "part": "Volume I"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "part": "Volume I"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 1",
+   "part": "Volume II"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 2",
+   "title": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest",
+   "part": "Volume II"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 3",
+   "title": "Emma could not forgive her;—but as neither provocation nor resentment",
+   "part": "Volume II"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 4",
+   "title": "Human nature is so well disposed towards those who are in interesting",
+   "part": "Volume II"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 5",
+   "title": "Small heart had Harriet for visiting. Only half an hour before her",
+   "part": "Volume II"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 6",
+   "part": "Volume II"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 7",
+   "title": "Emma’s very good opinion of Frank Churchill was a little shaken the",
+   "part": "Volume II"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 8",
+   "title": "Frank Churchill came back again; and if he kept his father’s dinner",
+   "part": "Volume II"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 9",
+   "part": "Volume II"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 10",
+   "title": "The appearance of the little sitting-room as they entered, was",
+   "part": "Volume II"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 11",
+   "part": "Volume II"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 12",
+   "part": "Volume II"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 13",
+   "title": "Emma continued to entertain no doubt of her being in love. Her ideas",
+   "part": "Volume II"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 14",
+   "title": "Mrs. Elton was first seen at church: but though devotion might be",
+   "part": "Volume II"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 15",
+   "part": "Volume II"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 16",
+   "title": "Every body in and about Highbury who had ever visited Mr. Elton, was",
+   "part": "Volume II"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 17",
+   "title": "When the ladies returned to the drawing-room after dinner, Emma found",
+   "part": "Volume II"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 18",
+   "title": "“I hope I shall soon have the pleasure of introducing my son to you,”",
+   "part": "Volume II"
+  },
+  {
+   "id": "s37",
+   "label": "Ch. 1",
+   "title": "A very little quiet reflection was enough to satisfy Emma as to the",
+   "part": "Volume III"
+  },
+  {
+   "id": "s38",
+   "label": "Ch. 2",
+   "part": "Volume III"
+  },
+  {
+   "id": "s39",
+   "label": "Ch. 3",
+   "title": "This little explanation with Mr. Knightley gave Emma considerable",
+   "part": "Volume III"
+  },
+  {
+   "id": "s40",
+   "label": "Ch. 4",
+   "part": "Volume III"
+  },
+  {
+   "id": "s41",
+   "label": "Ch. 5",
+   "title": "In this state of schemes, and hopes, and connivance, June opened upon",
+   "part": "Volume III"
+  },
+  {
+   "id": "s42",
+   "label": "Ch. 6",
+   "part": "Volume III"
+  },
+  {
+   "id": "s43",
+   "label": "Ch. 7",
+   "title": "They had a very fine day for Box Hill; and all the other outward",
+   "part": "Volume III"
+  },
+  {
+   "id": "s44",
+   "label": "Ch. 8",
+   "part": "Volume III"
+  },
+  {
+   "id": "s45",
+   "label": "Ch. 9",
+   "part": "Volume III"
+  },
+  {
+   "id": "s46",
+   "label": "Ch. 10",
+   "title": "One morning, about ten days after Mrs. Churchill’s decease, Emma was",
+   "part": "Volume III"
+  },
+  {
+   "id": "s47",
+   "label": "Ch. 11",
+   "title": "“Harriet, poor Harriet!”—Those were the words; in them lay the",
+   "part": "Volume III"
+  },
+  {
+   "id": "s48",
+   "label": "Ch. 12",
+   "title": "Till now that she was threatened with its loss, Emma had never known",
+   "part": "Volume III"
+  },
+  {
+   "id": "s49",
+   "label": "Ch. 13",
+   "part": "Volume III"
+  },
+  {
+   "id": "s50",
+   "label": "Ch. 14",
+   "part": "Volume III"
+  },
+  {
+   "id": "s51",
+   "label": "Ch. 15",
+   "title": "This letter must make its way to Emma’s feelings. She was obliged, in",
+   "part": "Volume III"
+  },
+  {
+   "id": "s52",
+   "label": "Ch. 16",
+   "title": "It was a very great relief to Emma to find Harriet as desirous as",
+   "part": "Volume III"
+  },
+  {
+   "id": "s53",
+   "label": "Ch. 17",
+   "title": "Mrs. Weston’s friends were all made happy by her safety; and if the",
+   "part": "Volume III"
+  },
+  {
+   "id": "s54",
+   "label": "Ch. 18",
+   "part": "Volume III"
+  },
+  {
+   "id": "s55",
+   "label": "Ch. 19",
+   "title": "If Emma had still, at intervals, an anxious feeling for Harriet, a",
+   "part": "Volume III"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-woodhouse",
+   "label": "Woodhouse (shared surname)"
+  },
+  {
+   "id": "g-knightley",
+   "label": "Knightley (shared surname)"
+  },
+  {
+   "id": "g-churchill",
+   "label": "Churchill (shared surname)"
+  },
+  {
+   "id": "g-bates",
+   "label": "Bates (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "emma-woodhouse",
+   "name": "Emma Woodhouse",
+   "aliases": [
+    "Emma"
+   ],
+   "role": "protagonist",
+   "group": "g-woodhouse",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little t…”"
+  },
+  {
+   "id": "harriet-smith",
+   "name": "Harriet Smith",
+   "aliases": [
+    "Harriet",
+    "Miss Smith"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Goddard, requesting, in most respectful terms, to be allowed to bring Miss Smith with her; a most welcome request: for Miss Smith was a girl of seventeen, whom Emma knew very well by sight, and had long felt an intere…”"
+  },
+  {
+   "id": "jane-fairfax",
+   "name": "Jane Fairfax",
+   "aliases": [
+    "Jane",
+    "Miss Fairfax"
+   ],
+   "role": "major",
+   "firstAppearance": "s10",
+   "summary": "First mention: “at least, that I should ever bore people half so much about all the Knightleys together, as she does about Jane Fairfax.”"
+  },
+  {
+   "id": "mr-knightley",
+   "name": "Mr. Knightley",
+   "aliases": [
+    "Knightley"
+   ],
+   "role": "major",
+   "group": "g-knightley",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "mrs-weston",
+   "name": "Mrs. Weston",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “How was she to bear the change?—It was true that her friend was going only half a mile from them; but Emma was aware that great must be the difference between a Mrs.”"
+  },
+  {
+   "id": "mr-elton",
+   "name": "Mr. Elton",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Only one more, papa; only for Mr.”"
+  },
+  {
+   "id": "mr-weston",
+   "name": "Mr. Weston",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "miss-woodhouse",
+   "name": "Miss Woodhouse",
+   "role": "supporting",
+   "group": "g-woodhouse",
+   "firstAppearance": "s1",
+   "summary": "First mention: “and Miss Woodhouse, if you please; but I cannot possibly say ‘poor Miss Taylor.”"
+  },
+  {
+   "id": "mrs-elton",
+   "name": "Mrs. Elton",
+   "role": "supporting",
+   "firstAppearance": "s32",
+   "summary": "First mention: “Mrs.”"
+  },
+  {
+   "id": "frank-churchill",
+   "name": "Frank Churchill",
+   "aliases": [
+    "Mr. Frank Churchill"
+   ],
+   "role": "supporting",
+   "group": "g-churchill",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "mr-woodhouse",
+   "name": "Mr. Woodhouse",
+   "role": "supporting",
+   "group": "g-woodhouse",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Sixteen years had Miss Taylor been in Mr.”"
+  },
+  {
+   "id": "miss-bates",
+   "name": "Miss Bates",
+   "aliases": [
+    "Bates"
+   ],
+   "role": "supporting",
+   "group": "g-bates",
+   "firstAppearance": "s2",
+   "summary": "First mention: “and Miss Bates, or when Mrs.”"
+  },
+  {
+   "id": "isabella",
+   "name": "Isabella",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A large debt of gratitude was owing here; but the intercourse of the last seven years, the equal footing and perfect unreserve which had soon followed Isabella’s marriage, on their being left to each other, was yet a…”"
+  },
+  {
+   "id": "mr-perry",
+   "name": "Mr. Perry",
+   "aliases": [
+    "Perry"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “He had been at the pains of consulting Mr.”"
+  },
+  {
+   "id": "mrs-goddard",
+   "name": "Mrs. Goddard",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “and Miss Bates, and Mrs.”"
+  },
+  {
+   "id": "frank",
+   "name": "Frank",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Churchill, having no children of their own, nor any other young creature of equal kindred to care for, offered to take the whole charge of the little Frank soon after her decease.”"
+  },
+  {
+   "id": "miss-taylor",
+   "name": "Miss Taylor",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Sixteen years had Miss Taylor been in Mr.”"
+  },
+  {
+   "id": "john-knightley",
+   "name": "John Knightley",
+   "aliases": [
+    "Mr. John Knightley"
+   ],
+   "role": "minor",
+   "group": "g-knightley",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Then here is my last,”—unclosing a pretty sketch of a gentleman in small size, whole-length—“my last and my best—my brother, Mr.”"
+  },
+  {
+   "id": "mrs-churchill",
+   "name": "Mrs. Churchill",
+   "role": "minor",
+   "group": "g-churchill",
+   "firstAppearance": "s2",
+   "summary": "First mention: “and Mrs.”"
+  },
+  {
+   "id": "mr-martin",
+   "name": "Mr. Martin",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “She had taken up a wrong idea, fancying it was a mother and daughter, a son and son’s wife, who all lived together; but when it appeared that the Mr.”"
+  },
+  {
+   "id": "mrs-cole",
+   "name": "Mrs. Cole",
+   "role": "minor",
+   "firstAppearance": "s19",
+   "summary": "First mention: “Woodhouse’s health, cheerful communications about her mother’s, and sweet-cake from the beaufet—“Mrs.”"
+  },
+  {
+   "id": "mrs-bates",
+   "name": "Mrs. Bates",
+   "role": "minor",
+   "group": "g-bates",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Mrs.”"
+  },
+  {
+   "id": "john",
+   "name": "John",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Emma shall be an angel, and I will keep my spleen to myself till Christmas brings John and Isabella.”"
+  },
+  {
+   "id": "robert-martin",
+   "name": "Robert Martin",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “He was reckoned very handsome; his person much admired in general, though not by her, there being a want of elegance of feature which she could not dispense with:—but the girl who could be gratified by a Robert Martin…”"
+  },
+  {
+   "id": "colonel-campbell",
+   "name": "Colonel Campbell",
+   "role": "minor",
+   "firstAppearance": "s19",
+   "summary": "First mention: “Yes, Friday or Saturday; she cannot say which, because Colonel Campbell will be wanting the carriage himself one of those days.”"
+  },
+  {
+   "id": "mr-dixon",
+   "name": "Mr. Dixon",
+   "role": "minor",
+   "firstAppearance": "s19",
+   "summary": "First mention: “They had not intended to go over till the summer, but she is so impatient to see them again—for till she married, last October, she was never away from them so much as a week, which must make it very strange to be in…”"
+  },
+  {
+   "id": "mr-cole",
+   "name": "Mr. Cole",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “He was arm-in-arm with Mr.”"
+  },
+  {
+   "id": "henry",
+   "name": "Henry",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Then, here come all my attempts at three of those four children;—there they are, Henry and John and Bella, from one end of the sheet to the other, and any one of them might do for any one of the rest.”"
+  },
+  {
+   "id": "mr-churchill",
+   "name": "Mr. Churchill",
+   "role": "minor",
+   "group": "g-churchill",
+   "firstAppearance": "s20",
+   "summary": "First mention: “Manners were all that could be safely judged of, under a much longer knowledge than they had yet had of Mr.”"
+  },
+  {
+   "id": "miss-hawkins",
+   "name": "Miss Hawkins",
+   "role": "minor",
+   "firstAppearance": "s21",
+   "summary": "First mention: “A Miss Hawkins—that’s all I know.”"
+  },
+  {
+   "id": "james",
+   "name": "James",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “And as for James, you may be very sure he will always like going to Randalls, because of his daughter’s being housemaid there.”"
+  },
+  {
+   "id": "mrs-john-knightley",
+   "name": "Mrs. John Knightley",
+   "role": "minor",
+   "group": "g-knightley",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Mrs.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "miss-taylor",
+   "target": "mr-woodhouse",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s53",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "emma-woodhouse",
+   "target": "miss-taylor",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "emma-woodhouse",
+   "target": "mr-woodhouse",
+   "weight": 124,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "miss-taylor",
+   "target": "mr-weston",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "emma-woodhouse",
+   "target": "mr-weston",
+   "weight": 133,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "emma-woodhouse",
+   "target": "isabella",
+   "weight": 76,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "mr-weston",
+   "target": "mrs-weston",
+   "weight": 72,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "miss-taylor",
+   "target": "mrs-weston",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "isabella",
+   "target": "mrs-weston",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "emma-woodhouse",
+   "target": "mrs-weston",
+   "weight": 227,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "mr-woodhouse",
+   "target": "mrs-weston",
+   "weight": 62,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "isabella",
+   "target": "mr-woodhouse",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "james",
+   "target": "mr-weston",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "emma-woodhouse",
+   "target": "james",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "emma-woodhouse",
+   "target": "mr-knightley",
+   "weight": 259,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "isabella",
+   "target": "mr-knightley",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "mr-knightley",
+   "target": "mr-woodhouse",
+   "weight": 58,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "emma-woodhouse",
+   "target": "miss-woodhouse",
+   "weight": 117,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "miss-taylor",
+   "target": "mr-knightley",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s53",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "mr-knightley",
+   "target": "mr-weston",
+   "weight": 47,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "emma-woodhouse",
+   "target": "mr-elton",
+   "weight": 163,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mr-elton",
+   "target": "mr-woodhouse",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "mr-elton",
+   "target": "mr-knightley",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "mrs-churchill",
+   "target": "mrs-weston",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "frank",
+   "target": "mrs-weston",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "frank",
+   "target": "mr-weston",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "frank-churchill",
+   "target": "mr-weston",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "frank-churchill",
+   "target": "mrs-weston",
+   "weight": 76,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "miss-bates",
+   "target": "mrs-weston",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "mr-weston",
+   "target": "mr-woodhouse",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "mr-perry",
+   "target": "mrs-weston",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "emma-woodhouse",
+   "target": "mr-perry",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s54",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "mr-perry",
+   "target": "mr-woodhouse",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "mr-knightley",
+   "target": "mrs-weston",
+   "weight": 73,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "miss-bates",
+   "target": "mr-knightley",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s45",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "mr-knightley",
+   "target": "mrs-goddard",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "mr-elton",
+   "target": "mrs-goddard",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "mr-woodhouse",
+   "target": "mrs-goddard",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "james",
+   "target": "mr-woodhouse",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "miss-bates",
+   "target": "mrs-bates",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s44",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "emma-woodhouse",
+   "target": "mrs-goddard",
+   "weight": 55,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "emma-woodhouse",
+   "target": "harriet-smith",
+   "weight": 338,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "harriet-smith",
+   "target": "mrs-weston",
+   "weight": 66,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "harriet-smith",
+   "target": "mrs-goddard",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "harriet-smith",
+   "target": "mr-knightley",
+   "weight": 122,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "emma-woodhouse",
+   "target": "mrs-bates",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "miss-woodhouse",
+   "target": "mrs-bates",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s52",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "emma-woodhouse",
+   "target": "miss-bates",
+   "weight": 92,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "miss-bates",
+   "target": "miss-woodhouse",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s52",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "harriet-smith",
+   "target": "miss-woodhouse",
+   "weight": 83,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "miss-woodhouse",
+   "target": "mrs-weston",
+   "weight": 45,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "mr-martin",
+   "target": "mrs-goddard",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "emma-woodhouse",
+   "target": "mr-martin",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "harriet-smith",
+   "target": "mr-martin",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "mr-knightley",
+   "target": "mr-martin",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "mr-elton",
+   "target": "mr-martin",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "harriet-smith",
+   "target": "mr-weston",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "harriet-smith",
+   "target": "mr-elton",
+   "weight": 150,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "mr-elton",
+   "target": "robert-martin",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "emma-woodhouse",
+   "target": "robert-martin",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "harriet-smith",
+   "target": "robert-martin",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "mr-knightley",
+   "target": "robert-martin",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s54",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "john",
+   "target": "mr-knightley",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "emma-woodhouse",
+   "target": "john",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "isabella",
+   "target": "john",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s55",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "harriet-smith",
+   "target": "john",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "harriet-smith",
+   "target": "isabella",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s45",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "emma-woodhouse",
+   "target": "mrs-john-knightley",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "isabella",
+   "target": "mrs-john-knightley",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "miss-woodhouse",
+   "target": "mr-elton",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "emma-woodhouse",
+   "target": "henry",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "emma-woodhouse",
+   "target": "john-knightley",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "john-knightley",
+   "target": "mrs-weston",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "henry",
+   "target": "john",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "henry",
+   "target": "john-knightley",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "harriet-smith",
+   "target": "henry",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "isabella",
+   "target": "john-knightley",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "john-knightley",
+   "target": "mr-elton",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "mrs-goddard",
+   "target": "robert-martin",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "harriet-smith",
+   "target": "mr-perry",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "mr-cole",
+   "target": "mr-knightley",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "jane-fairfax",
+   "target": "miss-bates",
+   "weight": 82,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "emma-woodhouse",
+   "target": "jane-fairfax",
+   "weight": 232,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 69
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "harriet-smith",
+   "target": "jane-fairfax",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s46",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "mr-elton",
+   "target": "mrs-john-knightley",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "mr-woodhouse",
+   "target": "mrs-john-knightley",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "john-knightley",
+   "target": "mr-woodhouse",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "jane-fairfax",
+   "target": "mr-woodhouse",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "james",
+   "target": "mrs-weston",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "harriet-smith",
+   "target": "james",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "frank",
+   "target": "harriet-smith",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "emma-woodhouse",
+   "target": "frank",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s46",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "emma-woodhouse",
+   "target": "frank-churchill",
+   "weight": 135,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "frank-churchill",
+   "target": "harriet-smith",
+   "weight": 58,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s47",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 53
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "emma-woodhouse",
+   "target": "mrs-churchill",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "mr-weston",
+   "target": "mrs-churchill",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "frank-churchill",
+   "target": "mrs-churchill",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s44",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "miss-woodhouse",
+   "target": "mr-perry",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s45",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "miss-woodhouse",
+   "target": "mr-knightley",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "harriet-smith",
+   "target": "mrs-john-knightley",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "frank-churchill",
+   "target": "mr-knightley",
+   "weight": 63,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "jane-fairfax",
+   "target": "mr-knightley",
+   "weight": 104,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "mr-knightley",
+   "target": "mrs-cole",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s53",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "jane-fairfax",
+   "target": "miss-woodhouse",
+   "weight": 77,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "jane-fairfax",
+   "target": "mrs-cole",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "miss-bates",
+   "target": "mrs-cole",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "miss-woodhouse",
+   "target": "mrs-cole",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "miss-woodhouse",
+   "target": "mr-cole",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "emma-woodhouse",
+   "target": "mrs-cole",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r110",
+   "source": "harriet-smith",
+   "target": "mr-cole",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r111",
+   "source": "emma-woodhouse",
+   "target": "mr-cole",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r112",
+   "source": "jane-fairfax",
+   "target": "mr-cole",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r113",
+   "source": "colonel-campbell",
+   "target": "jane-fairfax",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r114",
+   "source": "jane-fairfax",
+   "target": "mr-dixon",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r115",
+   "source": "emma-woodhouse",
+   "target": "mr-dixon",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r116",
+   "source": "jane-fairfax",
+   "target": "mrs-bates",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r117",
+   "source": "colonel-campbell",
+   "target": "mr-dixon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r118",
+   "source": "frank-churchill",
+   "target": "jane-fairfax",
+   "weight": 84,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 49
+    }
+   ]
+  },
+  {
+   "id": "r119",
+   "source": "frank-churchill",
+   "target": "mr-dixon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r120",
+   "source": "emma-woodhouse",
+   "target": "mr-churchill",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s45",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r121",
+   "source": "jane-fairfax",
+   "target": "mr-churchill",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s47",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r122",
+   "source": "jane-fairfax",
+   "target": "miss-hawkins",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r123",
+   "source": "emma-woodhouse",
+   "target": "miss-hawkins",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r124",
+   "source": "miss-hawkins",
+   "target": "mr-elton",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r125",
+   "source": "colonel-campbell",
+   "target": "emma-woodhouse",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r126",
+   "source": "colonel-campbell",
+   "target": "miss-bates",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r127",
+   "source": "miss-hawkins",
+   "target": "miss-woodhouse",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r128",
+   "source": "colonel-campbell",
+   "target": "miss-woodhouse",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r129",
+   "source": "miss-woodhouse",
+   "target": "mr-dixon",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r130",
+   "source": "harriet-smith",
+   "target": "miss-hawkins",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r131",
+   "source": "jane-fairfax",
+   "target": "mrs-weston",
+   "weight": 92,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 49
+    }
+   ]
+  },
+  {
+   "id": "r132",
+   "source": "mrs-bates",
+   "target": "mrs-weston",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s52",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r133",
+   "source": "colonel-campbell",
+   "target": "mrs-cole",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r134",
+   "source": "frank-churchill",
+   "target": "miss-woodhouse",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r135",
+   "source": "henry",
+   "target": "mr-knightley",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r136",
+   "source": "mr-churchill",
+   "target": "mrs-weston",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r137",
+   "source": "mr-churchill",
+   "target": "mrs-churchill",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r138",
+   "source": "jane-fairfax",
+   "target": "mrs-elton",
+   "weight": 72,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r139",
+   "source": "emma-woodhouse",
+   "target": "mrs-elton",
+   "weight": 91,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r140",
+   "source": "miss-woodhouse",
+   "target": "mrs-elton",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r141",
+   "source": "mr-weston",
+   "target": "mrs-elton",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r142",
+   "source": "mr-knightley",
+   "target": "mrs-elton",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s52",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r143",
+   "source": "mrs-elton",
+   "target": "mrs-weston",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r144",
+   "source": "mrs-churchill",
+   "target": "mrs-elton",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r145",
+   "source": "frank",
+   "target": "mrs-elton",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r146",
+   "source": "mr-churchill",
+   "target": "mr-weston",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

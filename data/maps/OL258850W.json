@@ -1,0 +1,589 @@
+{
+  "schemaVersion": 1,
+  "workId": "OL258850W",
+  "title": "Othello",
+  "authors": [
+    "William Shakespeare"
+  ],
+  "firstPublished": 1622,
+  "edition": {
+    "description": "Act and scene numbering of the Folger Shakespeare Library edition.",
+    "source": "Folger Shakespeare",
+    "url": "https://www.folger.edu/explore/shakespeares-works/othello/"
+  },
+  "sectionLabel": {
+    "singular": "Scene",
+    "plural": "Scenes"
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "1.1",
+      "part": "Act 1"
+    },
+    {
+      "id": "1.2",
+      "label": "1.2",
+      "part": "Act 1"
+    },
+    {
+      "id": "1.3",
+      "label": "1.3",
+      "part": "Act 1"
+    },
+    {
+      "id": "2.1",
+      "label": "2.1",
+      "part": "Act 2"
+    },
+    {
+      "id": "2.2",
+      "label": "2.2",
+      "part": "Act 2"
+    },
+    {
+      "id": "2.3",
+      "label": "2.3",
+      "part": "Act 2"
+    },
+    {
+      "id": "3.1",
+      "label": "3.1",
+      "part": "Act 3"
+    },
+    {
+      "id": "3.2",
+      "label": "3.2",
+      "part": "Act 3"
+    },
+    {
+      "id": "3.3",
+      "label": "3.3",
+      "part": "Act 3"
+    },
+    {
+      "id": "3.4",
+      "label": "3.4",
+      "part": "Act 3"
+    },
+    {
+      "id": "4.1",
+      "label": "4.1",
+      "part": "Act 4"
+    },
+    {
+      "id": "4.2",
+      "label": "4.2",
+      "part": "Act 4"
+    },
+    {
+      "id": "4.3",
+      "label": "4.3",
+      "part": "Act 4"
+    },
+    {
+      "id": "5.1",
+      "label": "5.1",
+      "part": "Act 5"
+    },
+    {
+      "id": "5.2",
+      "label": "5.2",
+      "part": "Act 5"
+    }
+  ],
+  "groups": [
+    {
+      "id": "army",
+      "label": "The Venetian army"
+    },
+    {
+      "id": "venice",
+      "label": "Venice"
+    },
+    {
+      "id": "house",
+      "label": "Brabantio’s house"
+    }
+  ],
+  "characters": [
+    {
+      "id": "othello",
+      "name": "Othello",
+      "aliases": [
+        "The Moor"
+      ],
+      "role": "protagonist",
+      "group": "army",
+      "firstAppearance": "1.1",
+      "summary": "A Moorish general in the service of Venice, renowned and respected.",
+      "notes": [
+        {
+          "at": "3.3",
+          "text": "Is persuaded by Iago that Desdemona is unfaithful."
+        },
+        {
+          "at": "5.2",
+          "text": "Smothers Desdemona, learns the truth, and takes his own life."
+        }
+      ]
+    },
+    {
+      "id": "iago",
+      "name": "Iago",
+      "role": "protagonist",
+      "group": "army",
+      "firstAppearance": "1.1",
+      "summary": "Othello’s ensign, outwardly “honest”, inwardly full of resentment.",
+      "notes": [
+        {
+          "at": "2.3",
+          "text": "Gets Cassio drunk and into a brawl that costs him his post."
+        },
+        {
+          "at": "5.2",
+          "text": "Is exposed by his wife and taken prisoner."
+        }
+      ]
+    },
+    {
+      "id": "desdemona",
+      "name": "Desdemona",
+      "role": "major",
+      "group": "house",
+      "firstAppearance": "1.1",
+      "summary": "A Venetian senator’s daughter, spirited and devoted.",
+      "notes": [
+        {
+          "at": "5.2",
+          "text": "Is killed by Othello in her bed."
+        }
+      ]
+    },
+    {
+      "id": "cassio",
+      "name": "Michael Cassio",
+      "role": "major",
+      "group": "army",
+      "firstAppearance": "1.1",
+      "summary": "Othello’s courteous young lieutenant.",
+      "notes": [
+        {
+          "at": "2.3",
+          "text": "Loses his rank after a drunken brawl."
+        },
+        {
+          "at": "5.1",
+          "text": "Is wounded in a night ambush."
+        }
+      ]
+    },
+    {
+      "id": "roderigo",
+      "name": "Roderigo",
+      "role": "supporting",
+      "group": "venice",
+      "firstAppearance": "1.1",
+      "summary": "A foolish Venetian gentleman in love with Desdemona.",
+      "notes": [
+        {
+          "at": "5.1",
+          "text": "Is stabbed by Iago."
+        }
+      ]
+    },
+    {
+      "id": "brabantio",
+      "name": "Brabantio",
+      "role": "supporting",
+      "group": "house",
+      "firstAppearance": "1.1",
+      "summary": "A Venetian senator, Desdemona’s father."
+    },
+    {
+      "id": "emilia",
+      "name": "Emilia",
+      "role": "major",
+      "group": "army",
+      "firstAppearance": "2.1",
+      "summary": "Iago’s wife and Desdemona’s attendant.",
+      "notes": [
+        {
+          "at": "3.3",
+          "text": "Finds Desdemona’s handkerchief and gives it to Iago."
+        },
+        {
+          "at": "5.2",
+          "text": "Exposes Iago’s plot and is killed by him."
+        }
+      ]
+    },
+    {
+      "id": "duke",
+      "name": "The Duke of Venice",
+      "role": "minor",
+      "group": "venice",
+      "firstAppearance": "1.3",
+      "summary": "Ruler of Venice, anxious about the Turkish fleet."
+    },
+    {
+      "id": "montano",
+      "name": "Montano",
+      "role": "minor",
+      "firstAppearance": "2.1",
+      "summary": "Governor of Cyprus before Othello."
+    },
+    {
+      "id": "bianca",
+      "name": "Bianca",
+      "role": "supporting",
+      "firstAppearance": "3.4",
+      "summary": "A courtesan in Cyprus, in love with Cassio."
+    },
+    {
+      "id": "lodovico",
+      "name": "Lodovico",
+      "role": "minor",
+      "group": "venice",
+      "firstAppearance": "4.1",
+      "summary": "A Venetian nobleman, Desdemona’s kinsman, sent with letters from the Senate."
+    },
+    {
+      "id": "gratiano",
+      "name": "Gratiano",
+      "role": "minor",
+      "group": "house",
+      "firstAppearance": "5.1",
+      "summary": "A Venetian nobleman, Brabantio’s brother."
+    }
+  ],
+  "relationships": [
+    {
+      "id": "r1",
+      "source": "othello",
+      "target": "desdemona",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "romance",
+          "label": "Eloped & married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife",
+          "note": "They have married in secret."
+        },
+        {
+          "at": "3.3",
+          "type": "romance",
+          "label": "Poisoned by jealousy",
+          "sourceRole": "Husband",
+          "targetRole": "Wife"
+        },
+        {
+          "at": "4.1",
+          "type": "romance",
+          "label": "Publicly struck",
+          "note": "He strikes her before Lodovico."
+        },
+        {
+          "at": "5.2",
+          "type": "romance",
+          "label": "Kills her",
+          "note": "He smothers her, then learns she was true."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "source": "iago",
+      "target": "othello",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "service",
+          "label": "Ensign & general",
+          "sourceRole": "Ensign",
+          "targetRole": "General",
+          "note": "“I follow him to serve my turn upon him.”"
+        },
+        {
+          "at": "3.3",
+          "type": "rivalry",
+          "label": "Poisons his mind",
+          "note": "Iago convinces him Desdemona loves Cassio."
+        },
+        {
+          "at": "5.2",
+          "type": "rivalry",
+          "label": "Exposed",
+          "note": "Othello wounds him; Iago refuses to explain."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "source": "iago",
+      "target": "roderigo",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "alliance",
+          "label": "Puppet-master & dupe",
+          "note": "Iago takes his money, promising him Desdemona."
+        },
+        {
+          "at": "5.1",
+          "type": "rivalry",
+          "label": "Kills him",
+          "note": "Iago stabs him to silence him."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "source": "iago",
+      "target": "cassio",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "rivalry",
+          "label": "Resentment",
+          "note": "Cassio was promoted over him."
+        },
+        {
+          "at": "2.3",
+          "type": "rivalry",
+          "label": "Engineers his disgrace"
+        },
+        {
+          "at": "5.1",
+          "type": "rivalry",
+          "label": "Ambushes him"
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "source": "iago",
+      "target": "emilia",
+      "phases": [
+        {
+          "at": "2.1",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife"
+        },
+        {
+          "at": "3.3",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife",
+          "note": "She gives him the handkerchief he wanted."
+        },
+        {
+          "at": "5.2",
+          "type": "rivalry",
+          "label": "Kills her",
+          "note": "He stabs her when she reveals the truth."
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "source": "brabantio",
+      "target": "desdemona",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "family",
+          "label": "Father & daughter",
+          "sourceRole": "Father",
+          "targetRole": "Daughter"
+        },
+        {
+          "at": "1.3",
+          "type": "family",
+          "label": "Disowns her",
+          "sourceRole": "Father",
+          "targetRole": "Daughter",
+          "note": "“She has deceived her father, and may thee.”"
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "source": "brabantio",
+      "target": "othello",
+      "phases": [
+        {
+          "at": "1.2",
+          "type": "rivalry",
+          "label": "Accuses him of witchcraft",
+          "note": "He claims Othello bewitched his daughter."
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "source": "roderigo",
+      "target": "desdemona",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "romance",
+          "label": "Rejected suitor"
+        }
+      ]
+    },
+    {
+      "id": "r9",
+      "source": "othello",
+      "target": "cassio",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "service",
+          "label": "General & lieutenant",
+          "sourceRole": "General",
+          "targetRole": "Lieutenant"
+        },
+        {
+          "at": "2.3",
+          "type": "service",
+          "label": "Dismissed",
+          "note": "Othello strips him of his rank after the brawl."
+        },
+        {
+          "at": "5.2",
+          "type": "alliance",
+          "label": "Successor",
+          "note": "Cassio is left to govern Cyprus."
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "source": "desdemona",
+      "target": "cassio",
+      "phases": [
+        {
+          "at": "3.3",
+          "type": "friendship",
+          "label": "His advocate",
+          "note": "She pleads with Othello to reinstate him."
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "source": "emilia",
+      "target": "desdemona",
+      "phases": [
+        {
+          "at": "2.1",
+          "type": "service",
+          "label": "Attendant & friend",
+          "sourceRole": "Attendant",
+          "targetRole": "Lady"
+        },
+        {
+          "at": "5.2",
+          "type": "friendship",
+          "label": "Defends her honour",
+          "note": "She swears to Desdemona’s innocence at the cost of her life."
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "source": "cassio",
+      "target": "bianca",
+      "phases": [
+        {
+          "at": "3.4",
+          "type": "romance",
+          "label": "Lovers",
+          "note": "He asks her to copy the embroidery on a handkerchief he found."
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "source": "duke",
+      "target": "othello",
+      "phases": [
+        {
+          "at": "1.3",
+          "type": "alliance",
+          "label": "Sends him to Cyprus",
+          "note": "Venice needs him against the Turks."
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "source": "cassio",
+      "target": "montano",
+      "phases": [
+        {
+          "at": "2.3",
+          "type": "rivalry",
+          "label": "Drunken brawl",
+          "note": "Cassio wounds him."
+        }
+      ]
+    },
+    {
+      "id": "r15",
+      "source": "lodovico",
+      "target": "othello",
+      "phases": [
+        {
+          "at": "4.1",
+          "type": "acquaintance",
+          "label": "Venetian envoy",
+          "note": "He witnesses Othello strike Desdemona."
+        }
+      ]
+    },
+    {
+      "id": "r16",
+      "source": "lodovico",
+      "target": "desdemona",
+      "phases": [
+        {
+          "at": "4.1",
+          "type": "family",
+          "label": "Kinsfolk"
+        }
+      ]
+    },
+    {
+      "id": "r17",
+      "source": "gratiano",
+      "target": "brabantio",
+      "phases": [
+        {
+          "at": "5.2",
+          "type": "family",
+          "label": "Brothers",
+          "note": "Gratiano reports that Brabantio died of grief at the marriage."
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "method": "Hand-curated from the public-domain text, with section numbers following the edition named in `edition`. Drafted with AI assistance; awaiting a line-by-line human review.",
+    "contributors": [
+      "Character Chart editors"
+    ],
+    "createdAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "review": {
+      "status": "unreviewed",
+      "notes": "Spot-check chapter/scene numbers against the stated edition before marking as reviewed."
+    }
+  },
+  "license": "CC BY 4.0"
+}

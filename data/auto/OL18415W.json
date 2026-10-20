@@ -1,0 +1,1518 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL18415W",
+ "title": "Ozma of Oz",
+ "authors": [
+  "L. Frank Baum"
+ ],
+ "firstPublished": 1907,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #486 (no chapter headings found, so the text is split into equal parts).",
+  "source": "Project Gutenberg eBook #486",
+  "url": "https://www.gutenberg.org/ebooks/486"
+ },
+ "sectionLabel": {
+  "singular": "Part",
+  "plural": "Parts"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Part 1",
+   "title": "about 8% through"
+  },
+  {
+   "id": "s2",
+   "label": "Part 2",
+   "title": "about 17% through"
+  },
+  {
+   "id": "s3",
+   "label": "Part 3",
+   "title": "about 25% through"
+  },
+  {
+   "id": "s4",
+   "label": "Part 4",
+   "title": "about 33% through"
+  },
+  {
+   "id": "s5",
+   "label": "Part 5",
+   "title": "about 42% through"
+  },
+  {
+   "id": "s6",
+   "label": "Part 6",
+   "title": "about 50% through"
+  },
+  {
+   "id": "s7",
+   "label": "Part 7",
+   "title": "about 58% through"
+  },
+  {
+   "id": "s8",
+   "label": "Part 8",
+   "title": "about 67% through"
+  },
+  {
+   "id": "s9",
+   "label": "Part 9",
+   "title": "about 75% through"
+  },
+  {
+   "id": "s10",
+   "label": "Part 10",
+   "title": "about 83% through"
+  },
+  {
+   "id": "s11",
+   "label": "Part 11",
+   "title": "about 92% through"
+  },
+  {
+   "id": "s12",
+   "label": "Part 12",
+   "title": "about 100% through"
+  }
+ ],
+ "characters": [
+  {
+   "id": "dorothy-gale",
+   "name": "Dorothy Gale",
+   "aliases": [
+    "Dorothy"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A Record of Her Adventures with Dorothy Gale of Kansas, the Yellow Hen, the Scarecrow, the Tin Woodman, Tiktok, the Cowardly Lion and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully Reco…”"
+  },
+  {
+   "id": "nome-king",
+   "name": "Nome King",
+   "aliases": [
+    "King"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Nome King 12.”"
+  },
+  {
+   "id": "billina",
+   "name": "Billina",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “One little friend, who read this story before it was printed, said to me: \"Billina is REAL OZZY, Mr.”"
+  },
+  {
+   "id": "ozma",
+   "name": "Ozma",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Ozma of Oz”"
+  },
+  {
+   "id": "scarecrow",
+   "name": "Scarecrow",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A Record of Her Adventures with Dorothy Gale of Kansas, the Yellow Hen, the Scarecrow, the Tin Woodman, Tiktok, the Cowardly Lion and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully Reco…”"
+  },
+  {
+   "id": "tiktok",
+   "name": "Tiktok",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A Record of Her Adventures with Dorothy Gale of Kansas, the Yellow Hen, the Scarecrow, the Tin Woodman, Tiktok, the Cowardly Lion and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully Reco…”"
+  },
+  {
+   "id": "tin-woodman",
+   "name": "Tin Woodman",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A Record of Her Adventures with Dorothy Gale of Kansas, the Yellow Hen, the Scarecrow, the Tin Woodman, Tiktok, the Cowardly Lion and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully Reco…”"
+  },
+  {
+   "id": "princess",
+   "name": "Princess",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “When we see the key we know we are beholding the Princess.\"”"
+  },
+  {
+   "id": "uncle-henry",
+   "name": "Uncle Henry",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Now, among these passengers was a little Kansas girl named Dorothy Gale, who was going with her Uncle Henry to Australia, to visit some relatives they had never before seen.”"
+  },
+  {
+   "id": "wheeler",
+   "name": "Wheeler",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “\"It's a Wheeler!\"”"
+  },
+  {
+   "id": "nomes",
+   "name": "Nomes",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Under his rule are many thousands of the Nomes, who are queerly shaped but powerful sprites that labor at the furnaces and forges of their king, making gold and silver and other metals which they conceal in the crevic…”"
+  },
+  {
+   "id": "chief-steward",
+   "name": "Chief Steward",
+   "aliases": [
+    "Steward"
+   ],
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “This Nome was not unlike the others that Dorothy had seen, but he wore a heavy gold chain around his neck to show that he was the Chief Steward of the Nome King, and he assumed an air of much importance, and even told…”"
+  },
+  {
+   "id": "princess-langwidere",
+   "name": "Princess Langwidere",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “But the Princess Langwidere, who is a niece of our late King Evoldo, lives in a part of the royal palace and takes as much money out of the royal treasury as she can spend.”"
+  },
+  {
+   "id": "nanda",
+   "name": "Nanda",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “\"Oh, I may as well, Nanda.”"
+  },
+  {
+   "id": "prince",
+   "name": "Prince",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “I am a Prince of Ev, and my name is Evring,\" the little one announced, proudly.”"
+  },
+  {
+   "id": "emerald",
+   "name": "Emerald",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Then he journeyed to the Emerald City to see her, and on hearing she was about to visit the Land of Ev to set free the royal family of that country, the Cowardly Lion begged to go with her, and brought along his frien…”"
+  },
+  {
+   "id": "evring",
+   "name": "Evring",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “I am a Prince of Ev, and my name is Evring,\" the little one announced, proudly.”"
+  },
+  {
+   "id": "smith",
+   "name": "Smith",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “I was pur-chased from Smith & Tin-ker, my man-u-fac-tur-ers, by a cru-el King of Ev, named Ev-ol-do, who used to beat all his serv-ants un-til they died.”"
+  },
+  {
+   "id": "glinda",
+   "name": "Glinda",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Finally she went to a friendly sorceress of our land named Glinda the Good, who heard the story and at once presented Ozma a magic carpet, which would continually unroll beneath our feet and so make a comfortable path…”"
+  },
+  {
+   "id": "aunt-em",
+   "name": "Aunt Em",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “So he left Aunt Em at home to watch after the hired men and to take care of the farm, while he traveled far away to Australia to visit his cousins and have a good rest.”"
+  },
+  {
+   "id": "evardo",
+   "name": "Evardo",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Then she disenchanted another girl, whom the Queen addressed as Evrose, and afterwards a boy named Evardo, who was older than his brother Evring.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "dorothy-gale",
+   "target": "ozma",
+   "weight": 82,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "ozma",
+   "target": "scarecrow",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "ozma",
+   "target": "tin-woodman",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "ozma",
+   "target": "tiktok",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "dorothy-gale",
+   "target": "scarecrow",
+   "weight": 68,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "dorothy-gale",
+   "target": "tin-woodman",
+   "weight": 48,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "dorothy-gale",
+   "target": "tiktok",
+   "weight": 68,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 26
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "scarecrow",
+   "target": "tin-woodman",
+   "weight": 50,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "scarecrow",
+   "target": "tiktok",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "tiktok",
+   "target": "tin-woodman",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "nome-king",
+   "target": "tiktok",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "nome-king",
+   "target": "ozma",
+   "weight": 73,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "nome-king",
+   "target": "tin-woodman",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "billina",
+   "target": "dorothy-gale",
+   "weight": 117,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 26
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "billina",
+   "target": "ozma",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "billina",
+   "target": "scarecrow",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "billina",
+   "target": "tiktok",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "dorothy-gale",
+   "target": "uncle-henry",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "aunt-em",
+   "target": "dorothy-gale",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "aunt-em",
+   "target": "uncle-henry",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "dorothy-gale",
+   "target": "wheeler",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "dorothy-gale",
+   "target": "nome-king",
+   "weight": 99,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 52
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "nome-king",
+   "target": "smith",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "smith",
+   "target": "tiktok",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "billina",
+   "target": "nome-king",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 38
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "tiktok",
+   "target": "wheeler",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "princess-langwidere",
+   "target": "tiktok",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "princess",
+   "target": "tiktok",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "princess-langwidere",
+   "target": "wheeler",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "princess",
+   "target": "princess-langwidere",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "dorothy-gale",
+   "target": "princess-langwidere",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "dorothy-gale",
+   "target": "princess",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "billina",
+   "target": "princess",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "nanda",
+   "target": "princess",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "nanda",
+   "target": "princess-langwidere",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "dorothy-gale",
+   "target": "nanda",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "nanda",
+   "target": "ozma",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "ozma",
+   "target": "princess",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "ozma",
+   "target": "princess-langwidere",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "princess",
+   "target": "tin-woodman",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "glinda",
+   "target": "ozma",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "dorothy-gale",
+   "target": "nomes",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "nome-king",
+   "target": "nomes",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 6."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "nomes",
+   "target": "ozma",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "nome-king",
+   "target": "scarecrow",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 51
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "nomes",
+   "target": "scarecrow",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "emerald",
+   "target": "scarecrow",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "emerald",
+   "target": "tin-woodman",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "dorothy-gale",
+   "target": "emerald",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "emerald",
+   "target": "ozma",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "emerald",
+   "target": "nome-king",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "ozma",
+   "target": "smith",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "nomes",
+   "target": "tiktok",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "chief-steward",
+   "target": "nome-king",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "chief-steward",
+   "target": "dorothy-gale",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "chief-steward",
+   "target": "scarecrow",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "billina",
+   "target": "chief-steward",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "nome-king",
+   "target": "uncle-henry",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "ozma",
+   "target": "uncle-henry",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "evring",
+   "target": "prince",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "nome-king",
+   "target": "prince",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "dorothy-gale",
+   "target": "prince",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "evring",
+   "target": "nome-king",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "dorothy-gale",
+   "target": "evring",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "billina",
+   "target": "evring",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "billina",
+   "target": "prince",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "billina",
+   "target": "evardo",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "evardo",
+   "target": "nome-king",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "dorothy-gale",
+   "target": "glinda",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 12."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "glinda",
+   "target": "uncle-henry",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 12."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

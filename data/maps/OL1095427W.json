@@ -1,0 +1,1283 @@
+{
+  "schemaVersion": 1,
+  "workId": "OL1095427W",
+  "title": "Jane Eyre",
+  "authors": [
+    "Charlotte Brontë"
+  ],
+  "firstPublished": 1847,
+  "edition": {
+    "description": "Continuous chapter numbering 1–38 (Volume I: 1–15, II: 16–26, III: 27–38).",
+    "source": "Project Gutenberg eBook #1260",
+    "url": "https://www.gutenberg.org/ebooks/1260"
+  },
+  "sectionLabel": {
+    "singular": "Chapter",
+    "plural": "Chapters"
+  },
+  "sections": [
+    {
+      "id": "c1",
+      "label": "Ch. 1",
+      "part": "Volume I"
+    },
+    {
+      "id": "c2",
+      "label": "Ch. 2",
+      "part": "Volume I"
+    },
+    {
+      "id": "c3",
+      "label": "Ch. 3",
+      "part": "Volume I"
+    },
+    {
+      "id": "c4",
+      "label": "Ch. 4",
+      "part": "Volume I"
+    },
+    {
+      "id": "c5",
+      "label": "Ch. 5",
+      "part": "Volume I"
+    },
+    {
+      "id": "c6",
+      "label": "Ch. 6",
+      "part": "Volume I"
+    },
+    {
+      "id": "c7",
+      "label": "Ch. 7",
+      "part": "Volume I"
+    },
+    {
+      "id": "c8",
+      "label": "Ch. 8",
+      "part": "Volume I"
+    },
+    {
+      "id": "c9",
+      "label": "Ch. 9",
+      "part": "Volume I"
+    },
+    {
+      "id": "c10",
+      "label": "Ch. 10",
+      "part": "Volume I"
+    },
+    {
+      "id": "c11",
+      "label": "Ch. 11",
+      "part": "Volume I"
+    },
+    {
+      "id": "c12",
+      "label": "Ch. 12",
+      "part": "Volume I"
+    },
+    {
+      "id": "c13",
+      "label": "Ch. 13",
+      "part": "Volume I"
+    },
+    {
+      "id": "c14",
+      "label": "Ch. 14",
+      "part": "Volume I"
+    },
+    {
+      "id": "c15",
+      "label": "Ch. 15",
+      "part": "Volume I"
+    },
+    {
+      "id": "c16",
+      "label": "Ch. 16",
+      "part": "Volume II"
+    },
+    {
+      "id": "c17",
+      "label": "Ch. 17",
+      "part": "Volume II"
+    },
+    {
+      "id": "c18",
+      "label": "Ch. 18",
+      "part": "Volume II"
+    },
+    {
+      "id": "c19",
+      "label": "Ch. 19",
+      "part": "Volume II"
+    },
+    {
+      "id": "c20",
+      "label": "Ch. 20",
+      "part": "Volume II"
+    },
+    {
+      "id": "c21",
+      "label": "Ch. 21",
+      "part": "Volume II"
+    },
+    {
+      "id": "c22",
+      "label": "Ch. 22",
+      "part": "Volume II"
+    },
+    {
+      "id": "c23",
+      "label": "Ch. 23",
+      "part": "Volume II"
+    },
+    {
+      "id": "c24",
+      "label": "Ch. 24",
+      "part": "Volume II"
+    },
+    {
+      "id": "c25",
+      "label": "Ch. 25",
+      "part": "Volume II"
+    },
+    {
+      "id": "c26",
+      "label": "Ch. 26",
+      "part": "Volume II"
+    },
+    {
+      "id": "c27",
+      "label": "Ch. 27",
+      "part": "Volume III"
+    },
+    {
+      "id": "c28",
+      "label": "Ch. 28",
+      "part": "Volume III"
+    },
+    {
+      "id": "c29",
+      "label": "Ch. 29",
+      "part": "Volume III"
+    },
+    {
+      "id": "c30",
+      "label": "Ch. 30",
+      "part": "Volume III"
+    },
+    {
+      "id": "c31",
+      "label": "Ch. 31",
+      "part": "Volume III"
+    },
+    {
+      "id": "c32",
+      "label": "Ch. 32",
+      "part": "Volume III"
+    },
+    {
+      "id": "c33",
+      "label": "Ch. 33",
+      "part": "Volume III"
+    },
+    {
+      "id": "c34",
+      "label": "Ch. 34",
+      "part": "Volume III"
+    },
+    {
+      "id": "c35",
+      "label": "Ch. 35",
+      "part": "Volume III"
+    },
+    {
+      "id": "c36",
+      "label": "Ch. 36",
+      "part": "Volume III"
+    },
+    {
+      "id": "c37",
+      "label": "Ch. 37",
+      "part": "Volume III"
+    },
+    {
+      "id": "c38",
+      "label": "Ch. 38",
+      "part": "Volume III"
+    }
+  ],
+  "groups": [
+    {
+      "id": "reed",
+      "label": "Gateshead (the Reeds)"
+    },
+    {
+      "id": "lowood",
+      "label": "Lowood School"
+    },
+    {
+      "id": "thornfield",
+      "label": "Thornfield Hall"
+    },
+    {
+      "id": "rivers",
+      "label": "Moor House (the Riverses)"
+    },
+    {
+      "id": "mason",
+      "label": "The Masons"
+    }
+  ],
+  "characters": [
+    {
+      "id": "jane",
+      "name": "Jane Eyre",
+      "role": "protagonist",
+      "firstAppearance": "c1",
+      "summary": "The narrator: an orphaned ten-year-old living unwanted with her aunt’s family at Gateshead Hall.",
+      "notes": [
+        {
+          "at": "c10",
+          "text": "After eight years at Lowood, advertises for and takes a post as governess."
+        },
+        {
+          "at": "c26",
+          "text": "Her wedding is halted at the altar."
+        },
+        {
+          "at": "c27",
+          "text": "Leaves Thornfield secretly, with almost nothing."
+        },
+        {
+          "at": "c33",
+          "text": "Learns she has inherited £20,000 from her uncle, and divides it with her newly found cousins."
+        },
+        {
+          "at": "c38",
+          "text": "Marries Rochester."
+        }
+      ]
+    },
+    {
+      "id": "mrsReed",
+      "name": "Mrs. Reed",
+      "aliases": [
+        "Sarah Reed"
+      ],
+      "role": "supporting",
+      "group": "reed",
+      "firstAppearance": "c1",
+      "summary": "Jane’s cold aunt by marriage, mistress of Gateshead Hall.",
+      "notes": [
+        {
+          "at": "c21",
+          "text": "On her deathbed confesses she hid a letter from Jane’s uncle, and dies unreconciled."
+        }
+      ]
+    },
+    {
+      "id": "johnReed",
+      "name": "John Reed",
+      "role": "minor",
+      "group": "reed",
+      "firstAppearance": "c1",
+      "summary": "Jane’s bullying fourteen-year-old cousin.",
+      "notes": [
+        {
+          "at": "c21",
+          "text": "Has died — reportedly by his own hand — after ruining himself and his mother."
+        }
+      ]
+    },
+    {
+      "id": "eliza",
+      "name": "Eliza Reed",
+      "role": "minor",
+      "group": "reed",
+      "firstAppearance": "c1",
+      "summary": "Jane’s elder cousin, cold and self-contained."
+    },
+    {
+      "id": "georgianaReed",
+      "name": "Georgiana Reed",
+      "role": "minor",
+      "group": "reed",
+      "firstAppearance": "c1",
+      "summary": "Jane’s pretty, spoiled cousin."
+    },
+    {
+      "id": "bessie",
+      "name": "Bessie Lee",
+      "role": "supporting",
+      "group": "reed",
+      "firstAppearance": "c1",
+      "summary": "Gateshead nursemaid, quick-tempered but the one person there who is kind to Jane.",
+      "notes": [
+        {
+          "at": "c10",
+          "text": "Visits Jane before she leaves Lowood, now married to the coachman Robert Leaven."
+        }
+      ]
+    },
+    {
+      "id": "mrLloyd",
+      "name": "Mr. Lloyd",
+      "role": "minor",
+      "firstAppearance": "c3",
+      "summary": "Apothecary called to Jane after the red-room; he suggests she be sent to school."
+    },
+    {
+      "id": "brocklehurst",
+      "name": "Mr. Brocklehurst",
+      "role": "supporting",
+      "group": "lowood",
+      "firstAppearance": "c4",
+      "summary": "Harsh, hypocritical clergyman who runs Lowood School.",
+      "notes": [
+        {
+          "at": "c7",
+          "text": "Stands Jane on a stool and denounces her to the whole school as a liar."
+        }
+      ]
+    },
+    {
+      "id": "helen",
+      "name": "Helen Burns",
+      "role": "major",
+      "group": "lowood",
+      "firstAppearance": "c5",
+      "summary": "Patient, deeply religious older pupil at Lowood.",
+      "notes": [
+        {
+          "at": "c9",
+          "text": "Dies of consumption with Jane in her arms."
+        }
+      ]
+    },
+    {
+      "id": "missTemple",
+      "name": "Miss Temple",
+      "aliases": [
+        "Maria Temple"
+      ],
+      "role": "supporting",
+      "group": "lowood",
+      "firstAppearance": "c5",
+      "summary": "Kind, dignified superintendent of Lowood.",
+      "notes": [
+        {
+          "at": "c10",
+          "text": "Marries and leaves Lowood."
+        }
+      ]
+    },
+    {
+      "id": "rochester",
+      "name": "Edward Rochester",
+      "aliases": [
+        "Mr. Rochester",
+        "Edward Fairfax Rochester"
+      ],
+      "role": "protagonist",
+      "group": "thornfield",
+      "firstAppearance": "c11",
+      "summary": "Brooding, sardonic master of Thornfield Hall, usually away.",
+      "notes": [
+        {
+          "at": "c12",
+          "text": "Meets Jane in the lane when his horse slips on the ice."
+        },
+        {
+          "at": "c15",
+          "text": "Jane saves him from a fire set in his bedroom."
+        },
+        {
+          "at": "c23",
+          "text": "Proposes to Jane."
+        },
+        {
+          "at": "c26",
+          "text": "Is revealed to have a living wife."
+        },
+        {
+          "at": "c36",
+          "text": "Was blinded and lost a hand trying to save Bertha when Thornfield burned."
+        },
+        {
+          "at": "c38",
+          "text": "Marries Jane and regains some sight in one eye."
+        }
+      ]
+    },
+    {
+      "id": "fairfax",
+      "name": "Mrs. Fairfax",
+      "role": "supporting",
+      "group": "thornfield",
+      "firstAppearance": "c11",
+      "summary": "Kindly, elderly housekeeper of Thornfield."
+    },
+    {
+      "id": "adele",
+      "name": "Adèle Varens",
+      "role": "supporting",
+      "group": "thornfield",
+      "firstAppearance": "c11",
+      "summary": "Rochester’s lively young French ward and Jane’s pupil."
+    },
+    {
+      "id": "grace",
+      "name": "Grace Poole",
+      "role": "supporting",
+      "group": "thornfield",
+      "firstAppearance": "c11",
+      "summary": "Stolid servant who sews on the third storey and is blamed for strange laughter there.",
+      "notes": [
+        {
+          "at": "c26",
+          "text": "Is revealed to be Bertha Mason’s paid keeper."
+        }
+      ]
+    },
+    {
+      "id": "celine",
+      "name": "Céline Varens",
+      "role": "minor",
+      "firstAppearance": "c15",
+      "summary": "French opera dancer, Rochester’s former mistress."
+    },
+    {
+      "id": "blanche",
+      "name": "Blanche Ingram",
+      "role": "supporting",
+      "firstAppearance": "c16",
+      "summary": "Beautiful, haughty society belle widely expected to marry Rochester."
+    },
+    {
+      "id": "mason",
+      "name": "Richard Mason",
+      "role": "supporting",
+      "group": "mason",
+      "firstAppearance": "c18",
+      "summary": "A visitor from the West Indies, an old acquaintance of Rochester.",
+      "notes": [
+        {
+          "at": "c20",
+          "text": "Is stabbed and bitten in the night on the third storey."
+        },
+        {
+          "at": "c26",
+          "text": "Interrupts the wedding with a lawyer."
+        }
+      ]
+    },
+    {
+      "id": "bertha",
+      "name": "Bertha Mason",
+      "aliases": [
+        "Bertha Antoinetta Mason",
+        "Mrs. Rochester"
+      ],
+      "role": "major",
+      "group": "mason",
+      "firstAppearance": "c26",
+      "summary": "Rochester’s wife, confined for years in the third-storey rooms at Thornfield; the source of the laughter and the night attacks.",
+      "notes": [
+        {
+          "at": "c36",
+          "text": "Set fire to Thornfield and died leaping from the roof."
+        }
+      ]
+    },
+    {
+      "id": "stJohn",
+      "name": "St. John Rivers",
+      "role": "major",
+      "group": "rivers",
+      "firstAppearance": "c28",
+      "summary": "Handsome, ambitious and austere clergyman of Morton.",
+      "notes": [
+        {
+          "at": "c34",
+          "text": "Asks Jane to marry him and go with him to India as a missionary."
+        },
+        {
+          "at": "c38",
+          "text": "Labours as a missionary in India, expecting his death."
+        }
+      ]
+    },
+    {
+      "id": "diana",
+      "name": "Diana Rivers",
+      "role": "supporting",
+      "group": "rivers",
+      "firstAppearance": "c28",
+      "summary": "St. John’s warm, spirited sister, a governess."
+    },
+    {
+      "id": "maryRivers",
+      "name": "Mary Rivers",
+      "role": "supporting",
+      "group": "rivers",
+      "firstAppearance": "c28",
+      "summary": "St. John’s gentle sister, also a governess."
+    },
+    {
+      "id": "hannah",
+      "name": "Hannah",
+      "role": "minor",
+      "group": "rivers",
+      "firstAppearance": "c28",
+      "summary": "The Riverses’ wary, devoted old servant."
+    },
+    {
+      "id": "rosamond",
+      "name": "Rosamond Oliver",
+      "role": "supporting",
+      "firstAppearance": "c31",
+      "summary": "Beautiful, good-natured heiress who funds the Morton school."
+    },
+    {
+      "id": "johnEyre",
+      "name": "John Eyre",
+      "role": "minor",
+      "firstAppearance": "c10",
+      "summary": "Jane’s paternal uncle, a merchant in Madeira.",
+      "notes": [
+        {
+          "at": "c21",
+          "text": "Wrote three years ago wishing to adopt Jane; Mrs. Reed told him she had died."
+        },
+        {
+          "at": "c33",
+          "text": "Has died, leaving Jane his fortune."
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "r1",
+      "source": "jane",
+      "target": "mrsReed",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Aunt & niece",
+          "sourceRole": "Niece",
+          "targetRole": "Aunt by marriage",
+          "note": "Mrs. Reed keeps her only from a promise to her dead husband."
+        },
+        {
+          "at": "c4",
+          "type": "rivalry",
+          "label": "Open defiance",
+          "note": "Jane denounces her before leaving for Lowood."
+        },
+        {
+          "at": "c21",
+          "type": "family",
+          "label": "Deathbed reckoning",
+          "note": "Mrs. Reed confesses hiding John Eyre’s letter; Jane forgives her."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "source": "mrsReed",
+      "target": "johnReed",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Mother & son",
+          "sourceRole": "Mother",
+          "targetRole": "Son"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "source": "mrsReed",
+      "target": "eliza",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Mother & daughter",
+          "sourceRole": "Mother",
+          "targetRole": "Daughter"
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "source": "mrsReed",
+      "target": "georgianaReed",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Mother & daughter",
+          "sourceRole": "Mother",
+          "targetRole": "Daughter"
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "source": "eliza",
+      "target": "georgianaReed",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Sisters",
+          "note": "They despise each other."
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "source": "johnReed",
+      "target": "jane",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "rivalry",
+          "label": "Cousin & tormentor",
+          "sourceRole": "Cousin",
+          "targetRole": "Cousin",
+          "note": "He strikes her; when she fights back she is locked in the red-room."
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "source": "jane",
+      "target": "eliza",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Cousins"
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "source": "jane",
+      "target": "georgianaReed",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Cousins"
+        }
+      ]
+    },
+    {
+      "id": "r9",
+      "source": "bessie",
+      "target": "jane",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "friendship",
+          "label": "Nursemaid & charge",
+          "sourceRole": "Nursemaid",
+          "targetRole": "Charge"
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "source": "bessie",
+      "target": "mrsReed",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "service",
+          "label": "Servant",
+          "sourceRole": "Nursemaid",
+          "targetRole": "Mistress"
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "source": "mrLloyd",
+      "target": "jane",
+      "phases": [
+        {
+          "at": "c3",
+          "type": "acquaintance",
+          "label": "Kindly apothecary",
+          "note": "Recommends she be sent to school."
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "source": "brocklehurst",
+      "target": "jane",
+      "phases": [
+        {
+          "at": "c4",
+          "type": "rivalry",
+          "label": "Hostile",
+          "note": "Primed by Mrs. Reed to think her deceitful."
+        },
+        {
+          "at": "c7",
+          "type": "rivalry",
+          "label": "Public humiliation",
+          "note": "He brands her a liar before the school."
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "source": "brocklehurst",
+      "target": "missTemple",
+      "phases": [
+        {
+          "at": "c7",
+          "type": "rivalry",
+          "label": "Opposed",
+          "note": "He overrules her kindness to the starving pupils."
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "source": "jane",
+      "target": "helen",
+      "phases": [
+        {
+          "at": "c5",
+          "type": "friendship",
+          "label": "Close friends"
+        },
+        {
+          "at": "c9",
+          "type": "friendship",
+          "label": "Close friends",
+          "note": "Helen dies in Jane’s arms during the night."
+        }
+      ]
+    },
+    {
+      "id": "r15",
+      "source": "missTemple",
+      "target": "jane",
+      "phases": [
+        {
+          "at": "c5",
+          "type": "mentorship",
+          "label": "Mentor",
+          "sourceRole": "Mentor",
+          "targetRole": "Pupil"
+        },
+        {
+          "at": "c8",
+          "type": "mentorship",
+          "label": "Mentor",
+          "sourceRole": "Mentor",
+          "targetRole": "Pupil",
+          "note": "She investigates and publicly clears Jane of Brocklehurst’s charge."
+        }
+      ]
+    },
+    {
+      "id": "r16",
+      "source": "missTemple",
+      "target": "helen",
+      "phases": [
+        {
+          "at": "c5",
+          "type": "mentorship",
+          "label": "Mentor",
+          "sourceRole": "Mentor",
+          "targetRole": "Pupil"
+        }
+      ]
+    },
+    {
+      "id": "r17",
+      "source": "jane",
+      "target": "rochester",
+      "phases": [
+        {
+          "at": "c12",
+          "type": "acquaintance",
+          "label": "Chance meeting",
+          "note": "She helps a stranger whose horse has fallen."
+        },
+        {
+          "at": "c13",
+          "type": "service",
+          "label": "Governess & employer",
+          "sourceRole": "Governess",
+          "targetRole": "Employer"
+        },
+        {
+          "at": "c15",
+          "type": "friendship",
+          "label": "Growing intimacy",
+          "note": "She saves him from fire; he is reluctant to let her go."
+        },
+        {
+          "at": "c23",
+          "type": "romance",
+          "label": "Engaged",
+          "sourceRole": "Fiancée",
+          "targetRole": "Fiancé"
+        },
+        {
+          "at": "c26",
+          "type": "romance",
+          "label": "Wedding halted"
+        },
+        {
+          "at": "c27",
+          "type": "romance",
+          "label": "Separated",
+          "note": "She refuses to stay as his mistress and leaves Thornfield."
+        },
+        {
+          "at": "c37",
+          "type": "romance",
+          "label": "Reunited",
+          "note": "She finds him at Ferndean."
+        },
+        {
+          "at": "c38",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Wife",
+          "targetRole": "Husband"
+        }
+      ]
+    },
+    {
+      "id": "r18",
+      "source": "rochester",
+      "target": "fairfax",
+      "phases": [
+        {
+          "at": "c11",
+          "type": "service",
+          "label": "Housekeeper",
+          "sourceRole": "Master",
+          "targetRole": "Housekeeper"
+        }
+      ]
+    },
+    {
+      "id": "r19",
+      "source": "rochester",
+      "target": "adele",
+      "phases": [
+        {
+          "at": "c11",
+          "type": "family",
+          "label": "Guardian & ward",
+          "sourceRole": "Guardian",
+          "targetRole": "Ward"
+        },
+        {
+          "at": "c15",
+          "type": "family",
+          "label": "Guardian & ward",
+          "sourceRole": "Guardian",
+          "targetRole": "Ward",
+          "note": "She is Céline Varens’s daughter; Rochester denies she is his."
+        }
+      ]
+    },
+    {
+      "id": "r20",
+      "source": "jane",
+      "target": "adele",
+      "phases": [
+        {
+          "at": "c11",
+          "type": "mentorship",
+          "label": "Governess & pupil",
+          "sourceRole": "Governess",
+          "targetRole": "Pupil"
+        }
+      ]
+    },
+    {
+      "id": "r21",
+      "source": "jane",
+      "target": "fairfax",
+      "phases": [
+        {
+          "at": "c11",
+          "type": "friendship",
+          "label": "Friendly colleagues"
+        }
+      ]
+    },
+    {
+      "id": "r22",
+      "source": "rochester",
+      "target": "grace",
+      "phases": [
+        {
+          "at": "c11",
+          "type": "service",
+          "label": "Servant",
+          "sourceRole": "Master",
+          "targetRole": "Servant"
+        },
+        {
+          "at": "c26",
+          "type": "service",
+          "label": "Keeper",
+          "sourceRole": "Master",
+          "targetRole": "Bertha’s keeper",
+          "note": "Paid well to guard Bertha and keep the secret."
+        }
+      ]
+    },
+    {
+      "id": "r23",
+      "source": "rochester",
+      "target": "celine",
+      "phases": [
+        {
+          "at": "c15",
+          "type": "romance",
+          "label": "Former mistress",
+          "note": "He ended the affair on finding her with another lover."
+        }
+      ]
+    },
+    {
+      "id": "r24",
+      "source": "celine",
+      "target": "adele",
+      "phases": [
+        {
+          "at": "c15",
+          "type": "family",
+          "label": "Mother & daughter",
+          "sourceRole": "Mother",
+          "targetRole": "Daughter",
+          "note": "Céline abandoned her."
+        }
+      ]
+    },
+    {
+      "id": "r25",
+      "source": "rochester",
+      "target": "blanche",
+      "phases": [
+        {
+          "at": "c17",
+          "type": "romance",
+          "label": "Rumoured match",
+          "note": "He courts her openly before Jane’s eyes."
+        }
+      ]
+    },
+    {
+      "id": "r26",
+      "source": "blanche",
+      "target": "jane",
+      "phases": [
+        {
+          "at": "c17",
+          "type": "rivalry",
+          "label": "Rivals",
+          "note": "Blanche treats the governess with contempt."
+        }
+      ]
+    },
+    {
+      "id": "r27",
+      "source": "rochester",
+      "target": "mason",
+      "phases": [
+        {
+          "at": "c18",
+          "type": "acquaintance",
+          "label": "Old acquaintance",
+          "note": "Rochester is shaken by his arrival."
+        },
+        {
+          "at": "c26",
+          "type": "family",
+          "label": "Brothers-in-law",
+          "note": "Mason halts the wedding."
+        }
+      ]
+    },
+    {
+      "id": "r28",
+      "source": "rochester",
+      "target": "bertha",
+      "phases": [
+        {
+          "at": "c26",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife",
+          "note": "A marriage made fifteen years earlier in Jamaica, arranged for her fortune."
+        },
+        {
+          "at": "c36",
+          "type": "romance",
+          "label": "Widowed",
+          "note": "Bertha dies in the fire."
+        }
+      ]
+    },
+    {
+      "id": "r29",
+      "source": "mason",
+      "target": "bertha",
+      "phases": [
+        {
+          "at": "c26",
+          "type": "family",
+          "label": "Siblings",
+          "sourceRole": "Brother",
+          "targetRole": "Sister"
+        }
+      ]
+    },
+    {
+      "id": "r30",
+      "source": "grace",
+      "target": "bertha",
+      "phases": [
+        {
+          "at": "c26",
+          "type": "service",
+          "label": "Keeper & charge",
+          "sourceRole": "Keeper",
+          "targetRole": "Charge"
+        }
+      ]
+    },
+    {
+      "id": "r31",
+      "source": "jane",
+      "target": "stJohn",
+      "phases": [
+        {
+          "at": "c28",
+          "type": "acquaintance",
+          "label": "Rescuer",
+          "note": "He takes her in, starving, at Moor House."
+        },
+        {
+          "at": "c33",
+          "type": "family",
+          "label": "Cousins"
+        },
+        {
+          "at": "c34",
+          "type": "romance",
+          "label": "Unwanted proposal",
+          "note": "He urges a loveless missionary marriage; Jane refuses to marry him."
+        }
+      ]
+    },
+    {
+      "id": "r32",
+      "source": "jane",
+      "target": "diana",
+      "phases": [
+        {
+          "at": "c28",
+          "type": "friendship",
+          "label": "Friends"
+        },
+        {
+          "at": "c33",
+          "type": "family",
+          "label": "Cousins & friends"
+        }
+      ]
+    },
+    {
+      "id": "r33",
+      "source": "jane",
+      "target": "maryRivers",
+      "phases": [
+        {
+          "at": "c28",
+          "type": "friendship",
+          "label": "Friends"
+        },
+        {
+          "at": "c33",
+          "type": "family",
+          "label": "Cousins & friends"
+        }
+      ]
+    },
+    {
+      "id": "r34",
+      "source": "stJohn",
+      "target": "diana",
+      "phases": [
+        {
+          "at": "c28",
+          "type": "family",
+          "label": "Siblings",
+          "sourceRole": "Brother",
+          "targetRole": "Sister"
+        }
+      ]
+    },
+    {
+      "id": "r35",
+      "source": "stJohn",
+      "target": "maryRivers",
+      "phases": [
+        {
+          "at": "c28",
+          "type": "family",
+          "label": "Siblings",
+          "sourceRole": "Brother",
+          "targetRole": "Sister"
+        }
+      ]
+    },
+    {
+      "id": "r36",
+      "source": "diana",
+      "target": "maryRivers",
+      "phases": [
+        {
+          "at": "c28",
+          "type": "family",
+          "label": "Sisters"
+        }
+      ]
+    },
+    {
+      "id": "r37",
+      "source": "hannah",
+      "target": "stJohn",
+      "phases": [
+        {
+          "at": "c28",
+          "type": "service",
+          "label": "Servant",
+          "sourceRole": "Servant",
+          "targetRole": "Master"
+        }
+      ]
+    },
+    {
+      "id": "r38",
+      "source": "stJohn",
+      "target": "rosamond",
+      "phases": [
+        {
+          "at": "c31",
+          "type": "romance",
+          "label": "Suppressed love",
+          "note": "He loves her but judges she would make a poor missionary’s wife."
+        }
+      ]
+    },
+    {
+      "id": "r39",
+      "source": "rosamond",
+      "target": "jane",
+      "phases": [
+        {
+          "at": "c31",
+          "type": "acquaintance",
+          "label": "Patroness & teacher",
+          "note": "Jane paints her portrait."
+        }
+      ]
+    },
+    {
+      "id": "r40",
+      "source": "johnEyre",
+      "target": "jane",
+      "phases": [
+        {
+          "at": "c10",
+          "type": "family",
+          "label": "Uncle & niece",
+          "sourceRole": "Uncle",
+          "targetRole": "Niece",
+          "note": "He once called at Gateshead asking after her."
+        },
+        {
+          "at": "c21",
+          "type": "family",
+          "label": "Uncle & niece",
+          "sourceRole": "Uncle",
+          "targetRole": "Niece",
+          "note": "He wished to adopt her; Mrs. Reed told him she was dead."
+        },
+        {
+          "at": "c33",
+          "type": "family",
+          "label": "Uncle & heir",
+          "sourceRole": "Uncle",
+          "targetRole": "Heir",
+          "note": "He has died and left her £20,000."
+        }
+      ]
+    },
+    {
+      "id": "r41",
+      "source": "johnEyre",
+      "target": "mason",
+      "phases": [
+        {
+          "at": "c26",
+          "type": "acquaintance",
+          "label": "Business acquaintance",
+          "note": "Mason learned of the wedding through him in Madeira."
+        }
+      ]
+    },
+    {
+      "id": "r42",
+      "source": "johnEyre",
+      "target": "stJohn",
+      "phases": [
+        {
+          "at": "c33",
+          "type": "family",
+          "label": "Uncle & nephew",
+          "sourceRole": "Uncle",
+          "targetRole": "Nephew",
+          "note": "Estranged from the Rivers family after a quarrel with their father."
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "method": "Hand-curated from the public-domain text, with section numbers following the edition named in `edition`. Drafted with AI assistance; awaiting a line-by-line human review.",
+    "contributors": [
+      "Character Chart editors"
+    ],
+    "createdAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "review": {
+      "status": "unreviewed",
+      "notes": "Spot-check chapter/scene numbers against the stated edition before marking as reviewed."
+    }
+  },
+  "license": "CC BY 4.0"
+}

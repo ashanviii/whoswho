@@ -1,0 +1,478 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL2895536W",
+ "title": "Carmilla",
+ "authors": [
+  "Sheridan Le Fanu"
+ ],
+ "firstPublished": 1871,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #10007.",
+  "source": "Project Gutenberg eBook #10007",
+  "url": "https://www.gutenberg.org/ebooks/10007"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "An Early Fright"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "A Guest"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "We Compare Notes"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "Her Habits—A Saunter"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "A Wonderful Likeness"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "A Very Strange Agony"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "Descending"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "Search"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "The Doctor"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "Bereaved"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "The Story"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "A Petition"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "The Woodman"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "The Meeting"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "Ordeal and Execution"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "Conclusion"
+  }
+ ],
+ "characters": [
+  {
+   "id": "carmilla",
+   "name": "Carmilla",
+   "role": "protagonist",
+   "firstAppearance": "s4",
+   "summary": "First mention: “First—Her name was Carmilla.”"
+  },
+  {
+   "id": "general",
+   "name": "General",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““I quite forgot I had not told you, but you were not in the room when I received the General’s letter this evening.””"
+  },
+  {
+   "id": "madame",
+   "name": "Madame",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “She kneeled beside her for a moment and whispered, as Madame supposed, a little benediction in her ear; then hastily kissing her she stepped into her carriage, the door was closed, the footmen in stately liveries jump…”"
+  },
+  {
+   "id": "millarca",
+   "name": "Millarca",
+   "role": "major",
+   "firstAppearance": "s11",
+   "summary": "First mention: ““In the meantime the young lady, whom her mother called by the odd name of Millarca, when she once or twice addressed her, had, with the same ease and grace, got into conversation with my ward.”"
+  },
+  {
+   "id": "madame-perrodon",
+   "name": "Madame Perrodon",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “This was Madame Perrodon, a native of Berne, whose care and good nature now in part supplied to me the loss of my mother, whom I do not even remember, so early I lost her.”"
+  },
+  {
+   "id": "mircalla",
+   "name": "Mircalla",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The name is Mircalla, Countess Karnstein, and this is a little coronet over and underneath A.D.”"
+  },
+  {
+   "id": "mademoiselle",
+   "name": "Mademoiselle",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Mademoiselle related that her cousin, who was mate of a merchant ship, having taken a nap on deck on such a night, lying on his back, with his face full in the light on the moon, had wakened, after a dream of an old w…”"
+  },
+  {
+   "id": "countess-karnstein",
+   "name": "Countess Karnstein",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The name is Mircalla, Countess Karnstein, and this is a little coronet over and underneath A.D.”"
+  },
+  {
+   "id": "gothic",
+   "name": "Gothic",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Over all this the schloss shows its many-windowed front; its towers, and its Gothic chapel.”"
+  },
+  {
+   "id": "general-spielsdorf",
+   "name": "General Spielsdorf",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The nearest inhabited schloss of any historic associations, is that of old General Spielsdorf, nearly twenty miles away to the right.”"
+  },
+  {
+   "id": "mademoiselle-de-lafontaine",
+   "name": "Mademoiselle De Lafontaine",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “There was a fourth, Mademoiselle De Lafontaine, a lady such as you term, I believe, a “finishing governess.”"
+  },
+  {
+   "id": "countess",
+   "name": "Countess",
+   "role": "supporting",
+   "firstAppearance": "s11",
+   "summary": "First mention: ““I spent the interval in cudgeling my brains for a conjecture as to the identity of the lady who seemed to remember me so kindly, and I was thinking of turning about and joining in the conversation between my pretty w…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "madame-perrodon",
+   "target": "mademoiselle-de-lafontaine",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "general",
+   "target": "general-spielsdorf",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "madame-perrodon",
+   "target": "mademoiselle",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "madame",
+   "target": "madame-perrodon",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "madame",
+   "target": "mademoiselle-de-lafontaine",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "madame",
+   "target": "mademoiselle",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "countess-karnstein",
+   "target": "mircalla",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "carmilla",
+   "target": "madame",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "carmilla",
+   "target": "mademoiselle",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "carmilla",
+   "target": "general",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "general",
+   "target": "gothic",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "general",
+   "target": "mircalla",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "countess",
+   "target": "mircalla",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "countess-karnstein",
+   "target": "general",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "carmilla",
+   "target": "millarca",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "carmilla",
+   "target": "mircalla",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "carmilla",
+   "target": "countess-karnstein",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "millarca",
+   "target": "mircalla",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

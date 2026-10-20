@@ -1,0 +1,2699 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL8193478W",
+ "title": "Oliver Twist",
+ "authors": [
+  "Charles Dickens"
+ ],
+ "firstPublished": 1822,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #730.",
+  "source": "Project Gutenberg eBook #730",
+  "url": "https://www.gutenberg.org/ebooks/730"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "TREATS OF THE PLACE WHERE OLIVER TWIST WAS BORN AND OF THE"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "TREATS OF OLIVER TWIST’S GROWTH, EDUCATION, AND BOARD"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "OLIVER MINGLES WITH NEW ASSOCIATES. GOING TO A FUNERAL FOR THE FIRST"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "OLIVER, BEING GOADED BY THE TAUNTS OF NOAH, ROUSES INTO ACTION, AND"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "OLIVER CONTINUES REFRACTORY"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "OLIVER WALKS TO LONDON. HE ENCOUNTERS ON THE ROAD A STRANGE SORT OF"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "OLIVER BECOMES BETTER ACQUAINTED WITH THE CHARACTERS OF HIS NEW"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "TREATS OF MR. FANG THE POLICE MAGISTRATE; AND FURNISHES A SLIGHT"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "HOW OLIVER PASSED HIS TIME IN THE IMPROVING SOCIETY OF HIS REPUTABLE"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "IN WHICH A NOTABLE PLAN IS DISCUSSED AND DETERMINED ON"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "WHEREIN OLIVER IS DELIVERED OVER TO MR. WILLIAM SIKES"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21",
+   "title": "THE EXPEDITION"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "THE BURGLARY"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25",
+   "title": "WHEREIN THIS HISTORY REVERTS TO MR. FAGIN AND COMPANY"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26",
+   "title": "IN WHICH A MYSTERIOUS CHARACTER APPEARS UPON THE SCENE; AND MANY"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 27"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 28",
+   "title": "LOOKS AFTER OLIVER, AND PROCEEDS WITH HIS ADVENTURES"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 29",
+   "title": "HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE HOUSE, TO WHICH"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 30",
+   "title": "RELATES WHAT OLIVER’S NEW VISITORS THOUGHT OF HIM"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 31",
+   "title": "INVOLVES A CRITICAL POSITION"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 32",
+   "title": "OF THE HAPPY LIFE OLIVER BEGAN TO LEAD WITH HIS KIND FRIENDS"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 33",
+   "title": "WHEREIN THE HAPPINESS OF OLIVER AND HIS FRIENDS, EXPERIENCES A SUDDEN"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 34",
+   "title": "CONTAINS SOME INTRODUCTORY PARTICULARS RELATIVE TO A YOUNG GENTLEMAN"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 35",
+   "title": "CONTAINING THE UNSATISFACTORY RESULT OF OLIVER’S ADVENTURE; AND A"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 36",
+   "title": "IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT IMPORTANCE IN ITS"
+  },
+  {
+   "id": "s37",
+   "label": "Ch. 37",
+   "title": "IN WHICH THE READER MAY PERCEIVE A CONTRAST, NOT UNCOMMON IN"
+  },
+  {
+   "id": "s38",
+   "label": "Ch. 38",
+   "title": "CONTAINING AN ACCOUNT OF WHAT PASSED BETWEEN MR. AND MRS. BUMBLE, AND"
+  },
+  {
+   "id": "s39",
+   "label": "Ch. 39"
+  },
+  {
+   "id": "s40",
+   "label": "Ch. 40",
+   "title": "A STRANGE INTERVIEW, WHICH IS A SEQUEL TO THE LAST CHAMBER"
+  },
+  {
+   "id": "s41",
+   "label": "Ch. 41",
+   "title": "CONTAINING FRESH DISCOVERIES, AND SHOWING THAT SUPRISES, LIKE"
+  },
+  {
+   "id": "s42",
+   "label": "Ch. 42"
+  },
+  {
+   "id": "s43",
+   "label": "Ch. 43",
+   "title": "WHEREIN IS SHOWN HOW THE ARTFUL DODGER GOT INTO TROUBLE"
+  },
+  {
+   "id": "s44",
+   "label": "Ch. 44",
+   "title": "THE TIME ARRIVES FOR NANCY TO REDEEM HER PLEDGE TO ROSE MAYLIE. SHE"
+  },
+  {
+   "id": "s45",
+   "label": "Ch. 45",
+   "title": "NOAH CLAYPOLE IS EMPLOYED BY FAGIN ON A SECRET MISSION"
+  },
+  {
+   "id": "s46",
+   "label": "Ch. 46",
+   "title": "THE APPOINTMENT KEPT"
+  },
+  {
+   "id": "s47",
+   "label": "Ch. 47",
+   "title": "FATAL CONSEQUENCES"
+  },
+  {
+   "id": "s48",
+   "label": "Ch. 48",
+   "title": "THE FLIGHT OF SIKES"
+  },
+  {
+   "id": "s49",
+   "label": "Ch. 49",
+   "title": "MONKS AND MR. BROWNLOW AT LENGTH MEET. THEIR CONVERSATION, AND THE"
+  },
+  {
+   "id": "s50",
+   "label": "Ch. 50",
+   "title": "THE PURSUIT AND ESCAPE"
+  },
+  {
+   "id": "s51",
+   "label": "Ch. 51"
+  },
+  {
+   "id": "s52",
+   "label": "Ch. 52",
+   "title": "FAGIN’S LAST NIGHT ALIVE"
+  },
+  {
+   "id": "s53",
+   "label": "Ch. 53",
+   "title": "AND LAST"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-bumble",
+   "label": "Bumble (shared surname)"
+  },
+  {
+   "id": "g-maylie",
+   "label": "Maylie (shared surname)"
+  },
+  {
+   "id": "g-sowerberry",
+   "label": "Sowerberry (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "oliver-twist",
+   "name": "Oliver Twist",
+   "aliases": [
+    "Oliver",
+    "Twist"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Although I am not disposed to maintain that being born in a workhouse, is in itself the most fortunate and enviable circumstance that can possibly befall a human being, I do mean to say that in this particular instanc…”"
+  },
+  {
+   "id": "mr-bumble",
+   "name": "Mr. Bumble",
+   "aliases": [
+    "Bumble"
+   ],
+   "role": "major",
+   "group": "g-bumble",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Mann, the good lady of the house, was unexpectedly startled by the apparition of Mr.”"
+  },
+  {
+   "id": "bill-sikes",
+   "name": "Bill Sikes",
+   "aliases": [
+    "Sikes",
+    "Mr. Sikes"
+   ],
+   "role": "major",
+   "firstAppearance": "s13",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "fagin",
+   "name": "Fagin",
+   "aliases": [
+    "Mr. Fagin"
+   ],
+   "role": "major",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““This is him, Fagin,” said Jack Dawkins; “my friend Oliver Twist.””"
+  },
+  {
+   "id": "jew",
+   "name": "Jew",
+   "role": "major",
+   "firstAppearance": "s8",
+   "summary": "First mention: “In a frying-pan, which was on the fire, and which was secured to the mantelshelf by a string, some sausages were cooking; and standing over them, with a toasting-fork in his hand, was a very old shrivelled Jew, whose…”"
+  },
+  {
+   "id": "mr-brownlow",
+   "name": "Mr. Brownlow",
+   "role": "supporting",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Permit me to inquire the name of the magistrate who offers a gratuitous and unprovoked insult to a respectable person, under the protection of the bench.” Saying this, Mr.”"
+  },
+  {
+   "id": "noah-claypole",
+   "name": "Noah Claypole",
+   "aliases": [
+    "Noah",
+    "Mr. Claypole"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Take down the shutters, yer idle young ruffian!” With this, Mr.”"
+  },
+  {
+   "id": "charley-bates",
+   "name": "Charley Bates",
+   "aliases": [
+    "Master Bates",
+    "Charley"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “He had scarcely washed himself, and made everything tidy, by emptying the basin out of the window, agreeably to the Jew’s directions, when the Dodger returned: accompanied by a very sprightly young friend, whom Oliver…”"
+  },
+  {
+   "id": "monks",
+   "name": "Monks",
+   "role": "supporting",
+   "firstAppearance": "s26",
+   "summary": "First mention: ““Monks, do you mean?”"
+  },
+  {
+   "id": "mr-giles",
+   "name": "Mr. Giles",
+   "aliases": [
+    "Giles"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s28",
+   "summary": "First mention: ““I am agreeable to anything which is agreeable to Mr.”"
+  },
+  {
+   "id": "artful-dodger",
+   "name": "Artful Dodger",
+   "aliases": [
+    "Dodger"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Dawkins’s appearance did not say a vast deal in favour of the comforts which his patron’s interest obtained for those whom he took under his protection; but, as he had a rather flightly and dissolute mode of conversin…”"
+  },
+  {
+   "id": "nancy",
+   "name": "Nancy",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “When this game had been played a great many times, a couple of young ladies called to see the young gentleman; one of whom was named Bet, and the other Nancy.”"
+  },
+  {
+   "id": "bill",
+   "name": "Bill",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Now, Bill!”"
+  },
+  {
+   "id": "toby-crackit",
+   "name": "Toby Crackit",
+   "aliases": [
+    "Toby",
+    "Crackit",
+    "Mr. Crackit"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s19",
+   "summary": "First mention: “I tell you that Toby Crackit has been hanging about the place for a fortnight, and he can’t get one of the servants in line.””"
+  },
+  {
+   "id": "mrs-corney",
+   "name": "Mrs. Corney",
+   "role": "supporting",
+   "firstAppearance": "s23",
+   "summary": "First mention: “Such was the aspect of out-of-doors affairs, when Mrs.”"
+  },
+  {
+   "id": "mrs-mann",
+   "name": "Mrs. Mann",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Be this as it may, however, it _was_ his ninth birthday; and he was keeping it in the coal-cellar with a select party of two other young gentleman, who, after participating with him in a sound thrashing, had been lock…”"
+  },
+  {
+   "id": "mr-grimwig",
+   "name": "Mr. Grimwig",
+   "role": "supporting",
+   "firstAppearance": "s14",
+   "summary": "First mention: “Bumble, a peculiarly impatient little double-knock was heard at the street-door: and the servant, running upstairs, announced Mr.”"
+  },
+  {
+   "id": "mrs-maylie",
+   "name": "Mrs. Maylie",
+   "role": "minor",
+   "group": "g-maylie",
+   "firstAppearance": "s29",
+   "summary": "First mention: ““My dear Mrs.”"
+  },
+  {
+   "id": "harry-maylie",
+   "name": "Harry Maylie",
+   "aliases": [
+    "Harry"
+   ],
+   "role": "minor",
+   "group": "g-maylie",
+   "firstAppearance": "s33",
+   "summary": "First mention: “Oliver glanced at it, and saw that it was directed to Harry Maylie, Esquire, at some great lord’s house in the country; where, he could not make out.”"
+  },
+  {
+   "id": "charlotte",
+   "name": "Charlotte",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Here, Charlotte,” said Mr.”"
+  },
+  {
+   "id": "tom-chitling",
+   "name": "Tom Chitling",
+   "aliases": [
+    "Mr. Chitling",
+    "Tom",
+    "Chitling"
+   ],
+   "role": "minor",
+   "firstAppearance": "s18",
+   "summary": "First mention: “The conversation proceeded no farther at this time, for the Jew had returned home accompanied by Miss Betsy, and a gentleman whom Oliver had never seen before, but who was accosted by the Dodger as Tom Chitling; and w…”"
+  },
+  {
+   "id": "brittles",
+   "name": "Brittles",
+   "role": "minor",
+   "firstAppearance": "s28",
+   "summary": "First mention: ““You are afraid, Brittles,” said Mr.”"
+  },
+  {
+   "id": "mr-losberne",
+   "name": "Mr. Losberne",
+   "role": "minor",
+   "firstAppearance": "s29",
+   "summary": "First mention: “Giles upstairs; and while he is going upstairs, the reader may be informed, that Mr.”"
+  },
+  {
+   "id": "mr-bolter",
+   "name": "Mr. Bolter",
+   "aliases": [
+    "Bolter"
+   ],
+   "role": "minor",
+   "firstAppearance": "s42",
+   "summary": "First mention: ““Mr.”"
+  },
+  {
+   "id": "blathers",
+   "name": "Blathers",
+   "aliases": [
+    "Mr. Blathers"
+   ],
+   "role": "minor",
+   "firstAppearance": "s31",
+   "summary": "First mention: ““Tell your governor that Blathers and Duff is here, will you?”"
+  },
+  {
+   "id": "mrs-sowerberry",
+   "name": "Mrs. Sowerberry",
+   "role": "minor",
+   "group": "g-sowerberry",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Mrs.”"
+  },
+  {
+   "id": "mr-fang",
+   "name": "Mr. Fang",
+   "aliases": [
+    "Fang"
+   ],
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “He closed his book hastily; and was at once ushered into the imposing presence of the renowned Mr.”"
+  },
+  {
+   "id": "barney",
+   "name": "Barney",
+   "role": "minor",
+   "firstAppearance": "s15",
+   "summary": "First mention: ““Is anybody here, Barney?”"
+  },
+  {
+   "id": "mr-sowerberry",
+   "name": "Mr. Sowerberry",
+   "role": "minor",
+   "group": "g-sowerberry",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Bumble had been despatched to make various preliminary inquiries, with the view of finding out some captain or other who wanted a cabin-boy without any friends; and was returning to the workhouse to communicate the re…”"
+  },
+  {
+   "id": "mr-gamfield",
+   "name": "Mr. Gamfield",
+   "aliases": [
+    "Gamfield"
+   ],
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “It chanced one morning, while Oliver’s affairs were in this auspicious and comfortable state, that Mr.”"
+  },
+  {
+   "id": "mrs-bedwin",
+   "name": "Mrs. Bedwin",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “He is not hungry, Mrs.”"
+  },
+  {
+   "id": "mrs-bumble",
+   "name": "Mrs. Bumble",
+   "role": "minor",
+   "group": "g-bumble",
+   "firstAppearance": "s37",
+   "summary": "First mention: ““Mrs.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "mrs-mann",
+   "target": "oliver-twist",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "mr-bumble",
+   "target": "oliver-twist",
+   "weight": 99,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 49
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "mr-bumble",
+   "target": "mrs-mann",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 53
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "mr-gamfield",
+   "target": "oliver-twist",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "mr-bumble",
+   "target": "mr-gamfield",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "mr-sowerberry",
+   "target": "oliver-twist",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "mr-bumble",
+   "target": "mr-sowerberry",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "mr-sowerberry",
+   "target": "mrs-sowerberry",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "mrs-sowerberry",
+   "target": "oliver-twist",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "mr-bumble",
+   "target": "mrs-sowerberry",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "charlotte",
+   "target": "oliver-twist",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "charlotte",
+   "target": "mr-sowerberry",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "noah-claypole",
+   "target": "oliver-twist",
+   "weight": 45,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 35
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "mr-sowerberry",
+   "target": "noah-claypole",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "mrs-sowerberry",
+   "target": "noah-claypole",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "charlotte",
+   "target": "noah-claypole",
+   "weight": 73,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 73
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "charlotte",
+   "target": "mrs-sowerberry",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "mr-bumble",
+   "target": "noah-claypole",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "charlotte",
+   "target": "mr-bumble",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s53",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "artful-dodger",
+   "target": "oliver-twist",
+   "weight": 68,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "jew",
+   "target": "oliver-twist",
+   "weight": 120,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "artful-dodger",
+   "target": "jew",
+   "weight": 62,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "fagin",
+   "target": "jew",
+   "weight": 127,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "artful-dodger",
+   "target": "fagin",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 49
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "fagin",
+   "target": "oliver-twist",
+   "weight": 65,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "charley-bates",
+   "target": "oliver-twist",
+   "weight": 63,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 61
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "charley-bates",
+   "target": "jew",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "artful-dodger",
+   "target": "charley-bates",
+   "weight": 98,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 69
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "charley-bates",
+   "target": "fagin",
+   "weight": 82,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "nancy",
+   "target": "oliver-twist",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "jew",
+   "target": "nancy",
+   "weight": 48,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "mr-fang",
+   "target": "oliver-twist",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "mr-brownlow",
+   "target": "mr-fang",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "mr-brownlow",
+   "target": "oliver-twist",
+   "weight": 100,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "mrs-bedwin",
+   "target": "oliver-twist",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "mr-brownlow",
+   "target": "mrs-bedwin",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "bill-sikes",
+   "target": "jew",
+   "weight": 161,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "bill",
+   "target": "bill-sikes",
+   "weight": 92,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 52
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "bill",
+   "target": "jew",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "bill-sikes",
+   "target": "oliver-twist",
+   "weight": 106,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "bill-sikes",
+   "target": "fagin",
+   "weight": 137,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "fagin",
+   "target": "nancy",
+   "weight": 47,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "bill-sikes",
+   "target": "nancy",
+   "weight": 86,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 51
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "bill",
+   "target": "nancy",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "bill",
+   "target": "fagin",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s47",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "mr-grimwig",
+   "target": "oliver-twist",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "mr-bumble",
+   "target": "mr-grimwig",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "mr-brownlow",
+   "target": "mr-bumble",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "mr-brownlow",
+   "target": "mr-grimwig",
+   "weight": 55,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "mr-grimwig",
+   "target": "mrs-bedwin",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "barney",
+   "target": "bill-sikes",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "barney",
+   "target": "fagin",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "bill",
+   "target": "oliver-twist",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "artful-dodger",
+   "target": "tom-chitling",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "jew",
+   "target": "tom-chitling",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "fagin",
+   "target": "tom-chitling",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "charley-bates",
+   "target": "tom-chitling",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "jew",
+   "target": "toby-crackit",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "bill-sikes",
+   "target": "toby-crackit",
+   "weight": 64,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "bill",
+   "target": "toby-crackit",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 19."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "oliver-twist",
+   "target": "toby-crackit",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 19."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "fagin",
+   "target": "toby-crackit",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 19."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "barney",
+   "target": "toby-crackit",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "barney",
+   "target": "oliver-twist",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "mr-bumble",
+   "target": "mrs-corney",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "toby-crackit",
+   "target": "tom-chitling",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 25."
+    },
+    {
+     "at": "s50",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "jew",
+   "target": "monks",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "fagin",
+   "target": "monks",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s46",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "brittles",
+   "target": "mr-giles",
+   "weight": 54,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 34
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "mr-giles",
+   "target": "oliver-twist",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 28."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "brittles",
+   "target": "oliver-twist",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 28."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "mr-losberne",
+   "target": "mrs-maylie",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 29."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "mr-giles",
+   "target": "mr-losberne",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 29."
+    },
+    {
+     "at": "s53",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "brittles",
+   "target": "mr-losberne",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "brittles",
+   "target": "mrs-maylie",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "mr-losberne",
+   "target": "oliver-twist",
+   "weight": 46,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 30."
+    },
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "blathers",
+   "target": "mr-losberne",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 31."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "blathers",
+   "target": "brittles",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 31."
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "blathers",
+   "target": "mrs-maylie",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 31."
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "blathers",
+   "target": "mr-giles",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "blathers",
+   "target": "oliver-twist",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 31."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "mrs-maylie",
+   "target": "oliver-twist",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 31."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "mr-brownlow",
+   "target": "mr-losberne",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 32."
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "harry-maylie",
+   "target": "oliver-twist",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "harry-maylie",
+   "target": "mr-giles",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 34."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "harry-maylie",
+   "target": "mrs-maylie",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 34."
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "harry-maylie",
+   "target": "mr-losberne",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 34."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "mr-bumble",
+   "target": "mrs-bumble",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "monks",
+   "target": "mr-bumble",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "monks",
+   "target": "mrs-bumble",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 38."
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "monks",
+   "target": "oliver-twist",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s40",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 40."
+    },
+    {
+     "at": "s52",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "mr-brownlow",
+   "target": "mrs-maylie",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 41."
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "monks",
+   "target": "mr-brownlow",
+   "weight": 69,
+   "phases": [
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 41."
+    },
+    {
+     "at": "s49",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "mr-grimwig",
+   "target": "mrs-maylie",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 41."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "harry-maylie",
+   "target": "mr-grimwig",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 41."
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "barney",
+   "target": "noah-claypole",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "fagin",
+   "target": "noah-claypole",
+   "weight": 87,
+   "phases": [
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "charlotte",
+   "target": "fagin",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "fagin",
+   "target": "mr-bolter",
+   "weight": 48,
+   "phases": [
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 42."
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Often together",
+     "weight": 34
+    },
+    {
+     "at": "s45",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "mr-bolter",
+   "target": "noah-claypole",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "jew",
+   "target": "mr-bolter",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 43."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "charley-bates",
+   "target": "mr-bolter",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 43."
+    },
+    {
+     "at": "s50",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "bill",
+   "target": "mr-bolter",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s47",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 47."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "mr-brownlow",
+   "target": "mrs-bumble",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 51."
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "mr-grimwig",
+   "target": "mrs-bumble",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 51."
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "mrs-bumble",
+   "target": "oliver-twist",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 51."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

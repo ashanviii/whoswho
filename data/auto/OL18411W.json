@@ -1,0 +1,2851 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL18411W",
+ "title": "The Lost Princess of Oz",
+ "authors": [
+  "L. Frank Baum"
+ ],
+ "firstPublished": 1917,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #959.",
+  "source": "Project Gutenberg eBook #959",
+  "url": "https://www.gutenberg.org/ebooks/959"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "A TERRIBLE LOSS"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "THE TROUBLES OF GLINDA THE GOOD"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "THE ROBBERY OF CAYKE THE COOKIE COOK"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "AMONG THE WINKIES"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "OZMA’S FRIENDS ARE PERPLEXED"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "THE SEARCH PARTY"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "THE MERRY-GO-ROUND MOUNTAINS"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "THE MYSTERIOUS CITY"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "THE HIGH COCO-LORUM OF THI"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "TOTO LOSES SOMETHING"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "BUTTON-BRIGHT LOSES HIMSELF"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "THE CZAROVER OF HERKU"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "THE TRUTH POND"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "THE UNHAPPY FERRYMAN"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "THE BIG LAVENDER BEAR"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "THE LITTLE PINK BEAR"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "THE MEETING"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "THE CONFERENCE"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "UGU THE SHOEMAKER"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "MORE SURPRISES"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21",
+   "title": "MAGIC AGAINST MAGIC"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "IN THE WICKER CASTLE"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23",
+   "title": "THE DEFIANCE OF UGU THE SHOEMAKER"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24",
+   "title": "THE LITTLE PINK BEAR SPEAKS TRULY"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25",
+   "title": "OZMA OF OZ"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26",
+   "title": "DOROTHY FORGIVES"
+  }
+ ],
+ "characters": [
+  {
+   "id": "dorothy",
+   "name": "Dorothy",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “It was Dorothy who first discovered it.”"
+  },
+  {
+   "id": "ozma",
+   "name": "Ozma",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Dorothy was a little Kansas girl who had come to the Land of Oz to live and had been given a delightful suite of rooms in Ozma’s royal palace just because Ozma loved Dorothy and wanted her to live as near her as possi…”"
+  },
+  {
+   "id": "wizard",
+   "name": "Wizard",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Dorothy had met and questioned the Scarecrow, Tik-Tok, the Shaggy Man, Button-Bright, Cap’n Bill, and even the wise and powerful Wizard of Oz, but not one of them had seen Ozma since she parted with her friends the ev…”"
+  },
+  {
+   "id": "frogman",
+   "name": "Frogman",
+   "role": "protagonist",
+   "firstAppearance": "s3",
+   "summary": "First mention: “It was a serious thing in any part of the Land of Oz to accuse one of stealing, so when the Yips heard Cayke the Cookie Cook declare that her jeweled dishpan had been stolen, they were both humiliated and disturbed an…”"
+  },
+  {
+   "id": "ugu",
+   "name": "Ugu",
+   "role": "protagonist",
+   "firstAppearance": "s11",
+   "summary": "First mention: ““Ugu the Shoemaker did that.””"
+  },
+  {
+   "id": "cayke",
+   "name": "Cayke",
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “It was here, on the morning when Ozma so strangely disappeared from the Emerald City, that Cayke the Cookie Cook discovered that her diamond-studded gold dishpan had been stolen, and she raised such a hue and cry over…”"
+  },
+  {
+   "id": "button-bright",
+   "name": "Button-Bright",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “So I put the eyes in my pocket, and this morning Button-Bright led me to Aunt Em, who sewed ’em on again.”"
+  },
+  {
+   "id": "scraps",
+   "name": "Scraps",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Stop a minute, Scraps!”"
+  },
+  {
+   "id": "cowardly-lion",
+   "name": "Cowardly Lion",
+   "aliases": [
+    "Lion"
+   ],
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “This was none other than the famous Cowardly Lion, one of the most interesting creatures in all Oz.”"
+  },
+  {
+   "id": "trot",
+   "name": "Trot",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “There was another named Betsy Bobbin, whose adventures had led her to seek refuge with Ozma, and still another named Trot, who had been invited, together with her faithful companion Cap’n Bill, to make her home in thi…”"
+  },
+  {
+   "id": "shoemaker",
+   "name": "Shoemaker",
+   "role": "major",
+   "firstAppearance": "s11",
+   "summary": "First mention: ““Ugu the Shoemaker did that.””"
+  },
+  {
+   "id": "nome-king",
+   "name": "Nome King",
+   "aliases": [
+    "King"
+   ],
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “There was no King or Queen in the Yip Country, so the simple inhabitants naturally came to look upon the Frogman as their leader as well as their counselor in all times of emergency.”"
+  },
+  {
+   "id": "woozy",
+   "name": "Woozy",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““I lost both my eyes in a tussle with the Woozy last night, for the creature scraped ’em both off my face with his square paws.”"
+  },
+  {
+   "id": "toto",
+   "name": "Toto",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Everything seemed very still throughout the great building, and Toto—that was the little dog’s name—missed the customary chatter of the three girls.”"
+  },
+  {
+   "id": "cookie-cook",
+   "name": "Cookie Cook",
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “It was here, on the morning when Ozma so strangely disappeared from the Emerald City, that Cayke the Cookie Cook discovered that her diamond-studded gold dishpan had been stolen, and she raised such a hue and cry over…”"
+  },
+  {
+   "id": "betsy-bobbin",
+   "name": "Betsy Bobbin",
+   "aliases": [
+    "Betsy"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “There was another named Betsy Bobbin, whose adventures had led her to seek refuge with Ozma, and still another named Trot, who had been invited, together with her faithful companion Cap’n Bill, to make her home in thi…”"
+  },
+  {
+   "id": "pink-bear",
+   "name": "Pink Bear",
+   "role": "major",
+   "firstAppearance": "s16",
+   "summary": "First mention: ““U-u-u,” said the Pink Bear, and then stopped short.”"
+  },
+  {
+   "id": "patchwork-girl",
+   "name": "Patchwork Girl",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “She was commonly called “the Patchwork Girl” because her body and limbs were made from a gay-colored patchwork quilt which had been cut into shape and stuffed with cotton.”"
+  },
+  {
+   "id": "emerald",
+   "name": "Emerald",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “This castle, situated in the Quadling Country, far south of the Emerald City where Ozma ruled, was a splendid structure of exquisite marbles and silver grilles.”"
+  },
+  {
+   "id": "glinda",
+   "name": "Glinda",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “That same morning there was great excitement in the castle of the powerful Sorceress of Oz, Glinda the Good.”"
+  },
+  {
+   "id": "yips",
+   "name": "Yips",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “But on top live the Yips, and although the space they occupy is not great in extent, the wee country is all their own.”"
+  },
+  {
+   "id": "hank",
+   "name": "Hank",
+   "role": "supporting",
+   "firstAppearance": "s6",
+   "summary": "First mention: “The addition of the Woozy and the Cowardly Lion to the party gave Betsy Bobbin an idea, and she ran to the marble stables at the rear of the palace and brought out her mule, Hank by name.”"
+  },
+  {
+   "id": "mule",
+   "name": "Mule",
+   "role": "supporting",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Here he paused to listen, and hearing sounds of cheering, he ran swiftly along until he came in sight of the Red Wagon and the Woozy and the Lion and the Mule and all the others.”"
+  },
+  {
+   "id": "records",
+   "name": "Records",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Of all the magical things which surrounded Glinda in her castle, there was none more marvelous than her Great Book of Records.”"
+  },
+  {
+   "id": "lorum",
+   "name": "Lorum",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: ““I think,” said the Wizard, “we ought to see your High Coco-Lorum and talk with him.”"
+  },
+  {
+   "id": "scarecrow",
+   "name": "Scarecrow",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““I’ve never been there yet,” said Betsy Bobbin, “but the Scarecrow once told me it is the prettiest country in all Oz.””"
+  },
+  {
+   "id": "sorceress",
+   "name": "Sorceress",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “That same morning there was great excitement in the castle of the powerful Sorceress of Oz, Glinda the Good.”"
+  },
+  {
+   "id": "picture",
+   "name": "Picture",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Magic Picture was gone.”"
+  },
+  {
+   "id": "wiljon",
+   "name": "Wiljon",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Come here, Wiljon,” she called to her husband, who was eating his breakfast, “and take a look at this astonishing freak.””"
+  },
+  {
+   "id": "herkus",
+   "name": "Herkus",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Beyond the Merry-Go-Round Mountains it is said the Thistle-Eaters and the Herkus live.””"
+  },
+  {
+   "id": "cap-n-bill",
+   "name": "Cap’n Bill",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “There was another named Betsy Bobbin, whose adventures had led her to seek refuge with Ozma, and still another named Trot, who had been invited, together with her faithful companion Cap’n Bill, to make her home in thi…”"
+  },
+  {
+   "id": "jellia-jamb",
+   "name": "Jellia Jamb",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “In a little waiting room sat Ozma’s maid, Jellia Jamb, who was busily sewing.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "dorothy",
+   "target": "ozma",
+   "weight": 95,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "betsy-bobbin",
+   "target": "dorothy",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "dorothy",
+   "target": "trot",
+   "weight": 54,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "cap-n-bill",
+   "target": "dorothy",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "betsy-bobbin",
+   "target": "ozma",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "ozma",
+   "target": "trot",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "cap-n-bill",
+   "target": "ozma",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "betsy-bobbin",
+   "target": "trot",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "betsy-bobbin",
+   "target": "cap-n-bill",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "cap-n-bill",
+   "target": "trot",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "dorothy",
+   "target": "scarecrow",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "betsy-bobbin",
+   "target": "scarecrow",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "ozma",
+   "target": "scarecrow",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "dorothy",
+   "target": "jellia-jamb",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "jellia-jamb",
+   "target": "ozma",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "dorothy",
+   "target": "scraps",
+   "weight": 46,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "ozma",
+   "target": "scraps",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "scraps",
+   "target": "woozy",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "button-bright",
+   "target": "scraps",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "button-bright",
+   "target": "ozma",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "button-bright",
+   "target": "woozy",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "dorothy",
+   "target": "woozy",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "button-bright",
+   "target": "dorothy",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "patchwork-girl",
+   "target": "scraps",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "dorothy",
+   "target": "patchwork-girl",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "dorothy",
+   "target": "wizard",
+   "weight": 76,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "ozma",
+   "target": "wizard",
+   "weight": 80,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "betsy-bobbin",
+   "target": "button-bright",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "betsy-bobbin",
+   "target": "wizard",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "button-bright",
+   "target": "trot",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "trot",
+   "target": "wizard",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "scarecrow",
+   "target": "wizard",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "button-bright",
+   "target": "cap-n-bill",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "button-bright",
+   "target": "wizard",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "dorothy",
+   "target": "picture",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "glinda",
+   "target": "sorceress",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "emerald",
+   "target": "sorceress",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "ozma",
+   "target": "sorceress",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "records",
+   "target": "sorceress",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "glinda",
+   "target": "ozma",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "glinda",
+   "target": "records",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "emerald",
+   "target": "ozma",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "ozma",
+   "target": "records",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "glinda",
+   "target": "wizard",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "emerald",
+   "target": "wizard",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "sorceress",
+   "target": "wizard",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "picture",
+   "target": "wizard",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "records",
+   "target": "wizard",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "glinda",
+   "target": "picture",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "picture",
+   "target": "records",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "emerald",
+   "target": "yips",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "ozma",
+   "target": "yips",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "cayke",
+   "target": "yips",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "cookie-cook",
+   "target": "yips",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "cayke",
+   "target": "ozma",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "cookie-cook",
+   "target": "ozma",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "cayke",
+   "target": "emerald",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "cayke",
+   "target": "cookie-cook",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "frogman",
+   "target": "yips",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "emerald",
+   "target": "frogman",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "cayke",
+   "target": "frogman",
+   "weight": 79,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "cookie-cook",
+   "target": "frogman",
+   "weight": 50,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "frogman",
+   "target": "nome-king",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "cayke",
+   "target": "nome-king",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "frogman",
+   "target": "wiljon",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "cayke",
+   "target": "wiljon",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "cookie-cook",
+   "target": "wiljon",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "cayke",
+   "target": "scarecrow",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "scarecrow",
+   "target": "wiljon",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "frogman",
+   "target": "wizard",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "cayke",
+   "target": "wizard",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "patchwork-girl",
+   "target": "trot",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "dorothy",
+   "target": "glinda",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "patchwork-girl",
+   "target": "wizard",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "scraps",
+   "target": "wizard",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "dorothy",
+   "target": "emerald",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "wizard",
+   "target": "woozy",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "patchwork-girl",
+   "target": "woozy",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "cowardly-lion",
+   "target": "dorothy",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "cowardly-lion",
+   "target": "woozy",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "cowardly-lion",
+   "target": "wizard",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "dorothy",
+   "target": "hank",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "hank",
+   "target": "woozy",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "cowardly-lion",
+   "target": "hank",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "button-bright",
+   "target": "cowardly-lion",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "betsy-bobbin",
+   "target": "hank",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "ozma",
+   "target": "toto",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "cowardly-lion",
+   "target": "toto",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "toto",
+   "target": "woozy",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "dorothy",
+   "target": "toto",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "button-bright",
+   "target": "toto",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "jellia-jamb",
+   "target": "toto",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "mule",
+   "target": "toto",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "mule",
+   "target": "woozy",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "cowardly-lion",
+   "target": "mule",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "dorothy",
+   "target": "mule",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "hank",
+   "target": "mule",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "dorothy",
+   "target": "herkus",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "dorothy",
+   "target": "nome-king",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "lorum",
+   "target": "wizard",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "lorum",
+   "target": "toto",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "dorothy",
+   "target": "lorum",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "button-bright",
+   "target": "lorum",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "lorum",
+   "target": "nome-king",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "shoemaker",
+   "target": "ugu",
+   "weight": 74,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "ugu",
+   "target": "wizard",
+   "weight": 52,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "shoemaker",
+   "target": "wizard",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "dorothy",
+   "target": "ugu",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "ozma",
+   "target": "ugu",
+   "weight": 46,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r110",
+   "source": "dorothy",
+   "target": "shoemaker",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r111",
+   "source": "ozma",
+   "target": "shoemaker",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r112",
+   "source": "cookie-cook",
+   "target": "wizard",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r113",
+   "source": "nome-king",
+   "target": "pink-bear",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r114",
+   "source": "nome-king",
+   "target": "ugu",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r115",
+   "source": "frogman",
+   "target": "ugu",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r116",
+   "source": "cayke",
+   "target": "pink-bear",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r117",
+   "source": "cayke",
+   "target": "ugu",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r118",
+   "source": "frogman",
+   "target": "shoemaker",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r119",
+   "source": "pink-bear",
+   "target": "wizard",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r120",
+   "source": "records",
+   "target": "ugu",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r121",
+   "source": "picture",
+   "target": "ugu",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  },
+  {
+   "id": "r122",
+   "source": "dorothy",
+   "target": "pink-bear",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r123",
+   "source": "ozma",
+   "target": "pink-bear",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 20."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

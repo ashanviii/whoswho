@@ -1,0 +1,2770 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL14869167W",
+ "title": "The Old Curiosity Shop",
+ "authors": [
+  "Charles Dickens"
+ ],
+ "firstPublished": 1800,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #700.",
+  "source": "Project Gutenberg eBook #700",
+  "url": "https://www.gutenberg.org/ebooks/700"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "After combating, for nearly a week, the feeling which impelled me to"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "The child was closely followed by an elderly man of remarkably hard"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "Little Nell stood timidly by, with her eyes raised to the countenance"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "Business disposed of, Mr Swiveller was inwardly reminded of its being"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "The child, in her confidence with Mrs Quilp, had but feebly described"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "Daniel Quilp of Tower Hill, and Sampson Brass of Bevis Marks in the"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "Supper was not yet over, when there arrived at the Jolly Sandboys two"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "Day after day as he bent his steps homeward, returning from some new"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "The remainder of that day and the whole of the next were a busy time"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26",
+   "title": "Almost broken-hearted, Nell withdrew with the schoolmaster from the"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 27",
+   "title": "When they had travelled slowly forward for some short distance, Nell"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 28"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 29"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 30",
+   "title": "At length the play came to an end, and Mr Isaac List rose the only"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 31",
+   "title": "With steps more faltering and unsteady than those with which she had"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 32"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 33"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 34",
+   "title": "In course of time, that is to say, after a couple of hours or so, of"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 35",
+   "title": "Mr Brass on returning home received the report of his clerk with much"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 36"
+  },
+  {
+   "id": "s37",
+   "label": "Ch. 37",
+   "title": "The single gentleman among his other peculiarities--and he had a very"
+  },
+  {
+   "id": "s38",
+   "label": "Ch. 38",
+   "title": "Kit--for it happens at this juncture, not only that we have breathing"
+  },
+  {
+   "id": "s39",
+   "label": "Ch. 39",
+   "title": "All that day, though he waited for Mr Abel until evening, Kit kept"
+  },
+  {
+   "id": "s40",
+   "label": "Ch. 40",
+   "title": "Full of that vague kind of penitence which holidays awaken next"
+  },
+  {
+   "id": "s41",
+   "label": "Ch. 41",
+   "title": "Kit made his way through the crowded streets, dividing the stream of"
+  },
+  {
+   "id": "s42",
+   "label": "Ch. 42",
+   "title": "It behoves us to leave Kit for a while, thoughtful and expectant, and"
+  },
+  {
+   "id": "s43",
+   "label": "Ch. 43",
+   "title": "Her momentary weakness past, the child again summoned the resolution"
+  },
+  {
+   "id": "s44",
+   "label": "Ch. 44",
+   "title": "The throng of people hurried by, in two opposite streams, with no"
+  },
+  {
+   "id": "s45",
+   "label": "Ch. 45",
+   "title": "In all their journeying, they had never longed so ardently, they had"
+  },
+  {
+   "id": "s46",
+   "label": "Ch. 46"
+  },
+  {
+   "id": "s47",
+   "label": "Ch. 47"
+  },
+  {
+   "id": "s48",
+   "label": "Ch. 48"
+  },
+  {
+   "id": "s49",
+   "label": "Ch. 49",
+   "title": "Kit’s mother might have spared herself the trouble of looking back so"
+  },
+  {
+   "id": "s50",
+   "label": "Ch. 50"
+  },
+  {
+   "id": "s51",
+   "label": "Ch. 51",
+   "title": "The bland and open-hearted proprietor of Bachelor’s Hall slept on"
+  },
+  {
+   "id": "s52",
+   "label": "Ch. 52"
+  },
+  {
+   "id": "s53",
+   "label": "Ch. 53",
+   "title": "Nell was stirring early in the morning, and having discharged her"
+  },
+  {
+   "id": "s54",
+   "label": "Ch. 54"
+  },
+  {
+   "id": "s55",
+   "label": "Ch. 55",
+   "title": "From that time, there sprung up in the old man’s mind, a solicitude"
+  },
+  {
+   "id": "s56",
+   "label": "Ch. 56"
+  },
+  {
+   "id": "s57",
+   "label": "Ch. 57"
+  },
+  {
+   "id": "s58",
+   "label": "Ch. 58",
+   "title": "Mr Swiveller and his partner played several rubbers with varying"
+  },
+  {
+   "id": "s59",
+   "label": "Ch. 59",
+   "title": "When Kit, having discharged his errand, came down-stairs from the"
+  },
+  {
+   "id": "s60",
+   "label": "Ch. 60",
+   "title": "Kit stood as one entranced, with his eyes opened wide and fixed upon"
+  },
+  {
+   "id": "s61",
+   "label": "Ch. 61",
+   "title": "Let moralists and philosophers say what they may, it is very"
+  },
+  {
+   "id": "s62",
+   "label": "Ch. 62",
+   "title": "A faint light, twinkling from the window of the counting-house on"
+  },
+  {
+   "id": "s63",
+   "label": "Ch. 63",
+   "title": "The professional gentleman who had given Kit the consolatory piece of"
+  },
+  {
+   "id": "s64",
+   "label": "Ch. 64",
+   "title": "Tossing to and fro upon his hot, uneasy bed; tormented by a fierce"
+  },
+  {
+   "id": "s65",
+   "label": "Ch. 65",
+   "title": "It was well for the small servant that she was of a sharp, quick"
+  },
+  {
+   "id": "s66",
+   "label": "Ch. 66"
+  },
+  {
+   "id": "s67",
+   "label": "Ch. 67"
+  },
+  {
+   "id": "s68",
+   "label": "Ch. 68"
+  },
+  {
+   "id": "s69",
+   "label": "Ch. 69"
+  },
+  {
+   "id": "s70",
+   "label": "Ch. 70"
+  },
+  {
+   "id": "s71",
+   "label": "Ch. 71",
+   "title": "The dull, red glow of a wood fire--for no lamp or candle burnt within"
+  },
+  {
+   "id": "s72",
+   "label": "Ch. 72",
+   "title": "When morning came, and they could speak more calmly on the subject of"
+  },
+  {
+   "id": "s73",
+   "label": "Ch. 73",
+   "title": "The magic reel, which, rolling on before, has led the chronicler thus"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-swiveller",
+   "label": "Swiveller (shared surname)"
+  },
+  {
+   "id": "g-brass",
+   "label": "Brass (shared surname)"
+  },
+  {
+   "id": "g-quilp",
+   "label": "Quilp (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "kit",
+   "name": "Kit",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “We had scarcely begun our repast when there was a knock at the door by which I had entered, and Nell bursting into a hearty laugh, which I was rejoiced to hear, for it was childlike and full of hilarity, said it was n…”"
+  },
+  {
+   "id": "mr-swiveller",
+   "name": "Mr. Swiveller",
+   "aliases": [
+    "Swiveller"
+   ],
+   "role": "major",
+   "group": "g-swiveller",
+   "firstAppearance": "s2",
+   "summary": "First mention: “It’s Dick Swiveller,’ said the young fellow, pushing him in.”"
+  },
+  {
+   "id": "nell",
+   "name": "Nell",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “What if I had lost thee, Nell!’”"
+  },
+  {
+   "id": "dick",
+   "name": "Dick",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “‘No, but IS he?’ said Dick.”"
+  },
+  {
+   "id": "richard-swiveller",
+   "name": "Richard Swiveller",
+   "aliases": [
+    "Mr. Richard",
+    "Richard",
+    "Mr. Richard Swiveller"
+   ],
+   "role": "major",
+   "group": "g-swiveller",
+   "firstAppearance": "s7",
+   "summary": "First mention: “Mr Richard Swiveller’s apartments were in the neighbourhood of Drury Lane, and in addition to this convenience of situation had the advantage of being over a tobacconist’s shop, so that he was enabled to procure a ref…”"
+  },
+  {
+   "id": "sally-brass",
+   "name": "Sally Brass",
+   "aliases": [
+    "Miss Sally",
+    "Sally",
+    "Miss Sally Brass"
+   ],
+   "role": "major",
+   "group": "g-brass",
+   "firstAppearance": "s33",
+   "summary": "First mention: “Miss Sally Brass, then, was a lady of thirty-five or thereabouts, of a gaunt and bony figure, and a resolute bearing, which if it repressed the softer emotions of love, and kept admirers at a distance, certainly inspi…”"
+  },
+  {
+   "id": "barbara",
+   "name": "Barbara",
+   "role": "major",
+   "firstAppearance": "s22",
+   "summary": "First mention: “When the old gentleman had said all he had to say in the way of promise and advice, and Kit had said all he had to say in the way of assurance and thankfulness, he was handed over again to the old lady, who, summoning…”"
+  },
+  {
+   "id": "mr-brass",
+   "name": "Mr. Brass",
+   "role": "major",
+   "group": "g-brass",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Mr Brass thought that if he did, the Grand Turk’s feelings were by no means to be envied, but he said it was famous, and he had no doubt he felt very like that Potentate.”"
+  },
+  {
+   "id": "mr-quilp",
+   "name": "Mr. Quilp",
+   "role": "supporting",
+   "group": "g-quilp",
+   "firstAppearance": "s3",
+   "summary": "First mention: “‘Harkee, Mr Quilp, then,’ pursued the other, ‘You have some influence with my grandfather there.’”"
+  },
+  {
+   "id": "sampson-brass",
+   "name": "Sampson Brass",
+   "aliases": [
+    "Sampson",
+    "Mr. Sampson Brass",
+    "Mr. Sampson"
+   ],
+   "role": "supporting",
+   "group": "g-brass",
+   "firstAppearance": "s13",
+   "summary": "First mention: “Daniel Quilp of Tower Hill, and Sampson Brass of Bevis Marks in the city of London, Gentleman, one of her Majesty’s attornies of the Courts of the King’s Bench and Common Pleas at Westminster and a solicitor of the Hi…”"
+  },
+  {
+   "id": "mrs-quilp",
+   "name": "Mrs. Quilp",
+   "role": "supporting",
+   "group": "g-quilp",
+   "firstAppearance": "s3",
+   "summary": "First mention: “‘Ask Mrs Quilp, pretty Mrs Quilp, obedient, timid, loving Mrs Quilp.”"
+  },
+  {
+   "id": "mrs-jarley",
+   "name": "Mrs. Jarley",
+   "aliases": [
+    "Jarley"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s27",
+   "summary": "First mention: “‘I am Mrs Jarley.’”"
+  },
+  {
+   "id": "mr-codlin",
+   "name": "Mr. Codlin",
+   "aliases": [
+    "Codlin"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s16",
+   "summary": "First mention: “To this Mr Codlin, who had a surly, grumbling manner, replied, as he twitched Punch off the tombstone and flung him into the box, ‘I don’t care if we haven’t lost a farden, but you’re too free.”"
+  },
+  {
+   "id": "mr-chuckster",
+   "name": "Mr. Chuckster",
+   "role": "supporting",
+   "firstAppearance": "s14",
+   "summary": "First mention: “I trace the same current now, flowing through all his quiet and unobtrusive proceedings.--I am about to sign my name, you observe, at the foot of the articles which Mr Chuckster will witness; and placing my finger upo…”"
+  },
+  {
+   "id": "mr-abel",
+   "name": "Mr. Abel",
+   "role": "supporting",
+   "firstAppearance": "s14",
+   "summary": "First mention: “Chuckster, bring in Mr Abel’s articles.’”"
+  },
+  {
+   "id": "miss-brass",
+   "name": "Miss Brass",
+   "role": "supporting",
+   "group": "g-brass",
+   "firstAppearance": "s33",
+   "summary": "First mention: “The other was his clerk, assistant, housekeeper, secretary, confidential plotter, adviser, intriguer, and bill of cost increaser, Miss Brass--a kind of amazon at common law, of whom it may be desirable to offer a brie…”"
+  },
+  {
+   "id": "mr-garland",
+   "name": "Mr. Garland",
+   "role": "supporting",
+   "firstAppearance": "s14",
+   "summary": "First mention: “I trust, Mr Garland, my dear Sir, that we may mutually congratulate each other upon this auspicious occasion.’”"
+  },
+  {
+   "id": "jacob",
+   "name": "Jacob",
+   "role": "supporting",
+   "firstAppearance": "s13",
+   "summary": "First mention: “Hold your noise, little Jacob.”"
+  },
+  {
+   "id": "christopher",
+   "name": "Christopher",
+   "role": "minor",
+   "firstAppearance": "s21",
+   "summary": "First mention: “‘We are here before you, you see, Christopher,’ said Mr Garland smiling.”"
+  },
+  {
+   "id": "nelly",
+   "name": "Nelly",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘More care!’ said the old man in a shrill voice, ‘more care of Nelly!”"
+  },
+  {
+   "id": "miss-monflathers",
+   "name": "Miss Monflathers",
+   "role": "minor",
+   "firstAppearance": "s29",
+   "summary": "First mention: “And these audiences were of a very superior description, including a great many young ladies’ boarding-schools, whose favour Mrs Jarley had been at great pains to conciliate, by altering the face and costume of Mr Gri…”"
+  },
+  {
+   "id": "fred",
+   "name": "Fred",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “‘Fred!”"
+  },
+  {
+   "id": "mrs-jiniwin",
+   "name": "Mrs. Jiniwin",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “‘Ah!’ said the spokeswoman, ‘I wish you’d give her a little of your advice, Mrs Jiniwin’--Mrs Quilp had been a Miss Jiniwin it should be observed--‘nobody knows better than you, ma’am, what us women owe to ourselves.’”"
+  },
+  {
+   "id": "mr-witherden",
+   "name": "Mr. Witherden",
+   "role": "minor",
+   "firstAppearance": "s14",
+   "summary": "First mention: “At first there was a great shaking of hands and shuffling of feet, succeeded by the presentation of the nosegay; for a voice, supposed by the listener to be that of Mr Witherden the Notary, was heard to exclaim a grea…”"
+  },
+  {
+   "id": "mr-cheggs",
+   "name": "Mr. Cheggs",
+   "aliases": [
+    "Cheggs"
+   ],
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “But all these sayings and doings and thinkings being unknown to Mr Swiveller, affected him not in the least; he was debating in his mind how he could best turn jealous, and wishing that Sophy were for that occasion on…”"
+  },
+  {
+   "id": "daniel-quilp",
+   "name": "Daniel Quilp",
+   "role": "minor",
+   "group": "g-quilp",
+   "firstAppearance": "s3",
+   "summary": "First mention: “It’s not a long one--Daniel Quilp.’”"
+  },
+  {
+   "id": "isaac-list",
+   "name": "Isaac List",
+   "aliases": [
+    "Isaac"
+   ],
+   "role": "minor",
+   "firstAppearance": "s29",
+   "summary": "First mention: “Seven-and-sixpence to me, old Isaac.”"
+  },
+  {
+   "id": "sarah",
+   "name": "Sarah",
+   "role": "minor",
+   "firstAppearance": "s33",
+   "summary": "First mention: “‘There she is,’ said Quilp, stopping short at the door, and wrinkling up his eyebrows as he looked towards Miss Sally; ‘there is the woman I ought to have married--there is the beautiful Sarah--there is the female who…”"
+  },
+  {
+   "id": "trent",
+   "name": "Trent",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “‘Here’s Nelly Trent, dear Mrs Quilp,’ said her husband.”"
+  },
+  {
+   "id": "miss-nell",
+   "name": "Miss Nell",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘Good night, Miss Nell,’ returned the boy.”"
+  },
+  {
+   "id": "miss-sophy",
+   "name": "Miss Sophy",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Miss Melissa Wackles was the eldest daughter, Miss Sophy the next, and Miss Jane the youngest.”"
+  },
+  {
+   "id": "mrs-nubbles",
+   "name": "Mrs. Nubbles",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “‘I hope there are many a great deal better, Kit,’ said Mrs Nubbles; ‘and that there are, or ought to be, accordin’ to what the parson at chapel says.’”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "nell",
+   "target": "nelly",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "kit",
+   "target": "nell",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "kit",
+   "target": "miss-nell",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "fred",
+   "target": "mr-swiveller",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "fred",
+   "target": "nell",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "daniel-quilp",
+   "target": "mr-quilp",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "mr-quilp",
+   "target": "mr-swiveller",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "daniel-quilp",
+   "target": "mr-swiveller",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "mrs-quilp",
+   "target": "nelly",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "mr-quilp",
+   "target": "mrs-quilp",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "daniel-quilp",
+   "target": "mrs-quilp",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "mr-quilp",
+   "target": "mrs-jiniwin",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s49",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "mrs-jiniwin",
+   "target": "mrs-quilp",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "mr-quilp",
+   "target": "nelly",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "mr-quilp",
+   "target": "nell",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "mrs-quilp",
+   "target": "nell",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "kit",
+   "target": "nelly",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "kit",
+   "target": "mr-quilp",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s48",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "kit",
+   "target": "mrs-quilp",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "mrs-quilp",
+   "target": "trent",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "fred",
+   "target": "richard-swiveller",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mr-swiveller",
+   "target": "richard-swiveller",
+   "weight": 80,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "dick",
+   "target": "mr-swiveller",
+   "weight": 73,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s50",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 55
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "dick",
+   "target": "richard-swiveller",
+   "weight": 61,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s56",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "dick",
+   "target": "fred",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "richard-swiveller",
+   "target": "trent",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "dick",
+   "target": "trent",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "fred",
+   "target": "trent",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "mr-swiveller",
+   "target": "trent",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "miss-sophy",
+   "target": "richard-swiveller",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "miss-sophy",
+   "target": "mr-swiveller",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "mr-cheggs",
+   "target": "mr-swiveller",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s50",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "miss-sophy",
+   "target": "mr-cheggs",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "mr-cheggs",
+   "target": "richard-swiveller",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "dick",
+   "target": "miss-sophy",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "dick",
+   "target": "mr-cheggs",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s50",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "mr-cheggs",
+   "target": "nelly",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "kit",
+   "target": "mrs-nubbles",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "mr-brass",
+   "target": "mr-quilp",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "miss-nell",
+   "target": "nell",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "kit",
+   "target": "mr-brass",
+   "weight": 58,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s56",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s60",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "daniel-quilp",
+   "target": "richard-swiveller",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "mr-swiveller",
+   "target": "nelly",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "dick",
+   "target": "mr-quilp",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "dick",
+   "target": "mr-brass",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "mr-brass",
+   "target": "richard-swiveller",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "mr-brass",
+   "target": "mr-swiveller",
+   "weight": 50,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s59",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "jacob",
+   "target": "kit",
+   "weight": 75,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "jacob",
+   "target": "mrs-nubbles",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "daniel-quilp",
+   "target": "kit",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "mr-abel",
+   "target": "mr-witherden",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "mr-abel",
+   "target": "mr-chuckster",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s57",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "kit",
+   "target": "mr-abel",
+   "weight": 50,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s65",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "kit",
+   "target": "mr-chuckster",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s69",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "mr-chuckster",
+   "target": "mr-witherden",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "kit",
+   "target": "mr-witherden",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s40",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "mr-codlin",
+   "target": "nelly",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "mr-codlin",
+   "target": "nell",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "kit",
+   "target": "mr-garland",
+   "weight": 55,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 20."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s68",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "christopher",
+   "target": "kit",
+   "weight": 46,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s40",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s64",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "christopher",
+   "target": "mr-garland",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s40",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "jacob",
+   "target": "mr-garland",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s73",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "jacob",
+   "target": "mr-abel",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s68",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "mr-abel",
+   "target": "mr-garland",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s64",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "jacob",
+   "target": "richard-swiveller",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "barbara",
+   "target": "kit",
+   "weight": 88,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 22."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    },
+    {
+     "at": "s61",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "barbara",
+   "target": "mr-garland",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 22."
+    },
+    {
+     "at": "s69",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "kit",
+   "target": "richard-swiveller",
+   "weight": 46,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 22."
+    },
+    {
+     "at": "s57",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s63",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "kit",
+   "target": "mr-swiveller",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 22."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s66",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "mrs-jiniwin",
+   "target": "trent",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 23."
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "mrs-jarley",
+   "target": "nell",
+   "weight": 45,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "miss-monflathers",
+   "target": "mrs-jarley",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "miss-monflathers",
+   "target": "nell",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 29."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "isaac-list",
+   "target": "nell",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "miss-brass",
+   "target": "mr-brass",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "mr-brass",
+   "target": "sally-brass",
+   "weight": 64,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s57",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "mr-brass",
+   "target": "sampson-brass",
+   "weight": 47,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s62",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "miss-brass",
+   "target": "sally-brass",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "miss-brass",
+   "target": "sampson-brass",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "sally-brass",
+   "target": "sampson-brass",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s58",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "mr-brass",
+   "target": "sarah",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 33."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "richard-swiveller",
+   "target": "sally-brass",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s59",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "richard-swiveller",
+   "target": "sarah",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 33."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "miss-brass",
+   "target": "sarah",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 33."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "mr-swiveller",
+   "target": "sally-brass",
+   "weight": 78,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "dick",
+   "target": "sally-brass",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s60",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "dick",
+   "target": "miss-brass",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "miss-brass",
+   "target": "mr-swiveller",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "richard-swiveller",
+   "target": "sampson-brass",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 34."
+    },
+    {
+     "at": "s57",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "mr-swiveller",
+   "target": "sampson-brass",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 34."
+    },
+    {
+     "at": "s56",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "kit",
+   "target": "sally-brass",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 37."
+    },
+    {
+     "at": "s58",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "barbara",
+   "target": "mr-abel",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 37."
+    },
+    {
+     "at": "s68",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "barbara",
+   "target": "jacob",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 38."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "kit",
+   "target": "sampson-brass",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 38."
+    },
+    {
+     "at": "s56",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s60",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "mr-chuckster",
+   "target": "mr-swiveller",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 38."
+    },
+    {
+     "at": "s56",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "dick",
+   "target": "mr-chuckster",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 38."
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "christopher",
+   "target": "mr-swiveller",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 38."
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "barbara",
+   "target": "christopher",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 39."
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "barbara",
+   "target": "miss-nell",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 39."
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "jacob",
+   "target": "miss-nell",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 39."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "mr-chuckster",
+   "target": "mr-garland",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s40",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 40."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "mr-quilp",
+   "target": "mrs-nubbles",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s48",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 48."
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "mr-brass",
+   "target": "mrs-jiniwin",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s49",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 49."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "mrs-jiniwin",
+   "target": "sampson-brass",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s49",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 49."
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "christopher",
+   "target": "mr-brass",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s57",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 57."
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "sampson-brass",
+   "target": "sarah",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s58",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 58."
+    },
+    {
+     "at": "s66",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "kit",
+   "target": "sarah",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s59",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 59."
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "mr-witherden",
+   "target": "sarah",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s60",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 60."
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "mr-brass",
+   "target": "mr-witherden",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s60",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 60."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

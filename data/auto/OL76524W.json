@@ -1,0 +1,376 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL76524W",
+ "title": "The Thirty-Nine Steps",
+ "authors": [
+  "John Buchan"
+ ],
+ "firstPublished": 1915,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #558.",
+  "source": "Project Gutenberg eBook #558",
+  "url": "https://www.gutenberg.org/ebooks/558"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "The Man Who Died"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "The Milkman Sets Out on his Travels"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "The Adventure of the Literary Innkeeper"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "The Adventure of the Radical Candidate"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "The Adventure of the Spectacled Roadman"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "The Adventure of the Bald Archaeologist"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "The Dry-Fly Fisherman"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "The Coming of the Black Stone"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "The Thirty-Nine Steps"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "Various Parties Converging on the Sea"
+  }
+ ],
+ "characters": [
+  {
+   "id": "scudder",
+   "name": "Scudder",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Scudder.””"
+  },
+  {
+   "id": "sir-walter",
+   "name": "Sir Walter",
+   "role": "major",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““Sir Walter thought as how Mr Reggie’s things would fit you, sir,” said the butler.”"
+  },
+  {
+   "id": "karolides",
+   "name": "Karolides",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “They were full of the row in the Near East, and there was an article about Karolides, the Greek Premier.”"
+  },
+  {
+   "id": "mr-turnbull",
+   "name": "Mr. Turnbull",
+   "aliases": [
+    "Turnbull"
+   ],
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “In the handkerchief was a local paper tied with string and addressed to Mr Turnbull—obviously meant to solace his midday leisure.”"
+  },
+  {
+   "id": "paddock",
+   "name": "Paddock",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “I woke next morning to hear my man, Paddock, making the deuce of a row at the smoking-room door.”"
+  },
+  {
+   "id": "mr-hannay",
+   "name": "Mr. Hannay",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““What was your job in Rhodesia, Mr Hannay?”"
+  },
+  {
+   "id": "peter-pienaar",
+   "name": "Peter Pienaar",
+   "aliases": [
+    "Peter"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: “But suddenly I remembered a thing I once heard in Rhodesia from old Peter Pienaar.”"
+  },
+  {
+   "id": "sir-harry",
+   "name": "Sir Harry",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Beg pardon, Sir Harry,” said one.”"
+  },
+  {
+   "id": "royer",
+   "name": "Royer",
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““I got my Chief to speak to the First Lord and the Secretary for War, and they are bringing Royer over a day sooner.”"
+  },
+  {
+   "id": "scaife",
+   "name": "Scaife",
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Scaife, MacGillivray’s man, who had been in the Navy, knew the boat, and told me her name and her commander’s, so I sent off a wire to Sir Walter.”"
+  },
+  {
+   "id": "whittaker",
+   "name": "Whittaker",
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““Royer dines with my Chief, and then comes to my house where four people will see him—Whittaker from the Admiralty, myself, Sir Arthur Drew, and General Winstanley.”"
+  },
+  {
+   "id": "marmie",
+   "name": "Marmie",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Marmie’ was a familiar figure, I understood, at balls and polo-weeks and country houses.”"
+  },
+  {
+   "id": "jew",
+   "name": "Jew",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Besides, the Jew was behind it, and the Jew hated Russia worse than hell.”"
+  },
+  {
+   "id": "britain",
+   "name": "Britain",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “The second thing was that this war was going to come as a mighty surprise to Britain.”"
+  },
+  {
+   "id": "lord-alloa",
+   "name": "Lord Alloa",
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““Lord Alloa,” Sir Walter said, reddening with anger.”"
+  },
+  {
+   "id": "twisdon",
+   "name": "Twisdon",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Twisdon?”"
+  },
+  {
+   "id": "trafalgar-lodge",
+   "name": "Trafalgar Lodge",
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: “The house was called Trafalgar Lodge, and belonged to an old gentleman called Appleton—a retired stockbroker, the house-agent said.”"
+  },
+  {
+   "id": "bob",
+   "name": "Bob",
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: ““This will bring down my weight and my handicap, Bob.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "paddock",
+   "target": "scudder",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "karolides",
+   "target": "paddock",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "karolides",
+   "target": "scudder",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "britain",
+   "target": "scudder",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "scudder",
+   "target": "sir-harry",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "mr-turnbull",
+   "target": "sir-harry",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "marmie",
+   "target": "mr-turnbull",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "marmie",
+   "target": "sir-harry",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "sir-walter",
+   "target": "whittaker",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "scaife",
+   "target": "trafalgar-lodge",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

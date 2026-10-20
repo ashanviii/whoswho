@@ -1,0 +1,1924 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL183675W",
+ "title": "The Castle of Otranto",
+ "authors": [
+  "Horace Walpole"
+ ],
+ "firstPublished": 1764,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #696.",
+  "source": "Project Gutenberg eBook #696",
+  "url": "https://www.gutenberg.org/ebooks/696"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "Matilda, who by Hippolita’s order had retired to her apartment, was"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5"
+  }
+ ],
+ "characters": [
+  {
+   "id": "manfred",
+   "name": "Manfred",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Manfred, Prince of Otranto, had one son and one daughter: the latter, a most beautiful virgin, aged eighteen, was called Matilda.”"
+  },
+  {
+   "id": "isabella",
+   "name": "Isabella",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Manfred had contracted a marriage for his son with the Marquis of Vicenza’s daughter, Isabella; and she had already been delivered by her guardians into the hands of Manfred, that he might celebrate the wedding as soo…”"
+  },
+  {
+   "id": "matilda",
+   "name": "Matilda",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Manfred, Prince of Otranto, had one son and one daughter: the latter, a most beautiful virgin, aged eighteen, was called Matilda.”"
+  },
+  {
+   "id": "theodore",
+   "name": "Theodore",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““I am a labourer at the next village,” said the peasant; “my name is Theodore.”"
+  },
+  {
+   "id": "hippolita",
+   "name": "Hippolita",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Hippolita, his wife, an amiable lady, did sometimes venture to represent the danger of marrying their only son so early, considering his great youth, and greater infirmities; but she never received any other answer th…”"
+  },
+  {
+   "id": "princess",
+   "name": "Princess",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Isabella, who had been treated by Hippolita like a daughter, and who returned that tenderness with equal duty and affection, was scarce less assiduous about the Princess; at the same time endeavouring to partake and l…”"
+  },
+  {
+   "id": "prince",
+   "name": "Prince",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Manfred, Prince of Otranto, had one son and one daughter: the latter, a most beautiful virgin, aged eighteen, was called Matilda.”"
+  },
+  {
+   "id": "bianca",
+   "name": "Bianca",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “She waited anxiously for the return of Bianca, a young damsel that attended her, whom she had sent to learn what was become of Isabella.”"
+  },
+  {
+   "id": "jerome",
+   "name": "Jerome",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “When thou art dismissed from this castle, repair to holy father Jerome, at the convent adjoining to the church of St.”"
+  },
+  {
+   "id": "frederic",
+   "name": "Frederic",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““I come,” replied he, “to thee, Manfred, usurper of the principality of Otranto, from the renowned and invincible Knight, the Knight of the Gigantic Sabre: in the name of his Lord, Frederic, Marquis of Vicenza, he dem…”"
+  },
+  {
+   "id": "friar",
+   "name": "Friar",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Manfred, little suspecting the cause of the Friar’s arrival, and knowing he was employed by Hippolita in her charities, ordered him to be admitted, intending to leave them together, while he pursued his search after I…”"
+  },
+  {
+   "id": "knight",
+   "name": "Knight",
+   "aliases": [
+    "Sir Knight"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““From the Knight of the Gigantic Sabre,” said the Herald; “and I must speak with the usurper of Otranto.””"
+  },
+  {
+   "id": "alfonso",
+   "name": "Alfonso",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “In the midst of their senseless guesses, a young peasant, whom rumour had drawn thither from a neighbouring village, observed that the miraculous helmet was exactly like that on the figure in black marble of Alfonso t…”"
+  },
+  {
+   "id": "marquis",
+   "name": "Marquis",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Manfred had contracted a marriage for his son with the Marquis of Vicenza’s daughter, Isabella; and she had already been delivered by her guardians into the hands of Manfred, that he might celebrate the wedding as soo…”"
+  },
+  {
+   "id": "lady-isabella",
+   "name": "Lady Isabella",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “On the contrary, without mentioning the unhappy princesses, his wife and daughter, the first sounds that dropped from Manfred’s lips were, “Take care of the Lady Isabella.””"
+  },
+  {
+   "id": "conrad",
+   "name": "Conrad",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Conrad, the son, was three years younger, a homely youth, sickly, and of no promising disposition; yet he was the darling of his father, who never showed any symptoms of affection to Matilda.”"
+  },
+  {
+   "id": "diego",
+   "name": "Diego",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Yes, I and Diego,” interrupted the second, who came up in still greater consternation.”"
+  },
+  {
+   "id": "st-nicholas",
+   "name": "St. Nicholas",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “In the midst of their senseless guesses, a young peasant, whom rumour had drawn thither from a neighbouring village, observed that the miraculous helmet was exactly like that on the figure in black marble of Alfonso t…”"
+  },
+  {
+   "id": "jaquez",
+   "name": "Jaquez",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Jaquez and I, my Lord—””"
+  },
+  {
+   "id": "ricardo",
+   "name": "Ricardo",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Sir Knight,” said Manfred, warmly, “Ricardo was a valiant and upright man; he was a pious man; witness his munificent foundation of the adjoining church and two convents.”"
+  },
+  {
+   "id": "herald",
+   "name": "Herald",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Jerome, inquiring who was without, was answered, “A Herald.””"
+  },
+  {
+   "id": "princess-hippolita",
+   "name": "Princess Hippolita",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “In the meantime, the care and zeal of the young Ladies had brought the Princess Hippolita to herself, who amidst the transports of her own sorrow frequently demanded news of her lord, would have dismissed her attendan…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "manfred",
+   "target": "prince",
+   "weight": 80,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 56
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "manfred",
+   "target": "matilda",
+   "weight": 87,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 60
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "conrad",
+   "target": "manfred",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "manfred",
+   "target": "marquis",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "isabella",
+   "target": "manfred",
+   "weight": 132,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "hippolita",
+   "target": "manfred",
+   "weight": 109,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 31
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "matilda",
+   "target": "prince",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "conrad",
+   "target": "prince",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "isabella",
+   "target": "prince",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "hippolita",
+   "target": "prince",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "conrad",
+   "target": "matilda",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "marquis",
+   "target": "matilda",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "isabella",
+   "target": "matilda",
+   "weight": 104,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 83
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "hippolita",
+   "target": "matilda",
+   "weight": 85,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 62
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "conrad",
+   "target": "isabella",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "conrad",
+   "target": "hippolita",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "isabella",
+   "target": "marquis",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "hippolita",
+   "target": "marquis",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "hippolita",
+   "target": "isabella",
+   "weight": 99,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "lady-isabella",
+   "target": "prince",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "lady-isabella",
+   "target": "manfred",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "matilda",
+   "target": "princess",
+   "weight": 55,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "alfonso",
+   "target": "matilda",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "matilda",
+   "target": "st-nicholas",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "isabella",
+   "target": "princess",
+   "weight": 55,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "alfonso",
+   "target": "isabella",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "hippolita",
+   "target": "princess",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "manfred",
+   "target": "princess",
+   "weight": 81,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "princess",
+   "target": "st-nicholas",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "alfonso",
+   "target": "manfred",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "manfred",
+   "target": "st-nicholas",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "alfonso",
+   "target": "st-nicholas",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "alfonso",
+   "target": "prince",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "manfred",
+   "target": "princess-hippolita",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "matilda",
+   "target": "princess-hippolita",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "hippolita",
+   "target": "princess-hippolita",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "isabella",
+   "target": "princess-hippolita",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "prince",
+   "target": "princess",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "jaquez",
+   "target": "prince",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "diego",
+   "target": "jaquez",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "diego",
+   "target": "manfred",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "jaquez",
+   "target": "manfred",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "bianca",
+   "target": "isabella",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "bianca",
+   "target": "matilda",
+   "weight": 56,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "bianca",
+   "target": "princess",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 29
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "bianca",
+   "target": "manfred",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 37
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "bianca",
+   "target": "prince",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "lady-isabella",
+   "target": "matilda",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "bianca",
+   "target": "lady-isabella",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "isabella",
+   "target": "lady-isabella",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "jerome",
+   "target": "princess",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "jerome",
+   "target": "st-nicholas",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "jerome",
+   "target": "manfred",
+   "weight": 75,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 60
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "friar",
+   "target": "manfred",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "hippolita",
+   "target": "jerome",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "friar",
+   "target": "hippolita",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "friar",
+   "target": "isabella",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "friar",
+   "target": "jerome",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "jerome",
+   "target": "prince",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "friar",
+   "target": "prince",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "princess",
+   "target": "theodore",
+   "weight": 48,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 34
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "manfred",
+   "target": "theodore",
+   "weight": 82,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 60
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "matilda",
+   "target": "theodore",
+   "weight": 73,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 51
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "hippolita",
+   "target": "theodore",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "jerome",
+   "target": "theodore",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "herald",
+   "target": "theodore",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "herald",
+   "target": "prince",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "herald",
+   "target": "jerome",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "herald",
+   "target": "knight",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "knight",
+   "target": "prince",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "knight",
+   "target": "manfred",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 30
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "herald",
+   "target": "manfred",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "frederic",
+   "target": "manfred",
+   "weight": 48,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "frederic",
+   "target": "knight",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "frederic",
+   "target": "marquis",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "frederic",
+   "target": "isabella",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "isabella",
+   "target": "knight",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "isabella",
+   "target": "theodore",
+   "weight": 61,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "knight",
+   "target": "theodore",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "prince",
+   "target": "princess-hippolita",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "lady-isabella",
+   "target": "ricardo",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "alfonso",
+   "target": "ricardo",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "manfred",
+   "target": "ricardo",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "ricardo",
+   "target": "st-nicholas",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "jerome",
+   "target": "ricardo",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "frederic",
+   "target": "hippolita",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "frederic",
+   "target": "theodore",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "frederic",
+   "target": "matilda",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "alfonso",
+   "target": "theodore",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "bianca",
+   "target": "diego",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

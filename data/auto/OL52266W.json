@@ -1,0 +1,794 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL52266W",
+ "title": "The Invisible Man",
+ "authors": [
+  "H. G. Wells"
+ ],
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #5230.",
+  "source": "Project Gutenberg eBook #5230",
+  "url": "https://www.gutenberg.org/ebooks/5230"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "THE STRANGE MAN’S ARRIVAL"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "MR. TEDDY HENFREY’S FIRST IMPRESSIONS"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "THE THOUSAND AND ONE BOTTLES"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "MR. CUSS INTERVIEWS THE STRANGER"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "THE BURGLARY AT THE VICARAGE"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "THE FURNITURE THAT WENT MAD"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "THE UNVEILING OF THE STRANGER"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 9",
+   "title": "MR. THOMAS MARVEL"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 10",
+   "title": "MR. MARVEL’S VISIT TO IPING"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 11",
+   "title": "IN THE “COACH AND HORSES”"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 12",
+   "title": "THE INVISIBLE MAN LOSES HIS TEMPER"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 13",
+   "title": "MR. MARVEL DISCUSSES HIS RESIGNATION"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 14",
+   "title": "AT PORT STOWE"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 15",
+   "title": "THE MAN WHO WAS RUNNING"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 16",
+   "title": "IN THE “JOLLY CRICKETERS”"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 17",
+   "title": "DR. KEMP’S VISITOR"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 18",
+   "title": "THE INVISIBLE MAN SLEEPS"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 19",
+   "title": "CERTAIN FIRST PRINCIPLES"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 20",
+   "title": "AT THE HOUSE IN GREAT PORTLAND STREET"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 21",
+   "title": "IN OXFORD STREET"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 22",
+   "title": "IN THE EMPORIUM"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 23",
+   "title": "IN DRURY LANE"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 24",
+   "title": "THE PLAN THAT FAILED"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 25",
+   "title": "THE HUNTING OF THE INVISIBLE MAN"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 26",
+   "title": "THE WICKSTEED MURDER"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 27",
+   "title": "THE SIEGE OF KEMP’S HOUSE"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 28",
+   "title": "THE HUNTER HUNTED"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-marvel",
+   "label": "Marvel (shared surname)"
+  },
+  {
+   "id": "g-hall",
+   "label": "Hall (shared surname)"
+  },
+  {
+   "id": "g-bunting",
+   "label": "Bunting (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "kemp",
+   "name": "Kemp",
+   "aliases": [
+    "Dr. Kemp"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s14",
+   "summary": "First mention: “In the early evening time Dr.”"
+  },
+  {
+   "id": "mr-marvel",
+   "name": "Mr. Marvel",
+   "aliases": [
+    "Marvel"
+   ],
+   "role": "major",
+   "group": "g-marvel",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““Am I drunk?” said Mr.”"
+  },
+  {
+   "id": "mrs-hall",
+   "name": "Mrs. Hall",
+   "role": "major",
+   "group": "g-hall",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A room and a fire!” He stamped and shook the snow from off himself in the bar, and followed Mrs.”"
+  },
+  {
+   "id": "adye",
+   "name": "Adye",
+   "role": "major",
+   "firstAppearance": "s24",
+   "summary": "First mention: “For a space Kemp was too inarticulate to make Adye understand the swift things that had just happened.”"
+  },
+  {
+   "id": "mr-bunting",
+   "name": "Mr. Bunting",
+   "aliases": [
+    "Bunting"
+   ],
+   "role": "supporting",
+   "group": "g-bunting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Cuss went straight up the village to Bunting the vicar.”"
+  },
+  {
+   "id": "mr-huxter",
+   "name": "Huxter",
+   "aliases": [
+    "Mr. Huxter"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Hall saying his dog didn’t have no business to bite her guests; there was Huxter, the general dealer from over the road, interrogative; and Sandy Wadgers from the forge, judicial; besides women and children, all of th…”"
+  },
+  {
+   "id": "teddy-henfrey",
+   "name": "Teddy Henfrey",
+   "aliases": [
+    "Mr. Henfrey",
+    "Teddy",
+    "Mr. Teddy Henfrey"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Hall was screwing up her courage to go in and ask her visitor if he would take some tea, Teddy Henfrey, the clock-jobber, came into the bar.”"
+  },
+  {
+   "id": "cuss",
+   "name": "Cuss",
+   "aliases": [
+    "Mr. Cuss"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Cuss, the general practitioner, was devoured by curiosity.”"
+  },
+  {
+   "id": "griffin",
+   "name": "Griffin",
+   "role": "supporting",
+   "firstAppearance": "s16",
+   "summary": "First mention: “Griffin, of University College?””"
+  },
+  {
+   "id": "jaffers",
+   "name": "Jaffers",
+   "role": "supporting",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““’Ed or no ’ed,” said Jaffers, “I got to ’rest en, and ’rest en I _will_.””"
+  },
+  {
+   "id": "mr-hall",
+   "name": "Mr. Hall",
+   "role": "supporting",
+   "group": "g-hall",
+   "firstAppearance": "s2",
+   "summary": "First mention: “But the seed of suspicion Teddy had sown germinated in the mind of Mr.”"
+  },
+  {
+   "id": "mr-thomas-marvel",
+   "name": "Mr. Thomas Marvel",
+   "role": "supporting",
+   "group": "g-marvel",
+   "firstAppearance": "s8",
+   "summary": "First mention: “You must picture Mr.”"
+  },
+  {
+   "id": "fearenside",
+   "name": "Fearenside",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “The stranger, muffled in hat, coat, gloves, and wrapper, came out impatiently to meet Fearenside’s cart, while Hall was having a word or so of gossip preparatory to helping bring them in.”"
+  },
+  {
+   "id": "mr-wicksteed",
+   "name": "Wicksteed",
+   "aliases": [
+    "Mr. Wicksteed"
+   ],
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: “Going from whispering mouth to mouth, swift and certain over the length and breadth of the country, passed the story of the murder of Mr.”"
+  },
+  {
+   "id": "millie",
+   "name": "Millie",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “As soon as the bacon was well under way, and Millie, her lymphatic maid, had been brisked up a bit by a few deftly chosen expressions of contempt, she carried the cloth, plates, and glasses into the parlour and began…”"
+  },
+  {
+   "id": "mr-wadgers",
+   "name": "Wadgers",
+   "aliases": [
+    "Mr. Wadgers"
+   ],
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Wadgers come round?”"
+  },
+  {
+   "id": "mrs-bunting",
+   "name": "Mrs. Bunting",
+   "role": "minor",
+   "group": "g-bunting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Mrs.”"
+  },
+  {
+   "id": "mr-heelas",
+   "name": "Mr. Heelas",
+   "role": "minor",
+   "firstAppearance": "s27",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "burdock",
+   "name": "Burdock",
+   "role": "minor",
+   "firstAppearance": "s13",
+   "summary": "First mention: “It was ten days after—and indeed only when the Burdock story was already old—that the mariner collated these facts and began to understand how near he had been to the wonderful Invisible Man.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "millie",
+   "target": "mrs-hall",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "mrs-hall",
+   "target": "teddy-henfrey",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "mr-hall",
+   "target": "teddy-henfrey",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "mr-hall",
+   "target": "mrs-hall",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "mr-huxter",
+   "target": "mrs-hall",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "mr-hall",
+   "target": "mr-huxter",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "cuss",
+   "target": "mr-hall",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "cuss",
+   "target": "mrs-hall",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "cuss",
+   "target": "mr-bunting",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "mr-bunting",
+   "target": "mrs-bunting",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "millie",
+   "target": "mr-hall",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "mr-hall",
+   "target": "mr-wadgers",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "mr-huxter",
+   "target": "mr-wadgers",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "jaffers",
+   "target": "mr-hall",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "jaffers",
+   "target": "mr-wadgers",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "jaffers",
+   "target": "mr-huxter",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "mr-marvel",
+   "target": "mr-thomas-marvel",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "mr-huxter",
+   "target": "mr-marvel",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "cuss",
+   "target": "mr-marvel",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "mr-bunting",
+   "target": "mr-marvel",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "jaffers",
+   "target": "mr-marvel",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "burdock",
+   "target": "kemp",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "griffin",
+   "target": "kemp",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "kemp",
+   "target": "mr-marvel",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "adye",
+   "target": "kemp",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "kemp",
+   "target": "mr-wicksteed",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "griffin",
+   "target": "mr-wicksteed",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "kemp",
+   "target": "mr-heelas",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 28."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

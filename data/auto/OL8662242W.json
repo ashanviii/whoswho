@@ -1,0 +1,2640 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL8662242W",
+ "title": "David Copperfield",
+ "authors": [
+  "Charles Dickens"
+ ],
+ "firstPublished": 1800,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #766.",
+  "source": "Project Gutenberg eBook #766",
+  "url": "https://www.gutenberg.org/ebooks/766"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "I AM BORN"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "I OBSERVE"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "I HAVE A CHANGE"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "I FALL INTO DISGRACE"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "I AM SENT AWAY FROM HOME"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "I ENLARGE MY CIRCLE OF ACQUAINTANCE"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "MY ‘FIRST HALF’ AT SALEM HOUSE"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "I HAVE A MEMORABLE BIRTHDAY"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "I BECOME NEGLECTED, AND AM PROVIDED FOR"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "THE SEQUEL OF MY RESOLUTION"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "MY AUNT MAKES UP HER MIND ABOUT ME"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "I MAKE ANOTHER BEGINNING"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "I AM A NEW BOY IN MORE SENSES THAN ONE"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "SOMEBODY TURNS UP"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "A RETROSPECT"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "I LOOK ABOUT ME, AND MAKE A DISCOVERY"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "STEERFORTH’S HOME"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21",
+   "title": "LITTLE EM’LY"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "SOME OLD SCENES, AND SOME NEW PEOPLE"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23",
+   "title": "I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24",
+   "title": "MY FIRST DISSIPATION"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25",
+   "title": "GOOD AND BAD ANGELS"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26",
+   "title": "I FALL INTO CAPTIVITY"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 27",
+   "title": "TOMMY TRADDLES"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 28",
+   "title": "Mr. MICAWBER’S GAUNTLET"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 29",
+   "title": "I VISIT STEERFORTH AT HIS HOME, AGAIN"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 30",
+   "title": "A LOSS"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 31",
+   "title": "A GREATER LOSS"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 32",
+   "title": "THE BEGINNING OF A LONG JOURNEY"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 33",
+   "title": "BLISSFUL"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 34",
+   "title": "MY AUNT ASTONISHES ME"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 35",
+   "title": "DEPRESSION"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 36",
+   "title": "ENTHUSIASM"
+  },
+  {
+   "id": "s37",
+   "label": "Ch. 37",
+   "title": "A LITTLE COLD WATER"
+  },
+  {
+   "id": "s38",
+   "label": "Ch. 38",
+   "title": "A DISSOLUTION OF PARTNERSHIP"
+  },
+  {
+   "id": "s39",
+   "label": "Ch. 39",
+   "title": "WICKFIELD AND HEEP"
+  },
+  {
+   "id": "s40",
+   "label": "Ch. 40",
+   "title": "THE WANDERER"
+  },
+  {
+   "id": "s41",
+   "label": "Ch. 41",
+   "title": "DORA’S AUNTS"
+  },
+  {
+   "id": "s42",
+   "label": "Ch. 42",
+   "title": "MISCHIEF"
+  },
+  {
+   "id": "s43",
+   "label": "Ch. 43",
+   "title": "ANOTHER RETROSPECT"
+  },
+  {
+   "id": "s44",
+   "label": "Ch. 44",
+   "title": "OUR HOUSEKEEPING"
+  },
+  {
+   "id": "s45",
+   "label": "Ch. 45",
+   "title": "MR. DICK FULFILS MY AUNT’S PREDICTIONS"
+  },
+  {
+   "id": "s46",
+   "label": "Ch. 46",
+   "title": "INTELLIGENCE"
+  },
+  {
+   "id": "s47",
+   "label": "Ch. 47",
+   "title": "MARTHA"
+  },
+  {
+   "id": "s48",
+   "label": "Ch. 48",
+   "title": "DOMESTIC"
+  },
+  {
+   "id": "s49",
+   "label": "Ch. 49",
+   "title": "I AM INVOLVED IN MYSTERY"
+  },
+  {
+   "id": "s50",
+   "label": "Ch. 50",
+   "title": "Mr. PEGGOTTY’S DREAM COMES TRUE"
+  },
+  {
+   "id": "s51",
+   "label": "Ch. 51",
+   "title": "THE BEGINNING OF A LONGER JOURNEY"
+  },
+  {
+   "id": "s52",
+   "label": "Ch. 52",
+   "title": "I ASSIST AT AN EXPLOSION"
+  },
+  {
+   "id": "s53",
+   "label": "Ch. 53",
+   "title": "ANOTHER RETROSPECT"
+  },
+  {
+   "id": "s54",
+   "label": "Ch. 54",
+   "title": "Mr. MICAWBER’S TRANSACTIONS"
+  },
+  {
+   "id": "s55",
+   "label": "Ch. 55",
+   "title": "TEMPEST"
+  },
+  {
+   "id": "s56",
+   "label": "Ch. 56",
+   "title": "THE NEW WOUND, AND THE OLD"
+  },
+  {
+   "id": "s57",
+   "label": "Ch. 57",
+   "title": "THE EMIGRANTS"
+  },
+  {
+   "id": "s58",
+   "label": "Ch. 58",
+   "title": "ABSENCE"
+  },
+  {
+   "id": "s59",
+   "label": "Ch. 59",
+   "title": "RETURN"
+  },
+  {
+   "id": "s60",
+   "label": "Ch. 60",
+   "title": "AGNES"
+  },
+  {
+   "id": "s61",
+   "label": "Ch. 61",
+   "title": "I AM SHOWN TWO INTERESTING PENITENTS"
+  },
+  {
+   "id": "s62",
+   "label": "Ch. 62",
+   "title": "A LIGHT SHINES ON MY WAY"
+  },
+  {
+   "id": "s63",
+   "label": "Ch. 63",
+   "title": "A VISITOR"
+  },
+  {
+   "id": "s64",
+   "label": "Ch. 64",
+   "title": "A LAST RETROSPECT"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-micawber",
+   "label": "Micawber (shared surname)"
+  },
+  {
+   "id": "g-wickfield",
+   "label": "Wickfield (shared surname)"
+  },
+  {
+   "id": "g-peggotty",
+   "label": "Peggotty (shared surname)"
+  },
+  {
+   "id": "g-murdstone",
+   "label": "Murdstone (shared surname)"
+  },
+  {
+   "id": "g-copperfield",
+   "label": "Copperfield (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "mr-micawber",
+   "name": "Mr. Micawber",
+   "role": "protagonist",
+   "group": "g-micawber",
+   "firstAppearance": "s11",
+   "summary": "First mention: “‘This is Mr.”"
+  },
+  {
+   "id": "traddles",
+   "name": "Traddles",
+   "aliases": [
+    "Mr. Traddles",
+    "Mr. Thomas Traddles"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s6",
+   "summary": "First mention: “He introduced himself by informing me that I should find his name on the right-hand corner of the gate, over the top-bolt; upon that I said, ‘Traddles?”"
+  },
+  {
+   "id": "dora",
+   "name": "Dora",
+   "role": "protagonist",
+   "firstAppearance": "s26",
+   "summary": "First mention: “‘Dora!”"
+  },
+  {
+   "id": "agnes-wickfield",
+   "name": "Agnes Wickfield",
+   "aliases": [
+    "Agnes"
+   ],
+   "role": "protagonist",
+   "group": "g-wickfield",
+   "firstAppearance": "s15",
+   "summary": "First mention: “This was his little housekeeper, his daughter Agnes, Mr.”"
+  },
+  {
+   "id": "steerforth",
+   "name": "Steerforth",
+   "role": "protagonist",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Steerforth--who cut his name very deep and very often, who, I conceived, would read it in a rather strong voice, and afterwards pull my hair.”"
+  },
+  {
+   "id": "mr-peggotty",
+   "name": "Mr. Peggotty",
+   "role": "protagonist",
+   "group": "g-peggotty",
+   "firstAppearance": "s3",
+   "summary": "First mention: “As he called Peggotty ‘Lass’, and gave her a hearty smack on the cheek, I had no doubt, from the general propriety of her conduct, that he was her brother; and so he turned out--being presently introduced to me as Mr.”"
+  },
+  {
+   "id": "mrs-micawber",
+   "name": "Mrs. Micawber",
+   "role": "major",
+   "group": "g-micawber",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Arrived at this house in Windsor Terrace (which I noticed was shabby like himself, but also, like himself, made all the show it could), he presented me to Mrs.”"
+  },
+  {
+   "id": "mr-dick",
+   "name": "Mr. Dick",
+   "aliases": [
+    "Dick"
+   ],
+   "role": "major",
+   "firstAppearance": "s13",
+   "summary": "First mention: “‘Go upstairs, give my compliments to Mr.”"
+  },
+  {
+   "id": "uriah-heep",
+   "name": "Uriah Heep",
+   "aliases": [
+    "Uriah"
+   ],
+   "role": "major",
+   "firstAppearance": "s15",
+   "summary": "First mention: “Wickfield at home, Uriah Heep?”"
+  },
+  {
+   "id": "miss-murdstone",
+   "name": "Miss Murdstone",
+   "role": "major",
+   "group": "g-murdstone",
+   "firstAppearance": "s4",
+   "summary": "First mention: “It was Miss Murdstone who was arrived, and a gloomy-looking lady she was; dark, like her brother, whom she greatly resembled in face and voice; and with very heavy eyebrows, nearly meeting over her large nose, as if,…”"
+  },
+  {
+   "id": "em-ly",
+   "name": "Em’ly",
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “‘Well, sir, if you can make out here, fur a fortnut, ‘long wi’ her,’ nodding at his sister, ‘and Ham, and little Em’ly, we shall be proud of your company.’”"
+  },
+  {
+   "id": "mr-wickfield",
+   "name": "Mr. Wickfield",
+   "aliases": [
+    "Wickfield"
+   ],
+   "role": "major",
+   "group": "g-wickfield",
+   "firstAppearance": "s15",
+   "summary": "First mention: “‘We are going to Mr.”"
+  },
+  {
+   "id": "mr-barkis",
+   "name": "Mr. Barkis",
+   "aliases": [
+    "Barkis"
+   ],
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “As this was a great deal for the carrier (whose name was Mr.”"
+  },
+  {
+   "id": "mr-copperfield",
+   "name": "Mr. Copperfield",
+   "role": "major",
+   "group": "g-copperfield",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘The name was Mr.”"
+  },
+  {
+   "id": "ham-peggotty",
+   "name": "Ham Peggotty",
+   "aliases": [
+    "Ham"
+   ],
+   "role": "major",
+   "group": "g-peggotty",
+   "firstAppearance": "s1",
+   "summary": "First mention: “My mother was so much worse that Peggotty, coming in with the teaboard and candles, and seeing at a glance how ill she was,--as Miss Betsey might have done sooner if there had been light enough,--conveyed her upstairs…”"
+  },
+  {
+   "id": "master-copperfield",
+   "name": "Master Copperfield",
+   "role": "major",
+   "group": "g-copperfield",
+   "firstAppearance": "s4",
+   "summary": "First mention: “‘Master Copperfield’s box there!”"
+  },
+  {
+   "id": "mr-spenlow",
+   "name": "Mr. Spenlow",
+   "role": "supporting",
+   "firstAppearance": "s23",
+   "summary": "First mention: “One of these, a little dry man, sitting by himself, who wore a stiff brown wig that looked as if it were made of gingerbread, rose to receive my aunt, and show us into Mr.”"
+  },
+  {
+   "id": "mr-murdstone",
+   "name": "Mr. Murdstone",
+   "role": "supporting",
+   "group": "g-murdstone",
+   "firstAppearance": "s2",
+   "summary": "First mention: “One autumn morning I was with my mother in the front garden, when Mr.”"
+  },
+  {
+   "id": "mr-omer",
+   "name": "Mr. Omer",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "mr-creakle",
+   "name": "Mr. Creakle",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Steerforth and the rest to work: which is only second, in my foreboding apprehensions, to the time when the man with the wooden leg shall unlock the rusty gate to give admission to the awful Mr.”"
+  },
+  {
+   "id": "jip",
+   "name": "Jip",
+   "role": "supporting",
+   "firstAppearance": "s26",
+   "summary": "First mention: “On my way through the hall, I encountered her little dog, who was called Jip--short for Gipsy.”"
+  },
+  {
+   "id": "mrs-gummidge",
+   "name": "Mrs. Gummidge",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Then, in the privacy of my own little cabin, she informed me that Ham and Em’ly were an orphan nephew and niece, whom my host had at different times adopted in their childhood, when they were left destitute: and that…”"
+  },
+  {
+   "id": "mrs-crupp",
+   "name": "Mrs. Crupp",
+   "role": "supporting",
+   "firstAppearance": "s23",
+   "summary": "First mention: “The advertisement directed us to apply to Mrs.”"
+  },
+  {
+   "id": "miss-mills",
+   "name": "Miss Mills",
+   "role": "supporting",
+   "firstAppearance": "s33",
+   "summary": "First mention: “Her name was Miss Mills.”"
+  },
+  {
+   "id": "trotwood",
+   "name": "Trotwood",
+   "role": "supporting",
+   "firstAppearance": "s13",
+   "summary": "First mention: “‘Trotwood,’ said he.”"
+  },
+  {
+   "id": "annie",
+   "name": "Annie",
+   "role": "supporting",
+   "firstAppearance": "s16",
+   "summary": "First mention: “But, sitting at work, not far from Doctor Strong, was a very pretty young lady--whom he called Annie, and who was his daughter, I supposed--who got me out of my difficulty by kneeling down to put Doctor Strong’s shoes…”"
+  },
+  {
+   "id": "david-copperfield",
+   "name": "David Copperfield",
+   "aliases": [
+    "David"
+   ],
+   "role": "supporting",
+   "group": "g-copperfield",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘David Copperfield all over!”"
+  },
+  {
+   "id": "miss-dartle",
+   "name": "Miss Dartle",
+   "role": "supporting",
+   "firstAppearance": "s20",
+   "summary": "First mention: “She was introduced as Miss Dartle, and both Steerforth and his mother called her Rosa.”"
+  },
+  {
+   "id": "miss-betsey",
+   "name": "Miss Betsey",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Miss Trotwood, or Miss Betsey, as my poor mother always called her, when she sufficiently overcame her dread of this formidable personage to mention her at all (which was seldom), had been married to a husband younger…”"
+  },
+  {
+   "id": "mr-chillip",
+   "name": "Mr. Chillip",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "sophy",
+   "name": "Sophy",
+   "role": "supporting",
+   "firstAppearance": "s34",
+   "summary": "First mention: “‘Not, of course, but that my Sophy--pretty name, Copperfield, I always think?’”"
+  },
+  {
+   "id": "mr-mell",
+   "name": "Mr. Mell",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The cobbler’s been,’ he said, ‘since you’ve been out, Mr.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "miss-betsey",
+   "target": "mr-copperfield",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "david-copperfield",
+   "target": "mr-copperfield",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "david-copperfield",
+   "target": "miss-betsey",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "ham-peggotty",
+   "target": "miss-betsey",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "ham-peggotty",
+   "target": "mr-peggotty",
+   "weight": 112,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 51
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "em-ly",
+   "target": "mr-peggotty",
+   "weight": 96,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "em-ly",
+   "target": "ham-peggotty",
+   "weight": 79,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "mr-peggotty",
+   "target": "mrs-gummidge",
+   "weight": 97,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "ham-peggotty",
+   "target": "mrs-gummidge",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "em-ly",
+   "target": "mrs-gummidge",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s51",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "david-copperfield",
+   "target": "mr-murdstone",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "miss-murdstone",
+   "target": "mr-murdstone",
+   "weight": 47,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "david-copperfield",
+   "target": "miss-murdstone",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "mr-barkis",
+   "target": "mr-peggotty",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "em-ly",
+   "target": "mr-barkis",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "mr-mell",
+   "target": "steerforth",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 35
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "mr-peggotty",
+   "target": "steerforth",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "mr-mell",
+   "target": "mr-peggotty",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "mr-creakle",
+   "target": "mr-mell",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "miss-murdstone",
+   "target": "mr-creakle",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "mr-creakle",
+   "target": "steerforth",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 29
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mr-mell",
+   "target": "traddles",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "mr-creakle",
+   "target": "traddles",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s61",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "steerforth",
+   "target": "traddles",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "em-ly",
+   "target": "steerforth",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "ham-peggotty",
+   "target": "steerforth",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "mr-barkis",
+   "target": "steerforth",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "miss-murdstone",
+   "target": "mr-chillip",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "mr-chillip",
+   "target": "mr-omer",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "mr-chillip",
+   "target": "mr-murdstone",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "ham-peggotty",
+   "target": "mr-barkis",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "mr-barkis",
+   "target": "mrs-gummidge",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "mr-barkis",
+   "target": "mr-chillip",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "mr-micawber",
+   "target": "mrs-micawber",
+   "weight": 237,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "master-copperfield",
+   "target": "mrs-micawber",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "master-copperfield",
+   "target": "mr-micawber",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "david-copperfield",
+   "target": "mr-dick",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "mr-dick",
+   "target": "mr-murdstone",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "mr-dick",
+   "target": "trotwood",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "mr-wickfield",
+   "target": "uriah-heep",
+   "weight": 78,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 55
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "agnes-wickfield",
+   "target": "mr-wickfield",
+   "weight": 60,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "agnes-wickfield",
+   "target": "uriah-heep",
+   "weight": 62,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "annie",
+   "target": "mr-wickfield",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "mr-wickfield",
+   "target": "trotwood",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "annie",
+   "target": "uriah-heep",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "agnes-wickfield",
+   "target": "annie",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "agnes-wickfield",
+   "target": "trotwood",
+   "weight": 63,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "master-copperfield",
+   "target": "uriah-heep",
+   "weight": 75,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "master-copperfield",
+   "target": "mr-wickfield",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "agnes-wickfield",
+   "target": "master-copperfield",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "mr-micawber",
+   "target": "uriah-heep",
+   "weight": 63,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 17."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s52",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 53
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "miss-dartle",
+   "target": "steerforth",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 20."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "miss-dartle",
+   "target": "mr-peggotty",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "miss-dartle",
+   "target": "mr-copperfield",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "mr-barkis",
+   "target": "mr-omer",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "em-ly",
+   "target": "mr-omer",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "mrs-gummidge",
+   "target": "steerforth",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "ham-peggotty",
+   "target": "mr-omer",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 22."
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "mr-copperfield",
+   "target": "mr-spenlow",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 23."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 30
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "agnes-wickfield",
+   "target": "mrs-crupp",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 23."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "mrs-crupp",
+   "target": "steerforth",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 23."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "trotwood",
+   "target": "uriah-heep",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 25."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "traddles",
+   "target": "uriah-heep",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 25."
+    },
+    {
+     "at": "s52",
+     "type": "together",
+     "label": "Often together",
+     "weight": 33
+    },
+    {
+     "at": "s54",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "agnes-wickfield",
+   "target": "traddles",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 25."
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s61",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "mr-copperfield",
+   "target": "traddles",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 25."
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s52",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "dora",
+   "target": "mr-spenlow",
+   "weight": 52,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "dora",
+   "target": "mr-copperfield",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "miss-murdstone",
+   "target": "mr-copperfield",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "dora",
+   "target": "miss-murdstone",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "miss-murdstone",
+   "target": "mr-spenlow",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 29
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "mr-murdstone",
+   "target": "mr-spenlow",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "jip",
+   "target": "miss-murdstone",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "dora",
+   "target": "jip",
+   "weight": 98,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 49
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "jip",
+   "target": "mr-spenlow",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "dora",
+   "target": "mrs-crupp",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "agnes-wickfield",
+   "target": "dora",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "mrs-crupp",
+   "target": "traddles",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "mrs-micawber",
+   "target": "traddles",
+   "weight": 82,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "dora",
+   "target": "traddles",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 27."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "mr-micawber",
+   "target": "traddles",
+   "weight": 154,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 27."
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "mr-copperfield",
+   "target": "mr-micawber",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s52",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "mr-copperfield",
+   "target": "mrs-micawber",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s57",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "agnes-wickfield",
+   "target": "mr-micawber",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 28."
+    },
+    {
+     "at": "s54",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "agnes-wickfield",
+   "target": "mrs-micawber",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 28."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "mr-omer",
+   "target": "mr-peggotty",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "dora",
+   "target": "miss-mills",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "jip",
+   "target": "miss-mills",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 33."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "miss-mills",
+   "target": "mr-copperfield",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 33."
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "miss-mills",
+   "target": "miss-murdstone",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 33."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "miss-mills",
+   "target": "mr-spenlow",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "sophy",
+   "target": "traddles",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 34."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s59",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "mr-micawber",
+   "target": "sophy",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 34."
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "mr-dick",
+   "target": "mrs-crupp",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 34."
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "dora",
+   "target": "mr-dick",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 34."
+    },
+    {
+     "at": "s49",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "mr-dick",
+   "target": "traddles",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "traddles",
+   "target": "trotwood",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 36."
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "mr-dick",
+   "target": "mr-micawber",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 36."
+    },
+    {
+     "at": "s49",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "jip",
+   "target": "traddles",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 41."
+    },
+    {
+     "at": "s48",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "dora",
+   "target": "sophy",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 41."
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "agnes-wickfield",
+   "target": "sophy",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 41."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "annie",
+   "target": "mr-dick",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "annie",
+   "target": "david-copperfield",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s45",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 45."
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "mr-chillip",
+   "target": "mr-copperfield",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s59",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 59."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "mr-creakle",
+   "target": "uriah-heep",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s61",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 61."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

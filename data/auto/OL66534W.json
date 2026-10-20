@@ -1,0 +1,2517 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL66534W",
+ "title": "Northanger Abbey",
+ "authors": [
+  "Jane Austen"
+ ],
+ "firstPublished": 1818,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #121.",
+  "source": "Project Gutenberg eBook #121",
+  "url": "https://www.gutenberg.org/ebooks/121"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "CHAPTER 2"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 1",
+   "title": "No one who had ever seen Catherine Morland in her infancy would have"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 2",
+   "title": "In addition to what has been already said of Catherine Morland’s"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 3"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 4",
+   "title": "With more than usual eagerness did Catherine hasten to the pump-room"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 5",
+   "title": "Catherine was not so much engaged at the theatre that evening, in"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 6"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 7"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 8",
+   "title": "In spite of Udolpho and the dressmaker, however, the party from"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 9"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 10",
+   "title": "The Allens, Thorpes, and Morlands all met in the evening at the"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 11"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 12"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 13",
+   "title": "Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday have now"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 14"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 15"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 16",
+   "title": "Catherine’s expectations of pleasure from her visit in Milsom Street"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 17"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 18"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 19",
+   "title": "A few days passed away, and Catherine, though not allowing herself to"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 20",
+   "title": "Mr. and Mrs. Allen were sorry to lose their young friend, whose good"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 21",
+   "title": "A moment’s glance was enough to satisfy Catherine that her apartment"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 22",
+   "title": "The housemaid’s folding back her window-shutters at eight o’clock the"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 23",
+   "title": "An hour passed away before the General came in, spent, on the part of"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 24",
+   "title": "The next day afforded no opportunity for the proposed examination of"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 25"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 26"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 27",
+   "title": "The next morning brought the following very unexpected letter from"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 28"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 29"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 30"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 31",
+   "title": "Mr. and Mrs. Morland’s surprise on being applied to by Mr. Tilney for"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-morland",
+   "label": "Morland (shared surname)"
+  },
+  {
+   "id": "g-tilney",
+   "label": "Tilney (shared surname)"
+  },
+  {
+   "id": "g-thorpe",
+   "label": "Thorpe (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "catherine-morland",
+   "name": "Catherine Morland",
+   "aliases": [
+    "Catherine"
+   ],
+   "role": "protagonist",
+   "group": "g-morland",
+   "firstAppearance": "s2",
+   "summary": "First mention: “No one who had ever seen Catherine Morland in her infancy would have supposed her born to be an heroine.”"
+  },
+  {
+   "id": "isabella",
+   "name": "Isabella",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Allen, I long to introduce them; they will be so delighted to see you: the tallest is Isabella, my eldest; is not she a fine young woman?”"
+  },
+  {
+   "id": "henry",
+   "name": "Henry",
+   "role": "supporting",
+   "firstAppearance": "s11",
+   "summary": "First mention: ““Henry!”"
+  },
+  {
+   "id": "miss-tilney",
+   "name": "Miss Tilney",
+   "role": "supporting",
+   "group": "g-tilney",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Hughes and Miss Tilney with seats, as they had agreed to join their party.”"
+  },
+  {
+   "id": "mrs-allen",
+   "name": "Mrs. Allen",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Nothing more alarming occurred than a fear, on Mrs.”"
+  },
+  {
+   "id": "eleanor",
+   "name": "Eleanor",
+   "role": "supporting",
+   "firstAppearance": "s13",
+   "summary": "First mention: ““I was not within at the time; but I heard of it from Eleanor, and she has been wishing ever since to see you, to explain the reason of such incivility; but perhaps I can do it as well.”"
+  },
+  {
+   "id": "miss-morland",
+   "name": "Miss Morland",
+   "role": "supporting",
+   "group": "g-morland",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Allen, who owned the chief of the property about Fullerton, the village in Wiltshire where the Morlands lived, was ordered to Bath for the benefit of a gouty constitution—and his lady, a good-humoured woman, fond of M…”"
+  },
+  {
+   "id": "james",
+   "name": "James",
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: “James and Isabella led the way; and so well satisfied was the latter with her lot, so contentedly was she endeavouring to ensure a pleasant walk to him who brought the double recommendation of being her brother’s frie…”"
+  },
+  {
+   "id": "mr-allen",
+   "name": "Mr. Allen",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "mr-tilney",
+   "name": "Mr. Tilney",
+   "role": "supporting",
+   "group": "g-tilney",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““That is exactly what I should have guessed it, madam,” said Mr.”"
+  },
+  {
+   "id": "miss-thorpe",
+   "name": "Miss Thorpe",
+   "role": "supporting",
+   "group": "g-thorpe",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The whole being explained, many obliging things were said by the Miss Thorpes of their wish of being better acquainted with her; of being considered as already friends, through the friendship of their brothers, etc.,…”"
+  },
+  {
+   "id": "mrs-morland",
+   "name": "Mrs. Morland",
+   "role": "minor",
+   "group": "g-morland",
+   "firstAppearance": "s2",
+   "summary": "First mention: “She learnt a year, and could not bear it; and Mrs.”"
+  },
+  {
+   "id": "mrs-thorpe",
+   "name": "Mrs. Thorpe",
+   "role": "minor",
+   "group": "g-thorpe",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Mrs.”"
+  },
+  {
+   "id": "mr-thorpe",
+   "name": "Mr. Thorpe",
+   "role": "minor",
+   "group": "g-thorpe",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Her companion’s discourse now sunk from its hitherto animated pitch to nothing more than a short decisive sentence of praise or condemnation on the face of every woman they met; and Catherine, after listening and agre…”"
+  },
+  {
+   "id": "captain-tilney",
+   "name": "Captain Tilney",
+   "role": "minor",
+   "group": "g-tilney",
+   "firstAppearance": "s17",
+   "summary": "First mention: “Having heard the day before in Milsom Street that their elder brother, Captain Tilney, was expected almost every hour, she was at no loss for the name of a very fashionable-looking, handsome young man, whom she had ne…”"
+  },
+  {
+   "id": "john",
+   "name": "John",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Allen, in a family of children; and when she expatiated on the talents of her sons, and the beauty of her daughters, when she related their different situations and views—that John was at Oxford, Edward at Merchant Ta…”"
+  },
+  {
+   "id": "mr-morland",
+   "name": "Mr. Morland",
+   "role": "minor",
+   "group": "g-morland",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Do go and see for her, Mr.”"
+  },
+  {
+   "id": "general-tilney",
+   "name": "General Tilney",
+   "role": "minor",
+   "group": "g-tilney",
+   "firstAppearance": "s11",
+   "summary": "First mention: “It is General Tilney, my father.””"
+  },
+  {
+   "id": "john-thorpe",
+   "name": "John Thorpe",
+   "role": "minor",
+   "group": "g-thorpe",
+   "firstAppearance": "s8",
+   "summary": "First mention: “John Thorpe, who in the meantime had been giving orders about the horses, soon joined them, and from him she directly received the amends which were her due; for while he slightly and carelessly touched the hand of Is…”"
+  },
+  {
+   "id": "mrs-hughes",
+   "name": "Mrs. Hughes",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Allen, that she would move a little to accommodate Mrs.”"
+  },
+  {
+   "id": "henry-tilney",
+   "name": "Henry Tilney",
+   "role": "minor",
+   "group": "g-tilney",
+   "firstAppearance": "s13",
+   "summary": "First mention: “Every other look upon an average was directed towards the opposite box; and, for the space of two entire scenes, did she thus watch Henry Tilney, without being once able to catch his eye.”"
+  },
+  {
+   "id": "frederick",
+   "name": "Frederick",
+   "role": "minor",
+   "firstAppearance": "s20",
+   "summary": "First mention: ““I understand: she is in love with James, and flirts with Frederick.””"
+  },
+  {
+   "id": "mrs-tilney",
+   "name": "Mrs. Tilney",
+   "role": "minor",
+   "group": "g-tilney",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Mrs.”"
+  },
+  {
+   "id": "maria",
+   "name": "Maria",
+   "role": "minor",
+   "firstAppearance": "s15",
+   "summary": "First mention: “Belle went with your brother, and John drove Maria.””"
+  },
+  {
+   "id": "lower-rooms",
+   "name": "Lower Rooms",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “They made their appearance in the Lower Rooms; and here fortune was more favourable to our heroine.”"
+  },
+  {
+   "id": "miss-andrews",
+   "name": "Miss Andrews",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““Yes, quite sure; for a particular friend of mine, a Miss Andrews, a sweet girl, one of the sweetest creatures in the world, has read every one of them.”"
+  },
+  {
+   "id": "anne",
+   "name": "Anne",
+   "role": "minor",
+   "firstAppearance": "s15",
+   "summary": "First mention: “Catherine was still unconvinced; but glad that Anne should have the friendship of an Emily and a Sophia to console her, she bade her adieu without much uneasiness, and returned home, pleased that the party had not bee…”"
+  },
+  {
+   "id": "sarah",
+   "name": "Sarah",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Sally, or rather Sarah (for what young lady of common gentility will reach the age of sixteen without altering her name as far as she can?), must from situation be at this time the intimate friend and confidante of he…”"
+  },
+  {
+   "id": "mrs-radcliffe",
+   "name": "Mrs. Radcliffe",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “no, if I read any, it shall be Mrs.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "catherine-morland",
+   "target": "mrs-morland",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "miss-morland",
+   "target": "mr-allen",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "catherine-morland",
+   "target": "mr-allen",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "catherine-morland",
+   "target": "miss-morland",
+   "weight": 52,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "mrs-morland",
+   "target": "sarah",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "catherine-morland",
+   "target": "sarah",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "mrs-allen",
+   "target": "sarah",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "catherine-morland",
+   "target": "mrs-allen",
+   "weight": 75,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "mr-allen",
+   "target": "mrs-allen",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "miss-morland",
+   "target": "mrs-allen",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "lower-rooms",
+   "target": "mrs-allen",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "catherine-morland",
+   "target": "lower-rooms",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "mr-tilney",
+   "target": "mrs-allen",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "catherine-morland",
+   "target": "mr-tilney",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "catherine-morland",
+   "target": "mrs-thorpe",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "catherine-morland",
+   "target": "john",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "mr-tilney",
+   "target": "mrs-thorpe",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "mrs-allen",
+   "target": "mrs-thorpe",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "john",
+   "target": "mrs-allen",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "john",
+   "target": "mrs-thorpe",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "isabella",
+   "target": "mrs-allen",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "isabella",
+   "target": "mrs-thorpe",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "isabella",
+   "target": "john",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "catherine-morland",
+   "target": "miss-thorpe",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "miss-thorpe",
+   "target": "mr-tilney",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "catherine-morland",
+   "target": "isabella",
+   "weight": 131,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "isabella",
+   "target": "miss-thorpe",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "isabella",
+   "target": "mr-tilney",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "isabella",
+   "target": "lower-rooms",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "lower-rooms",
+   "target": "mrs-thorpe",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "catherine-morland",
+   "target": "miss-andrews",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "isabella",
+   "target": "miss-andrews",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "isabella",
+   "target": "mrs-morland",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "catherine-morland",
+   "target": "john-thorpe",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "isabella",
+   "target": "john-thorpe",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "john-thorpe",
+   "target": "miss-morland",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "james",
+   "target": "mrs-thorpe",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "isabella",
+   "target": "james",
+   "weight": 47,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "catherine-morland",
+   "target": "james",
+   "weight": 63,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "catherine-morland",
+   "target": "mr-thorpe",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "catherine-morland",
+   "target": "mrs-radcliffe",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "james",
+   "target": "john",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "isabella",
+   "target": "mr-allen",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "james",
+   "target": "miss-thorpe",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "james",
+   "target": "mrs-allen",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "isabella",
+   "target": "mr-thorpe",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "james",
+   "target": "mr-thorpe",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "mr-thorpe",
+   "target": "mrs-allen",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "mr-allen",
+   "target": "mrs-hughes",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "miss-tilney",
+   "target": "mr-allen",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "mrs-allen",
+   "target": "mrs-hughes",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "miss-tilney",
+   "target": "mrs-allen",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "miss-tilney",
+   "target": "mrs-hughes",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "mr-tilney",
+   "target": "mrs-hughes",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "catherine-morland",
+   "target": "mrs-hughes",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "catherine-morland",
+   "target": "miss-tilney",
+   "weight": 82,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "isabella",
+   "target": "miss-tilney",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "miss-morland",
+   "target": "miss-tilney",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "isabella",
+   "target": "mr-morland",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "catherine-morland",
+   "target": "mr-morland",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "james",
+   "target": "mr-morland",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "john-thorpe",
+   "target": "mr-tilney",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "john-thorpe",
+   "target": "mrs-allen",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "james",
+   "target": "miss-tilney",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "miss-tilney",
+   "target": "mr-thorpe",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "mrs-hughes",
+   "target": "mrs-tilney",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "miss-tilney",
+   "target": "mrs-tilney",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "mr-tilney",
+   "target": "mrs-tilney",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "catherine-morland",
+   "target": "henry",
+   "weight": 89,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "henry",
+   "target": "miss-tilney",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "catherine-morland",
+   "target": "general-tilney",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "general-tilney",
+   "target": "miss-tilney",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "general-tilney",
+   "target": "isabella",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "catherine-morland",
+   "target": "henry-tilney",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "henry-tilney",
+   "target": "mrs-allen",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "henry-tilney",
+   "target": "isabella",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "henry-tilney",
+   "target": "miss-tilney",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "henry",
+   "target": "henry-tilney",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "eleanor",
+   "target": "henry",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "catherine-morland",
+   "target": "eleanor",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 49
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "eleanor",
+   "target": "miss-tilney",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "general-tilney",
+   "target": "mr-allen",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "mrs-allen",
+   "target": "mrs-morland",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "eleanor",
+   "target": "miss-morland",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "henry",
+   "target": "miss-morland",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "catherine-morland",
+   "target": "maria",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "isabella",
+   "target": "maria",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "james",
+   "target": "maria",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "john",
+   "target": "maria",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "anne",
+   "target": "catherine-morland",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "anne",
+   "target": "james",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "anne",
+   "target": "isabella",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "anne",
+   "target": "maria",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "anne",
+   "target": "mr-morland",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "henry",
+   "target": "isabella",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "henry",
+   "target": "james",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "general-tilney",
+   "target": "henry",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "captain-tilney",
+   "target": "isabella",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "captain-tilney",
+   "target": "henry",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "captain-tilney",
+   "target": "catherine-morland",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "captain-tilney",
+   "target": "miss-thorpe",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "henry",
+   "target": "miss-thorpe",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "henry",
+   "target": "mrs-morland",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "catherine-morland",
+   "target": "frederick",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "frederick",
+   "target": "isabella",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "frederick",
+   "target": "james",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "captain-tilney",
+   "target": "eleanor",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "eleanor",
+   "target": "isabella",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 20."
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "catherine-morland",
+   "target": "mrs-tilney",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 22."
+    }
+   ]
+  },
+  {
+   "id": "r110",
+   "source": "henry",
+   "target": "mrs-tilney",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 23."
+    }
+   ]
+  },
+  {
+   "id": "r111",
+   "source": "frederick",
+   "target": "miss-thorpe",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r112",
+   "source": "frederick",
+   "target": "henry",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r113",
+   "source": "general-tilney",
+   "target": "sarah",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 29."
+    }
+   ]
+  },
+  {
+   "id": "r114",
+   "source": "henry",
+   "target": "mr-morland",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

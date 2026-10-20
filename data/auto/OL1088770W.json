@@ -1,0 +1,812 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL1088770W",
+ "title": "The Blue Fairy Book",
+ "authors": [
+  "Andrew Lang"
+ ],
+ "firstPublished": 1889,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #503.",
+  "source": "Project Gutenberg eBook #503",
+  "url": "https://www.gutenberg.org/ebooks/503"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "My father had a small estate in Nottinghamshire, and I was the third"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "After about two hours the Court retired, and I was left with a strong"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "My gentleness and good behavior gained so far on the Emperor and his"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 2"
+  }
+ ],
+ "characters": [
+  {
+   "id": "prince-ahmed",
+   "name": "Prince Ahmed",
+   "aliases": [
+    "Ahmed"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The eldest of the Princes was called Houssain, the second Ali, the youngest Ahmed, and the Princess, his niece, Nouronnihar.”"
+  },
+  {
+   "id": "sultan",
+   "name": "Sultan",
+   "role": "protagonist",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The Princess Nouronnihar was the daughter of the younger brother of the Sultan, who died, and left the Princess very young.”"
+  },
+  {
+   "id": "fairy-paribanou",
+   "name": "Fairy Paribanou",
+   "aliases": [
+    "Fairy",
+    "Paribanou"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s6",
+   "summary": "First mention: “I am the daughter of one of the most powerful and distinguished genies, and my name is Paribanou.”"
+  },
+  {
+   "id": "prince",
+   "name": "Prince",
+   "role": "protagonist",
+   "firstAppearance": "s5",
+   "summary": "First mention: “At this discourse of the crier the Prince of the Indies, considering that the principal motive of his travel was to carry the Sultan, his father, home some singular rarity, thought that he could not meet with any whic…”"
+  },
+  {
+   "id": "jack",
+   "name": "Jack",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “In the reign of the famous King Arthur there lived in Cornwall a lad named Jack, who was a boy of a bold temper, and took delight in hearing or reading of conjurers, giants, and fairies; and used to listen eagerly to…”"
+  },
+  {
+   "id": "emperor",
+   "name": "Emperor",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “I slept about eight hours, as I was told afterward; and it was no wonder, for the physicians, by the Emperor’s orders, had mingled a sleeping draught in the hogsheads of wine.”"
+  },
+  {
+   "id": "king",
+   "name": "King",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “He understood me very well, and, descending from the stage, commanded that several ladders should be set against my sides, on which more than a hundred of the inhabitants mounted, and walked toward my mouth with baske…”"
+  },
+  {
+   "id": "cinderlad",
+   "name": "Cinderlad",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “This happened once, and it happened twice, but then the man got tired of losing his crop, and said to his sons--he had three of them, and the third was called Cinderlad--that one of them must go and sleep in the barn…”"
+  },
+  {
+   "id": "princess",
+   "name": "Princess",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “So it is needless to say that all the princes and knights were eager to win her, and half the kingdom besides, and that for this cause they came riding thither from the very end of the world, dressed so splendidly tha…”"
+  },
+  {
+   "id": "blefuscu",
+   "name": "Blefuscu",
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “He shall be our ally against our enemies in the island of Blefuscu, and do his utmost to destroy their fleet, which is now preparing to invade us.”"
+  },
+  {
+   "id": "indies",
+   "name": "Indies",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “At this discourse of the crier the Prince of the Indies, considering that the principal motive of his travel was to carry the Sultan, his father, home some singular rarity, thought that he could not meet with any whic…”"
+  },
+  {
+   "id": "schaibar",
+   "name": "Schaibar",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: ““Don’t affright yourself, Prince,” replied the Fairy; “you ran a risk in fetching the Water of the Fountain of Lions for your father, but there’s no danger in finding out this man, who is my brother Schaibar, but is s…”"
+  },
+  {
+   "id": "prince-houssain",
+   "name": "Prince Houssain",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Prince Houssain, the eldest brother, arrived at Bisnagar, the capital of the kingdom of that name, and the residence of its king.”"
+  },
+  {
+   "id": "prince-ali",
+   "name": "Prince Ali",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Prince Ali, Prince Houssain’s second brother, who designed to travel into Persia, took the road, having three days after he parted with his brothers joined a caravan, and after four days’ travel arrived at Schiraz, wh…”"
+  },
+  {
+   "id": "princess-nouronnihar",
+   "name": "Princess Nouronnihar",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Afterward, as there was nothing in the world so dear to him, after the Sultan, as the Princess Nouronnihar, he wished to see her; and saw her at her toilet laughing, and in a pleasant humor, with her women about her.”"
+  },
+  {
+   "id": "etin",
+   "name": "Etin",
+   "role": "supporting",
+   "firstAppearance": "s6",
+   "summary": "First mention: ““The Red Etin of Ireland Ance lived in Bellygan, And stole King Malcolm’s daughter, The King of fair Scotland.”"
+  },
+  {
+   "id": "st-john",
+   "name": "St. John",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “But there had not been much hay in the barn for the last two years, for every St.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "blefuscu",
+   "target": "emperor",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "cinderlad",
+   "target": "st-john",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "cinderlad",
+   "target": "king",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "cinderlad",
+   "target": "princess",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "king",
+   "target": "princess",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "prince-ahmed",
+   "target": "princess",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "prince-ahmed",
+   "target": "sultan",
+   "weight": 48,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "princess",
+   "target": "sultan",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "prince-houssain",
+   "target": "sultan",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "king",
+   "target": "prince-houssain",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "prince",
+   "target": "prince-houssain",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "indies",
+   "target": "prince",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "prince",
+   "target": "sultan",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 33
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "indies",
+   "target": "sultan",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "prince-houssain",
+   "target": "princess",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "prince-ali",
+   "target": "prince-houssain",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "prince",
+   "target": "prince-ali",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "prince-ali",
+   "target": "sultan",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "prince-ali",
+   "target": "princess-nouronnihar",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "prince",
+   "target": "princess-nouronnihar",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "princess-nouronnihar",
+   "target": "sultan",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "prince-ahmed",
+   "target": "prince-ali",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "prince-houssain",
+   "target": "princess-nouronnihar",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "prince-ahmed",
+   "target": "princess-nouronnihar",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "indies",
+   "target": "prince-ahmed",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 29
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "prince",
+   "target": "prince-ahmed",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "prince-ahmed",
+   "target": "prince-houssain",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "fairy-paribanou",
+   "target": "prince",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 38
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "fairy-paribanou",
+   "target": "prince-ahmed",
+   "weight": 45,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "fairy-paribanou",
+   "target": "sultan",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 35
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "fairy-paribanou",
+   "target": "indies",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "prince",
+   "target": "schaibar",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "fairy-paribanou",
+   "target": "schaibar",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "schaibar",
+   "target": "sultan",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "prince-ahmed",
+   "target": "schaibar",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "indies",
+   "target": "schaibar",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "jack",
+   "target": "king",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

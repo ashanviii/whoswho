@@ -1,0 +1,853 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL54031W",
+ "title": "A Connecticut Yankee in King Arthur's Court",
+ "authors": [
+  "Mark Twain"
+ ],
+ "firstPublished": 1889,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #86.",
+  "source": "Project Gutenberg eBook #86",
+  "url": "https://www.gutenberg.org/ebooks/86"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "CAMELOT"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "KING ARTHUR'S COURT"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "KNIGHTS OF THE TABLE ROUND"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "SIR DINADAN THE HUMORIST"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "AN INSPIRATION"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "THE ECLIPSE"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "MERLIN'S TOWER"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "THE BOSS"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "THE TOURNAMENT"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "BEGINNINGS OF CIVILIZATION"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "THE YANKEE IN SEARCH OF ADVENTURES"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "SLOW TORTURE"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "FREEMEN"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "“DEFEND THEE, LORD”"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "SANDY'S TALE"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "MORGAN LE FAY"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "A ROYAL BANQUET"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "IN THE QUEEN'S DUNGEONS"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "KNIGHT-ERRANTRY AS A TRADE"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "THE OGRE'S CASTLE"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21",
+   "title": "THE PILGRIMS"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "THE HOLY FOUNTAIN"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23",
+   "title": "RESTORATION OF THE FOUNTAIN"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24",
+   "title": "A RIVAL MAGICIAN"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25",
+   "title": "A COMPETITIVE EXAMINATION"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26",
+   "title": "THE FIRST NEWSPAPER"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 27",
+   "title": "THE YANKEE AND THE KING TRAVEL INCOGNITO"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 28",
+   "title": "DRILLING THE KING"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 29",
+   "title": "THE SMALLPOX HUT"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 30",
+   "title": "THE TRAGEDY OF THE MANOR-HOUSE"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 31",
+   "title": "MARCO"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 32",
+   "title": "DOWLEY'S HUMILIATION"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 33",
+   "title": "SIXTH CENTURY POLITICAL ECONOMY"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 34",
+   "title": "THE YANKEE AND THE KING SOLD AS SLAVES"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 35",
+   "title": "A PITIFUL INCIDENT"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 36",
+   "title": "AN ENCOUNTER IN THE DARK"
+  },
+  {
+   "id": "s37",
+   "label": "Ch. 37",
+   "title": "AN AWFUL PREDICAMENT"
+  },
+  {
+   "id": "s38",
+   "label": "Ch. 38",
+   "title": "SIR LAUNCELOT AND KNIGHTS TO THE RESCUE"
+  },
+  {
+   "id": "s39",
+   "label": "Ch. 39",
+   "title": "THE YANKEE'S FIGHT WITH THE KNIGHTS"
+  },
+  {
+   "id": "s40",
+   "label": "Ch. 40",
+   "title": "THREE YEARS LATER"
+  },
+  {
+   "id": "s41",
+   "label": "Ch. 41",
+   "title": "THE INTERDICT"
+  },
+  {
+   "id": "s42",
+   "label": "Ch. 42"
+  },
+  {
+   "id": "s43",
+   "label": "Ch. 43",
+   "title": "THE BATTLE OF THE SAND BELT"
+  },
+  {
+   "id": "s44",
+   "label": "Ch. 44",
+   "title": "A POSTSCRIPT BY CLARENCE"
+  }
+ ],
+ "characters": [
+  {
+   "id": "sandy",
+   "name": "Sandy",
+   "role": "protagonist",
+   "firstAppearance": "s12",
+   "summary": "First mention: “Sandy was not enough; not enough for me, anyway.”"
+  },
+  {
+   "id": "arthur",
+   "name": "Arthur",
+   "aliases": [
+    "King Arthur"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s2",
+   "summary": "First mention: “The page said, further, that dinner was about ended in the great hall by this time, and that as soon as the sociability and the heavy drinking should begin, Sir Kay would have me in and exhibit me before King Arthur a…”"
+  },
+  {
+   "id": "merlin",
+   "name": "Merlin",
+   "role": "protagonist",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Merlin, the mighty liar and magician, perdition singe him for the weariness he worketh with his one tale!”"
+  },
+  {
+   "id": "clarence",
+   "name": "Clarence",
+   "role": "protagonist",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““Now, Clarence, my boy--if that might happen to be your name --I'll get you to post me up a little if you don't mind.”"
+  },
+  {
+   "id": "sir-launcelot",
+   "name": "Sir Launcelot",
+   "aliases": [
+    "Launcelot"
+   ],
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “A most noble benignity and purity reposed in the countenance of him they called Sir Galahad, and likewise in the king's also; and there was majesty and greatness in the giant frame and high bearing of Sir Launcelot of…”"
+  },
+  {
+   "id": "sir-marhaus",
+   "name": "Sir Marhaus",
+   "aliases": [
+    "Marhaus"
+   ],
+   "role": "major",
+   "firstAppearance": "s15",
+   "summary": "First mention: “Sir, said they, his name is Marhaus the king's son of Ireland.””"
+  },
+  {
+   "id": "sir-gawaine",
+   "name": "Sir Gawaine",
+   "aliases": [
+    "Gawaine"
+   ],
+   "role": "major",
+   "firstAppearance": "s15",
+   "summary": "First mention: ““Sir Gawaine and Sir Uwaine.”"
+  },
+  {
+   "id": "sir-sagramor",
+   "name": "Sir Sagramor",
+   "role": "major",
+   "firstAppearance": "s9",
+   "summary": "First mention: “It was some minutes before I came to, and then I opened my eyes just in time to see Sir Gareth fetch him an awful welt, and I unconsciously out with the prayer, “I hope to gracious he's killed!” But by ill-luck, befor…”"
+  },
+  {
+   "id": "sir-mordred",
+   "name": "Sir Mordred",
+   "aliases": [
+    "Mordred"
+   ],
+   "role": "major",
+   "firstAppearance": "s42",
+   "summary": "First mention: “Well, among the flayed were Sir Agravaine and Sir Mordred, nephews to the king.”"
+  },
+  {
+   "id": "dowley",
+   "name": "Dowley",
+   "role": "major",
+   "firstAppearance": "s31",
+   "summary": "First mention: “I got to know several master mechanics, but about the most interesting fellow among them was the blacksmith, Dowley.”"
+  },
+  {
+   "id": "marco",
+   "name": "Marco",
+   "role": "major",
+   "firstAppearance": "s31",
+   "summary": "First mention: “I dropped in there while Marco, the son of Marco, was haggling with a shopkeeper over a quarter of a pound of salt, and asked for change for a twenty-dollar gold piece.”"
+  },
+  {
+   "id": "sir-gareth",
+   "name": "Sir Gareth",
+   "role": "major",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Then Sir Bleobaris brake his spear upon Sir Gareth, but of that stroke Sir Bleobaris fell to the earth.”"
+  },
+  {
+   "id": "sir-kay",
+   "name": "Sir Kay",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “That is the good knight and great lord Sir Kay the Seneschal, foster brother to our liege the king.””"
+  },
+  {
+   "id": "alisande",
+   "name": "Alisande",
+   "role": "supporting",
+   "firstAppearance": "s12",
+   "summary": "First mention: “So I gave in, and got Alisande to unship the helmet and relieve me of it.”"
+  },
+  {
+   "id": "sir-uwaine",
+   "name": "Sir Uwaine",
+   "role": "supporting",
+   "firstAppearance": "s15",
+   "summary": "First mention: ““Sir Gawaine and Sir Uwaine.”"
+  },
+  {
+   "id": "sir-boss",
+   "name": "Sir Boss",
+   "role": "supporting",
+   "firstAppearance": "s19",
+   "summary": "First mention: ““Even so standeth the history, fair Sir Boss.”"
+  },
+  {
+   "id": "sir-dinadan",
+   "name": "Sir Dinadan",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Sir Dinadan the Humorist was the first to awake, and he soon roused the rest with a practical joke of a sufficiently poor quality.”"
+  },
+  {
+   "id": "guenever",
+   "name": "Guenever",
+   "role": "supporting",
+   "firstAppearance": "s26",
+   "summary": "First mention: “Yes, Guenever was beautiful, it is true, but take her all around she was pretty slack.”"
+  },
+  {
+   "id": "la-cote",
+   "name": "La Cote",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Then Sir Galihud gat a spear to avenge his brother, and in the same wise Sir Gareth served him, and Sir Dinadan and his brother La Cote Male Taile, and Sir Sagramore le Disirous, and Sir Dodinas le Savage; all these h…”"
+  },
+  {
+   "id": "morgan-le-fay",
+   "name": "Morgan le Fay",
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “This missionary knight's name was La Cote Male Taile, and he said that this castle was the abode of Morgan le Fay, sister of King Arthur, and wife of King Uriens, monarch of a realm about as big as the District of Col…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "clarence",
+   "target": "sir-kay",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "arthur",
+   "target": "sir-kay",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "arthur",
+   "target": "clarence",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "sir-kay",
+   "target": "sir-launcelot",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "arthur",
+   "target": "sir-launcelot",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "arthur",
+   "target": "merlin",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "clarence",
+   "target": "merlin",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "sir-gareth",
+   "target": "sir-launcelot",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "sir-launcelot",
+   "target": "sir-sagramor",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "arthur",
+   "target": "la-cote",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "arthur",
+   "target": "sandy",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "sandy",
+   "target": "sir-launcelot",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "sir-gawaine",
+   "target": "sir-uwaine",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "sandy",
+   "target": "sir-gawaine",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "arthur",
+   "target": "sir-gawaine",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "sandy",
+   "target": "sir-uwaine",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "sandy",
+   "target": "sir-marhaus",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "sir-gawaine",
+   "target": "sir-marhaus",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "sir-marhaus",
+   "target": "sir-uwaine",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "alisande",
+   "target": "sir-marhaus",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "la-cote",
+   "target": "morgan-le-fay",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "arthur",
+   "target": "morgan-le-fay",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "arthur",
+   "target": "sir-boss",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "guenever",
+   "target": "sir-launcelot",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "arthur",
+   "target": "guenever",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "clarence",
+   "target": "sandy",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 36."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "merlin",
+   "target": "sir-sagramor",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 39."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "arthur",
+   "target": "sir-mordred",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "sir-gawaine",
+   "target": "sir-mordred",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

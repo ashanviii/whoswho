@@ -1,0 +1,664 @@
+{
+  "schemaVersion": 1,
+  "workId": "OL468431W",
+  "title": "The Great Gatsby",
+  "authors": [
+    "F. Scott Fitzgerald"
+  ],
+  "firstPublished": 1925,
+  "edition": {
+    "description": "Nine chapters, as in the 1925 first edition.",
+    "source": "Project Gutenberg eBook #64317",
+    "url": "https://www.gutenberg.org/ebooks/64317"
+  },
+  "sectionLabel": {
+    "singular": "Chapter",
+    "plural": "Chapters"
+  },
+  "sections": [
+    {
+      "id": "c1",
+      "label": "Ch. 1"
+    },
+    {
+      "id": "c2",
+      "label": "Ch. 2"
+    },
+    {
+      "id": "c3",
+      "label": "Ch. 3"
+    },
+    {
+      "id": "c4",
+      "label": "Ch. 4"
+    },
+    {
+      "id": "c5",
+      "label": "Ch. 5"
+    },
+    {
+      "id": "c6",
+      "label": "Ch. 6"
+    },
+    {
+      "id": "c7",
+      "label": "Ch. 7"
+    },
+    {
+      "id": "c8",
+      "label": "Ch. 8"
+    },
+    {
+      "id": "c9",
+      "label": "Ch. 9"
+    }
+  ],
+  "groups": [
+    {
+      "id": "buchanan",
+      "label": "The Buchanans"
+    },
+    {
+      "id": "wilson",
+      "label": "Valley of ashes"
+    },
+    {
+      "id": "gatsby",
+      "label": "Gatsby’s world"
+    }
+  ],
+  "characters": [
+    {
+      "id": "nick",
+      "name": "Nick Carraway",
+      "role": "protagonist",
+      "firstAppearance": "c1",
+      "summary": "The narrator: a Yale man from the Midwest who rents a small house in West Egg in 1922 to learn the bond business."
+    },
+    {
+      "id": "gatsby",
+      "name": "Jay Gatsby",
+      "aliases": [
+        "James Gatz",
+        "Jimmy Gatz"
+      ],
+      "role": "protagonist",
+      "group": "gatsby",
+      "firstAppearance": "c1",
+      "summary": "Nick’s mysterious, fabulously rich neighbour, famous for his lavish parties.",
+      "notes": [
+        {
+          "at": "c4",
+          "text": "Jordan reveals he loved Daisy in 1917, before he went to war."
+        },
+        {
+          "at": "c6",
+          "text": "Was born James Gatz in North Dakota and reinvented himself under the copper millionaire Dan Cody."
+        },
+        {
+          "at": "c7",
+          "text": "Tom exposes his fortune as bootlegging. He resolves to take the blame for the car that killed Myrtle."
+        },
+        {
+          "at": "c8",
+          "text": "Is shot dead in his pool by George Wilson."
+        }
+      ]
+    },
+    {
+      "id": "daisy",
+      "name": "Daisy Buchanan",
+      "role": "major",
+      "group": "buchanan",
+      "firstAppearance": "c1",
+      "summary": "Nick’s charming second cousin once removed, living in East Egg with her husband Tom.",
+      "notes": [
+        {
+          "at": "c4",
+          "text": "Married Tom in 1919 after Gatsby went overseas."
+        },
+        {
+          "at": "c7",
+          "text": "Was driving Gatsby’s car when it struck and killed Myrtle Wilson."
+        },
+        {
+          "at": "c9",
+          "text": "Has left with Tom, sending no word to the funeral."
+        }
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "Tom Buchanan",
+      "role": "major",
+      "group": "buchanan",
+      "firstAppearance": "c1",
+      "summary": "Daisy’s enormously wealthy, arrogant husband, once a Yale football star.",
+      "notes": [
+        {
+          "at": "c9",
+          "text": "Admits to Nick that he told Wilson whose car it was."
+        }
+      ]
+    },
+    {
+      "id": "pammy",
+      "name": "Pammy Buchanan",
+      "role": "minor",
+      "group": "buchanan",
+      "firstAppearance": "c1",
+      "summary": "Daisy and Tom’s small daughter."
+    },
+    {
+      "id": "jordan",
+      "name": "Jordan Baker",
+      "role": "major",
+      "firstAppearance": "c1",
+      "summary": "Daisy’s friend from Louisville, a cool, sardonic professional golfer.",
+      "notes": [
+        {
+          "at": "c3",
+          "text": "Nick recalls a rumour that she cheated in her first big tournament."
+        }
+      ]
+    },
+    {
+      "id": "myrtle",
+      "name": "Myrtle Wilson",
+      "role": "major",
+      "group": "wilson",
+      "firstAppearance": "c2",
+      "summary": "Vital, discontented wife of a garage owner in the valley of ashes.",
+      "notes": [
+        {
+          "at": "c7",
+          "text": "Is struck and killed by Gatsby’s car."
+        }
+      ]
+    },
+    {
+      "id": "george",
+      "name": "George Wilson",
+      "role": "supporting",
+      "group": "wilson",
+      "firstAppearance": "c2",
+      "summary": "Myrtle’s spiritless husband, who runs a garage in the valley of ashes.",
+      "notes": [
+        {
+          "at": "c7",
+          "text": "Discovers Myrtle has a lover and plans to take her West."
+        },
+        {
+          "at": "c8",
+          "text": "Shoots Gatsby, then himself."
+        }
+      ]
+    },
+    {
+      "id": "catherine",
+      "name": "Catherine",
+      "role": "minor",
+      "group": "wilson",
+      "firstAppearance": "c2",
+      "summary": "Myrtle’s sister, who repeats rumours about Gatsby."
+    },
+    {
+      "id": "michaelis",
+      "name": "Michaelis",
+      "role": "minor",
+      "group": "wilson",
+      "firstAppearance": "c7",
+      "summary": "Young Greek who runs the coffee shop next to Wilson’s garage."
+    },
+    {
+      "id": "owlEyes",
+      "name": "Owl Eyes",
+      "role": "minor",
+      "firstAppearance": "c3",
+      "summary": "Bespectacled party guest astonished that the books in Gatsby’s library are real.",
+      "notes": [
+        {
+          "at": "c9",
+          "text": "Is one of the very few at Gatsby’s burial."
+        }
+      ]
+    },
+    {
+      "id": "wolfsheim",
+      "name": "Meyer Wolfsheim",
+      "role": "supporting",
+      "group": "gatsby",
+      "firstAppearance": "c4",
+      "summary": "Gatsby’s associate, a gambler said to have fixed the 1919 World Series.",
+      "notes": [
+        {
+          "at": "c9",
+          "text": "Refuses to come to Gatsby’s funeral."
+        }
+      ]
+    },
+    {
+      "id": "klipspringer",
+      "name": "Klipspringer",
+      "role": "minor",
+      "group": "gatsby",
+      "firstAppearance": "c5",
+      "summary": "Freeloading guest who lives at Gatsby’s house — “the boarder”.",
+      "notes": [
+        {
+          "at": "c9",
+          "text": "Telephones after Gatsby’s death only to ask for his tennis shoes."
+        }
+      ]
+    },
+    {
+      "id": "danCody",
+      "name": "Dan Cody",
+      "role": "minor",
+      "group": "gatsby",
+      "firstAppearance": "c6",
+      "summary": "Copper millionaire on whose yacht the seventeen-year-old James Gatz found his new life."
+    },
+    {
+      "id": "henryGatz",
+      "name": "Henry C. Gatz",
+      "role": "minor",
+      "group": "gatsby",
+      "firstAppearance": "c9",
+      "summary": "Gatsby’s father, who comes from Minnesota for the funeral."
+    }
+  ],
+  "relationships": [
+    {
+      "id": "r1",
+      "source": "nick",
+      "target": "daisy",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Cousins",
+          "note": "She is his second cousin once removed."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "source": "tom",
+      "target": "daisy",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife",
+          "note": "Tom’s affair with “some woman in New York” is an open secret."
+        },
+        {
+          "at": "c7",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife",
+          "note": "At the Plaza, Daisy cannot say she never loved Tom, and returns to him."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "source": "tom",
+      "target": "nick",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "acquaintance",
+          "label": "College acquaintances",
+          "note": "They knew each other at Yale."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "source": "tom",
+      "target": "pammy",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Father & daughter",
+          "sourceRole": "Father",
+          "targetRole": "Daughter"
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "source": "daisy",
+      "target": "pammy",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "family",
+          "label": "Mother & daughter",
+          "sourceRole": "Mother",
+          "targetRole": "Daughter"
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "source": "daisy",
+      "target": "jordan",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "friendship",
+          "label": "Old friends",
+          "note": "They grew up together in Louisville."
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "source": "nick",
+      "target": "jordan",
+      "phases": [
+        {
+          "at": "c1",
+          "type": "acquaintance",
+          "label": "Introduced"
+        },
+        {
+          "at": "c3",
+          "type": "romance",
+          "label": "Seeing each other"
+        },
+        {
+          "at": "c9",
+          "type": "romance",
+          "label": "Broken off",
+          "note": "Nick ends it before leaving the East."
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "source": "tom",
+      "target": "myrtle",
+      "phases": [
+        {
+          "at": "c2",
+          "type": "romance",
+          "label": "Affair",
+          "note": "He keeps an apartment in the city for them; breaks her nose when she says Daisy’s name."
+        }
+      ]
+    },
+    {
+      "id": "r9",
+      "source": "george",
+      "target": "myrtle",
+      "phases": [
+        {
+          "at": "c2",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife",
+          "note": "She despises him."
+        },
+        {
+          "at": "c7",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife",
+          "note": "He discovers her infidelity and locks her up."
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "source": "myrtle",
+      "target": "catherine",
+      "phases": [
+        {
+          "at": "c2",
+          "type": "family",
+          "label": "Sisters"
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "source": "tom",
+      "target": "george",
+      "phases": [
+        {
+          "at": "c2",
+          "type": "acquaintance",
+          "label": "Strung-along customer",
+          "note": "Tom dangles the sale of a car to Wilson."
+        },
+        {
+          "at": "c9",
+          "type": "alliance",
+          "label": "Fatal tip",
+          "note": "Tom told Wilson the yellow car belonged to Gatsby."
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "source": "nick",
+      "target": "gatsby",
+      "phases": [
+        {
+          "at": "c3",
+          "type": "friendship",
+          "label": "Neighbours",
+          "note": "Gatsby introduces himself at a party."
+        },
+        {
+          "at": "c5",
+          "type": "friendship",
+          "label": "Go-between",
+          "note": "Nick hosts Gatsby’s reunion with Daisy."
+        },
+        {
+          "at": "c8",
+          "type": "friendship",
+          "label": "Loyal friend",
+          "note": "Nick tells him he is worth the whole rotten crowd put together."
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "source": "gatsby",
+      "target": "daisy",
+      "phases": [
+        {
+          "at": "c4",
+          "type": "romance",
+          "label": "Former lovers",
+          "note": "They fell in love in Louisville in 1917."
+        },
+        {
+          "at": "c5",
+          "type": "romance",
+          "label": "Reunited",
+          "note": "They meet again over tea at Nick’s house."
+        },
+        {
+          "at": "c7",
+          "type": "romance",
+          "label": "Affair exposed",
+          "note": "At the Plaza Gatsby insists Daisy never loved Tom."
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "source": "gatsby",
+      "target": "tom",
+      "phases": [
+        {
+          "at": "c4",
+          "type": "acquaintance",
+          "label": "Introduced"
+        },
+        {
+          "at": "c7",
+          "type": "rivalry",
+          "label": "Rivals for Daisy",
+          "note": "Tom exposes Gatsby’s bootlegging."
+        }
+      ]
+    },
+    {
+      "id": "r15",
+      "source": "gatsby",
+      "target": "wolfsheim",
+      "phases": [
+        {
+          "at": "c4",
+          "type": "alliance",
+          "label": "Business associates",
+          "note": "Gatsby admits Wolfsheim fixed the World Series."
+        }
+      ]
+    },
+    {
+      "id": "r16",
+      "source": "danCody",
+      "target": "gatsby",
+      "phases": [
+        {
+          "at": "c6",
+          "type": "mentorship",
+          "label": "Patron",
+          "sourceRole": "Patron",
+          "targetRole": "Protégé",
+          "note": "Gatz served him for five years aboard his yacht."
+        }
+      ]
+    },
+    {
+      "id": "r17",
+      "source": "henryGatz",
+      "target": "gatsby",
+      "phases": [
+        {
+          "at": "c9",
+          "type": "family",
+          "label": "Father & son",
+          "sourceRole": "Father",
+          "targetRole": "Son"
+        }
+      ]
+    },
+    {
+      "id": "r18",
+      "source": "klipspringer",
+      "target": "gatsby",
+      "phases": [
+        {
+          "at": "c5",
+          "type": "acquaintance",
+          "label": "Hanger-on"
+        }
+      ]
+    },
+    {
+      "id": "r19",
+      "source": "owlEyes",
+      "target": "gatsby",
+      "phases": [
+        {
+          "at": "c3",
+          "type": "acquaintance",
+          "label": "Party guest"
+        }
+      ]
+    },
+    {
+      "id": "r20",
+      "source": "jordan",
+      "target": "gatsby",
+      "phases": [
+        {
+          "at": "c3",
+          "type": "acquaintance",
+          "label": "Confidante",
+          "note": "He takes her aside for a private talk."
+        },
+        {
+          "at": "c4",
+          "type": "alliance",
+          "label": "Intermediary",
+          "note": "She carries his request that Nick invite Daisy to tea."
+        }
+      ]
+    },
+    {
+      "id": "r21",
+      "source": "george",
+      "target": "gatsby",
+      "phases": [
+        {
+          "at": "c8",
+          "type": "rivalry",
+          "label": "Killer",
+          "note": "Believing Gatsby killed Myrtle, Wilson shoots him."
+        }
+      ]
+    },
+    {
+      "id": "r22",
+      "source": "michaelis",
+      "target": "george",
+      "phases": [
+        {
+          "at": "c7",
+          "type": "acquaintance",
+          "label": "Neighbour",
+          "note": "Chief witness to the accident."
+        },
+        {
+          "at": "c8",
+          "type": "friendship",
+          "label": "Sits with him",
+          "note": "Stays with Wilson through the night after Myrtle’s death."
+        }
+      ]
+    },
+    {
+      "id": "r23",
+      "source": "daisy",
+      "target": "myrtle",
+      "phases": [
+        {
+          "at": "c7",
+          "type": "acquaintance",
+          "label": "Fatal accident",
+          "note": "Driving Gatsby’s car, Daisy strikes and kills Myrtle."
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "method": "Hand-curated from the public-domain text, with section numbers following the edition named in `edition`. Drafted with AI assistance; awaiting a line-by-line human review.",
+    "contributors": [
+      "Character Chart editors"
+    ],
+    "createdAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "review": {
+      "status": "unreviewed",
+      "notes": "Spot-check chapter/scene numbers against the stated edition before marking as reviewed."
+    }
+  },
+  "license": "CC BY 4.0"
+}

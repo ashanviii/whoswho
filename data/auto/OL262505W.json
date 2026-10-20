@@ -1,0 +1,966 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL262505W",
+ "title": "The Valley of Fear",
+ "authors": [
+  "Arthur Conan Doyle"
+ ],
+ "firstPublished": 1914,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #3289.",
+  "source": "Project Gutenberg eBook #3289",
+  "url": "https://www.gutenberg.org/ebooks/3289"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "The Warning",
+   "part": "Part I"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "Sherlock Holmes Discourses",
+   "part": "Part I"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "The Tragedy of Birlstone",
+   "part": "Part I"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "Darkness",
+   "part": "Part I"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "The People of the Drama",
+   "part": "Part I"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "A Dawning Light",
+   "part": "Part I"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "The Solution",
+   "part": "Part I"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 1",
+   "title": "The Man",
+   "part": "Part II"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 2",
+   "title": "The Bodymaster",
+   "part": "Part II"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 3",
+   "title": "Lodge 341, Vermissa",
+   "part": "Part II"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 4",
+   "title": "The Valley of Fear",
+   "part": "Part II"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 5",
+   "title": "The Darkest Hour",
+   "part": "Part II"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 6",
+   "title": "Danger",
+   "part": "Part II"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 7",
+   "title": "The Trapping of Birdy Edwards",
+   "part": "Part II"
+  }
+ ],
+ "characters": [
+  {
+   "id": "sherlock-holmes",
+   "name": "Sherlock Holmes",
+   "aliases": [
+    "Holmes",
+    "Mr. Holmes"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““I should do so,” Sherlock Holmes remarked impatiently.”"
+  },
+  {
+   "id": "watson",
+   "name": "Watson",
+   "aliases": [
+    "Dr. Watson"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Porlock, Watson, is a nom-de-plume, a mere identification mark; but behind it lies a shifty and evasive personality.”"
+  },
+  {
+   "id": "ted-baldwin",
+   "name": "Ted Baldwin",
+   "aliases": [
+    "Baldwin"
+   ],
+   "role": "major",
+   "firstAppearance": "s7",
+   "summary": "First mention: “Anyhow, he got both barrels in the face, and there I was, staring down at all that was left of Ted Baldwin.”"
+  },
+  {
+   "id": "jack",
+   "name": "Jack",
+   "role": "major",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““It’s best this way, Jack,” his wife repeated; “I am sure that it is best.””"
+  },
+  {
+   "id": "mr-douglas",
+   "name": "Mr. Douglas",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Just this,” said he, “that Mr.”"
+  },
+  {
+   "id": "brother-morris",
+   "name": "Morris",
+   "aliases": [
+    "Brother Morris"
+   ],
+   "role": "major",
+   "firstAppearance": "s10",
+   "summary": "First mention: ““Yes, Brother Morris.”"
+  },
+  {
+   "id": "ames",
+   "name": "Ames",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““An easy-going, free-handed gentleman,” said Ames, the butler.”"
+  },
+  {
+   "id": "ettie",
+   "name": "Ettie",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “You can keep on saying no, Ettie: the day will come when you will say yes, and I’m young enough to wait.””"
+  },
+  {
+   "id": "mrs-douglas",
+   "name": "Mrs. Douglas",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “It had also been noted and commented upon by a few observant people that there were signs sometimes of some nerve-strain upon the part of Mrs.”"
+  },
+  {
+   "id": "cecil-barker",
+   "name": "Cecil Barker",
+   "aliases": [
+    "Mr. Barker"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Cecil Barker’s tall, loose-jointed figure was a familiar one in the main street of Birlstone village; for he was a frequent and welcome visitor at the Manor House.”"
+  },
+  {
+   "id": "boss",
+   "name": "Boss",
+   "role": "supporting",
+   "firstAppearance": "s6",
+   "summary": "First mention: “According to your idea, there was never any hidden menace, or secret society, or Valley of Fear, or Boss MacSomebody, or anything else.”"
+  },
+  {
+   "id": "mr-mac",
+   "name": "Mr. Mac",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““You are an early bird, Mr.”"
+  },
+  {
+   "id": "scanlan",
+   "name": "Scanlan",
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Scanlan groaned sympathetically.”"
+  },
+  {
+   "id": "professor-moriarty",
+   "name": "Moriarty",
+   "aliases": [
+    "Professor Moriarty"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “You have heard me speak of Professor Moriarty?””"
+  },
+  {
+   "id": "porlock",
+   "name": "Porlock",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““It is Porlock’s writing,” said he thoughtfully.”"
+  },
+  {
+   "id": "pinkerton",
+   "name": "Pinkerton",
+   "role": "supporting",
+   "firstAppearance": "s13",
+   "summary": "First mention: “But you’ve heard of Pinkerton’s?””"
+  },
+  {
+   "id": "birdy-edwards",
+   "name": "Birdy Edwards",
+   "role": "supporting",
+   "firstAppearance": "s13",
+   "summary": "First mention: “Pinkerton has taken hold under their orders, and his best man, Birdy Edwards, is operating.”"
+  },
+  {
+   "id": "mrs-allen",
+   "name": "Mrs. Allen",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “As to the other denizens of the old building, it will suffice out of a large household to mention the prim, respectable, and capable Ames, and Mrs.”"
+  },
+  {
+   "id": "captain-marvin",
+   "name": "Captain Marvin",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Captain Marvin is my name.””"
+  },
+  {
+   "id": "freeman",
+   "name": "Freeman",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “I’m a Freeman myself.”"
+  },
+  {
+   "id": "john-douglas",
+   "name": "John Douglas",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “It gave the name John Douglas.”"
+  },
+  {
+   "id": "sergeant-wilson",
+   "name": "Sergeant Wilson",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “It was at eleven forty-five that the first alarm reached the small local police station, in charge of Sergeant Wilson of the Sussex Constabulary.”"
+  },
+  {
+   "id": "mr-white-mason",
+   "name": "Mr. White Mason",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “May I ask, Mr.”"
+  },
+  {
+   "id": "lawler",
+   "name": "Lawler",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “One day Scanlan, who was McMurdo’s fellow boarder, received a note from McGinty inclosing one from Evans Pott, which informed him that he was sending over two good men, Lawler and Andrews, who had instructions to act…”"
+  },
+  {
+   "id": "jacob-shafter",
+   "name": "Jacob Shafter",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““Here is the address—Jacob Shafter, Sheridan Street.”"
+  },
+  {
+   "id": "chester-wilcox",
+   "name": "Chester Wilcox",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: ““Jim was shot last month when they tried to kill Chester Wilcox of Marley Creek,” McMurdo’s neighbour informed him.”"
+  },
+  {
+   "id": "andrews",
+   "name": "Andrews",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “One day Scanlan, who was McMurdo’s fellow boarder, received a note from McGinty inclosing one from Evans Pott, which informed him that he was sending over two good men, Lawler and Andrews, who had instructions to act…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "porlock",
+   "target": "watson",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "porlock",
+   "target": "professor-moriarty",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "professor-moriarty",
+   "target": "watson",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "sherlock-holmes",
+   "target": "watson",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "professor-moriarty",
+   "target": "sherlock-holmes",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "porlock",
+   "target": "sherlock-holmes",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "mr-mac",
+   "target": "sherlock-holmes",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "mr-douglas",
+   "target": "watson",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "mr-douglas",
+   "target": "sherlock-holmes",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "john-douglas",
+   "target": "mr-douglas",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "john-douglas",
+   "target": "sherlock-holmes",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "mr-douglas",
+   "target": "mrs-douglas",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "cecil-barker",
+   "target": "mr-douglas",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "ames",
+   "target": "cecil-barker",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "ames",
+   "target": "mr-douglas",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "ames",
+   "target": "mrs-allen",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "cecil-barker",
+   "target": "mrs-allen",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "mrs-allen",
+   "target": "mrs-douglas",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "ames",
+   "target": "mrs-douglas",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "sergeant-wilson",
+   "target": "sherlock-holmes",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "mr-white-mason",
+   "target": "sherlock-holmes",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mrs-douglas",
+   "target": "sherlock-holmes",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "ames",
+   "target": "sherlock-holmes",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "cecil-barker",
+   "target": "sherlock-holmes",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "mr-douglas",
+   "target": "mr-mac",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "cecil-barker",
+   "target": "mrs-douglas",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "mrs-douglas",
+   "target": "watson",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "boss",
+   "target": "scanlan",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "ettie",
+   "target": "scanlan",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "ettie",
+   "target": "jack",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "jack",
+   "target": "ted-baldwin",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "ettie",
+   "target": "ted-baldwin",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "boss",
+   "target": "jack",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "freeman",
+   "target": "jack",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "boss",
+   "target": "freeman",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "boss",
+   "target": "ted-baldwin",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "lawler",
+   "target": "scanlan",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "andrews",
+   "target": "scanlan",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "andrews",
+   "target": "lawler",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "birdy-edwards",
+   "target": "pinkerton",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

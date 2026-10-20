@@ -1,0 +1,2160 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL472715W",
+ "title": "The Mysterious Affair at Styles",
+ "authors": [
+  "Agatha Christie"
+ ],
+ "firstPublished": 1920,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #863.",
+  "source": "Project Gutenberg eBook #863",
+  "url": "https://www.gutenberg.org/ebooks/863"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "I GO TO STYLES"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "THE 16TH AND 17TH OF JULY"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "THE NIGHT OF THE TRAGEDY"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "POIROT INVESTIGATES"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "“IT ISN’T STRYCHNINE, IS IT?”"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "THE INQUEST"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "POIROT PAYS HIS DEBTS"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "FRESH SUSPICIONS"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "DR. BAUERSTEIN"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "THE ARREST"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "THE CASE FOR THE PROSECUTION"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "THE LAST LINK"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "POIROT EXPLAINS"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-cavendish",
+   "label": "Cavendish (shared surname)"
+  },
+  {
+   "id": "g-inglethorp",
+   "label": "Inglethorp (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "hercule-poirot",
+   "name": "Hercule Poirot",
+   "aliases": [
+    "Poirot",
+    "Monsieur Poirot",
+    "Mr. Poirot"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Nevertheless, in view of the world-wide notoriety which attended it, I have been asked, both by my friend Poirot and the family themselves, to write an account of the whole story.”"
+  },
+  {
+   "id": "john-cavendish",
+   "name": "John Cavendish",
+   "aliases": [
+    "John"
+   ],
+   "role": "major",
+   "group": "g-cavendish",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Having no near relations or friends, I was trying to make up my mind what to do, when I ran across John Cavendish.”"
+  },
+  {
+   "id": "mrs-inglethorp",
+   "name": "Mrs. Inglethorp",
+   "role": "major",
+   "group": "g-inglethorp",
+   "firstAppearance": "s1",
+   "summary": "First mention: “There was the murmur of a man’s voice, and then Mrs.”"
+  },
+  {
+   "id": "cynthia-murdoch",
+   "name": "Cynthia Murdoch",
+   "aliases": [
+    "Cynthia",
+    "Mademoiselle Cynthia",
+    "Miss Cynthia"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““I wonder if we’ve time to pick up Cynthia.”"
+  },
+  {
+   "id": "evelyn-howard",
+   "name": "Evelyn Howard",
+   "aliases": [
+    "Miss Howard"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Hastings—Miss Howard.””"
+  },
+  {
+   "id": "lawrence-cavendish",
+   "name": "Lawrence Cavendish",
+   "aliases": [
+    "Lawrence",
+    "Monsieur Lawrence",
+    "Mr. Lawrence Cavendish"
+   ],
+   "role": "major",
+   "group": "g-cavendish",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Lawrence, the younger, had been a delicate youth.”"
+  },
+  {
+   "id": "mary-cavendish",
+   "name": "Mary Cavendish",
+   "aliases": [
+    "Mary"
+   ],
+   "role": "supporting",
+   "group": "g-cavendish",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Mary, an absurd little station, with no apparent reason for existence, perched up in the midst of green fields and country lanes.”"
+  },
+  {
+   "id": "dorcas",
+   "name": "Dorcas",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““What should there be?” Then catching sight of Dorcas, the parlourmaid, going into the dining-room, she called to her to bring some stamps into the boudoir.”"
+  },
+  {
+   "id": "mr-inglethorp",
+   "name": "Mr. Inglethorp",
+   "role": "supporting",
+   "group": "g-inglethorp",
+   "firstAppearance": "s1",
+   "summary": "First mention: “With the presence of Mr.”"
+  },
+  {
+   "id": "alfred-inglethorp",
+   "name": "Alfred Inglethorp",
+   "aliases": [
+    "Alfred"
+   ],
+   "role": "supporting",
+   "group": "g-inglethorp",
+   "firstAppearance": "s1",
+   "summary": "First mention: “But you could have knocked us all down with a feather when, three months ago, she suddenly announced that she and Alfred were engaged!”"
+  },
+  {
+   "id": "dr-bauerstein",
+   "name": "Dr. Bauerstein",
+   "aliases": [
+    "Bauerstein"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Dr.”"
+  },
+  {
+   "id": "mrs-cavendish",
+   "name": "Mrs. Cavendish",
+   "role": "supporting",
+   "group": "g-cavendish",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Mrs.”"
+  },
+  {
+   "id": "japp",
+   "name": "Japp",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: “As these friendly reminiscences were being indulged in, I drew nearer, and was introduced to Detective-Inspector Japp, who, in his turn, introduced us both to his companion, Superintendent Summerhaye.”"
+  },
+  {
+   "id": "coroner",
+   "name": "Coroner",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “And in a lower voice: “He is also Coroner—you understand.”"
+  },
+  {
+   "id": "mr-hastings",
+   "name": "Mr. Hastings",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "mr-wells",
+   "name": "Mr. Wells",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “One was to Miss Howard, and one was to Mr.”"
+  },
+  {
+   "id": "evie",
+   "name": "Evie",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “As for Evie—you remember Evie?””"
+  },
+  {
+   "id": "sir-ernest-heavywether",
+   "name": "Sir Ernest",
+   "aliases": [
+    "Sir Ernest Heavywether"
+   ],
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Sir Ernest Heavywether, the famous K.C., had been engaged to defend him.”"
+  },
+  {
+   "id": "mr-cavendish",
+   "name": "Mr. Cavendish",
+   "role": "minor",
+   "group": "g-cavendish",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Their country-place, Styles Court, had been purchased by Mr.”"
+  },
+  {
+   "id": "annie",
+   "name": "Annie",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Turning to Annie, one of the housemaids, he sent her downstairs to the dining-room for brandy.”"
+  },
+  {
+   "id": "dr-wilkins",
+   "name": "Dr. Wilkins",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Here, let one of the maids go down and wake Baily and tell him to go for Dr.”"
+  },
+  {
+   "id": "emily",
+   "name": "Emily",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Hastings.” Then, turning to his wife: “Emily dearest, I think that cushion is a little damp.””"
+  },
+  {
+   "id": "manning",
+   "name": "Manning",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “But now there’s only old Manning, and young William, and a new-fashioned woman gardener in breeches and such-like.”"
+  },
+  {
+   "id": "mrs-raikes",
+   "name": "Mrs. Raikes",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““That is Mrs.”"
+  },
+  {
+   "id": "mr-mace",
+   "name": "Mr. Mace",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““It is Mr.”"
+  },
+  {
+   "id": "summerhaye",
+   "name": "Summerhaye",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““Oh, come!” said Summerhaye, opening his lips for the first time.”"
+  },
+  {
+   "id": "mr-philips",
+   "name": "Mr. Philips",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "parkson",
+   "name": "Parkson",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Parkson’s, the well-known theatrical costumiers, and it was addressed to “—(the debatable initial) Cavendish, Esq., Styles Court, Styles St.”"
+  },
+  {
+   "id": "belgian",
+   "name": "Belgian",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Yet this quaint dandified little man who, I was sorry to see, now limped badly, had been in his time one of the most celebrated members of the Belgian police.”"
+  },
+  {
+   "id": "yard",
+   "name": "Yard",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: “That’s where the Yard’s at a disadvantage in a case of this kind, where the murder’s only out, so to speak, after the inquest.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "john-cavendish",
+   "target": "mrs-cavendish",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "john-cavendish",
+   "target": "mr-cavendish",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "lawrence-cavendish",
+   "target": "mr-cavendish",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "john-cavendish",
+   "target": "lawrence-cavendish",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "evie",
+   "target": "john-cavendish",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "john-cavendish",
+   "target": "mary-cavendish",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "evelyn-howard",
+   "target": "evie",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "evelyn-howard",
+   "target": "mr-hastings",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "mary-cavendish",
+   "target": "mrs-cavendish",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "alfred-inglethorp",
+   "target": "mrs-inglethorp",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "alfred-inglethorp",
+   "target": "mr-hastings",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "john-cavendish",
+   "target": "mr-hastings",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "alfred-inglethorp",
+   "target": "john-cavendish",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "alfred-inglethorp",
+   "target": "emily",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "emily",
+   "target": "mr-hastings",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "evelyn-howard",
+   "target": "mr-inglethorp",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "mr-inglethorp",
+   "target": "mrs-inglethorp",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "evelyn-howard",
+   "target": "mrs-inglethorp",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "mrs-cavendish",
+   "target": "mrs-inglethorp",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "cynthia-murdoch",
+   "target": "mrs-cavendish",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "dr-bauerstein",
+   "target": "mary-cavendish",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "dr-bauerstein",
+   "target": "mrs-inglethorp",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "mary-cavendish",
+   "target": "mrs-inglethorp",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "cynthia-murdoch",
+   "target": "mary-cavendish",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "cynthia-murdoch",
+   "target": "mrs-inglethorp",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "cynthia-murdoch",
+   "target": "mr-hastings",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "john-cavendish",
+   "target": "mrs-inglethorp",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "cynthia-murdoch",
+   "target": "lawrence-cavendish",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "lawrence-cavendish",
+   "target": "mrs-inglethorp",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "evie",
+   "target": "mary-cavendish",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "alfred-inglethorp",
+   "target": "evie",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "emily",
+   "target": "evelyn-howard",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "alfred-inglethorp",
+   "target": "evelyn-howard",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "evelyn-howard",
+   "target": "john-cavendish",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "dr-bauerstein",
+   "target": "john-cavendish",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "john-cavendish",
+   "target": "mrs-raikes",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "evelyn-howard",
+   "target": "mrs-raikes",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "evelyn-howard",
+   "target": "lawrence-cavendish",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "cynthia-murdoch",
+   "target": "hercule-poirot",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "hercule-poirot",
+   "target": "mrs-inglethorp",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "belgian",
+   "target": "hercule-poirot",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "cynthia-murdoch",
+   "target": "dorcas",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "dorcas",
+   "target": "mrs-inglethorp",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "john-cavendish",
+   "target": "mr-inglethorp",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "emily",
+   "target": "mrs-inglethorp",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "dorcas",
+   "target": "john-cavendish",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "dorcas",
+   "target": "mr-inglethorp",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "alfred-inglethorp",
+   "target": "mr-inglethorp",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "cynthia-murdoch",
+   "target": "dr-wilkins",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "annie",
+   "target": "lawrence-cavendish",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "annie",
+   "target": "mrs-inglethorp",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "dr-wilkins",
+   "target": "mrs-inglethorp",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "dr-bauerstein",
+   "target": "dr-wilkins",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "dr-wilkins",
+   "target": "john-cavendish",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "hercule-poirot",
+   "target": "lawrence-cavendish",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "hercule-poirot",
+   "target": "mary-cavendish",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "evelyn-howard",
+   "target": "hercule-poirot",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "hercule-poirot",
+   "target": "john-cavendish",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "dr-bauerstein",
+   "target": "hercule-poirot",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "dorcas",
+   "target": "hercule-poirot",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "alfred-inglethorp",
+   "target": "hercule-poirot",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "dorcas",
+   "target": "manning",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "annie",
+   "target": "dorcas",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "annie",
+   "target": "hercule-poirot",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "evelyn-howard",
+   "target": "mr-wells",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "hercule-poirot",
+   "target": "mr-wells",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "annie",
+   "target": "cynthia-murdoch",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "hercule-poirot",
+   "target": "mr-inglethorp",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "hercule-poirot",
+   "target": "mr-cavendish",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "john-cavendish",
+   "target": "mr-wells",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "mr-wells",
+   "target": "mrs-inglethorp",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "coroner",
+   "target": "hercule-poirot",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "hercule-poirot",
+   "target": "manning",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "john-cavendish",
+   "target": "manning",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "evie",
+   "target": "lawrence-cavendish",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "emily",
+   "target": "hercule-poirot",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "hercule-poirot",
+   "target": "mrs-cavendish",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "hercule-poirot",
+   "target": "mr-mace",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "alfred-inglethorp",
+   "target": "coroner",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "coroner",
+   "target": "mr-inglethorp",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "coroner",
+   "target": "dorcas",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "coroner",
+   "target": "mary-cavendish",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "coroner",
+   "target": "mr-mace",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "alfred-inglethorp",
+   "target": "mr-mace",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "hercule-poirot",
+   "target": "japp",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "hercule-poirot",
+   "target": "summerhaye",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "japp",
+   "target": "summerhaye",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "summerhaye",
+   "target": "yard",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "japp",
+   "target": "yard",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "japp",
+   "target": "mr-inglethorp",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "hercule-poirot",
+   "target": "yard",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "mr-inglethorp",
+   "target": "yard",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "japp",
+   "target": "john-cavendish",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "john-cavendish",
+   "target": "sir-ernest-heavywether",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "mr-philips",
+   "target": "sir-ernest-heavywether",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "mrs-inglethorp",
+   "target": "mrs-raikes",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "mr-philips",
+   "target": "mrs-inglethorp",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "mr-inglethorp",
+   "target": "mr-philips",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "lawrence-cavendish",
+   "target": "mr-philips",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "mr-philips",
+   "target": "parkson",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "lawrence-cavendish",
+   "target": "parkson",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "parkson",
+   "target": "sir-ernest-heavywether",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "mr-inglethorp",
+   "target": "sir-ernest-heavywether",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "mrs-inglethorp",
+   "target": "sir-ernest-heavywether",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "alfred-inglethorp",
+   "target": "mrs-raikes",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

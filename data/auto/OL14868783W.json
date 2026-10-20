@@ -1,0 +1,1178 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL14868783W",
+ "title": "The Cricket on the Hearth",
+ "authors": [
+  "Charles Dickens"
+ ],
+ "firstPublished": 1846,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #678.",
+  "source": "Project Gutenberg eBook #678",
+  "url": "https://www.gutenberg.org/ebooks/678"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "Chirp the First"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "Chirp the Second"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "Chirp the Third"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-peerybingle",
+   "label": "Peerybingle (shared surname)"
+  },
+  {
+   "id": "g-slowboy",
+   "label": "Slowboy (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "john-peerybingle",
+   "name": "John Peerybingle",
+   "aliases": [
+    "John"
+   ],
+   "role": "protagonist",
+   "group": "g-peerybingle",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘Oh goodness, John!”"
+  },
+  {
+   "id": "tackleton",
+   "name": "Tackleton",
+   "aliases": [
+    "Mr. Tackleton"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘You never mean to say,’ pursued Dot, sitting on the floor and shaking her head at him, ‘that it’s Gruff and Tackleton the toymaker!’”"
+  },
+  {
+   "id": "caleb-plummer",
+   "name": "Caleb Plummer",
+   "aliases": [
+    "Caleb"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘All thriving, Caleb,’ replied Dot.”"
+  },
+  {
+   "id": "dot",
+   "name": "Dot",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘Why, you see, Dot,’ John made answer, slowly, as he unrolled a shawl from about his throat; and warmed his hands; ‘it—it an’t exactly summer weather.”"
+  },
+  {
+   "id": "carrier",
+   "name": "Carrier",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Oh Mother Nature, give thy children the true poetry of heart that hid itself in this poor Carrier’s breast—he was but a Carrier by the way—and we can bear to have them talking prose, and leading lives of prose; and be…”"
+  },
+  {
+   "id": "bertha",
+   "name": "Bertha",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “‘Tired!’ echoed Caleb, with a great burst of animation, ‘what should tire me, Bertha?”"
+  },
+  {
+   "id": "cricket",
+   "name": "Cricket",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The kettle began it, full five minutes by the little waxy-faced Dutch clock in the corner, before the Cricket uttered a chirp.”"
+  },
+  {
+   "id": "mrs-peerybingle",
+   "name": "Mrs. Peerybingle",
+   "role": "supporting",
+   "group": "g-peerybingle",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Don’t tell me what Mrs.”"
+  },
+  {
+   "id": "tilly-slowboy",
+   "name": "Tilly Slowboy",
+   "aliases": [
+    "Tilly"
+   ],
+   "role": "supporting",
+   "group": "g-slowboy",
+   "firstAppearance": "s1",
+   "summary": "First mention: “It was pleasant to observe how Tilly Slowboy, waiting in the background for the baby, took special cognizance (though in her earliest teens) of this grouping; and stood with her mouth and eyes wide open, and her head…”"
+  },
+  {
+   "id": "boxer",
+   "name": "Boxer",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Hie, Boxer, boy!”"
+  },
+  {
+   "id": "miss-slowboy",
+   "name": "Miss Slowboy",
+   "role": "supporting",
+   "group": "g-slowboy",
+   "firstAppearance": "s1",
+   "summary": "First mention: “It may be noted of Miss Slowboy, in spite of her rejecting the caution with some vivacity, that she had a rare and surprising talent for getting this baby into difficulties and had several times imperilled its short l…”"
+  },
+  {
+   "id": "gruff",
+   "name": "Gruff",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “‘You never mean to say,’ pursued Dot, sitting on the floor and shaking her head at him, ‘that it’s Gruff and Tackleton the toymaker!’”"
+  },
+  {
+   "id": "edward",
+   "name": "Edward",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “‘Edward!”"
+  },
+  {
+   "id": "mrs-fielding",
+   "name": "Mrs. Fielding",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “‘So bring me the precious Baby, Tilly,’ said she, drawing a chair to the fire; ‘and while I have it in my lap, here’s Mrs.”"
+  },
+  {
+   "id": "fairies",
+   "name": "Fairies",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “From the hearthstone, from the chimney, from the clock, the pipe, the kettle, and the cradle; from the floor, the walls, the ceiling, and the stairs; from the cart without, and the cupboard within, and the household i…”"
+  },
+  {
+   "id": "haymaker",
+   "name": "Haymaker",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “As if the clock hadn’t finished striking, and the convulsive little Haymaker at the top of it, jerking away right and left with a scythe in front of a Moorish Palace, hadn’t mowed down half an acre of imaginary grass…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "cricket",
+   "target": "mrs-peerybingle",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "haymaker",
+   "target": "mrs-peerybingle",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "cricket",
+   "target": "haymaker",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "john-peerybingle",
+   "target": "mrs-peerybingle",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "dot",
+   "target": "john-peerybingle",
+   "weight": 58,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "dot",
+   "target": "mrs-peerybingle",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "carrier",
+   "target": "john-peerybingle",
+   "weight": 55,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "john-peerybingle",
+   "target": "tilly-slowboy",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "carrier",
+   "target": "dot",
+   "weight": 50,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "carrier",
+   "target": "tilly-slowboy",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "dot",
+   "target": "tilly-slowboy",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "boxer",
+   "target": "john-peerybingle",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "boxer",
+   "target": "dot",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "mrs-peerybingle",
+   "target": "tilly-slowboy",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "boxer",
+   "target": "tilly-slowboy",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "miss-slowboy",
+   "target": "tilly-slowboy",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "miss-slowboy",
+   "target": "mrs-peerybingle",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "cricket",
+   "target": "john-peerybingle",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "carrier",
+   "target": "cricket",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "cricket",
+   "target": "dot",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "gruff",
+   "target": "john-peerybingle",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "john-peerybingle",
+   "target": "tackleton",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "dot",
+   "target": "gruff",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "dot",
+   "target": "tackleton",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "gruff",
+   "target": "tackleton",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "john-peerybingle",
+   "target": "miss-slowboy",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "carrier",
+   "target": "miss-slowboy",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "dot",
+   "target": "miss-slowboy",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "boxer",
+   "target": "carrier",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "caleb-plummer",
+   "target": "john-peerybingle",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "boxer",
+   "target": "caleb-plummer",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "caleb-plummer",
+   "target": "dot",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "caleb-plummer",
+   "target": "carrier",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "carrier",
+   "target": "tackleton",
+   "weight": 52,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 52
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "cricket",
+   "target": "tackleton",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "caleb-plummer",
+   "target": "tackleton",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "carrier",
+   "target": "gruff",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "caleb-plummer",
+   "target": "gruff",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "bertha",
+   "target": "caleb-plummer",
+   "weight": 48,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 30
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "bertha",
+   "target": "tackleton",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "bertha",
+   "target": "carrier",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "bertha",
+   "target": "john-peerybingle",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "bertha",
+   "target": "dot",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "dot",
+   "target": "mrs-fielding",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "caleb-plummer",
+   "target": "mrs-fielding",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "bertha",
+   "target": "mrs-fielding",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "mrs-fielding",
+   "target": "tilly-slowboy",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "dot",
+   "target": "haymaker",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "cricket",
+   "target": "fairies",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "carrier",
+   "target": "fairies",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "dot",
+   "target": "fairies",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "caleb-plummer",
+   "target": "fairies",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "dot",
+   "target": "edward",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "carrier",
+   "target": "edward",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "caleb-plummer",
+   "target": "edward",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "edward",
+   "target": "john-peerybingle",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "edward",
+   "target": "tackleton",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "carrier",
+   "target": "mrs-fielding",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

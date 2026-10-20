@@ -1,0 +1,2452 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL18396W",
+ "title": "The Marvelous Land of Oz",
+ "authors": [
+  "L. Frank Baum"
+ ],
+ "firstPublished": 1904,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #54 (no chapter headings found, so the text is split into equal parts).",
+  "source": "Project Gutenberg eBook #54",
+  "url": "https://www.gutenberg.org/ebooks/54"
+ },
+ "sectionLabel": {
+  "singular": "Part",
+  "plural": "Parts"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Part 1",
+   "title": "about 8% through"
+  },
+  {
+   "id": "s2",
+   "label": "Part 2",
+   "title": "about 17% through"
+  },
+  {
+   "id": "s3",
+   "label": "Part 3",
+   "title": "about 25% through"
+  },
+  {
+   "id": "s4",
+   "label": "Part 4",
+   "title": "about 33% through"
+  },
+  {
+   "id": "s5",
+   "label": "Part 5",
+   "title": "about 42% through"
+  },
+  {
+   "id": "s6",
+   "label": "Part 6",
+   "title": "about 50% through"
+  },
+  {
+   "id": "s7",
+   "label": "Part 7",
+   "title": "about 58% through"
+  },
+  {
+   "id": "s8",
+   "label": "Part 8",
+   "title": "about 67% through"
+  },
+  {
+   "id": "s9",
+   "label": "Part 9",
+   "title": "about 75% through"
+  },
+  {
+   "id": "s10",
+   "label": "Part 10",
+   "title": "about 83% through"
+  },
+  {
+   "id": "s11",
+   "label": "Part 11",
+   "title": "about 92% through"
+  },
+  {
+   "id": "s12",
+   "label": "Part 12",
+   "title": "about 100% through"
+  }
+ ],
+ "characters": [
+  {
+   "id": "tip",
+   "name": "Tip",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “In the Country of the Gillikins, which is at the North of the Land of Oz, lived a youth called Tip.”"
+  },
+  {
+   "id": "scarecrow",
+   "name": "Scarecrow",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “After the publication of “The Wonderful Wizard of OZ” I began to receive letters from children, telling me of their pleasure in reading the story and asking me to “write something more” about the Scarecrow and the Tin…”"
+  },
+  {
+   "id": "jack-pumpkinhead",
+   "name": "Jack Pumpkinhead",
+   "aliases": [
+    "Jack",
+    "Pumpkinhead"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Tip Manufactures Pumpkinhead The Marvelous Powder of Life The Flight of the Fugitives Tip Makes an Experiment in Magic The Awakening of the Saw-horse Jack Pumpkinhead’s Ride to the Emerald City His Majesty the Scarecr…”"
+  },
+  {
+   "id": "tin-woodman",
+   "name": "Tin Woodman",
+   "aliases": [
+    "Woodman"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “After the publication of “The Wonderful Wizard of OZ” I began to receive letters from children, telling me of their pleasure in reading the story and asking me to “write something more” about the Scarecrow and the Tin…”"
+  },
+  {
+   "id": "mombi",
+   "name": "Mombi",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A Highly Magnified History Old Mombi indulges in Witchcraft The Prisoners of the Queen The Scarecrow Takes Time to Think The Astonishing Flight of the Gump In the Jackdaw’s Nest Dr.”"
+  },
+  {
+   "id": "saw-horse",
+   "name": "Saw-Horse",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Tip became alarmed at this accident, as well as at the persistence of the Saw-Horse in prancing around in a circle; so he called out:”"
+  },
+  {
+   "id": "glinda",
+   "name": "Glinda",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Nikidik’s Famous Wishing Pills The Scarecrow Appeals to Glinda the Good The Tin-Woodman Plucks a Rose The Transformation of Old Mombi Princess Ozma of Oz The Riches of Content”"
+  },
+  {
+   "id": "emerald",
+   "name": "Emerald",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Tip Manufactures Pumpkinhead The Marvelous Powder of Life The Flight of the Fugitives Tip Makes an Experiment in Magic The Awakening of the Saw-horse Jack Pumpkinhead’s Ride to the Emerald City His Majesty the Scarecr…”"
+  },
+  {
+   "id": "gump",
+   "name": "Gump",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A Highly Magnified History Old Mombi indulges in Witchcraft The Prisoners of the Queen The Scarecrow Takes Time to Think The Astonishing Flight of the Gump In the Jackdaw’s Nest Dr.”"
+  },
+  {
+   "id": "jinjur",
+   "name": "Jinjur",
+   "aliases": [
+    "General Jinjur"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““I am General Jinjur,” was the brief reply.”"
+  },
+  {
+   "id": "queen",
+   "name": "Queen",
+   "role": "supporting",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““I wonder if my old friend, the Queen of the Mice, is in this neighborhood.””"
+  },
+  {
+   "id": "oz",
+   "name": "Oz",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Marvelous Land of Oz”"
+  },
+  {
+   "id": "sorceress",
+   "name": "Sorceress",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “So Tip’s guardian, however much she might aspire to working magic, realized it was unlawful to be more than a Sorceress, or at most a Wizardess.”"
+  },
+  {
+   "id": "princess-ozma",
+   "name": "Ozma",
+   "aliases": [
+    "Princess Ozma"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Nikidik’s Famous Wishing Pills The Scarecrow Appeals to Glinda the Good The Tin-Woodman Plucks a Rose The Transformation of Old Mombi Princess Ozma of Oz The Riches of Content”"
+  },
+  {
+   "id": "wizard",
+   "name": "Wizard",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “After the publication of “The Wonderful Wizard of OZ” I began to receive letters from children, telling me of their pleasure in reading the story and asking me to “write something more” about the Scarecrow and the Tin…”"
+  },
+  {
+   "id": "nick-chopper",
+   "name": "Nick Chopper",
+   "aliases": [
+    "Nick"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““And here is where Nick Chopper destroyed the Wicked Witch’s Grey Wolves.””"
+  },
+  {
+   "id": "revolt",
+   "name": "Revolt",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Jinjur’s Army of Revolt The Scarecrow Plans an escape The Journey to the Tin Woodman A Nickel-Plated Emperor Mr.”"
+  },
+  {
+   "id": "scarecrow-king",
+   "name": "Scarecrow King",
+   "aliases": [
+    "King"
+   ],
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““After the Wizard was gone, the people of the Emerald City made His Majesty, the Scarecrow, their King; and I have heard that he became a very popular ruler.””"
+  },
+  {
+   "id": "jackdaws",
+   "name": "Jackdaws",
+   "role": "minor",
+   "firstAppearance": "s10",
+   "summary": "First mention: “By good fortune they fell only a few feet; for underneath them was a monster nest, built by a colony of Jackdaws in a hollow ledge of rock; so none of them—not even the Pumpkinhead—was injured by the fall.”"
+  },
+  {
+   "id": "bug",
+   "name": "Bug",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: “The Woggle-Bug listened patiently—even respectfully—to these remarks, and then resumed his story.”"
+  },
+  {
+   "id": "dorothy",
+   "name": "Dorothy",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Finally I promised one little girl, who made a long journey to see me and prefer her request,—and she is a “Dorothy,” by the way—that when a thousand little girls had written me a thousand little letters asking for th…”"
+  },
+  {
+   "id": "jellia-jamb",
+   "name": "Jellia Jamb",
+   "aliases": [
+    "Jellia"
+   ],
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Why, it’s little Jellia Jamb!”"
+  },
+  {
+   "id": "winkies",
+   "name": "Winkies",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “And in the Country of the Munchkins, over at the East, everything is blue; and in the South country of the Quadlings everything is red; and in the West country of the Winkies, where the Tin Woodman rules, everything i…”"
+  },
+  {
+   "id": "griffin",
+   "name": "Griffin",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Fortunately, the ground where the tent had been pitched, being Just before the city gates, was hard and smooth; and while the Ant still crawled about, Glinda discovered it and ran quickly forward to effect its capture…”"
+  },
+  {
+   "id": "queen-jinjur",
+   "name": "Queen Jinjur",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “At this Queen Jinjur laughed aloud, and the next minute clapped her pretty hands together thrice, as if for a signal.”"
+  },
+  {
+   "id": "general",
+   "name": "General",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““What sort of a General?””"
+  },
+  {
+   "id": "pastoria",
+   "name": "Pastoria",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “The former King of this City, who was named Pastoria, lost the crown to the Wonderful Wizard, who passed it on to me.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "scarecrow",
+   "target": "wizard",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "tin-woodman",
+   "target": "wizard",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "dorothy",
+   "target": "wizard",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "scarecrow",
+   "target": "tin-woodman",
+   "weight": 103,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "dorothy",
+   "target": "scarecrow",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "dorothy",
+   "target": "tin-woodman",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "emerald",
+   "target": "jack-pumpkinhead",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "jack-pumpkinhead",
+   "target": "tin-woodman",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "jack-pumpkinhead",
+   "target": "mombi",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "gump",
+   "target": "jack-pumpkinhead",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "emerald",
+   "target": "revolt",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "emerald",
+   "target": "tin-woodman",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "emerald",
+   "target": "mombi",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "emerald",
+   "target": "glinda",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "emerald",
+   "target": "princess-ozma",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "revolt",
+   "target": "tin-woodman",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "oz",
+   "target": "revolt",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "mombi",
+   "target": "tin-woodman",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "gump",
+   "target": "tin-woodman",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "glinda",
+   "target": "tin-woodman",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "oz",
+   "target": "tin-woodman",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "glinda",
+   "target": "mombi",
+   "weight": 54,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 31
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 54
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "mombi",
+   "target": "princess-ozma",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "mombi",
+   "target": "oz",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "glinda",
+   "target": "gump",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "glinda",
+   "target": "princess-ozma",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "glinda",
+   "target": "oz",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "jack-pumpkinhead",
+   "target": "tip",
+   "weight": 148,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 54
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "mombi",
+   "target": "tip",
+   "weight": 60,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 35
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "mombi",
+   "target": "sorceress",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "oz",
+   "target": "sorceress",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "jack-pumpkinhead",
+   "target": "wizard",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "jack-pumpkinhead",
+   "target": "winkies",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "emerald",
+   "target": "tip",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "tip",
+   "target": "winkies",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "tin-woodman",
+   "target": "tip",
+   "weight": 68,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 29
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "emerald",
+   "target": "winkies",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "tin-woodman",
+   "target": "winkies",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "dorothy",
+   "target": "jack-pumpkinhead",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "jack-pumpkinhead",
+   "target": "scarecrow",
+   "weight": 113,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 68
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "scarecrow",
+   "target": "winkies",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "emerald",
+   "target": "scarecrow",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "scarecrow",
+   "target": "tip",
+   "weight": 100,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "dorothy",
+   "target": "tip",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "oz",
+   "target": "scarecrow",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "glinda",
+   "target": "scarecrow",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 39
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "emerald",
+   "target": "wizard",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "jack-pumpkinhead",
+   "target": "scarecrow-king",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "scarecrow-king",
+   "target": "tip",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "emerald",
+   "target": "scarecrow-king",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "scarecrow",
+   "target": "scarecrow-king",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "saw-horse",
+   "target": "tip",
+   "weight": 81,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 31
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 48
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "jack-pumpkinhead",
+   "target": "saw-horse",
+   "weight": 83,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "emerald",
+   "target": "saw-horse",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "saw-horse",
+   "target": "scarecrow",
+   "weight": 54,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "jellia-jamb",
+   "target": "scarecrow",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "jack-pumpkinhead",
+   "target": "jellia-jamb",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "jinjur",
+   "target": "tip",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "general",
+   "target": "revolt",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "jinjur",
+   "target": "scarecrow",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "jinjur",
+   "target": "revolt",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "emerald",
+   "target": "jinjur",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "revolt",
+   "target": "scarecrow",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "jinjur",
+   "target": "scarecrow-king",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "general",
+   "target": "oz",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "saw-horse",
+   "target": "tin-woodman",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "jack-pumpkinhead",
+   "target": "nick-chopper",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "nick-chopper",
+   "target": "scarecrow",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "nick-chopper",
+   "target": "tip",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "nick-chopper",
+   "target": "tin-woodman",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "jinjur",
+   "target": "mombi",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 6."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "mombi",
+   "target": "scarecrow",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "bug",
+   "target": "jack-pumpkinhead",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "bug",
+   "target": "scarecrow",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "bug",
+   "target": "tin-woodman",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "queen",
+   "target": "scarecrow",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "nick-chopper",
+   "target": "queen",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "emerald",
+   "target": "queen",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 7."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "mombi",
+   "target": "queen",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 7."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "jinjur",
+   "target": "queen",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 8."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "queen-jinjur",
+   "target": "tin-woodman",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "queen-jinjur",
+   "target": "tip",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "queen-jinjur",
+   "target": "scarecrow",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "queen-jinjur",
+   "target": "saw-horse",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "pastoria",
+   "target": "scarecrow",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "emerald",
+   "target": "pastoria",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "pastoria",
+   "target": "scarecrow-king",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "jinjur",
+   "target": "pastoria",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "bug",
+   "target": "tip",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "gump",
+   "target": "tip",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "gump",
+   "target": "scarecrow",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "glinda",
+   "target": "tip",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "glinda",
+   "target": "queen",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "gump",
+   "target": "jackdaws",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "jack-pumpkinhead",
+   "target": "jackdaws",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "jackdaws",
+   "target": "scarecrow",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "jackdaws",
+   "target": "tip",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "bug",
+   "target": "jackdaws",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "jackdaws",
+   "target": "tin-woodman",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "glinda",
+   "target": "sorceress",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "sorceress",
+   "target": "tin-woodman",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "scarecrow",
+   "target": "sorceress",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "pastoria",
+   "target": "sorceress",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "glinda",
+   "target": "jinjur",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "jinjur",
+   "target": "princess-ozma",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "princess-ozma",
+   "target": "wizard",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "princess-ozma",
+   "target": "queen",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "glinda",
+   "target": "queen-jinjur",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "jellia-jamb",
+   "target": "queen",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r110",
+   "source": "jellia-jamb",
+   "target": "mombi",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r111",
+   "source": "glinda",
+   "target": "jellia-jamb",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r112",
+   "source": "griffin",
+   "target": "mombi",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r113",
+   "source": "glinda",
+   "target": "griffin",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r114",
+   "source": "griffin",
+   "target": "saw-horse",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r115",
+   "source": "griffin",
+   "target": "scarecrow",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r116",
+   "source": "griffin",
+   "target": "sorceress",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 11."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

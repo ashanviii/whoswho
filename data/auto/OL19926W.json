@@ -1,0 +1,1819 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL19926W",
+ "title": "The Second Jungle Book",
+ "authors": [
+  "Rudyard Kipling"
+ ],
+ "firstPublished": 1887,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #1937 (no chapter headings found, so the text is split into equal parts).",
+  "source": "Project Gutenberg eBook #1937",
+  "url": "https://www.gutenberg.org/ebooks/1937"
+ },
+ "sectionLabel": {
+  "singular": "Part",
+  "plural": "Parts"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Part 1",
+   "title": "about 8% through"
+  },
+  {
+   "id": "s2",
+   "label": "Part 2",
+   "title": "about 17% through"
+  },
+  {
+   "id": "s3",
+   "label": "Part 3",
+   "title": "about 25% through"
+  },
+  {
+   "id": "s4",
+   "label": "Part 4",
+   "title": "about 33% through"
+  },
+  {
+   "id": "s5",
+   "label": "Part 5",
+   "title": "about 42% through"
+  },
+  {
+   "id": "s6",
+   "label": "Part 6",
+   "title": "about 50% through"
+  },
+  {
+   "id": "s7",
+   "label": "Part 7",
+   "title": "about 58% through"
+  },
+  {
+   "id": "s8",
+   "label": "Part 8",
+   "title": "about 67% through"
+  },
+  {
+   "id": "s9",
+   "label": "Part 9",
+   "title": "about 75% through"
+  },
+  {
+   "id": "s10",
+   "label": "Part 10",
+   "title": "about 83% through"
+  },
+  {
+   "id": "s11",
+   "label": "Part 11",
+   "title": "about 92% through"
+  },
+  {
+   "id": "s12",
+   "label": "Part 12",
+   "title": "about 100% through"
+  }
+ ],
+ "characters": [
+  {
+   "id": "mowgli",
+   "name": "Mowgli",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “You will remember that Mowgli spent a great part of his life in the Seeonee Wolf-Pack, learning the Law from Baloo, the Brown Bear; and it was Baloo who told him, when the boy grew impatient at the constant orders, th…”"
+  },
+  {
+   "id": "bagheera",
+   "name": "Bagheera",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “All the game in the jungle was no more than skin and bone, and Bagheera could kill thrice in a night, and hardly get a full meal.”"
+  },
+  {
+   "id": "kaa",
+   "name": "Kaa",
+   "role": "major",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Hathi and his sons are like Kaa, the Rock Python.”"
+  },
+  {
+   "id": "kotuko",
+   "name": "Kotuko",
+   "role": "major",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Kadlu’s eye rolled round the skin-lined snow-house till it fell on fourteen-year-old Kotuko sitting on the sleeping-bench, making a button out of walrus ivory.”"
+  },
+  {
+   "id": "seeonee-pack",
+   "name": "Seeonee Pack",
+   "aliases": [
+    "Pack"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Now ‘neath his dam the fawn may see, The lean Pack-wolf as cowed as he, And the tall buck, unflinching, note The fangs that tore his father’s throat.”"
+  },
+  {
+   "id": "hathi",
+   "name": "Hathi",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “And the heat went on and on, and sucked up all the moisture, till at last the main channel of the Waingunga was the only stream that carried a trickle of water between its dead banks; and when Hathi, the wild elephant…”"
+  },
+  {
+   "id": "mugger",
+   "name": "Mugger",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “It was the blunt-nosed Mugger of Mugger-Ghaut, older than any man in the village, who had given his name to the village; the demon of the ford before the railway bridge, came--murderer, man-eater, and local fetish in…”"
+  },
+  {
+   "id": "purun-bhagat",
+   "name": "Purun Bhagat",
+   "aliases": [
+    "Bhagat"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “How Fear Came The Law of the Jungle The Miracle of Purun Bhagat A Song of Kabir Letting in the Jungle Mowgli’s Song against People The Undertakers A Ripple Song The King’s Ankus The Song of the Little Hunter Quiquern…”"
+  },
+  {
+   "id": "messua",
+   "name": "Messua",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “But meantime the village had got hold of Messua and her husband, who were undoubtedly the father and mother of this Devil-child, and had barricaded them in their own hut, and presently would torture them to make them…”"
+  },
+  {
+   "id": "akela",
+   "name": "Akela",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““But for Akela and Gray Brother here,” Mowgli said, at the end, “I could have done nothing.”"
+  },
+  {
+   "id": "baloo",
+   "name": "Baloo",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “You will remember that Mowgli spent a great part of his life in the Seeonee Wolf-Pack, learning the Law from Baloo, the Brown Bear; and it was Baloo who told him, when the boy grew impatient at the constant orders, th…”"
+  },
+  {
+   "id": "buldeo",
+   "name": "Buldeo",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Buldeo!”"
+  },
+  {
+   "id": "adjutant",
+   "name": "Adjutant",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “A lumbering Adjutant-crane brought up the rear, flying as though each slow stroke would be his last.”"
+  },
+  {
+   "id": "law",
+   "name": "Law",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “How Fear Came The Law of the Jungle The Miracle of Purun Bhagat A Song of Kabir Letting in the Jungle Mowgli’s Song against People The Undertakers A Ripple Song The King’s Ankus The Song of the Little Hunter Quiquern…”"
+  },
+  {
+   "id": "shere-khan",
+   "name": "Shere Khan",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “To move down so cunningly that never a leaf stirred; to wade knee-deep in the roaring shallows that drown all noise from behind; to drink, looking backward over one shoulder, every muscle ready for the first desperate…”"
+  },
+  {
+   "id": "tigers",
+   "name": "Tigers",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “He could not walk in all places; therefore he made the First of the Tigers the master and the judge of the Jungle, to whom the Jungle People should bring their disputes.”"
+  },
+  {
+   "id": "tha",
+   "name": "Tha",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““And the Lord of the Jungle was Tha, the First of the Elephants.”"
+  },
+  {
+   "id": "won",
+   "name": "Won",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Won-tolla am I,” was the answer.”"
+  },
+  {
+   "id": "kadlu",
+   "name": "Kadlu",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Kadlu’s eye rolled round the skin-lined snow-house till it fell on fourteen-year-old Kotuko sitting on the sleeping-bench, making a button out of walrus ivory.”"
+  },
+  {
+   "id": "waingunga",
+   "name": "Waingunga",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “And the heat went on and on, and sucked up all the moisture, till at last the main channel of the Waingunga was the only stream that carried a trickle of water between its dead banks; and when Hathi, the wild elephant…”"
+  },
+  {
+   "id": "mysa",
+   "name": "Mysa",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Ugh!” said Mysa, the leader of the buffaloes, from their sand-bank.”"
+  },
+  {
+   "id": "phao",
+   "name": "Phao",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “This was not a question in which Mowgli concerned himself, for, as he said, he had eaten sour fruit, and he knew the tree it hung from; but when Phao, son of Phaona (his father was the Gray Tracker in the days of Akel…”"
+  },
+  {
+   "id": "amoraq",
+   "name": "Amoraq",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““For whom?” said Amoraq.”"
+  },
+  {
+   "id": "ghaut",
+   "name": "Ghaut",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “That was the Ghaut of the village of Mugger-Ghaut.”"
+  },
+  {
+   "id": "brahmin",
+   "name": "Brahmin",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “He was a Brahmin, so high-caste that caste ceased to have any particular meaning for him; and his father had been an important official in the gay-coloured tag-rag and bobtail of an old-fashioned Hindu Court.”"
+  },
+  {
+   "id": "purun-dass",
+   "name": "Purun Dass",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “But as Purun Dass grew up he felt that the old order of things was changing, and that if any one wished to get on in the world he must stand well with the English, and imitate all that the English believed to be good.”"
+  },
+  {
+   "id": "mother-wolf",
+   "name": "Mother Wolf",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Then he told Mother Wolf and Father Wolf as much as they could understand of his adventures among men; and when he made the morning sun flicker up and down the blade of his skinning-knife,--the same he had skinned She…”"
+  },
+  {
+   "id": "ikki",
+   "name": "Ikki",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “It began when the winter Rains failed almost entirely, and Ikki, the Porcupine, meeting Mowgli in a bamboo-thicket, told him that the wild yams were drying up.”"
+  },
+  {
+   "id": "gond",
+   "name": "Gond",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “They made the Gond welcome with what they had, and he stood on one leg, his bow in his hand, and two or three poisoned arrows stuck through his top-knot, looking half afraid and half contemptuously at the anxious vill…”"
+  },
+  {
+   "id": "flathead",
+   "name": "Flathead",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: ““Then go I and wash, Flathead; but, it is true, in the great heats I have wished I could slough my skin without pain, and run skinless.””"
+  },
+  {
+   "id": "mor",
+   "name": "Mor",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Ere Mor the Peacock flutters, ere the Monkey People cry, Ere Chil the Kite swoops down a furlong sheer, Through the Jungle very softly flits a shadow and a sigh-- He is Fear, O Little Hunter, he is Fear!”"
+  },
+  {
+   "id": "quiquern",
+   "name": "Quiquern",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “How Fear Came The Law of the Jungle The Miracle of Purun Bhagat A Song of Kabir Letting in the Jungle Mowgli’s Song against People The Undertakers A Ripple Song The King’s Ankus The Song of the Little Hunter Quiquern…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "law",
+   "target": "purun-bhagat",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "mowgli",
+   "target": "seeonee-pack",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "law",
+   "target": "seeonee-pack",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "baloo",
+   "target": "seeonee-pack",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "law",
+   "target": "mowgli",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "baloo",
+   "target": "mowgli",
+   "weight": 34,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "baloo",
+   "target": "law",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "baloo",
+   "target": "ikki",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "ikki",
+   "target": "mowgli",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "bagheera",
+   "target": "mowgli",
+   "weight": 120,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 61
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "mowgli",
+   "target": "waingunga",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "hathi",
+   "target": "mowgli",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "bagheera",
+   "target": "waingunga",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "bagheera",
+   "target": "hathi",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "hathi",
+   "target": "shere-khan",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "bagheera",
+   "target": "law",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "law",
+   "target": "shere-khan",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "bagheera",
+   "target": "shere-khan",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "baloo",
+   "target": "hathi",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "bagheera",
+   "target": "baloo",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "mowgli",
+   "target": "shere-khan",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "baloo",
+   "target": "shere-khan",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "bagheera",
+   "target": "seeonee-pack",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "bagheera",
+   "target": "tha",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "mowgli",
+   "target": "tha",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "bagheera",
+   "target": "tigers",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "mowgli",
+   "target": "tigers",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "tha",
+   "target": "tigers",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "law",
+   "target": "tha",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "hathi",
+   "target": "tigers",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "hathi",
+   "target": "tha",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "hathi",
+   "target": "ikki",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 1."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "brahmin",
+   "target": "purun-dass",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "purun-bhagat",
+   "target": "purun-dass",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 2."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "mother-wolf",
+   "target": "mowgli",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "seeonee-pack",
+   "target": "shere-khan",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "mother-wolf",
+   "target": "seeonee-pack",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "baloo",
+   "target": "mother-wolf",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "bagheera",
+   "target": "mother-wolf",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "akela",
+   "target": "mother-wolf",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "akela",
+   "target": "mowgli",
+   "weight": 45,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "akela",
+   "target": "bagheera",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "akela",
+   "target": "baloo",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "akela",
+   "target": "buldeo",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "buldeo",
+   "target": "mowgli",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "akela",
+   "target": "seeonee-pack",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "buldeo",
+   "target": "shere-khan",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "bagheera",
+   "target": "buldeo",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "messua",
+   "target": "mowgli",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 53
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "buldeo",
+   "target": "messua",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "bagheera",
+   "target": "messua",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "messua",
+   "target": "shere-khan",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 3."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "baloo",
+   "target": "messua",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "brahmin",
+   "target": "mowgli",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "brahmin",
+   "target": "buldeo",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "bagheera",
+   "target": "brahmin",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "brahmin",
+   "target": "hathi",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "kaa",
+   "target": "mowgli",
+   "weight": 65,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 4."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 57
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "hathi",
+   "target": "kaa",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "baloo",
+   "target": "kaa",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 4."
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "adjutant",
+   "target": "ghaut",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "adjutant",
+   "target": "mugger",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Part 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "ghaut",
+   "target": "mugger",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 5."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "flathead",
+   "target": "kaa",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 6."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "bagheera",
+   "target": "gond",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "gond",
+   "target": "mowgli",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 7."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "amoraq",
+   "target": "kadlu",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 8."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "amoraq",
+   "target": "kotuko",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "kadlu",
+   "target": "kotuko",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "kotuko",
+   "target": "quiquern",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "mowgli",
+   "target": "phao",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "bagheera",
+   "target": "phao",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "akela",
+   "target": "phao",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "phao",
+   "target": "seeonee-pack",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "phao",
+   "target": "waingunga",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "akela",
+   "target": "waingunga",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "seeonee-pack",
+   "target": "waingunga",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "phao",
+   "target": "won",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "seeonee-pack",
+   "target": "won",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "mowgli",
+   "target": "won",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "akela",
+   "target": "won",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "flathead",
+   "target": "mowgli",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "kaa",
+   "target": "seeonee-pack",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 9."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "kaa",
+   "target": "waingunga",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Part 9."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "kaa",
+   "target": "won",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Part 10."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "mor",
+   "target": "mowgli",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "mowgli",
+   "target": "mysa",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Part 11."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "mysa",
+   "target": "seeonee-pack",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Part 11."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

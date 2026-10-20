@@ -1,0 +1,2112 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL8193465W",
+ "title": "A Tale of Two Cities",
+ "authors": [
+  "Charles Dickens"
+ ],
+ "firstPublished": 1800,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #98.",
+  "source": "Project Gutenberg eBook #98",
+  "url": "https://www.gutenberg.org/ebooks/98"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "The Period"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "The Mail"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "The Night Shadows"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "The Preparation"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "The Wine-shop"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "The Shoemaker"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 1",
+   "title": "Five Years Later"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 2",
+   "title": "A Sight"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 3",
+   "title": "A Disappointment"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 4",
+   "title": "Congratulatory"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 5",
+   "title": "The Jackal"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 6",
+   "title": "Hundreds of People"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 7",
+   "title": "Monseigneur in Town"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 8",
+   "title": "Monseigneur in the Country"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 9",
+   "title": "The Gorgon’s Head"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 10",
+   "title": "Two Promises"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 11",
+   "title": "A Companion Picture"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 12",
+   "title": "The Fellow of Delicacy"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 13",
+   "title": "The Fellow of No Delicacy"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 14",
+   "title": "The Honest Tradesman"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 15",
+   "title": "Knitting"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 16",
+   "title": "Still Knitting"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 17",
+   "title": "One Night"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 18",
+   "title": "Nine Days"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 19",
+   "title": "An Opinion"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 20",
+   "title": "A Plea"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 21",
+   "title": "Echoing Footsteps"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 22",
+   "title": "The Sea Still Rises"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 23",
+   "title": "Fire Rises"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 24",
+   "title": "Drawn to the Loadstone Rock"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 1",
+   "title": "In Secret"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 2",
+   "title": "The Grindstone"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 3",
+   "title": "The Shadow"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 4",
+   "title": "Calm in Storm"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 5",
+   "title": "The Wood-Sawyer"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 6",
+   "title": "Triumph"
+  },
+  {
+   "id": "s37",
+   "label": "Ch. 7",
+   "title": "A Knock at the Door"
+  },
+  {
+   "id": "s38",
+   "label": "Ch. 8",
+   "title": "A Hand at Cards"
+  },
+  {
+   "id": "s39",
+   "label": "Ch. 9",
+   "title": "The Game Made"
+  },
+  {
+   "id": "s40",
+   "label": "Ch. 10",
+   "title": "The Substance of the Shadow"
+  },
+  {
+   "id": "s41",
+   "label": "Ch. 11",
+   "title": "Dusk"
+  },
+  {
+   "id": "s42",
+   "label": "Ch. 12",
+   "title": "Darkness"
+  },
+  {
+   "id": "s43",
+   "label": "Ch. 13",
+   "title": "Fifty-two"
+  },
+  {
+   "id": "s44",
+   "label": "Ch. 14",
+   "title": "The Knitting Done"
+  },
+  {
+   "id": "s45",
+   "label": "Ch. 15",
+   "title": "The Footsteps Die Out For Ever"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-lorry",
+   "label": "Lorry (shared surname)"
+  },
+  {
+   "id": "g-manette",
+   "label": "Manette (shared surname)"
+  },
+  {
+   "id": "g-cruncher",
+   "label": "Cruncher (shared surname)"
+  },
+  {
+   "id": "g-carton",
+   "label": "Carton (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "mr-lorry",
+   "name": "Mr. Lorry",
+   "aliases": [
+    "Lorry"
+   ],
+   "role": "protagonist",
+   "group": "g-lorry",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Gentleman of the name of Lorry answer straight.””"
+  },
+  {
+   "id": "madame-defarge",
+   "name": "Defarge",
+   "aliases": [
+    "Madame Defarge"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Madame Defarge, his wife, sat in the shop behind the counter as he came in.”"
+  },
+  {
+   "id": "miss-pross",
+   "name": "Miss Pross",
+   "aliases": [
+    "Pross"
+   ],
+   "role": "major",
+   "firstAppearance": "s12",
+   "summary": "First mention: ““Miss Pross at home?””"
+  },
+  {
+   "id": "lucie-manette",
+   "name": "Lucie Manette",
+   "aliases": [
+    "Lucie"
+   ],
+   "role": "major",
+   "group": "g-manette",
+   "firstAppearance": "s10",
+   "summary": "First mention: “From the dimly-lighted passages of the court, the last sediment of the human stew that had been boiling there all day, was straining off, when Doctor Manette, Lucie Manette, his daughter, Mr.”"
+  },
+  {
+   "id": "charles-darnay",
+   "name": "Charles Darnay",
+   "aliases": [
+    "Charles",
+    "Mr. Darnay"
+   ],
+   "role": "major",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Charles Darnay had yesterday pleaded Not Guilty to an indictment denouncing him (with infinite jingle and jangle) for that he was a false traitor to our serene, illustrious, excellent, and so forth, prince, our Lord t…”"
+  },
+  {
+   "id": "monseigneur",
+   "name": "Monseigneur",
+   "role": "major",
+   "firstAppearance": "s13",
+   "summary": "First mention: “Monseigneur in Town”"
+  },
+  {
+   "id": "mr-stryver",
+   "name": "Mr. Stryver",
+   "aliases": [
+    "Stryver"
+   ],
+   "role": "major",
+   "firstAppearance": "s9",
+   "summary": "First mention: “My Lord inquired of Mr.”"
+  },
+  {
+   "id": "mr-cruncher",
+   "name": "Mr. Cruncher",
+   "role": "major",
+   "group": "g-cruncher",
+   "firstAppearance": "s7",
+   "summary": "First mention: “The scene was Mr.”"
+  },
+  {
+   "id": "jerry",
+   "name": "Jerry",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Is it Jerry?””"
+  },
+  {
+   "id": "doctor-manette",
+   "name": "Doctor Manette",
+   "role": "major",
+   "group": "g-manette",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Attorney-General now signified to my Lord, that he deemed it necessary, as a matter of precaution and form, to call the young lady’s father, Doctor Manette.”"
+  },
+  {
+   "id": "tellson",
+   "name": "Tellson",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “The rattle of the harness was the chink of money, and more drafts were honoured in five minutes than even Tellson’s, with all its foreign and home connection, ever paid in thrice the time.”"
+  },
+  {
+   "id": "sydney-carton",
+   "name": "Sydney Carton",
+   "aliases": [
+    "Sydney"
+   ],
+   "role": "supporting",
+   "group": "g-carton",
+   "firstAppearance": "s11",
+   "summary": "First mention: “The more business he got, the greater his power seemed to grow of getting at its pith and marrow; and however late at night he sat carousing with Sydney Carton, he always had his points at his fingers’ ends in the mor…”"
+  },
+  {
+   "id": "jacques",
+   "name": "Jacques",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““How goes it, Jacques?”"
+  },
+  {
+   "id": "marquis",
+   "name": "Marquis",
+   "role": "supporting",
+   "firstAppearance": "s13",
+   "summary": "First mention: ““Pardon, Monsieur the Marquis!”"
+  },
+  {
+   "id": "miss-manette",
+   "name": "Miss Manette",
+   "role": "supporting",
+   "group": "g-manette",
+   "firstAppearance": "s4",
+   "summary": "First mention: “In a very few minutes the waiter came in to announce that Miss Manette had arrived from London, and would be happy to see the gentleman from Tellson’s.”"
+  },
+  {
+   "id": "saint-antoine",
+   "name": "Saint Antoine",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The wine was red wine, and had stained the ground of the narrow street in the suburb of Saint Antoine, in Paris, where it was spilled.”"
+  },
+  {
+   "id": "monsieur-defarge",
+   "name": "Monsieur Defarge",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““What the devil do _you_ do in that galley there?” said Monsieur Defarge to himself; “I don’t know you.””"
+  },
+  {
+   "id": "mr-carton",
+   "name": "Mr. Carton",
+   "role": "supporting",
+   "group": "g-carton",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Stryver (the prisoner’s counsel), whether they were next to try Mr.”"
+  },
+  {
+   "id": "monsieur-gabelle",
+   "name": "Gabelle",
+   "aliases": [
+    "Monsieur Gabelle"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s14",
+   "summary": "First mention: “Put him aside, Monsieur Gabelle!””"
+  },
+  {
+   "id": "mr-barsad",
+   "name": "Mr. Barsad",
+   "role": "supporting",
+   "firstAppearance": "s22",
+   "summary": "First mention: “Having made, at least, this one hit, whatever it might prove to be worth, and no customers coming in to help him to any other, Mr.”"
+  },
+  {
+   "id": "jarvis-lorry",
+   "name": "Jarvis Lorry",
+   "aliases": [
+    "Mr. Jarvis Lorry"
+   ],
+   "role": "minor",
+   "group": "g-lorry",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““Mr.”"
+  },
+  {
+   "id": "solomon",
+   "name": "Solomon",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: ““There never was, nor will be, but one man worthy of Ladybird,” said Miss Pross; “and that was my brother Solomon, if he hadn’t made a mistake in life.””"
+  },
+  {
+   "id": "mrs-cruncher",
+   "name": "Mrs. Cruncher",
+   "role": "minor",
+   "group": "g-cruncher",
+   "firstAppearance": "s7",
+   "summary": "First mention: “He resented Mrs.”"
+  },
+  {
+   "id": "mr-attorney-general",
+   "name": "Mr. Attorney-General",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “This much, Jerry, with his head becoming more and more spiky as the law terms bristled it, made out with huge satisfaction, and so arrived circuitously at the understanding that the aforesaid, and over and over again…”"
+  },
+  {
+   "id": "foulon",
+   "name": "Foulon",
+   "role": "minor",
+   "firstAppearance": "s28",
+   "summary": "First mention: ““Does everybody here recall old Foulon, who told the famished people that they might eat grass, and who died, and went to Hell?””"
+  },
+  {
+   "id": "president",
+   "name": "President",
+   "role": "minor",
+   "firstAppearance": "s34",
+   "summary": "First mention: “That, the man sitting as President had then informed Doctor Manette that the prisoner must remain in custody, but should, for his sake, be held inviolate in safe custody.”"
+  },
+  {
+   "id": "ladybird",
+   "name": "Ladybird",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: ““I am very much put out about my Ladybird.””"
+  },
+  {
+   "id": "cly",
+   "name": "Cly",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “How the virtuous servant, Cly, was his friend and partner, and was worthy to be; how the watchful eyes of those forgers and false swearers had rested on the prisoner as a victim, because some family affairs in France,…”"
+  },
+  {
+   "id": "gaspard",
+   "name": "Gaspard",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Say, then, my Gaspard, what do you do there?””"
+  },
+  {
+   "id": "revolution",
+   "name": "Revolution",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “It is likely enough that in the rough outhouses of some tillers of the heavy lands adjacent to Paris, there were sheltered from the weather that very day, rude carts, bespattered with rustic mire, snuffed about by pig…”"
+  },
+  {
+   "id": "joe",
+   "name": "Joe",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “One more pull and you’re at the top and be damned to you, for I have had trouble enough to get you to it!--Joe!””"
+  },
+  {
+   "id": "monsieur-manette",
+   "name": "Monsieur Manette",
+   "role": "minor",
+   "group": "g-manette",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““As I was saying; if Monsieur Manette had not died; if he had suddenly and silently disappeared; if he had been spirited away; if it had not been difficult to guess to what dreadful place, though no art could trace hi…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "jerry",
+   "target": "mr-lorry",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "jarvis-lorry",
+   "target": "mr-lorry",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "miss-manette",
+   "target": "tellson",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "mr-lorry",
+   "target": "tellson",
+   "weight": 45,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "miss-manette",
+   "target": "mr-lorry",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "jarvis-lorry",
+   "target": "miss-manette",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "jacques",
+   "target": "monsieur-defarge",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "jacques",
+   "target": "madame-defarge",
+   "weight": 55,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "madame-defarge",
+   "target": "monsieur-defarge",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "monsieur-defarge",
+   "target": "mr-lorry",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "madame-defarge",
+   "target": "mr-lorry",
+   "weight": 45,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "monsieur-manette",
+   "target": "mr-lorry",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "jerry",
+   "target": "tellson",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "mr-cruncher",
+   "target": "tellson",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "jerry",
+   "target": "mr-cruncher",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "mr-cruncher",
+   "target": "mrs-cruncher",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "mr-cruncher",
+   "target": "mr-lorry",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "charles-darnay",
+   "target": "jerry",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "jarvis-lorry",
+   "target": "tellson",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "mr-carton",
+   "target": "mr-stryver",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "cly",
+   "target": "mr-stryver",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mr-attorney-general",
+   "target": "mr-stryver",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "cly",
+   "target": "mr-cruncher",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "mr-attorney-general",
+   "target": "mr-cruncher",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "cly",
+   "target": "mr-attorney-general",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "miss-manette",
+   "target": "mr-carton",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "miss-manette",
+   "target": "mr-stryver",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "jerry",
+   "target": "mr-carton",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "mr-carton",
+   "target": "mr-lorry",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "charles-darnay",
+   "target": "mr-lorry",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "charles-darnay",
+   "target": "mr-carton",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "doctor-manette",
+   "target": "lucie-manette",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "doctor-manette",
+   "target": "mr-lorry",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "lucie-manette",
+   "target": "mr-lorry",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "mr-lorry",
+   "target": "mr-stryver",
+   "weight": 56,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 52
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "charles-darnay",
+   "target": "mr-stryver",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "charles-darnay",
+   "target": "doctor-manette",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "charles-darnay",
+   "target": "lucie-manette",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "charles-darnay",
+   "target": "tellson",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "mr-stryver",
+   "target": "sydney-carton",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 26
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "doctor-manette",
+   "target": "jarvis-lorry",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "jarvis-lorry",
+   "target": "lucie-manette",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "miss-pross",
+   "target": "mr-lorry",
+   "weight": 75,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "mr-lorry",
+   "target": "saint-antoine",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "ladybird",
+   "target": "miss-pross",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "ladybird",
+   "target": "mr-lorry",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "doctor-manette",
+   "target": "ladybird",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "doctor-manette",
+   "target": "miss-pross",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "mr-lorry",
+   "target": "solomon",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "miss-pross",
+   "target": "solomon",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "ladybird",
+   "target": "solomon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "lucie-manette",
+   "target": "miss-pross",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "lucie-manette",
+   "target": "solomon",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "ladybird",
+   "target": "lucie-manette",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "charles-darnay",
+   "target": "miss-manette",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "madame-defarge",
+   "target": "marquis",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "marquis",
+   "target": "monseigneur",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "marquis",
+   "target": "monsieur-gabelle",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "monseigneur",
+   "target": "monsieur-gabelle",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "charles-darnay",
+   "target": "monseigneur",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "jacques",
+   "target": "marquis",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "doctor-manette",
+   "target": "sydney-carton",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "mr-stryver",
+   "target": "tellson",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "cly",
+   "target": "jerry",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "madame-defarge",
+   "target": "saint-antoine",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "gaspard",
+   "target": "madame-defarge",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "doctor-manette",
+   "target": "madame-defarge",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "madame-defarge",
+   "target": "mr-barsad",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "mr-barsad",
+   "target": "saint-antoine",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "madame-defarge",
+   "target": "miss-pross",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s44",
+     "type": "together",
+     "label": "Often together",
+     "weight": 35
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "miss-pross",
+   "target": "sydney-carton",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "mr-lorry",
+   "target": "sydney-carton",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 20."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "foulon",
+   "target": "saint-antoine",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 22."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "jacques",
+   "target": "saint-antoine",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 22."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "monseigneur",
+   "target": "tellson",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "monseigneur",
+   "target": "mr-lorry",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "charles-darnay",
+   "target": "revolution",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "charles-darnay",
+   "target": "monsieur-gabelle",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "lucie-manette",
+   "target": "revolution",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "lucie-manette",
+   "target": "madame-defarge",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "jerry",
+   "target": "miss-pross",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "madame-defarge",
+   "target": "president",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "doctor-manette",
+   "target": "president",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "miss-pross",
+   "target": "mr-cruncher",
+   "weight": 47,
+   "phases": [
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s44",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "mr-cruncher",
+   "target": "solomon",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "mr-barsad",
+   "target": "sydney-carton",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "miss-pross",
+   "target": "mr-barsad",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "mr-barsad",
+   "target": "mr-lorry",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "cly",
+   "target": "mr-lorry",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "miss-pross",
+   "target": "mrs-cruncher",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s44",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

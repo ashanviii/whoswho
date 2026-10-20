@@ -1,0 +1,2128 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL12791W",
+ "title": "My Ántonia",
+ "authors": [
+  "Willa Cather"
+ ],
+ "firstPublished": 1818,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #242.",
+  "source": "Project Gutenberg eBook #242",
+  "url": "https://www.gutenberg.org/ebooks/242"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "I first heard of Ántonia on what seemed to me an interminable journey",
+   "part": "Book I"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "part": "Book I"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "On Sunday morning Otto Fuchs was to drive us over to make the",
+   "part": "Book I"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "On the afternoon of that same Sunday I took my first long ride on my",
+   "part": "Book I"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "part": "Book I"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "One afternoon we were having our reading lesson on the warm, grassy",
+   "part": "Book I"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "Much as I liked Ántonia, I hated a superior tone that she sometimes",
+   "part": "Book I"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "part": "Book I"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "The first snowfall came early in December. I remember how the world",
+   "part": "Book I"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "For several weeks after my sleigh-ride, we heard nothing from the",
+   "part": "Book I"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "part": "Book I"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "part": "Book I"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "The week following Christmas brought in a thaw, and by New Year’s Day",
+   "part": "Book I"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "On the morning of the twenty-second I wakened with a start. Before I",
+   "part": "Book I"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "Otto Fuchs got back from Black Hawk at noon the next day. He reported",
+   "part": "Book I"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "Mr. Shimerda lay dead in the barn four days, and on the fifth they",
+   "part": "Book I"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "When spring came, after that hard winter, one could not get enough of",
+   "part": "Book I"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "part": "Book I"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "July came on with that breathless, brilliant heat which makes the",
+   "part": "Book I"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 1",
+   "title": "I had been living with my grandfather for nearly three years when he",
+   "part": "Book II"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 2",
+   "part": "Book II"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 3",
+   "part": "Book II"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 4",
+   "part": "Book II"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 5",
+   "title": "After Lena came To Black Hawk, I often met her downtown, where she",
+   "part": "Book II"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 6",
+   "part": "Book II"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 7",
+   "title": "Winter lies too long in country towns; hangs on until it is stale and",
+   "part": "Book II"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 8",
+   "title": "The Harling children and I were never happier, never felt more",
+   "part": "Book II"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 9",
+   "title": "There was a curious social situation in Black Hawk. All the young men",
+   "part": "Book II"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 10",
+   "title": "It was at the Vannis’ tent that Ántonia was discovered. Hitherto she",
+   "part": "Book II"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 11",
+   "part": "Book II"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 12",
+   "title": "After Ántonia went to live with the Cutters, she seemed to care about",
+   "part": "Book II"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 13",
+   "title": "I noticed one afternoon that grandmother had been crying. Her feet",
+   "part": "Book II"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 14",
+   "title": "The day after commencement I moved my books and desk upstairs, to an",
+   "part": "Book II"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 15",
+   "title": "Late in August the Cutters went to Omaha for a few days, leaving",
+   "part": "Book II"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 1",
+   "part": "Book III"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 2",
+   "title": "One March evening in my sophomore year I was sitting alone in my room",
+   "part": "Book III"
+  },
+  {
+   "id": "s37",
+   "label": "Ch. 3",
+   "title": "In Lincoln the best part of the theatrical season came late, when the",
+   "part": "Book III"
+  },
+  {
+   "id": "s38",
+   "label": "Ch. 4",
+   "title": "How well I remember the stiff little parlour where I used to wait for",
+   "part": "Book III"
+  },
+  {
+   "id": "s39",
+   "label": "Ch. 1",
+   "title": "Two years after I left Lincoln, I completed my academic course at",
+   "part": "Book IV"
+  },
+  {
+   "id": "s40",
+   "label": "Ch. 2",
+   "part": "Book IV"
+  },
+  {
+   "id": "s41",
+   "label": "Ch. 3",
+   "part": "Book IV"
+  },
+  {
+   "id": "s42",
+   "label": "Ch. 4",
+   "part": "Book IV"
+  },
+  {
+   "id": "s43",
+   "label": "Ch. 1",
+   "title": "I told Ántonia I would come back, but life intervened, and it was",
+   "part": "Book V"
+  },
+  {
+   "id": "s44",
+   "label": "Ch. 2",
+   "title": "When I awoke in the morning, long bands of sunshine were coming in at",
+   "part": "Book V"
+  },
+  {
+   "id": "s45",
+   "label": "Ch. 3",
+   "part": "Book V"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-harling",
+   "label": "Harling (shared surname)"
+  },
+  {
+   "id": "g-shimerda",
+   "label": "Shimerda (shared surname)"
+  },
+  {
+   "id": "g-burden",
+   "label": "Burden (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "lena-lingard",
+   "name": "Lena Lingard",
+   "aliases": [
+    "Lena"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s23",
+   "summary": "First mention: “‘Why, it’s Lena!”"
+  },
+  {
+   "id": "ambrosch",
+   "name": "Ambrosch",
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “The oldest son, Ambroz—they called it Ambrosch—came out of the cave and stood beside his mother.”"
+  },
+  {
+   "id": "jake",
+   "name": "Jake",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Jake’s experience of the world was not much wider than mine.”"
+  },
+  {
+   "id": "otto-fuchs",
+   "name": "Otto Fuchs",
+   "aliases": [
+    "Otto",
+    "Fuchs"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “I’m Otto Fuchs.”"
+  },
+  {
+   "id": "tony",
+   "name": "Tony",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Tony was barefooted, and she shivered in her cotton dress and was comfortable only when we were tucked down on the baked earth, in the full blaze of the sun.”"
+  },
+  {
+   "id": "jim",
+   "name": "Jim",
+   "role": "major",
+   "firstAppearance": "s6",
+   "summary": "First mention: “‘He not look good, Jim.’”"
+  },
+  {
+   "id": "mrs-harling",
+   "name": "Mrs. Harling",
+   "role": "major",
+   "group": "g-harling",
+   "firstAppearance": "s20",
+   "summary": "First mention: “I was restrained from utter savagery only by the fact that Mrs.”"
+  },
+  {
+   "id": "tiny-soderball",
+   "name": "Tiny Soderball",
+   "aliases": [
+    "Tiny"
+   ],
+   "role": "major",
+   "firstAppearance": "s23",
+   "summary": "First mention: “Tiny Soderball is coming to town, too.”"
+  },
+  {
+   "id": "mrs-shimerda",
+   "name": "Mrs. Shimerda",
+   "role": "major",
+   "group": "g-shimerda",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Their agreement with him was made before they left the old country, through a cousin of his, who was also a relative of Mrs.”"
+  },
+  {
+   "id": "mr-shimerda",
+   "name": "Mr. Shimerda",
+   "role": "major",
+   "group": "g-shimerda",
+   "firstAppearance": "s3",
+   "summary": "First mention: “While Krajiek was translating for Mr.”"
+  },
+  {
+   "id": "peter",
+   "name": "Peter",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Their last names were unpronounceable, so they were called Pavel and Peter.”"
+  },
+  {
+   "id": "yulka",
+   "name": "Yulka",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “The little sister, whom they called Yulka (Julka), was fair, and seemed mild and obedient.”"
+  },
+  {
+   "id": "frances-harling",
+   "name": "Frances Harling",
+   "aliases": [
+    "Frances"
+   ],
+   "role": "supporting",
+   "group": "g-harling",
+   "firstAppearance": "s21",
+   "summary": "First mention: “The grown-up daughter, Frances, was a very important person in our world.”"
+  },
+  {
+   "id": "pavel",
+   "name": "Pavel",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Their last names were unpronounceable, so they were called Pavel and Peter.”"
+  },
+  {
+   "id": "anton-jelinek",
+   "name": "Anton Jelinek",
+   "aliases": [
+    "Jelinek",
+    "Anton"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s15",
+   "summary": "First mention: “That was the first time I ever saw Anton Jelinek.”"
+  },
+  {
+   "id": "krajiek",
+   "name": "Krajiek",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Krajiek was their only interpreter, and could tell them anything he chose.”"
+  },
+  {
+   "id": "nina",
+   "name": "Nina",
+   "role": "supporting",
+   "firstAppearance": "s22",
+   "summary": "First mention: “She would race about the orchard with us, or take sides in our hay-fights in the barn, or be the old bear that came down from the mountain and carried off Nina.”"
+  },
+  {
+   "id": "leo",
+   "name": "Leo",
+   "role": "supporting",
+   "firstAppearance": "s43",
+   "summary": "First mention: “And call Leo.”"
+  },
+  {
+   "id": "mrs-gardener",
+   "name": "Mrs. Gardener",
+   "role": "supporting",
+   "firstAppearance": "s23",
+   "summary": "First mention: “Did you know Mrs.”"
+  },
+  {
+   "id": "anna",
+   "name": "Anna",
+   "role": "supporting",
+   "firstAppearance": "s29",
+   "summary": "First mention: “The young men began to joke with each other about ‘the Harlings’ Tony’ as they did about ‘the Marshalls’ Anna’ or ‘the Gardeners’ Tiny.’”"
+  },
+  {
+   "id": "cuzak",
+   "name": "Cuzak",
+   "role": "supporting",
+   "firstAppearance": "s43",
+   "summary": "First mention: “Months afterward came a letter from her, telling me the names and ages of her many children, but little else; signed, ‘Your old friend, Ántonia Cuzak.”"
+  },
+  {
+   "id": "jimmy",
+   "name": "Jimmy",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Don’t you want to go ahead and see her, Jimmy?”"
+  },
+  {
+   "id": "mrs-burden",
+   "name": "Mrs. Burden",
+   "role": "supporting",
+   "group": "g-burden",
+   "firstAppearance": "s3",
+   "summary": "First mention: “‘She wants me to tell you he won’t hurt nobody, Mrs.”"
+  },
+  {
+   "id": "mrs-cutter",
+   "name": "Mrs. Cutter",
+   "role": "supporting",
+   "firstAppearance": "s30",
+   "summary": "First mention: “He had certainly met his match when he married Mrs.”"
+  },
+  {
+   "id": "gaston-cleric",
+   "name": "Gaston Cleric",
+   "aliases": [
+    "Cleric"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s35",
+   "summary": "First mention: “Gaston Cleric had arrived in Lincoln only a few weeks earlier than I, to begin his work as head of the Latin Department.”"
+  },
+  {
+   "id": "mr-harling",
+   "name": "Mr. Harling",
+   "role": "supporting",
+   "group": "g-harling",
+   "firstAppearance": "s21",
+   "summary": "First mention: “With Charley, who was not interested in business, but was already preparing for Annapolis, Mr.”"
+  },
+  {
+   "id": "charley",
+   "name": "Charley",
+   "role": "supporting",
+   "firstAppearance": "s21",
+   "summary": "First mention: “Charley, the only son—they had lost an older boy—was sixteen; Julia, who was known as the musical one, was fourteen when I was; and Sally, the tomboy with short hair, was a year younger.”"
+  },
+  {
+   "id": "mr-burden",
+   "name": "Mr. Burden",
+   "role": "minor",
+   "group": "g-burden",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A bantering voice called out: ‘Hello, are you Mr.”"
+  },
+  {
+   "id": "marek",
+   "name": "Marek",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “His mother scowled and said sternly, ‘Marek!”"
+  },
+  {
+   "id": "rudolph",
+   "name": "Rudolph",
+   "role": "minor",
+   "firstAppearance": "s43",
+   "summary": "First mention: “You’ve got to stay and see Rudolph and our papa.”"
+  },
+  {
+   "id": "mr-ordinsky",
+   "name": "Ordinsky",
+   "aliases": [
+    "Mr. Ordinsky"
+   ],
+   "role": "minor",
+   "firstAppearance": "s38",
+   "summary": "First mention: “She told me with amusement how Ordinsky, the Pole, had presented himself at her door one evening, and said that if the landlord was annoying her by his attentions, he would promptly put a stop to it.”"
+  },
+  {
+   "id": "mary",
+   "name": "Mary",
+   "role": "minor",
+   "firstAppearance": "s23",
+   "summary": "First mention: “After he had had every other kind of misfortune, his wife, ‘Crazy Mary,’ tried to set a neighbour’s barn on fire, and was sent to the asylum at Lincoln.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "jake",
+   "target": "jimmy",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "jake",
+   "target": "mr-burden",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "jake",
+   "target": "otto-fuchs",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "mr-burden",
+   "target": "otto-fuchs",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "jimmy",
+   "target": "otto-fuchs",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "krajiek",
+   "target": "mrs-shimerda",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "krajiek",
+   "target": "otto-fuchs",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "ambrosch",
+   "target": "mrs-shimerda",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "ambrosch",
+   "target": "yulka",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "ambrosch",
+   "target": "krajiek",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "ambrosch",
+   "target": "marek",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "marek",
+   "target": "yulka",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "ambrosch",
+   "target": "mrs-burden",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "ambrosch",
+   "target": "mr-shimerda",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "mr-shimerda",
+   "target": "yulka",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "mr-shimerda",
+   "target": "otto-fuchs",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "pavel",
+   "target": "peter",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "krajiek",
+   "target": "pavel",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "krajiek",
+   "target": "peter",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "jim",
+   "target": "tony",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "mr-shimerda",
+   "target": "tony",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "ambrosch",
+   "target": "otto-fuchs",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "mr-shimerda",
+   "target": "peter",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "mr-shimerda",
+   "target": "pavel",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "pavel",
+   "target": "tony",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "peter",
+   "target": "tony",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "jimmy",
+   "target": "mr-shimerda",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "krajiek",
+   "target": "mr-shimerda",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "otto-fuchs",
+   "target": "yulka",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "mrs-burden",
+   "target": "otto-fuchs",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "jake",
+   "target": "jim",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "ambrosch",
+   "target": "jim",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "jake",
+   "target": "krajiek",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "ambrosch",
+   "target": "jake",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "jake",
+   "target": "mrs-shimerda",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "mrs-shimerda",
+   "target": "yulka",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "mrs-burden",
+   "target": "mrs-shimerda",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "marek",
+   "target": "mr-shimerda",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "marek",
+   "target": "mrs-shimerda",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "ambrosch",
+   "target": "jimmy",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "jake",
+   "target": "mr-shimerda",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "mr-shimerda",
+   "target": "mrs-shimerda",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "jake",
+   "target": "marek",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "anton-jelinek",
+   "target": "otto-fuchs",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "anton-jelinek",
+   "target": "mr-shimerda",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "anton-jelinek",
+   "target": "mrs-shimerda",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "ambrosch",
+   "target": "anton-jelinek",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "jimmy",
+   "target": "mrs-shimerda",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "ambrosch",
+   "target": "mr-burden",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "ambrosch",
+   "target": "mrs-harling",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "charley",
+   "target": "mrs-harling",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "charley",
+   "target": "frances-harling",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "charley",
+   "target": "mr-harling",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "frances-harling",
+   "target": "mr-harling",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "ambrosch",
+   "target": "frances-harling",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "frances-harling",
+   "target": "mrs-harling",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "mrs-burden",
+   "target": "mrs-harling",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "frances-harling",
+   "target": "mrs-burden",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "mrs-harling",
+   "target": "nina",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "mrs-harling",
+   "target": "tony",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "mr-harling",
+   "target": "mrs-harling",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "nina",
+   "target": "tony",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "charley",
+   "target": "nina",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "mr-harling",
+   "target": "nina",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "charley",
+   "target": "tony",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "mr-harling",
+   "target": "tony",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "jim",
+   "target": "lena-lingard",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "lena-lingard",
+   "target": "tony",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "lena-lingard",
+   "target": "mrs-harling",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "frances-harling",
+   "target": "lena-lingard",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "lena-lingard",
+   "target": "mrs-gardener",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "mrs-gardener",
+   "target": "tony",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "mrs-gardener",
+   "target": "mrs-harling",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "mrs-harling",
+   "target": "tiny-soderball",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "lena-lingard",
+   "target": "tiny-soderball",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "mrs-gardener",
+   "target": "tiny-soderball",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "lena-lingard",
+   "target": "mary",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "mary",
+   "target": "tony",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "nina",
+   "target": "yulka",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "tiny-soderball",
+   "target": "tony",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "anna",
+   "target": "tiny-soderball",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "anna",
+   "target": "lena-lingard",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "anton-jelinek",
+   "target": "jim",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "anna",
+   "target": "jim",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "gaston-cleric",
+   "target": "lena-lingard",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "lena-lingard",
+   "target": "mr-ordinsky",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "anton-jelinek",
+   "target": "cuzak",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "cuzak",
+   "target": "tiny-soderball",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "anna",
+   "target": "yulka",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "anton-jelinek",
+   "target": "leo",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "leo",
+   "target": "yulka",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "anna",
+   "target": "nina",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "anna",
+   "target": "leo",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "jim",
+   "target": "leo",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "ambrosch",
+   "target": "leo",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s45",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "cuzak",
+   "target": "rudolph",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s44",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "mrs-cutter",
+   "target": "rudolph",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s44",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

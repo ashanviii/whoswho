@@ -1,0 +1,3257 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL77746W",
+ "title": "Anne of Green Gables",
+ "authors": [
+  "Lucy Maud Montgomery"
+ ],
+ "firstPublished": 1908,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #45.",
+  "source": "Project Gutenberg eBook #45",
+  "url": "https://www.gutenberg.org/ebooks/45"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "Mrs. Rachel Lynde Is Surprised"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 1",
+   "title": "Mrs. Rachel Lynde Is Surprised"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 2",
+   "title": "Matthew Cuthbert Is Surprised"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 3",
+   "title": "Marilla Cuthbert Is Surprised"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 4",
+   "title": "Morning at Green Gables"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 5",
+   "title": "Anne’s History"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 6",
+   "title": "Marilla Makes Up Her Mind"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 7",
+   "title": "Anne Says Her Prayers"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 8",
+   "title": "Anne’s Bringing-up Is Begun"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 9",
+   "title": "Mrs. Rachel Lynde Is Properly Horrified"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 10",
+   "title": "Anne’s Apology"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 11",
+   "title": "Anne’s Impressions of Sunday-school"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 12",
+   "title": "A Solemn Vow and Promise"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 13",
+   "title": "The Delights of Anticipation"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 14",
+   "title": "Anne’s Confession"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 15",
+   "title": "A Tempest in the School Teapot"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 16",
+   "title": "Diana Is Invited to Tea with Tragic Results"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 17",
+   "title": "A New Interest in Life"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 18",
+   "title": "Anne to the Rescue"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 19",
+   "title": "A Concert, a Catastrophe, and a Confession"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 20",
+   "title": "A Good Imagination Gone Wrong"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 21",
+   "title": "A New Departure in Flavorings"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 22",
+   "title": "Anne Is Invited Out to Tea"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 23",
+   "title": "Anne Comes to Grief in an Affair of Honor"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 24",
+   "title": "Miss Stacy and Her Pupils Get Up a Concert"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 25",
+   "title": "Matthew Insists on Puffed Sleeves"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 26",
+   "title": "The Story Club Is Formed"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 27",
+   "title": "Vanity and Vexation of Spirit"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 28",
+   "title": "An Unfortunate Lily Maid"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 29",
+   "title": "An Epoch in Anne’s Life"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 30",
+   "title": "The Queen’s Class Is Organized"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 31",
+   "title": "Where the Brook and River Meet"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 32",
+   "title": "The Pass List Is Out"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 33",
+   "title": "The Hotel Concert"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 34",
+   "title": "A Queen’s Girl"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 35",
+   "title": "The Winter at Queen’s"
+  },
+  {
+   "id": "s37",
+   "label": "Ch. 36",
+   "title": "The Glory and the Dream"
+  },
+  {
+   "id": "s38",
+   "label": "Ch. 37",
+   "title": "The Reaper Whose Name Is Death"
+  },
+  {
+   "id": "s39",
+   "label": "Ch. 38",
+   "title": "The Bend in the Road"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-cuthbert",
+   "label": "Cuthbert (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "anne",
+   "name": "Anne",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Rachel Lynde Is Properly Horrified CHAPTER X Anne’s Apology CHAPTER XI Anne’s Impressions of Sunday-school CHAPTER XII A Solemn Vow and Promise CHAPTER XIII The Delights of Anticipation CHAPTER XIV Anne’s Confession C…”"
+  },
+  {
+   "id": "marilla-cuthbert",
+   "name": "Marilla Cuthbert",
+   "aliases": [
+    "Marilla"
+   ],
+   "role": "protagonist",
+   "group": "g-cuthbert",
+   "firstAppearance": "s1",
+   "summary": "First mention: “CHAPTER II Matthew Cuthbert Is Surprised CHAPTER III Marilla Cuthbert Is Surprised CHAPTER IV Morning at Green Gables CHAPTER V Anne’s History CHAPTER VI Marilla Makes Up Her Mind CHAPTER VII Anne Says Her Prayers CHA…”"
+  },
+  {
+   "id": "diana",
+   "name": "Diana",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Rachel Lynde Is Properly Horrified CHAPTER X Anne’s Apology CHAPTER XI Anne’s Impressions of Sunday-school CHAPTER XII A Solemn Vow and Promise CHAPTER XIII The Delights of Anticipation CHAPTER XIV Anne’s Confession C…”"
+  },
+  {
+   "id": "matthew-cuthbert",
+   "name": "Matthew Cuthbert",
+   "aliases": [
+    "Matthew"
+   ],
+   "role": "major",
+   "group": "g-cuthbert",
+   "firstAppearance": "s1",
+   "summary": "First mention: “CHAPTER II Matthew Cuthbert Is Surprised CHAPTER III Marilla Cuthbert Is Surprised CHAPTER IV Morning at Green Gables CHAPTER V Anne’s History CHAPTER VI Marilla Makes Up Her Mind CHAPTER VII Anne Says Her Prayers CHA…”"
+  },
+  {
+   "id": "rachel-lynde",
+   "name": "Rachel Lynde",
+   "aliases": [
+    "Mrs. Lynde",
+    "Mrs. Rachel",
+    "Rachel",
+    "Mrs. Rachel Lynde"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “CHAPTER II Matthew Cuthbert Is Surprised CHAPTER III Marilla Cuthbert Is Surprised CHAPTER IV Morning at Green Gables CHAPTER V Anne’s History CHAPTER VI Marilla Makes Up Her Mind CHAPTER VII Anne Says Her Prayers CHA…”"
+  },
+  {
+   "id": "gilbert-blythe",
+   "name": "Gilbert Blythe",
+   "aliases": [
+    "Gilbert",
+    "Blythe"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s16",
+   "summary": "First mention: ““I guess Gilbert Blythe will be in school today,” said Diana.”"
+  },
+  {
+   "id": "ruby-gillis",
+   "name": "Ruby Gillis",
+   "aliases": [
+    "Ruby",
+    "Gillis"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s16",
+   "summary": "First mention: “But Ruby Gillis says she saw him writing something on her slate and when Prissy read it she blushed as red as a beet and giggled; and Ruby Gillis says she doesn’t believe it had anything to do with the lesson.””"
+  },
+  {
+   "id": "josie-pye",
+   "name": "Josie Pye",
+   "aliases": [
+    "Josie",
+    "Pye"
+   ],
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “I got up yesterday spelling ‘ebullition.’ Josie Pye was head and, mind you, she peeped in her book.”"
+  },
+  {
+   "id": "jane",
+   "name": "Jane",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “I’d ruther Jane or Mary or some sensible name like that.”"
+  },
+  {
+   "id": "miss-stacy",
+   "name": "Miss Stacy",
+   "aliases": [
+    "Stacy"
+   ],
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Rachel Lynde Is Properly Horrified CHAPTER X Anne’s Apology CHAPTER XI Anne’s Impressions of Sunday-school CHAPTER XII A Solemn Vow and Promise CHAPTER XIII The Delights of Anticipation CHAPTER XIV Anne’s Confession C…”"
+  },
+  {
+   "id": "mrs-allan",
+   "name": "Mrs. Allan",
+   "role": "minor",
+   "firstAppearance": "s22",
+   "summary": "First mention: ““Mrs.”"
+  },
+  {
+   "id": "mrs-barry",
+   "name": "Mrs. Barry",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Mrs.”"
+  },
+  {
+   "id": "anne-shirley",
+   "name": "Anne Shirley",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Anne Shirley,” reluctantly faltered forth the owner of that name, “but, oh, please do call me Cordelia.”"
+  },
+  {
+   "id": "mr-phillips",
+   "name": "Mr. Phillips",
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "queen",
+   "name": "Queen",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Rachel Lynde Is Properly Horrified CHAPTER X Anne’s Apology CHAPTER XI Anne’s Impressions of Sunday-school CHAPTER XII A Solemn Vow and Promise CHAPTER XIII The Delights of Anticipation CHAPTER XIV Anne’s Confession C…”"
+  },
+  {
+   "id": "mrs-spencer",
+   "name": "Mrs. Spencer",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Her cousin lives there and Mrs.”"
+  },
+  {
+   "id": "miss-barry",
+   "name": "Miss Barry",
+   "role": "minor",
+   "firstAppearance": "s20",
+   "summary": "First mention: ““So you and Diana nearly frightened poor old Miss Barry to death last night?”"
+  },
+  {
+   "id": "mrs-thomas",
+   "name": "Mrs. Thomas",
+   "aliases": [
+    "Thomas"
+   ],
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Mrs.”"
+  },
+  {
+   "id": "jane-andrews",
+   "name": "Jane Andrews",
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “And oh, Marilla, Jane Andrews told me that Minnie MacPherson told her that she heard Prissy Andrews tell Sara Gillis that I had a very pretty nose.”"
+  },
+  {
+   "id": "moody-spurgeon",
+   "name": "Moody Spurgeon",
+   "role": "minor",
+   "firstAppearance": "s27",
+   "summary": "First mention: “Finally, Charlie Sloane fought Moody Spurgeon MacPherson, because Moody Spurgeon had said that Anne Shirley put on airs about her recitations, and Moody Spurgeon was “licked”; consequently Moody Spurgeon’s sister, Ell…”"
+  },
+  {
+   "id": "charlie-sloane",
+   "name": "Charlie Sloane",
+   "aliases": [
+    "Charlie"
+   ],
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “Charlie Sloane is _dead gone_ on you.”"
+  },
+  {
+   "id": "minnie",
+   "name": "Minnie",
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “And oh, Marilla, Jane Andrews told me that Minnie MacPherson told her that she heard Prissy Andrews tell Sara Gillis that I had a very pretty nose.”"
+  },
+  {
+   "id": "mr-barry",
+   "name": "Mr. Barry",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““I reckon because Mr.”"
+  },
+  {
+   "id": "avery",
+   "name": "Avery",
+   "role": "minor",
+   "firstAppearance": "s35",
+   "summary": "First mention: ““Oh, that reminds me,” said Josie, “Queen’s is to get one of the Avery scholarships after all.”"
+  },
+  {
+   "id": "cordelia",
+   "name": "Cordelia",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: ““Will you please call me Cordelia?”"
+  },
+  {
+   "id": "elaine",
+   "name": "Elaine",
+   "role": "minor",
+   "firstAppearance": "s29",
+   "summary": "First mention: “OF course you must be Elaine, Anne,” said Diana.”"
+  },
+  {
+   "id": "miss-cuthbert",
+   "name": "Miss Cuthbert",
+   "role": "minor",
+   "group": "g-cuthbert",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““She certainly did, Miss Cuthbert,” corroborated Flora Jane earnestly.”"
+  },
+  {
+   "id": "mr-bell",
+   "name": "Mr. Bell",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “I got a quarterly from Mr.”"
+  },
+  {
+   "id": "geraldine",
+   "name": "Geraldine",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “When I was young I used to imagine it was Geraldine, but I like Cordelia better now.”"
+  },
+  {
+   "id": "diana-barry",
+   "name": "Diana Barry",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: ““Diana Barry lives over at Orchard Slope and she’s about your age.”"
+  },
+  {
+   "id": "aunt-josephine",
+   "name": "Aunt Josephine",
+   "role": "minor",
+   "firstAppearance": "s20",
+   "summary": "First mention: ““It was Aunt Josephine,” said Diana, gasping with laughter.”"
+  },
+  {
+   "id": "mrs-hammond",
+   "name": "Mrs. Hammond",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Hammond worked a little sawmill up there, and Mrs.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "marilla-cuthbert",
+   "target": "matthew-cuthbert",
+   "weight": 266,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "matthew-cuthbert",
+   "target": "rachel-lynde",
+   "weight": 93,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "diana",
+   "target": "matthew-cuthbert",
+   "weight": 63,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "anne",
+   "target": "matthew-cuthbert",
+   "weight": 254,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "matthew-cuthbert",
+   "target": "queen",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "marilla-cuthbert",
+   "target": "rachel-lynde",
+   "weight": 187,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 55
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "diana",
+   "target": "marilla-cuthbert",
+   "weight": 168,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 56
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "anne",
+   "target": "marilla-cuthbert",
+   "weight": 669,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 31
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "marilla-cuthbert",
+   "target": "miss-stacy",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "marilla-cuthbert",
+   "target": "queen",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "diana",
+   "target": "rachel-lynde",
+   "weight": 57,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "anne",
+   "target": "rachel-lynde",
+   "weight": 187,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "anne",
+   "target": "diana",
+   "weight": 389,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 79
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "diana",
+   "target": "miss-stacy",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "anne",
+   "target": "miss-stacy",
+   "weight": 53,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "anne",
+   "target": "queen",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "marilla-cuthbert",
+   "target": "mrs-spencer",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "matthew-cuthbert",
+   "target": "mrs-spencer",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "diana",
+   "target": "jane",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "anne-shirley",
+   "target": "marilla-cuthbert",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "anne",
+   "target": "anne-shirley",
+   "weight": 56,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "cordelia",
+   "target": "marilla-cuthbert",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "anne",
+   "target": "cordelia",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "geraldine",
+   "target": "marilla-cuthbert",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "anne",
+   "target": "geraldine",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "cordelia",
+   "target": "geraldine",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "anne",
+   "target": "mrs-spencer",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "marilla-cuthbert",
+   "target": "mrs-thomas",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "anne",
+   "target": "mrs-thomas",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "anne",
+   "target": "mrs-hammond",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "mrs-hammond",
+   "target": "mrs-thomas",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "marilla-cuthbert",
+   "target": "mrs-hammond",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "marilla-cuthbert",
+   "target": "miss-cuthbert",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "miss-cuthbert",
+   "target": "mrs-spencer",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "anne",
+   "target": "miss-cuthbert",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "matthew-cuthbert",
+   "target": "mrs-thomas",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "diana",
+   "target": "diana-barry",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "anne",
+   "target": "diana-barry",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "diana-barry",
+   "target": "marilla-cuthbert",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "diana",
+   "target": "mrs-barry",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "anne",
+   "target": "mrs-barry",
+   "weight": 62,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "marilla-cuthbert",
+   "target": "mrs-barry",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "mrs-thomas",
+   "target": "rachel-lynde",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "anne",
+   "target": "mr-bell",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "marilla-cuthbert",
+   "target": "mr-bell",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "mr-bell",
+   "target": "rachel-lynde",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "anne-shirley",
+   "target": "diana",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "anne",
+   "target": "mr-barry",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "diana",
+   "target": "mr-barry",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "marilla-cuthbert",
+   "target": "mr-barry",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "matthew-cuthbert",
+   "target": "mr-barry",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "mr-barry",
+   "target": "mr-bell",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "diana",
+   "target": "mr-bell",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "marilla-cuthbert",
+   "target": "ruby-gillis",
+   "weight": 50,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "anne",
+   "target": "ruby-gillis",
+   "weight": 99,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "anne-shirley",
+   "target": "ruby-gillis",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "anne-shirley",
+   "target": "minnie",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "marilla-cuthbert",
+   "target": "mr-phillips",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "jane-andrews",
+   "target": "marilla-cuthbert",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "marilla-cuthbert",
+   "target": "minnie",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "anne",
+   "target": "mr-phillips",
+   "weight": 52,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "anne",
+   "target": "jane-andrews",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "anne",
+   "target": "minnie",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "diana",
+   "target": "mr-phillips",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "diana",
+   "target": "ruby-gillis",
+   "weight": 60,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "diana",
+   "target": "jane-andrews",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "diana",
+   "target": "minnie",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "mr-phillips",
+   "target": "ruby-gillis",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "jane-andrews",
+   "target": "ruby-gillis",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "minnie",
+   "target": "ruby-gillis",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "anne",
+   "target": "gilbert-blythe",
+   "weight": 109,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 34
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "diana",
+   "target": "gilbert-blythe",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "anne",
+   "target": "charlie-sloane",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "charlie-sloane",
+   "target": "diana",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "charlie-sloane",
+   "target": "diana-barry",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "charlie-sloane",
+   "target": "gilbert-blythe",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "gilbert-blythe",
+   "target": "mr-phillips",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "diana",
+   "target": "josie-pye",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "anne",
+   "target": "josie-pye",
+   "weight": 70,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "gilbert-blythe",
+   "target": "ruby-gillis",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "anne-shirley",
+   "target": "gilbert-blythe",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "charlie-sloane",
+   "target": "josie-pye",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "gilbert-blythe",
+   "target": "marilla-cuthbert",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "matthew-cuthbert",
+   "target": "mrs-barry",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "charlie-sloane",
+   "target": "ruby-gillis",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "mrs-barry",
+   "target": "rachel-lynde",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s38",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "jane",
+   "target": "marilla-cuthbert",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "anne",
+   "target": "jane",
+   "weight": 77,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 52
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "jane",
+   "target": "jane-andrews",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "gilbert-blythe",
+   "target": "jane",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "matthew-cuthbert",
+   "target": "ruby-gillis",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "rachel-lynde",
+   "target": "ruby-gillis",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "queen",
+   "target": "ruby-gillis",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 18."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "minnie",
+   "target": "mrs-hammond",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "anne",
+   "target": "aunt-josephine",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "aunt-josephine",
+   "target": "diana",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 19."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "aunt-josephine",
+   "target": "marilla-cuthbert",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "diana",
+   "target": "miss-barry",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 19."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "anne",
+   "target": "miss-barry",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 19."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "miss-barry",
+   "target": "rachel-lynde",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "marilla-cuthbert",
+   "target": "miss-barry",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 19."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "matthew-cuthbert",
+   "target": "miss-barry",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "marilla-cuthbert",
+   "target": "mrs-allan",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "mr-bell",
+   "target": "mrs-allan",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "anne",
+   "target": "mrs-allan",
+   "weight": 63,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "matthew-cuthbert",
+   "target": "mrs-allan",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "diana",
+   "target": "mrs-allan",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "mrs-allan",
+   "target": "rachel-lynde",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 21."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "josie-pye",
+   "target": "ruby-gillis",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 23."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r110",
+   "source": "josie-pye",
+   "target": "marilla-cuthbert",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 23."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r111",
+   "source": "josie-pye",
+   "target": "miss-stacy",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 23."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r112",
+   "source": "miss-stacy",
+   "target": "ruby-gillis",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 23."
+    },
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r113",
+   "source": "diana",
+   "target": "moody-spurgeon",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r114",
+   "source": "moody-spurgeon",
+   "target": "ruby-gillis",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r115",
+   "source": "josie-pye",
+   "target": "moody-spurgeon",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r116",
+   "source": "charlie-sloane",
+   "target": "moody-spurgeon",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r117",
+   "source": "cordelia",
+   "target": "matthew-cuthbert",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r118",
+   "source": "geraldine",
+   "target": "matthew-cuthbert",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r119",
+   "source": "cordelia",
+   "target": "diana",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r120",
+   "source": "diana",
+   "target": "geraldine",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r121",
+   "source": "jane",
+   "target": "ruby-gillis",
+   "weight": 54,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 26."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r122",
+   "source": "aunt-josephine",
+   "target": "jane",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r123",
+   "source": "aunt-josephine",
+   "target": "miss-barry",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  },
+  {
+   "id": "r124",
+   "source": "anne",
+   "target": "elaine",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 27."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r125",
+   "source": "diana",
+   "target": "elaine",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 27."
+    }
+   ]
+  },
+  {
+   "id": "r126",
+   "source": "elaine",
+   "target": "ruby-gillis",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 28."
+    }
+   ]
+  },
+  {
+   "id": "r127",
+   "source": "elaine",
+   "target": "jane",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 28."
+    }
+   ]
+  },
+  {
+   "id": "r128",
+   "source": "elaine",
+   "target": "gilbert-blythe",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 28."
+    }
+   ]
+  },
+  {
+   "id": "r129",
+   "source": "jane",
+   "target": "queen",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 30."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r130",
+   "source": "diana-barry",
+   "target": "ruby-gillis",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 30."
+    }
+   ]
+  },
+  {
+   "id": "r131",
+   "source": "jane",
+   "target": "josie-pye",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 30."
+    },
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r132",
+   "source": "jane",
+   "target": "moody-spurgeon",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s31",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 30."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r133",
+   "source": "anne",
+   "target": "avery",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 34."
+    },
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r134",
+   "source": "avery",
+   "target": "josie-pye",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 34."
+    }
+   ]
+  },
+  {
+   "id": "r135",
+   "source": "avery",
+   "target": "queen",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 34."
+    }
+   ]
+  },
+  {
+   "id": "r136",
+   "source": "avery",
+   "target": "gilbert-blythe",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 35."
+    }
+   ]
+  },
+  {
+   "id": "r137",
+   "source": "avery",
+   "target": "jane",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 35."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

@@ -1,0 +1,1599 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL19908W",
+ "title": "Kim",
+ "authors": [
+  "Rudyard Kipling"
+ ],
+ "firstPublished": 1901,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #2226.",
+  "source": "Project Gutenberg eBook #2226",
+  "url": "https://www.gutenberg.org/ebooks/2226"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "O ye who tread the Narrow Way"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "Yea, voice of every Soul that clung"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "Here come I to my own again"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "Now I remember comrades—"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "Unto whose use the pregnant suns are poised"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "Something I owe to the soil that grew—"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "S’ doaks was son of Yelth the wise—"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "Your tiercel’s too long at hack, Sire. He’s no eyass"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "Give the man who is not made"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "My brother kneels (so saith Kabir)"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "I’d not give room for an Emperor—"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-sahib",
+   "label": "Sahib (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "kim",
+   "name": "Kim",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “There was some justification for Kim—he had kicked Lala Dinanath’s boy off the trunnions—since the English held the Punjab and Kim was English.”"
+  },
+  {
+   "id": "mahbub-ali",
+   "name": "Mahbub Ali",
+   "aliases": [
+    "Mahbub"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Kim, fending the lama between excited men and excited beasts, sidled along the cloisters to the far end, nearest therailway station, where Mahbub Ali, the horse-trader, lived when he came in from that mysterious land…”"
+  },
+  {
+   "id": "lurgan-sahib",
+   "name": "Lurgan Sahib",
+   "aliases": [
+    "Lurgan",
+    "Mr. Lurgan"
+   ],
+   "role": "supporting",
+   "group": "g-sahib",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Thou art to lodge in Lurgan Sahib’s house till it is time to go again to Nucklao.””"
+  },
+  {
+   "id": "hurree-babu",
+   "name": "Hurree Babu",
+   "aliases": [
+    "Hurree"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: ““Do you know what Hurree Babu really wants?”"
+  },
+  {
+   "id": "colonel",
+   "name": "Colonel",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The half-caste woman who looked after him (she smoked opium, and pretended to keep a second-hand furniture shop by the square where the cheap cabs wait) told the missionaries that she was Kim’s mother’s sister; but hi…”"
+  },
+  {
+   "id": "creighton-sahib",
+   "name": "Creighton Sahib",
+   "aliases": [
+    "Colonel Creighton",
+    "Creighton"
+   ],
+   "role": "minor",
+   "group": "g-sahib",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Think you that we who serve Creighton Sahib need strange scullions to help us through a big dinner?””"
+  },
+  {
+   "id": "father-victor",
+   "name": "Father Victor",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““I want your advice, Father Victor,” said Bennett.”"
+  },
+  {
+   "id": "bennett",
+   "name": "Bennett",
+   "aliases": [
+    "Mr. Bennett"
+   ],
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Yonder comes a priest.” It was Bennett, the Church of England Chaplain of the regiment, limping in dusty black.”"
+  },
+  {
+   "id": "hara",
+   "name": "Hara",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The half-caste woman who looked after him (she smoked opium, and pretended to keep a second-hand furniture shop by the square where the cheap cabs wait) told the missionaries that she was Kim’s mother’s sister; but hi…”"
+  },
+  {
+   "id": "st-xavier",
+   "name": "St. Xavier",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The Regiment would pay for you all the time you are at the Military Orphanage; or you might go on the Punjab Masonic Orphanage’s list (not that he or you ’ud understand what that means); but the best schooling a boy c…”"
+  },
+  {
+   "id": "englishman",
+   "name": "Englishman",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “A white-bearded Englishman was looking at the lama, who gravely turned and saluted him and after some fumbling drew forth a note-book and a scrap of paper.”"
+  },
+  {
+   "id": "huneefa",
+   "name": "Huneefa",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: “Huneefa herself could not have given thee better stuff.””"
+  },
+  {
+   "id": "kamboh",
+   "name": "Kamboh",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Kim was guided to the Temple of the Tirthankars, about a mile outside the city, near Sarnath, by a chance-met Punjabi farmer—a Kamboh from Jullundur-way who had appealed in vain to every God of his homestead to cure h…”"
+  },
+  {
+   "id": "sahiba",
+   "name": "Sahiba",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “but who can argue with a grandmother?” He raised his voice respectfully: “Sahiba, the _hakim_ sleeps after his meat.”"
+  },
+  {
+   "id": "curator",
+   "name": "Curator",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Museum was given up to Indian arts and manufactures, and anybody who sought wisdom could ask the Curator to explain.”"
+  },
+  {
+   "id": "bengali",
+   "name": "Bengali",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “The voices of early evening had settled down to one soothing hum whose deepest note was the steady chumping of the bullocks above their chopped straw, and whose highest was the tinkle of a Bengali dancing-girl’s _sitar_.”"
+  },
+  {
+   "id": "mahratta",
+   "name": "Mahratta",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “There tumbled into the compartment, as the train was moving off, a mean, lean little person—a Mahratta, so far as Kim could judge by the cock of the tight turban.”"
+  },
+  {
+   "id": "saddhu",
+   "name": "Saddhu",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: ““We must make thee a yellow Saddhu all over.”"
+  },
+  {
+   "id": "jat",
+   "name": "Jat",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““My brother is in a Jat regiment,” said the cultivator.”"
+  },
+  {
+   "id": "padre",
+   "name": "Padre",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: ““He says the Regiment that found him, and especially the Padre-sahib of that regiment.”"
+  },
+  {
+   "id": "colonel-sahib",
+   "name": "Colonel Sahib",
+   "role": "minor",
+   "group": "g-sahib",
+   "firstAppearance": "s6",
+   "summary": "First mention: ““If through me the favour of this bold and wise Colonel Sahib comes to thee, and thou art raised to honour, what thanks wilt thou give Mahbub Ali when thou art a man?””"
+  },
+  {
+   "id": "yankling-sahib",
+   "name": "Yankling Sahib",
+   "role": "minor",
+   "group": "g-sahib",
+   "firstAppearance": "s13",
+   "summary": "First mention: ““Not for five years was I Yankling Sahib’s _shikarri_ without knowing that medicine.”"
+  },
+  {
+   "id": "rajah",
+   "name": "Rajah",
+   "role": "minor",
+   "firstAppearance": "s7",
+   "summary": "First mention: “They were sons of subordinate officials in the Railway, Telegraph, and Canal Services; of warrant-officers, sometimes retired and sometimes acting as commanders-in-chief to a feudatory Rajah’s army; of captains of the…”"
+  },
+  {
+   "id": "kimball",
+   "name": "Kimball",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The half-caste woman who looked after him (she smoked opium, and pretended to keep a second-hand furniture shop by the square where the cheap cabs wait) told the missionaries that she was Kim’s mother’s sister; but hi…”"
+  },
+  {
+   "id": "museum",
+   "name": "Museum",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “On no account was Kim to part with them, for they belonged to a great piece of magic—such magic as men practised over yonder behind the Museum, in the big blue-and-white Jadoo-Gher—the Magic House, as we name the Maso…”"
+  },
+  {
+   "id": "oriental",
+   "name": "Oriental",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “So those Kings’ Prime Ministers were seriously annoyed and took steps, after the Oriental fashion.”"
+  },
+  {
+   "id": "chaplain",
+   "name": "Chaplain",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “One of his flock had made some rude remarks about the Chaplain’s mettle; and to abash him Bennett had marched step by step with the men that day.”"
+  },
+  {
+   "id": "cause",
+   "name": "Cause",
+   "role": "minor",
+   "firstAppearance": "s11",
+   "summary": "First mention: “A Cause was put out into the world, and, old or young, sick or sound, knowing or unknowing, who can rein in the effect of that Cause?”"
+  },
+  {
+   "id": "mavericks",
+   "name": "Mavericks",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The half-caste woman who looked after him (she smoked opium, and pretended to keep a second-hand furniture shop by the square where the cheap cabs wait) told the missionaries that she was Kim’s mother’s sister; but hi…”"
+  },
+  {
+   "id": "punjabi",
+   "name": "Punjabi",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The big Punjabi grinned tolerantly: he knew Kim of old.”"
+  },
+  {
+   "id": "bodhisat",
+   "name": "Bodhisat",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Two butterfly-winged devas held a wreath over His head; above them another pair supported an umbrella surmounted by the jewelled headdress of the Bodhisat.”"
+  },
+  {
+   "id": "abdullah",
+   "name": "Abdullah",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “As he drummed his heels against Zam-Zammah he turned now and again from his king-of-the-castle game with little Chota Lal and Abdullah the sweetmeat-seller’s son, to make a rude remark to the native policeman on guard…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "colonel",
+   "target": "kim",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "kim",
+   "target": "kimball",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "hara",
+   "target": "kim",
+   "weight": 30,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "kim",
+   "target": "mavericks",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "kim",
+   "target": "museum",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "hara",
+   "target": "kimball",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "abdullah",
+   "target": "kim",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "kim",
+   "target": "punjabi",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "curator",
+   "target": "kim",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "bodhisat",
+   "target": "kim",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "englishman",
+   "target": "kim",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "kim",
+   "target": "mahbub-ali",
+   "weight": 161,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 52
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "kim",
+   "target": "oriental",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "mahbub-ali",
+   "target": "oriental",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "englishman",
+   "target": "mahbub-ali",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "creighton-sahib",
+   "target": "kim",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "bengali",
+   "target": "kim",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "bennett",
+   "target": "kim",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 30
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "chaplain",
+   "target": "kim",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "bennett",
+   "target": "chaplain",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "bennett",
+   "target": "father-victor",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "chaplain",
+   "target": "father-victor",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "father-victor",
+   "target": "kim",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "father-victor",
+   "target": "kimball",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "father-victor",
+   "target": "hara",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "colonel",
+   "target": "father-victor",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "bennett",
+   "target": "colonel",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "father-victor",
+   "target": "oriental",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "kim",
+   "target": "st-xavier",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "bennett",
+   "target": "st-xavier",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "father-victor",
+   "target": "mahbub-ali",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "englishman",
+   "target": "padre",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "kim",
+   "target": "padre",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "father-victor",
+   "target": "padre",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "creighton-sahib",
+   "target": "hara",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "creighton-sahib",
+   "target": "padre",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "mahbub-ali",
+   "target": "padre",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "creighton-sahib",
+   "target": "mahbub-ali",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "colonel-sahib",
+   "target": "mahbub-ali",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "colonel",
+   "target": "mahbub-ali",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "colonel-sahib",
+   "target": "kim",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "colonel",
+   "target": "st-xavier",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "colonel-sahib",
+   "target": "creighton-sahib",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "colonel",
+   "target": "creighton-sahib",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "hara",
+   "target": "mahbub-ali",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "mahbub-ali",
+   "target": "st-xavier",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "creighton-sahib",
+   "target": "st-xavier",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "kim",
+   "target": "rajah",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "huneefa",
+   "target": "kim",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "colonel",
+   "target": "colonel-sahib",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "lurgan-sahib",
+   "target": "mahbub-ali",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "creighton-sahib",
+   "target": "lurgan-sahib",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "kim",
+   "target": "lurgan-sahib",
+   "weight": 59,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "lurgan-sahib",
+   "target": "st-xavier",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "hara",
+   "target": "lurgan-sahib",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "hurree-babu",
+   "target": "mahbub-ali",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "creighton-sahib",
+   "target": "hurree-babu",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "huneefa",
+   "target": "mahbub-ali",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "huneefa",
+   "target": "hurree-babu",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "hurree-babu",
+   "target": "kim",
+   "weight": 41,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 41
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "kamboh",
+   "target": "kim",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "jat",
+   "target": "kim",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "cause",
+   "target": "kim",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "kim",
+   "target": "mahratta",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "kamboh",
+   "target": "mahratta",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "kim",
+   "target": "saddhu",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "jat",
+   "target": "saddhu",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "kamboh",
+   "target": "saddhu",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "mahratta",
+   "target": "saddhu",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "englishman",
+   "target": "saddhu",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "kim",
+   "target": "sahiba",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "bengali",
+   "target": "hurree-babu",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "hurree-babu",
+   "target": "rajah",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "bengali",
+   "target": "rajah",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "mahbub-ali",
+   "target": "sahiba",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

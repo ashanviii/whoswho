@@ -1,0 +1,641 @@
+{
+  "schemaVersion": 1,
+  "workId": "OL32466W",
+  "title": "A Christmas Carol",
+  "authors": [
+    "Charles Dickens"
+  ],
+  "firstPublished": 1843,
+  "edition": {
+    "description": "Five staves, as in the 1843 first edition.",
+    "source": "Project Gutenberg eBook #46",
+    "url": "https://www.gutenberg.org/ebooks/46"
+  },
+  "sectionLabel": {
+    "singular": "Stave",
+    "plural": "Staves"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "label": "Stave 1",
+      "title": "Marley’s Ghost"
+    },
+    {
+      "id": "s2",
+      "label": "Stave 2",
+      "title": "The First of the Three Spirits"
+    },
+    {
+      "id": "s3",
+      "label": "Stave 3",
+      "title": "The Second of the Three Spirits"
+    },
+    {
+      "id": "s4",
+      "label": "Stave 4",
+      "title": "The Last of the Spirits"
+    },
+    {
+      "id": "s5",
+      "label": "Stave 5",
+      "title": "The End of It"
+    }
+  ],
+  "groups": [
+    {
+      "id": "scrooge",
+      "label": "Scrooge’s family"
+    },
+    {
+      "id": "cratchit",
+      "label": "The Cratchits"
+    },
+    {
+      "id": "spirits",
+      "label": "The spirits"
+    },
+    {
+      "id": "past",
+      "label": "Scrooge’s past"
+    }
+  ],
+  "characters": [
+    {
+      "id": "scrooge",
+      "name": "Ebenezer Scrooge",
+      "role": "protagonist",
+      "group": "scrooge",
+      "firstAppearance": "s1",
+      "summary": "A cold, miserly London businessman who despises Christmas.",
+      "notes": [
+        {
+          "at": "s1",
+          "text": "Is warned by Marley’s ghost that three spirits will visit him."
+        },
+        {
+          "at": "s5",
+          "text": "Wakes on Christmas morning a changed man, generous and joyful."
+        }
+      ]
+    },
+    {
+      "id": "marley",
+      "name": "Jacob Marley",
+      "role": "major",
+      "group": "spirits",
+      "firstAppearance": "s1",
+      "summary": "Scrooge’s business partner, dead these seven years.",
+      "notes": [
+        {
+          "at": "s1",
+          "text": "Appears as a ghost, bound in the chain he forged in life."
+        }
+      ]
+    },
+    {
+      "id": "bob",
+      "name": "Bob Cratchit",
+      "role": "major",
+      "group": "cratchit",
+      "firstAppearance": "s1",
+      "summary": "Scrooge’s poorly paid, patient clerk."
+    },
+    {
+      "id": "fred",
+      "name": "Fred",
+      "aliases": [
+        "Scrooge’s nephew"
+      ],
+      "role": "supporting",
+      "group": "scrooge",
+      "firstAppearance": "s1",
+      "summary": "Scrooge’s cheerful nephew, who invites him to Christmas dinner every year."
+    },
+    {
+      "id": "ghostPast",
+      "name": "Ghost of Christmas Past",
+      "role": "major",
+      "group": "spirits",
+      "firstAppearance": "s2",
+      "summary": "A strange, candle-like spirit, both young and old, who shows Scrooge his past."
+    },
+    {
+      "id": "fan",
+      "name": "Fan",
+      "role": "supporting",
+      "group": "past",
+      "firstAppearance": "s2",
+      "summary": "Scrooge’s affectionate little sister.",
+      "notes": [
+        {
+          "at": "s2",
+          "text": "Died young, leaving one child."
+        }
+      ]
+    },
+    {
+      "id": "fezziwig",
+      "name": "Mr. Fezziwig",
+      "role": "supporting",
+      "group": "past",
+      "firstAppearance": "s2",
+      "summary": "The jovial merchant to whom young Scrooge was apprenticed."
+    },
+    {
+      "id": "mrsFezziwig",
+      "name": "Mrs. Fezziwig",
+      "role": "minor",
+      "group": "past",
+      "firstAppearance": "s2",
+      "summary": "Fezziwig’s warm-hearted wife."
+    },
+    {
+      "id": "dick",
+      "name": "Dick Wilkins",
+      "role": "minor",
+      "group": "past",
+      "firstAppearance": "s2",
+      "summary": "Scrooge’s fellow apprentice at Fezziwig’s."
+    },
+    {
+      "id": "belle",
+      "name": "Belle",
+      "role": "supporting",
+      "group": "past",
+      "firstAppearance": "s2",
+      "summary": "The young woman Scrooge once loved.",
+      "notes": [
+        {
+          "at": "s2",
+          "text": "Is later seen happily married with a large family."
+        }
+      ]
+    },
+    {
+      "id": "ghostPresent",
+      "name": "Ghost of Christmas Present",
+      "role": "major",
+      "group": "spirits",
+      "firstAppearance": "s3",
+      "summary": "A jolly green-robed giant who shows Scrooge Christmas as it is being kept that day."
+    },
+    {
+      "id": "mrsCratchit",
+      "name": "Mrs. Cratchit",
+      "role": "supporting",
+      "group": "cratchit",
+      "firstAppearance": "s3",
+      "summary": "Bob’s wife, making a brave show of a modest Christmas."
+    },
+    {
+      "id": "tinyTim",
+      "name": "Tiny Tim",
+      "role": "major",
+      "group": "cratchit",
+      "firstAppearance": "s3",
+      "summary": "Bob’s youngest son: small, frail, carrying a crutch, and full of goodwill.",
+      "notes": [
+        {
+          "at": "s3",
+          "text": "The Spirit warns he will die unless the future is altered."
+        },
+        {
+          "at": "s5",
+          "text": "Does not die; Scrooge becomes a second father to him."
+        }
+      ]
+    },
+    {
+      "id": "martha",
+      "name": "Martha Cratchit",
+      "role": "minor",
+      "group": "cratchit",
+      "firstAppearance": "s3",
+      "summary": "Bob’s eldest daughter, apprenticed to a milliner."
+    },
+    {
+      "id": "peter",
+      "name": "Peter Cratchit",
+      "role": "minor",
+      "group": "cratchit",
+      "firstAppearance": "s3",
+      "summary": "Bob’s son, proud of his father’s borrowed shirt collar."
+    },
+    {
+      "id": "belinda",
+      "name": "Belinda Cratchit",
+      "role": "minor",
+      "group": "cratchit",
+      "firstAppearance": "s3",
+      "summary": "One of Bob’s daughters."
+    },
+    {
+      "id": "fredWife",
+      "name": "Fred’s wife",
+      "role": "minor",
+      "group": "scrooge",
+      "firstAppearance": "s3",
+      "summary": "Fred’s pretty, laughing wife, Scrooge’s niece by marriage."
+    },
+    {
+      "id": "topper",
+      "name": "Topper",
+      "role": "minor",
+      "firstAppearance": "s3",
+      "summary": "A bachelor friend at Fred’s Christmas party."
+    },
+    {
+      "id": "ghostFuture",
+      "name": "Ghost of Christmas Yet to Come",
+      "role": "major",
+      "group": "spirits",
+      "firstAppearance": "s4",
+      "summary": "A silent, hooded phantom who points the way to things to come."
+    },
+    {
+      "id": "joe",
+      "name": "Old Joe",
+      "role": "minor",
+      "firstAppearance": "s4",
+      "summary": "A receiver of stolen goods in a squalid rag-and-bone shop."
+    },
+    {
+      "id": "dilber",
+      "name": "Mrs. Dilber",
+      "role": "minor",
+      "firstAppearance": "s4",
+      "summary": "A laundress who brings a dead man’s belongings to sell."
+    }
+  ],
+  "relationships": [
+    {
+      "id": "r1",
+      "source": "scrooge",
+      "target": "marley",
+      "phases": [
+        {
+          "at": "s1",
+          "type": "alliance",
+          "label": "Late business partner",
+          "note": "Scrooge was his sole executor and mourner; his ghost comes to warn him."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "source": "scrooge",
+      "target": "bob",
+      "phases": [
+        {
+          "at": "s1",
+          "type": "service",
+          "label": "Employer & clerk",
+          "sourceRole": "Employer",
+          "targetRole": "Clerk",
+          "note": "Scrooge begrudges him even a day off at Christmas."
+        },
+        {
+          "at": "s5",
+          "type": "service",
+          "label": "A generous employer",
+          "sourceRole": "Employer",
+          "targetRole": "Clerk",
+          "note": "Scrooge raises his salary and promises to help his family."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "source": "scrooge",
+      "target": "fred",
+      "phases": [
+        {
+          "at": "s1",
+          "type": "family",
+          "label": "Uncle & nephew",
+          "sourceRole": "Uncle",
+          "targetRole": "Nephew",
+          "note": "Scrooge rebuffs his Christmas invitation."
+        },
+        {
+          "at": "s5",
+          "type": "family",
+          "label": "Reconciled",
+          "sourceRole": "Uncle",
+          "targetRole": "Nephew",
+          "note": "Scrooge turns up for Christmas dinner and is welcomed."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "source": "ghostPast",
+      "target": "scrooge",
+      "phases": [
+        {
+          "at": "s2",
+          "type": "mentorship",
+          "label": "Shows him his past",
+          "sourceRole": "Guide",
+          "targetRole": "Charge"
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "source": "ghostPresent",
+      "target": "scrooge",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "mentorship",
+          "label": "Shows him the present",
+          "sourceRole": "Guide",
+          "targetRole": "Charge"
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "source": "ghostFuture",
+      "target": "scrooge",
+      "phases": [
+        {
+          "at": "s4",
+          "type": "mentorship",
+          "label": "Shows him what may come",
+          "sourceRole": "Guide",
+          "targetRole": "Charge",
+          "note": "It ends at a neglected grave bearing his own name."
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "source": "scrooge",
+      "target": "fan",
+      "phases": [
+        {
+          "at": "s2",
+          "type": "family",
+          "label": "Brother & sister",
+          "sourceRole": "Brother",
+          "targetRole": "Sister",
+          "note": "She comes to bring him home from school."
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "source": "fan",
+      "target": "fred",
+      "phases": [
+        {
+          "at": "s2",
+          "type": "family",
+          "label": "Mother & son",
+          "sourceRole": "Mother",
+          "targetRole": "Son"
+        }
+      ]
+    },
+    {
+      "id": "r9",
+      "source": "fezziwig",
+      "target": "scrooge",
+      "phases": [
+        {
+          "at": "s2",
+          "type": "mentorship",
+          "label": "Master & apprentice",
+          "sourceRole": "Master",
+          "targetRole": "Apprentice",
+          "note": "His Christmas Eve ball shows Scrooge how little kindness costs."
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "source": "fezziwig",
+      "target": "mrsFezziwig",
+      "phases": [
+        {
+          "at": "s2",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife"
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "source": "scrooge",
+      "target": "dick",
+      "phases": [
+        {
+          "at": "s2",
+          "type": "friendship",
+          "label": "Fellow apprentices"
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "source": "scrooge",
+      "target": "belle",
+      "phases": [
+        {
+          "at": "s2",
+          "type": "romance",
+          "label": "Broken engagement",
+          "note": "She releases him, saying a golden idol has displaced her in his heart."
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "source": "bob",
+      "target": "mrsCratchit",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife"
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "source": "bob",
+      "target": "tinyTim",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "family",
+          "label": "Father & son",
+          "sourceRole": "Father",
+          "targetRole": "Son",
+          "note": "Bob carries him home from church on his shoulder."
+        }
+      ]
+    },
+    {
+      "id": "r15",
+      "source": "mrsCratchit",
+      "target": "tinyTim",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "family",
+          "label": "Mother & son",
+          "sourceRole": "Mother",
+          "targetRole": "Son"
+        }
+      ]
+    },
+    {
+      "id": "r16",
+      "source": "bob",
+      "target": "martha",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "family",
+          "label": "Father & daughter",
+          "sourceRole": "Father",
+          "targetRole": "Daughter"
+        }
+      ]
+    },
+    {
+      "id": "r17",
+      "source": "bob",
+      "target": "peter",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "family",
+          "label": "Father & son",
+          "sourceRole": "Father",
+          "targetRole": "Son"
+        }
+      ]
+    },
+    {
+      "id": "r18",
+      "source": "bob",
+      "target": "belinda",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "family",
+          "label": "Father & daughter",
+          "sourceRole": "Father",
+          "targetRole": "Daughter"
+        }
+      ]
+    },
+    {
+      "id": "r19",
+      "source": "scrooge",
+      "target": "tinyTim",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "acquaintance",
+          "label": "Moved by him",
+          "note": "Scrooge asks the Spirit whether Tiny Tim will live."
+        },
+        {
+          "at": "s5",
+          "type": "mentorship",
+          "label": "A second father",
+          "note": "Tiny Tim, who did not die, gains a second father in Scrooge."
+        }
+      ]
+    },
+    {
+      "id": "r20",
+      "source": "mrsCratchit",
+      "target": "scrooge",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "rivalry",
+          "label": "Holds him in contempt",
+          "note": "She toasts him only for Bob’s sake and the day’s."
+        }
+      ]
+    },
+    {
+      "id": "r21",
+      "source": "fred",
+      "target": "fredWife",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife"
+        }
+      ]
+    },
+    {
+      "id": "r22",
+      "source": "fred",
+      "target": "topper",
+      "phases": [
+        {
+          "at": "s3",
+          "type": "friendship",
+          "label": "Friends",
+          "note": "Topper plays blind man’s buff at the party."
+        }
+      ]
+    },
+    {
+      "id": "r23",
+      "source": "fred",
+      "target": "bob",
+      "phases": [
+        {
+          "at": "s4",
+          "type": "acquaintance",
+          "label": "Kind stranger",
+          "note": "In the vision of the future, Fred offers help after the Cratchits’ loss."
+        }
+      ]
+    },
+    {
+      "id": "r24",
+      "source": "dilber",
+      "target": "joe",
+      "phases": [
+        {
+          "at": "s4",
+          "type": "alliance",
+          "label": "Seller & fence",
+          "note": "She sells him things taken from a dead man’s room."
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "method": "Hand-curated from the public-domain text, with section numbers following the edition named in `edition`. Drafted with AI assistance; awaiting a line-by-line human review.",
+    "contributors": [
+      "Character Chart editors"
+    ],
+    "createdAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "review": {
+      "status": "unreviewed",
+      "notes": "Spot-check chapter/scene numbers against the stated edition before marking as reviewed."
+    }
+  },
+  "license": "CC BY 4.0"
+}

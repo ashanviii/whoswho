@@ -1,0 +1,1688 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL17448W",
+ "title": "King Solomon's Mines",
+ "authors": [
+  "H. Rider Haggard"
+ ],
+ "firstPublished": 1876,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #2166.",
+  "source": "Project Gutenberg eBook #2166",
+  "url": "https://www.gutenberg.org/ebooks/2166"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "I MEET SIR HENRY CURTIS"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "THE LEGEND OF SOLOMON’S MINES"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "UMBOPA ENTERS OUR SERVICE"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "AN ELEPHANT HUNT"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "OUR MARCH INTO THE DESERT"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "SOLOMON’S ROAD"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "WE ENTER KUKUANALAND"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "TWALA THE KING"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "THE WITCH-HUNT"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "WE GIVE A SIGN"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "BEFORE THE BATTLE"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "THE ATTACK"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "THE LAST STAND OF THE GREYS"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "GOOD FALLS SICK"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "THE PLACE OF DEATH"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "SOLOMON’S TREASURE CHAMBER"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "WE ABANDON HOPE"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "IGNOSI’S FAREWELL"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "FOUND"
+  }
+ ],
+ "characters": [
+  {
+   "id": "sir-henry-curtis",
+   "name": "Sir Henry",
+   "aliases": [
+    "Henry",
+    "Sir Henry Curtis"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Well, it is eighteen months or so ago since first I met Sir Henry Curtis and Captain Good.”"
+  },
+  {
+   "id": "twala",
+   "name": "Twala",
+   "role": "protagonist",
+   "firstAppearance": "s7",
+   "summary": "First mention: ““Scragga, son of Twala, the great king—Twala, husband of a thousand wives, chief and lord paramount of the Kukuanas, keeper of the great Road, terror of his enemies, student of the Black Arts, leader of a hundred thou…”"
+  },
+  {
+   "id": "ignosi",
+   "name": "Ignosi",
+   "role": "major",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Then just as the tumult was at its height Imotu the king, though he was very sick, crawled from his hut holding his wife by the hand, and followed by his little son Ignosi—that is, by interpretation, the Lightning.”"
+  },
+  {
+   "id": "infadoos",
+   "name": "Infadoos",
+   "role": "major",
+   "firstAppearance": "s7",
+   "summary": "First mention: “I am Infadoos, son of Kafa, once king of the Kukuana people.”"
+  },
+  {
+   "id": "gagool",
+   "name": "Gagool",
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “With my own eyes I have seen the countless diamonds stored in Solomon’s treasure chamber behind the white Death; but through the treachery of Gagool the witch-finder I might bring nought away, scarcely my life.”"
+  },
+  {
+   "id": "umbopa",
+   "name": "Umbopa",
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: ““Umbopa,” answered the man in a slow, deep voice.”"
+  },
+  {
+   "id": "foulata",
+   "name": "Foulata",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “It may seem a queer thing to say, especially considering that there is no woman in it—except Foulata.”"
+  },
+  {
+   "id": "incubu",
+   "name": "Incubu",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Is it to that land that thou wouldst journey, Incubu?”"
+  },
+  {
+   "id": "scragga",
+   "name": "Scragga",
+   "role": "supporting",
+   "firstAppearance": "s7",
+   "summary": "First mention: “This youth is Scragga.””"
+  },
+  {
+   "id": "zulu",
+   "name": "Zulu",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “She said that the people who lived across those mountains were a “branch” of the Zulus, speaking a dialect of Zulu, but finer and bigger men even; that there lived among them great wizards, who had learnt their art fr…”"
+  },
+  {
+   "id": "hottentot-ventv",
+   "name": "Hottentot Ventv",
+   "aliases": [
+    "Ventv"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “I, Allan Quatermain, of Durban, Natal, Gentleman, make oath and say—That’s how I headed my deposition before the magistrate about poor Khiva’s and Ventvögel’s sad deaths; but somehow it doesn’t seem quite the right wa…”"
+  },
+  {
+   "id": "jim",
+   "name": "Jim",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “You said in it that the gentleman called Neville left Bamangwato at the beginning of May in a wagon with a driver, a voorlooper, and a Kafir hunter called Jim, announcing his intention of trekking if possible as far a…”"
+  },
+  {
+   "id": "captain-good",
+   "name": "Captain Good",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Well, it is eighteen months or so ago since first I met Sir Henry Curtis and Captain Good.”"
+  },
+  {
+   "id": "mr-quatermain",
+   "name": "Mr. Quatermain",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “[2] Mr.”"
+  },
+  {
+   "id": "solomon",
+   "name": "Solomon",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “‘Ah, well,’ he said, ‘that is where Solomon really had his mines, his diamond mines, I mean.’”"
+  },
+  {
+   "id": "da-silvestra",
+   "name": "Da Silvestra",
+   "aliases": [
+    "Silvestra"
+   ],
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “His name was José da Silvestra, and he lived three hundred years ago.”"
+  },
+  {
+   "id": "buffaloes",
+   "name": "Buffaloes",
+   "role": "minor",
+   "firstAppearance": "s14",
+   "summary": "First mention: “Half an hour or more was allowed to elapse between the setting out of the horns or wings of the army before any stir was made by the Greys and their supporting regiment, known as the Buffaloes, which formed its chest,…”"
+  },
+  {
+   "id": "khiva",
+   "name": "Khiva",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “I, Allan Quatermain, of Durban, Natal, Gentleman, make oath and say—That’s how I headed my deposition before the magistrate about poor Khiva’s and Ventvögel’s sad deaths; but somehow it doesn’t seem quite the right wa…”"
+  },
+  {
+   "id": "kafir",
+   "name": "Kafir",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “I cannot tell the rights of it, but at any rate I have never stolen, though once I cheated a Kafir out of a herd of cattle.”"
+  },
+  {
+   "id": "harry",
+   "name": "Harry",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Third reason: Because I want my boy Harry, who is over there at the hospital in London studying to become a doctor, to have something to amuse him and keep him out of mischief for a week or so.”"
+  },
+  {
+   "id": "sheba-s-breasts",
+   "name": "Sheba’s Breasts",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““I, José da Silvestra, who am now dying of hunger in the little cave where no snow is on the north side of the nipple of the southernmost of the two mountains I have named Sheba’s Breasts, write this in the year 1590…”"
+  },
+  {
+   "id": "dom",
+   "name": "Dom",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “When I had finished reading the above, and shown the copy of the map, drawn by the dying hand of the old Dom with his blood for ink, there followed a silence of astonishment.”"
+  },
+  {
+   "id": "silvestre",
+   "name": "Silvestre",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “We talked together for a while, for he could speak broken English, and I understood a little Portugee, and he told me that his name was José Silvestre, and that he had a place near Delagoa Bay.”"
+  },
+  {
+   "id": "imotu",
+   "name": "Imotu",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: ““My lord, Kafa, our father, died when we came to manhood, and my brother Imotu was made king in his place, and for a space reigned and had a son by his favourite wife.”"
+  },
+  {
+   "id": "george-curtis",
+   "name": "George Curtis",
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “At last we were drawing near to the wonderful mines that had been the cause of the miserable death of the old Portuguese Dom three centuries ago, of my poor friend, his ill-starred descendant, and also, as we feared,…”"
+  },
+  {
+   "id": "neville",
+   "name": "Neville",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Did you happen to meet a man called Neville there?””"
+  },
+  {
+   "id": "solomon-s-mines",
+   "name": "Solomon’s Mines",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “I heard that he was starting for Solomon’s Mines.””"
+  },
+  {
+   "id": "jos",
+   "name": "Jos",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “We talked together for a while, for he could speak broken English, and I understood a little Portugee, and he told me that his name was José Silvestre, and that he had a place near Delagoa Bay.”"
+  },
+  {
+   "id": "sheba",
+   "name": "Sheba",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Let him who comes follow the map, and climb the snow of Sheba’s left breast till he reaches the nipple, on the north side of which is the great road Solomon made, from whence three days’ journey to the King’s Palace.”"
+  },
+  {
+   "id": "george",
+   "name": "George",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Quatermain, that I would have given half my fortune to know that my brother George, the only relation I possess, was safe and well, and that I should see him again.””"
+  },
+  {
+   "id": "hottentot",
+   "name": "Hottentot",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “At last I secured two, one a Hottentot named Ventvögel, or “windbird,” and one a little Zulu named Khiva, who had the merit of speaking English perfectly.”"
+  },
+  {
+   "id": "portuguese",
+   "name": "Portuguese",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “You also said that he did sell his wagon, for six months afterwards you saw the wagon in the possession of a Portuguese trader, who told you that he had bought it at Inyati from a white man whose name he had forgotten…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "hottentot-ventv",
+   "target": "khiva",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "kafir",
+   "target": "khiva",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "hottentot-ventv",
+   "target": "kafir",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "kafir",
+   "target": "sir-henry-curtis",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "captain-good",
+   "target": "sir-henry-curtis",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "mr-quatermain",
+   "target": "sir-henry-curtis",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "neville",
+   "target": "sir-henry-curtis",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "jim",
+   "target": "sir-henry-curtis",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "captain-good",
+   "target": "mr-quatermain",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "mr-quatermain",
+   "target": "neville",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "harry",
+   "target": "sir-henry-curtis",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "harry",
+   "target": "mr-quatermain",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "george",
+   "target": "mr-quatermain",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "captain-good",
+   "target": "george",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "captain-good",
+   "target": "neville",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "sir-henry-curtis",
+   "target": "solomon-s-mines",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "captain-good",
+   "target": "solomon-s-mines",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "jos",
+   "target": "solomon",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "jos",
+   "target": "silvestre",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "da-silvestra",
+   "target": "jos",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "da-silvestra",
+   "target": "solomon",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "da-silvestra",
+   "target": "gagool",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "da-silvestra",
+   "target": "sheba",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "gagool",
+   "target": "solomon",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "sheba",
+   "target": "solomon",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "silvestre",
+   "target": "sir-henry-curtis",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "sir-henry-curtis",
+   "target": "zulu",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "kafir",
+   "target": "zulu",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "hottentot",
+   "target": "hottentot-ventv",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "khiva",
+   "target": "zulu",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "umbopa",
+   "target": "zulu",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "sir-henry-curtis",
+   "target": "umbopa",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "khiva",
+   "target": "umbopa",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "hottentot-ventv",
+   "target": "umbopa",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "hottentot-ventv",
+   "target": "sir-henry-curtis",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "incubu",
+   "target": "sir-henry-curtis",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "incubu",
+   "target": "umbopa",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "hottentot",
+   "target": "sir-henry-curtis",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "da-silvestra",
+   "target": "dom",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "dom",
+   "target": "hottentot-ventv",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "dom",
+   "target": "sir-henry-curtis",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "sir-henry-curtis",
+   "target": "solomon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "infadoos",
+   "target": "scragga",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "scragga",
+   "target": "twala",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "infadoos",
+   "target": "umbopa",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "gagool",
+   "target": "infadoos",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "gagool",
+   "target": "twala",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "imotu",
+   "target": "twala",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "ignosi",
+   "target": "twala",
+   "weight": 49,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "ignosi",
+   "target": "imotu",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "imotu",
+   "target": "infadoos",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "ignosi",
+   "target": "infadoos",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "ignosi",
+   "target": "umbopa",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "infadoos",
+   "target": "sheba-s-breasts",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "infadoos",
+   "target": "sir-henry-curtis",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "scragga",
+   "target": "umbopa",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "scragga",
+   "target": "sir-henry-curtis",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "infadoos",
+   "target": "twala",
+   "weight": 47,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "sir-henry-curtis",
+   "target": "twala",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "gagool",
+   "target": "ignosi",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "ignosi",
+   "target": "incubu",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "ignosi",
+   "target": "sir-henry-curtis",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "incubu",
+   "target": "infadoos",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "gagool",
+   "target": "scragga",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "gagool",
+   "target": "sir-henry-curtis",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "foulata",
+   "target": "gagool",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "foulata",
+   "target": "infadoos",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "foulata",
+   "target": "twala",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "foulata",
+   "target": "ignosi",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "incubu",
+   "target": "twala",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "buffaloes",
+   "target": "twala",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "buffaloes",
+   "target": "infadoos",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "buffaloes",
+   "target": "ignosi",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "buffaloes",
+   "target": "sir-henry-curtis",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "foulata",
+   "target": "sir-henry-curtis",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 15."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "ignosi",
+   "target": "zulu",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "george-curtis",
+   "target": "sir-henry-curtis",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

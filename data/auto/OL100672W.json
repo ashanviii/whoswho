@@ -1,0 +1,1208 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL100672W",
+ "title": "Candide",
+ "authors": [
+  "Voltaire"
+ ],
+ "firstPublished": 1746,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #19942.",
+  "source": "Project Gutenberg eBook #19942",
+  "url": "https://www.gutenberg.org/ebooks/19942"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "HOW CANDIDE WAS BROUGHT UP IN A MAGNIFICENT CASTLE, AND HOW HE WAS"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "HOW CANDIDE MADE HIS ESCAPE FROM THE BULGARIANS, AND WHAT AFTERWARDS"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "WHAT HAPPENED TO THEM AT SURINAM AND HOW CANDIDE GOT ACQUAINTED WITH"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 23"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 24"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 25"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 26",
+   "title": "OF A SUPPER WHICH CANDIDE AND MARTIN TOOK WITH SIX STRANGERS, AND WHO"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 27"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 28"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 29"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 30"
+  }
+ ],
+ "characters": [
+  {
+   "id": "candide",
+   "name": "Candide",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “He combined a true judgment with simplicity of spirit, which was the reason, I apprehend, of his being called Candide.”"
+  },
+  {
+   "id": "martin",
+   "name": "Martin",
+   "role": "major",
+   "firstAppearance": "s20",
+   "summary": "First mention: “The old philosopher, whose name was Martin, embarked then with Candide for Bordeaux.”"
+  },
+  {
+   "id": "cunegonde",
+   "name": "Cunegonde",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Her daughter Cunegonde was seventeen years of age, fresh-coloured, comely, plump, and desirable.”"
+  },
+  {
+   "id": "pangloss",
+   "name": "Pangloss",
+   "aliases": [
+    "Master Pangloss"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Preceptor Pangloss[1] was the oracle of the family, and little Candide heard his lessons with all the good faith of his age and character.”"
+  },
+  {
+   "id": "cacambo",
+   "name": "Cacambo",
+   "role": "major",
+   "firstAppearance": "s14",
+   "summary": "First mention: “His name was Cacambo, and he loved his master, because his master was a very good man.”"
+  },
+  {
+   "id": "miss-cunegonde",
+   "name": "Miss Cunegonde",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Candide listened attentively and believed innocently; for he thought Miss Cunegonde extremely beautiful, though he never had the courage to tell her so.”"
+  },
+  {
+   "id": "baron",
+   "name": "Baron",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “In a castle of Westphalia, belonging to the Baron of Thunder-ten-Tronckh, lived a youth, whom nature had endowed with the most gentle manners.”"
+  },
+  {
+   "id": "king",
+   "name": "King",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “\"No,\" said one of the gentlemen, \"we ask you if you do not deeply love the King of the Bulgarians?\"”"
+  },
+  {
+   "id": "paquette",
+   "name": "Paquette",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Pangloss made answer in these terms: \"Oh, my dear Candide, you remember Paquette, that pretty wench who waited on our noble Baroness; in her arms I tasted the delights of paradise, which produced in me those hell torm…”"
+  },
+  {
+   "id": "inquisitor",
+   "name": "Inquisitor",
+   "role": "minor",
+   "firstAppearance": "s8",
+   "summary": "First mention: “\"The Grand Inquisitor, seeing me one day at Mass, stared long at me, and sent to tell me that he wished to speak on private matters.”"
+  },
+  {
+   "id": "voltaire",
+   "name": "Voltaire",
+   "role": "minor",
+   "firstAppearance": "s30",
+   "summary": "First mention: “I drove three great nails through her behind; it is then she would have wept if she had been able.'\"--Voltaire, _Mélanges_.”"
+  },
+  {
+   "id": "tronckh",
+   "name": "Tronckh",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “In a castle of Westphalia, belonging to the Baron of Thunder-ten-Tronckh, lived a youth, whom nature had endowed with the most gentle manners.”"
+  },
+  {
+   "id": "commandant",
+   "name": "Commandant",
+   "role": "minor",
+   "firstAppearance": "s14",
+   "summary": "First mention: “As soon as they reached the first barrier, Cacambo told the advanced guard that a captain wanted to speak with my lord the Commandant.”"
+  },
+  {
+   "id": "pococurante",
+   "name": "Pococurante",
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: “While they were waiting for dinner Pococurante ordered a concert.”"
+  },
+  {
+   "id": "anabaptist-james",
+   "name": "Anabaptist James",
+   "aliases": [
+    "James"
+   ],
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “A man who had never been christened, a good Anabaptist, named James, beheld the cruel and ignominious treatment shown to one of his brethren, an unfeathered biped with a rational soul, he took him home, cleaned him, g…”"
+  },
+  {
+   "id": "anabaptist",
+   "name": "Anabaptist",
+   "role": "minor",
+   "firstAppearance": "s3",
+   "summary": "First mention: “A man who had never been christened, a good Anabaptist, named James, beheld the cruel and ignominious treatment shown to one of his brethren, an unfeathered biped with a rational soul, he took him home, cleaned him, g…”"
+  },
+  {
+   "id": "theatin",
+   "name": "Theatin",
+   "role": "minor",
+   "firstAppearance": "s24",
+   "summary": "First mention: “While they were disputing on this important subject and waiting for Cunegonde, Candide saw a young Theatin friar in St.”"
+  },
+  {
+   "id": "senator",
+   "name": "Senator",
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: “\"They are good enough creatures,\" said the Senator.”"
+  },
+  {
+   "id": "oreillons",
+   "name": "Oreillons",
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “On awaking they felt that they could not move; for during the night the Oreillons, who inhabited that country, and to whom the ladies had denounced them, had bound them with cords made of the bark of trees.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "baron",
+   "target": "tronckh",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "baron",
+   "target": "candide",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "candide",
+   "target": "tronckh",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "cunegonde",
+   "target": "pangloss",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "candide",
+   "target": "cunegonde",
+   "weight": 96,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "baron",
+   "target": "cunegonde",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "candide",
+   "target": "pangloss",
+   "weight": 79,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "baron",
+   "target": "pangloss",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "candide",
+   "target": "miss-cunegonde",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "baron",
+   "target": "miss-cunegonde",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "miss-cunegonde",
+   "target": "tronckh",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "miss-cunegonde",
+   "target": "pangloss",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "cunegonde",
+   "target": "miss-cunegonde",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "pangloss",
+   "target": "tronckh",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "cunegonde",
+   "target": "tronckh",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "candide",
+   "target": "king",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "anabaptist",
+   "target": "candide",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "anabaptist",
+   "target": "pangloss",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "anabaptist-james",
+   "target": "candide",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "anabaptist-james",
+   "target": "pangloss",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "candide",
+   "target": "paquette",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "pangloss",
+   "target": "paquette",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "inquisitor",
+   "target": "pangloss",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "candide",
+   "target": "inquisitor",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "cunegonde",
+   "target": "inquisitor",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "inquisitor",
+   "target": "miss-cunegonde",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "cacambo",
+   "target": "candide",
+   "weight": 75,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "cacambo",
+   "target": "cunegonde",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "cacambo",
+   "target": "commandant",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "candide",
+   "target": "commandant",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "baron",
+   "target": "cacambo",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "cacambo",
+   "target": "inquisitor",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "cacambo",
+   "target": "pangloss",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "cacambo",
+   "target": "oreillons",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "candide",
+   "target": "oreillons",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "cacambo",
+   "target": "miss-cunegonde",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "cacambo",
+   "target": "king",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "candide",
+   "target": "martin",
+   "weight": 118,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 56
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "martin",
+   "target": "miss-cunegonde",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "cunegonde",
+   "target": "martin",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 20."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "martin",
+   "target": "pangloss",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 20."
+    },
+    {
+     "at": "s30",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "cacambo",
+   "target": "martin",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 22."
+    },
+    {
+     "at": "s27",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "martin",
+   "target": "theatin",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "candide",
+   "target": "theatin",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "paquette",
+   "target": "theatin",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "cunegonde",
+   "target": "paquette",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "martin",
+   "target": "paquette",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "candide",
+   "target": "senator",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "candide",
+   "target": "pococurante",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "martin",
+   "target": "senator",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "martin",
+   "target": "pococurante",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 25."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

@@ -1,0 +1,1455 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL14942956W",
+ "title": "The Call of the Wild",
+ "authors": [
+  "Jack London"
+ ],
+ "firstPublished": 1903,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #215.",
+  "source": "Project Gutenberg eBook #215",
+  "url": "https://www.gutenberg.org/ebooks/215"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "Into the Primitive"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "The Law of Club and Fang"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "The Dominant Primordial Beast"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "Who Has Won to Mastership"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "The Toil of Trace and Trail"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "For the Love of a Man"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "The Sounding of the Call"
+  }
+ ],
+ "characters": [
+  {
+   "id": "buck",
+   "name": "Buck",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Buck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego.”"
+  },
+  {
+   "id": "john-thornton",
+   "name": "John Thornton",
+   "aliases": [
+    "Thornton"
+   ],
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “With the dogs falling, Mercedes weeping and riding, Hal swearing innocuously, and Charles’s eyes wistfully watering, they staggered into John Thornton’s camp at the mouth of White River.”"
+  },
+  {
+   "id": "spitz",
+   "name": "Spitz",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “He saw Spitz run out his scarlet tongue in a way he had of laughing; and he saw François, swinging an axe, spring into the mess of dogs.”"
+  },
+  {
+   "id": "fran",
+   "name": "Fran",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Curly and he were taken below by Perrault and turned over to a black-faced giant called François.”"
+  },
+  {
+   "id": "perrault",
+   "name": "Perrault",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““And seem’ it’s government money, you ain’t got no kick coming, eh, Perrault?””"
+  },
+  {
+   "id": "hal",
+   "name": "Hal",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The men addressed each other as “Hal” and “Charles.”"
+  },
+  {
+   "id": "dave",
+   "name": "Dave",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: ““Dave” he was called, and he ate and slept, or yawned between times, and took interest in nothing, not even when the _Narwhal_ crossed Queen Charlotte Sound and rolled and pitched and bucked like a thing possessed.”"
+  },
+  {
+   "id": "mercedes",
+   "name": "Mercedes",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: ““Mercedes” the men called her.”"
+  },
+  {
+   "id": "hans",
+   "name": "Hans",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “When Thornton’s partners, Hans and Pete, arrived on the long-expected raft, Buck refused to notice them till he learned they were close to Thornton; after that he tolerated them in a passive sort of way, accepting fav…”"
+  },
+  {
+   "id": "judge-miller",
+   "name": "Judge Miller",
+   "aliases": [
+    "Judge"
+   ],
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Judge Miller’s place, it was called.”"
+  },
+  {
+   "id": "charles",
+   "name": "Charles",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “The men addressed each other as “Hal” and “Charles.”"
+  },
+  {
+   "id": "pete",
+   "name": "Pete",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “When Thornton’s partners, Hans and Pete, arrived on the long-expected raft, Buck refused to notice them till he learned they were close to Thornton; after that he tolerated them in a passive sort of way, accepting fav…”"
+  },
+  {
+   "id": "billee",
+   "name": "Billee",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““Billee” and “Joe” he called them, two brothers, and true huskies both.”"
+  },
+  {
+   "id": "curly",
+   "name": "Curly",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Buck saw money pass between them, and was not surprised when Curly, a good-natured Newfoundland, and he were led away by the little weazened man.”"
+  },
+  {
+   "id": "joe",
+   "name": "Joe",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: ““Billee” and “Joe” he called them, two brothers, and true huskies both.”"
+  },
+  {
+   "id": "matthewson",
+   "name": "Matthewson",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “and walk off with it for a hundred yards?” demanded Matthewson, a Bonanza King, he of the seven hundred vaunt.”"
+  },
+  {
+   "id": "manuel",
+   "name": "Manuel",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “But Buck did not read the newspapers, and he did not know that Manuel, one of the gardener’s helpers, was an undesirable acquaintance.”"
+  },
+  {
+   "id": "southland",
+   "name": "Southland",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “That was the last he saw of the man in the red sweater, and as Curly and he looked at receding Seattle from the deck of the _Narwhal_, it was the last he saw of the warm Southland.”"
+  },
+  {
+   "id": "dub",
+   "name": "Dub",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “A great uproar was raised, but he was unsuspected; while Dub, an awkward blunderer who was always getting caught, was punished for Buck’s misdeed.”"
+  },
+  {
+   "id": "skeet",
+   "name": "Skeet",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “For that matter, they were all loafing,—Buck, John Thornton, and Skeet and Nig,—waiting for the raft to come that was to carry them down to Dawson.”"
+  },
+  {
+   "id": "nig",
+   "name": "Nig",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “For that matter, they were all loafing,—Buck, John Thornton, and Skeet and Nig,—waiting for the raft to come that was to carry them down to Dawson.”"
+  },
+  {
+   "id": "northland",
+   "name": "Northland",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Because men, groping in the Arctic darkness, had found a yellow metal, and because steamship and transportation companies were booming the find, thousands of men were rushing into the Northland.”"
+  },
+  {
+   "id": "teek",
+   "name": "Teek",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “At the Rink Rapids two native huskies, Teek and Koona, were added; and the celerity with which Buck broke them in took away François’s breath.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "buck",
+   "target": "northland",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "buck",
+   "target": "judge-miller",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "buck",
+   "target": "manuel",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "buck",
+   "target": "perrault",
+   "weight": 46,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "curly",
+   "target": "perrault",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "perrault",
+   "target": "southland",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "fran",
+   "target": "perrault",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "buck",
+   "target": "curly",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "buck",
+   "target": "southland",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "buck",
+   "target": "fran",
+   "weight": 60,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 56
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "curly",
+   "target": "fran",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "fran",
+   "target": "southland",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "buck",
+   "target": "dave",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "curly",
+   "target": "dave",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "dave",
+   "target": "fran",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "buck",
+   "target": "spitz",
+   "weight": 52,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "curly",
+   "target": "spitz",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "fran",
+   "target": "spitz",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 25
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "dave",
+   "target": "spitz",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "dave",
+   "target": "perrault",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "perrault",
+   "target": "spitz",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "billee",
+   "target": "fran",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "fran",
+   "target": "joe",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "billee",
+   "target": "perrault",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "joe",
+   "target": "perrault",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "billee",
+   "target": "buck",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "buck",
+   "target": "joe",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "billee",
+   "target": "joe",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "billee",
+   "target": "dave",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "billee",
+   "target": "spitz",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "joe",
+   "target": "spitz",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "buck",
+   "target": "dub",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "dub",
+   "target": "perrault",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "northland",
+   "target": "perrault",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "northland",
+   "target": "southland",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "billee",
+   "target": "dub",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "dub",
+   "target": "joe",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "dub",
+   "target": "fran",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "southland",
+   "target": "spitz",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "buck",
+   "target": "teek",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "joe",
+   "target": "teek",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "buck",
+   "target": "hal",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "buck",
+   "target": "charles",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "buck",
+   "target": "mercedes",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "charles",
+   "target": "hal",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "hal",
+   "target": "mercedes",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "charles",
+   "target": "mercedes",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "mercedes",
+   "target": "teek",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "charles",
+   "target": "teek",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "hal",
+   "target": "teek",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "john-thornton",
+   "target": "mercedes",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "hal",
+   "target": "john-thornton",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "charles",
+   "target": "john-thornton",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "buck",
+   "target": "john-thornton",
+   "weight": 74,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 58
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "john-thornton",
+   "target": "skeet",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "john-thornton",
+   "target": "nig",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "buck",
+   "target": "skeet",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "buck",
+   "target": "nig",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "nig",
+   "target": "skeet",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "john-thornton",
+   "target": "northland",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "hans",
+   "target": "john-thornton",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "john-thornton",
+   "target": "pete",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "hans",
+   "target": "pete",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "buck",
+   "target": "hans",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "hans",
+   "target": "skeet",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "hans",
+   "target": "nig",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "buck",
+   "target": "pete",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "pete",
+   "target": "skeet",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "nig",
+   "target": "pete",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "john-thornton",
+   "target": "matthewson",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "buck",
+   "target": "matthewson",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "hans",
+   "target": "matthewson",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "matthewson",
+   "target": "pete",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

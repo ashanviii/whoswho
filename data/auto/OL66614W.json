@@ -1,0 +1,1280 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL66614W",
+ "title": "Lady Susan",
+ "authors": [
+  "Jane Austen"
+ ],
+ "firstPublished": 1925,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #946.",
+  "source": "Project Gutenberg eBook #946",
+  "url": "https://www.gutenberg.org/ebooks/946"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "_Lady Susan Vernon to Mr. Vernon._"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "_Lady Susan Vernon to Mrs. Johnson._"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "_Mrs. Vernon to Lady De Courcy._"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "_Mr. De Courcy to Mrs. Vernon._"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "_Lady Susan Vernon to Mrs. Johnson._"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "_Mrs. Vernon to Mr. De Courcy._"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "_Lady Susan Vernon to Mrs. Johnson._"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "_Mrs. Vernon to Lady De Courcy._"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 10",
+   "title": "_Lady Susan Vernon to Mrs. Johnson._"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 11",
+   "title": "_Mrs. Vernon to Lady De Courcy._"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 12",
+   "title": "_Sir Reginald De Courcy to his Son._"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 13",
+   "title": "_Lady De Courcy to Mrs. Vernon._"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 14",
+   "title": "_Mr. De Courcy to Sir Reginald._"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 15",
+   "title": "_Mrs. Vernon to Lady De Courcy._"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 16",
+   "title": "_Lady Susan to Mrs. Johnson._"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 17",
+   "title": "_Mrs. Vernon to Lady De Courcy._"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 18",
+   "title": "_From the same to the same._"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 19",
+   "title": "_Lady Susan to Mrs. Johnson._"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 20",
+   "title": "_Mrs. Vernon to Lady De Courcy._"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 21",
+   "title": "_Miss Vernon to Mr. De Courcy._"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 22",
+   "title": "_Lady Susan to Mrs. Johnson._"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 23",
+   "title": "_Mrs. Vernon to Lady De Courcy._"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 24",
+   "title": "_From the same to the same._"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 25",
+   "title": "_Lady Susan to Mrs. Johnson._"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 26",
+   "title": "_Mrs. Johnson to Lady Susan._"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 27",
+   "title": "_Mrs. Vernon to Lady De Courcy._"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 28",
+   "title": "_Mrs. Johnson to Lady Susan._"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 29",
+   "title": "_Lady Susan Vernon to Mrs. Johnson._"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 30",
+   "title": "_Lady Susan Vernon to Mr. De Courcy._"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 32",
+   "title": "_Mrs. Johnson to Lady Susan._"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 35",
+   "title": "_Lady Susan to Mr. De Courcy._"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 36",
+   "title": "_Mr. De Courcy to Lady Susan._"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 38",
+   "title": "_Mrs. Johnson to Lady Susan Vernon._"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 39",
+   "title": "_Lady Susan to Mrs. Johnson._"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 40",
+   "title": "_Lady De Courcy to Mrs. Vernon._"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 41",
+   "title": "_Mrs. Vernon to Lady De Courcy._"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-johnson",
+   "label": "Johnson (shared surname)"
+  },
+  {
+   "id": "g-mainwaring",
+   "label": "Mainwaring (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "susan-vernon",
+   "name": "Susan Vernon",
+   "aliases": [
+    "Lady Susan",
+    "Susan"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “_Lady Susan Vernon to Mr.”"
+  },
+  {
+   "id": "frederica",
+   "name": "Frederica",
+   "role": "protagonist",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Sir James did make proposals to me for Frederica; but Frederica, who was born to be the torment of my life, chose to set herself so violently against the match that I thought it better to lay aside the scheme for the…”"
+  },
+  {
+   "id": "reginald",
+   "name": "Reginald",
+   "role": "protagonist",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Reginald has long wished, I know, to see the captivating Lady Susan, and we shall depend on his joining our party soon.”"
+  },
+  {
+   "id": "sir-james-martin",
+   "name": "Sir James",
+   "aliases": [
+    "Sir James Martin"
+   ],
+   "role": "major",
+   "firstAppearance": "s2",
+   "summary": "First mention: “I have avoided all general flirtation whatever; I have distinguished no creature besides, of all the numbers resorting hither, except Sir James Martin, on whom I bestowed a little notice, in order to detach him from M…”"
+  },
+  {
+   "id": "de-courcy",
+   "name": "De Courcy",
+   "aliases": [
+    "Mr. De Courcy",
+    "Lady De Courcy"
+   ],
+   "role": "major",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Vernon to Lady De Courcy._”"
+  },
+  {
+   "id": "mr-vernon",
+   "name": "Mr. Vernon",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “_Lady Susan Vernon to Mr.”"
+  },
+  {
+   "id": "mrs-vernon",
+   "name": "Mrs. Vernon",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “MY DEAR BROTHER,—I can no longer refuse myself the pleasure of profiting by your kind invitation when we last parted of spending some weeks with you at Churchhill, and, therefore, if quite convenient to you and Mrs.”"
+  },
+  {
+   "id": "mr-johnson",
+   "name": "Mr. Johnson",
+   "role": "supporting",
+   "group": "g-johnson",
+   "firstAppearance": "s2",
+   "summary": "First mention: “If I am as little in favour with Mr.”"
+  },
+  {
+   "id": "mrs-johnson",
+   "name": "Mrs. Johnson",
+   "role": "supporting",
+   "group": "g-johnson",
+   "firstAppearance": "s2",
+   "summary": "First mention: “_Lady Susan Vernon to Mrs.”"
+  },
+  {
+   "id": "mrs-mainwaring",
+   "name": "Mrs. Mainwaring",
+   "role": "supporting",
+   "group": "g-mainwaring",
+   "firstAppearance": "s2",
+   "summary": "First mention: “The event of all this is very provoking: Sir James is gone, Maria highly incensed, and Mrs.”"
+  },
+  {
+   "id": "alicia",
+   "name": "Alicia",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “You were mistaken, my dear Alicia, in supposing me fixed at this place for the rest of the winter: it grieves me to say how greatly you were mistaken, for I have seldom spent three months more agreeably than those whi…”"
+  },
+  {
+   "id": "catherine",
+   "name": "Catherine",
+   "role": "supporting",
+   "firstAppearance": "s11",
+   "summary": "First mention: “Charles Vernon, and yet, in spite of his generous endeavours to excuse her, we know that she did, from the most selfish motives, take all possible pains to prevent his marriage with Catherine.”"
+  },
+  {
+   "id": "miss-mainwaring",
+   "name": "Miss Mainwaring",
+   "role": "supporting",
+   "group": "g-mainwaring",
+   "firstAppearance": "s2",
+   "summary": "First mention: “I have avoided all general flirtation whatever; I have distinguished no creature besides, of all the numbers resorting hither, except Sir James Martin, on whom I bestowed a little notice, in order to detach him from M…”"
+  },
+  {
+   "id": "charles-vernon",
+   "name": "Charles Vernon",
+   "aliases": [
+    "Charles"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Charles Vernon is my aversion; and I am afraid of his wife.”"
+  },
+  {
+   "id": "miss-summers",
+   "name": "Miss Summers",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “My young lady accompanies me to town, where I shall deposit her under the care of Miss Summers, in Wigmore street, till she becomes a little more reasonable.”"
+  },
+  {
+   "id": "miss-vernon",
+   "name": "Miss Vernon",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “Miss Vernon is to be placed at a school in London before her mother comes to us which I am glad of, for her sake and my own.”"
+  },
+  {
+   "id": "mr-smith",
+   "name": "Mr. Smith",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “I learnt all this from Mr.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "mr-vernon",
+   "target": "susan-vernon",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "mrs-johnson",
+   "target": "susan-vernon",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "alicia",
+   "target": "sir-james-martin",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "alicia",
+   "target": "frederica",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "alicia",
+   "target": "mr-johnson",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "miss-mainwaring",
+   "target": "sir-james-martin",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "frederica",
+   "target": "sir-james-martin",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s24",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "mrs-mainwaring",
+   "target": "sir-james-martin",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "mr-johnson",
+   "target": "sir-james-martin",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "frederica",
+   "target": "miss-mainwaring",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "miss-mainwaring",
+   "target": "mrs-mainwaring",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "frederica",
+   "target": "mr-johnson",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "mr-johnson",
+   "target": "mrs-mainwaring",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "charles-vernon",
+   "target": "sir-james-martin",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "miss-summers",
+   "target": "sir-james-martin",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "charles-vernon",
+   "target": "frederica",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "frederica",
+   "target": "miss-summers",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "charles-vernon",
+   "target": "miss-summers",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "miss-vernon",
+   "target": "susan-vernon",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "reginald",
+   "target": "susan-vernon",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "miss-vernon",
+   "target": "mr-vernon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "mr-vernon",
+   "target": "reginald",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "miss-vernon",
+   "target": "reginald",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "de-courcy",
+   "target": "mrs-vernon",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "mr-smith",
+   "target": "mr-vernon",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "mr-smith",
+   "target": "susan-vernon",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "mrs-mainwaring",
+   "target": "reginald",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "mr-vernon",
+   "target": "mrs-mainwaring",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "alicia",
+   "target": "reginald",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "frederica",
+   "target": "mrs-vernon",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "frederica",
+   "target": "reginald",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "miss-summers",
+   "target": "reginald",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "mrs-vernon",
+   "target": "sir-james-martin",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "reginald",
+   "target": "sir-james-martin",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "mrs-vernon",
+   "target": "reginald",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "de-courcy",
+   "target": "susan-vernon",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "de-courcy",
+   "target": "sir-james-martin",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "de-courcy",
+   "target": "frederica",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "sir-james-martin",
+   "target": "susan-vernon",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "frederica",
+   "target": "susan-vernon",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s35",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "de-courcy",
+   "target": "reginald",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "miss-mainwaring",
+   "target": "reginald",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "miss-mainwaring",
+   "target": "susan-vernon",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "catherine",
+   "target": "reginald",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "catherine",
+   "target": "susan-vernon",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "miss-mainwaring",
+   "target": "mr-vernon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "mr-vernon",
+   "target": "sir-james-martin",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "miss-summers",
+   "target": "susan-vernon",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "frederica",
+   "target": "miss-vernon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "miss-summers",
+   "target": "miss-vernon",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "frederica",
+   "target": "mr-vernon",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "catherine",
+   "target": "frederica",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "mrs-vernon",
+   "target": "susan-vernon",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "catherine",
+   "target": "de-courcy",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "catherine",
+   "target": "mr-vernon",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "mr-vernon",
+   "target": "mrs-vernon",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 20."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "de-courcy",
+   "target": "mr-johnson",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 26."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

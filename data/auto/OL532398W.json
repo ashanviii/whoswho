@@ -1,0 +1,580 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL532398W",
+ "title": "The Affair at the Semiramis Hotel",
+ "authors": [
+  "A. E. W. Mason"
+ ],
+ "firstPublished": 1917,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #38663.",
+  "source": "Project Gutenberg eBook #38663",
+  "url": "https://www.gutenberg.org/ebooks/38663"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "Calladine lodged in a corner house and upon the first floor. His"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "Mr. Ricardo could no longer complain. It was half-past eight when"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "There was only one new fact in the couple of columns devoted to the"
+  }
+ ],
+ "characters": [
+  {
+   "id": "hanaud",
+   "name": "Hanaud",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “\"My dear Hanaud!\"”"
+  },
+  {
+   "id": "mr-ricardo",
+   "name": "Mr. Ricardo",
+   "aliases": [
+    "Ricardo"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Mr.”"
+  },
+  {
+   "id": "calladine",
+   "name": "Calladine",
+   "aliases": [
+    "Mr. Calladine"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “\"Mr.”"
+  },
+  {
+   "id": "joan-carew",
+   "name": "Joan Carew",
+   "aliases": [
+    "Miss Carew",
+    "Joan"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “It was Joan Carew.”"
+  },
+  {
+   "id": "andre-favart",
+   "name": "Andre Favart",
+   "aliases": [
+    "Favart"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Andre Favart there--yes.”"
+  },
+  {
+   "id": "carmen-valeri",
+   "name": "Carmen Valeri",
+   "role": "supporting",
+   "firstAppearance": "s4",
+   "summary": "First mention: “Carmen Valeri, honoured me with her presence.”"
+  },
+  {
+   "id": "mrs-blumenstein",
+   "name": "Mrs. Blumenstein",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “'She is a Mrs.”"
+  },
+  {
+   "id": "clements",
+   "name": "Clements",
+   "role": "minor",
+   "firstAppearance": "s4",
+   "summary": "First mention: “\"Has been,\" replied Clements dryly.”"
+  },
+  {
+   "id": "celymene",
+   "name": "Celymene",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “My name is Celymene or anything with an eighteenth century sound to it.”"
+  },
+  {
+   "id": "semiramis-hotel",
+   "name": "Semiramis Hotel",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “\"Mysterious crime at the Semiramis Hotel.\"”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "hanaud",
+   "target": "mr-ricardo",
+   "weight": 154,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 62
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "calladine",
+   "target": "mr-ricardo",
+   "weight": 65,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "calladine",
+   "target": "hanaud",
+   "weight": 66,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "joan-carew",
+   "target": "mrs-blumenstein",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "calladine",
+   "target": "joan-carew",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "joan-carew",
+   "target": "mr-ricardo",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 32
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "hanaud",
+   "target": "joan-carew",
+   "weight": 54,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 54
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "celymene",
+   "target": "hanaud",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "mr-ricardo",
+   "target": "semiramis-hotel",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "mr-ricardo",
+   "target": "mrs-blumenstein",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "hanaud",
+   "target": "mrs-blumenstein",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "hanaud",
+   "target": "semiramis-hotel",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "joan-carew",
+   "target": "semiramis-hotel",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "carmen-valeri",
+   "target": "hanaud",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "carmen-valeri",
+   "target": "joan-carew",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "carmen-valeri",
+   "target": "mr-ricardo",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "andre-favart",
+   "target": "hanaud",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "andre-favart",
+   "target": "mr-ricardo",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "clements",
+   "target": "hanaud",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "clements",
+   "target": "mr-ricardo",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "andre-favart",
+   "target": "clements",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "andre-favart",
+   "target": "joan-carew",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "andre-favart",
+   "target": "carmen-valeri",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "andre-favart",
+   "target": "semiramis-hotel",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "carmen-valeri",
+   "target": "clements",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "clements",
+   "target": "joan-carew",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "andre-favart",
+   "target": "mrs-blumenstein",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

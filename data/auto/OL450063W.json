@@ -1,0 +1,734 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL450063W",
+ "title": "Frankenstein; or, The Modern Prometheus",
+ "authors": [
+  "Mary Shelley"
+ ],
+ "firstPublished": 1818,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #84.",
+  "source": "Project Gutenberg eBook #84",
+  "url": "https://www.gutenberg.org/ebooks/84"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Letter 1",
+   "title": "_To Mrs. Saville, England._"
+  },
+  {
+   "id": "s2",
+   "label": "Letter 2",
+   "title": "_To Mrs. Saville, England._"
+  },
+  {
+   "id": "s3",
+   "label": "Letter 3",
+   "title": "_To Mrs. Saville, England._"
+  },
+  {
+   "id": "s4",
+   "label": "Letter 4",
+   "title": "_To Mrs. Saville, England._"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 1",
+   "title": "I am by birth a Genevese, and my family is one of the most"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 2",
+   "title": "We were brought up together; there was not quite a year difference in"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 3",
+   "title": "When I had attained the age of seventeen my parents resolved that I"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 4",
+   "title": "From this day natural philosophy, and particularly chemistry, in the"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 5",
+   "title": "It was on a dreary night of November that I beheld the accomplishment"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 6",
+   "title": "Clerval then put the following letter into my hands. It was from my"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 7",
+   "title": "On my return, I found the following letter from my father:—"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 8",
+   "title": "We passed a few sad hours until eleven o’clock, when the trial was to"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 9"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 10",
+   "title": "I spent the following day roaming through the valley. I stood beside"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 11"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 12",
+   "title": "“I lay on my straw, but I could not sleep. I thought of the"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 13",
+   "title": "“I now hasten to the more moving part of my story. I shall relate"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 14",
+   "title": "“Some time elapsed before I learned the history of my friends. It was"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 15"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 16",
+   "title": "“Cursed, cursed creator! Why did I live? Why, in that instant, did I"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 17",
+   "title": "The being finished speaking and fixed his looks upon me in the"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 18"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 19",
+   "title": "London was our present point of rest; we determined to remain several"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 20"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 21",
+   "title": "I was soon introduced into the presence of the magistrate, an old"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 22",
+   "title": "The voyage came to an end. We landed, and proceeded to Paris. I soon"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 23"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 24",
+   "title": "My present situation was one in which all voluntary thought was"
+  }
+ ],
+ "characters": [
+  {
+   "id": "elizabeth",
+   "name": "Elizabeth",
+   "role": "protagonist",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Everyone loved Elizabeth.”"
+  },
+  {
+   "id": "henry-clerval",
+   "name": "Henry Clerval",
+   "aliases": [
+    "Clerval",
+    "Henry"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s6",
+   "summary": "First mention: “Henry Clerval was the son of a merchant of Geneva.”"
+  },
+  {
+   "id": "justine",
+   "name": "Justine",
+   "role": "major",
+   "firstAppearance": "s10",
+   "summary": "First mention: “Madame Moritz, her mother, was a widow with four children, of whom Justine was the third.”"
+  },
+  {
+   "id": "felix",
+   "name": "Felix",
+   "role": "major",
+   "firstAppearance": "s16",
+   "summary": "First mention: “It was not thus with Felix.”"
+  },
+  {
+   "id": "victor",
+   "name": "Victor",
+   "role": "major",
+   "firstAppearance": "s5",
+   "summary": "First mention: “On the evening previous to her being brought to my home, my mother had said playfully, “I have a pretty present for my Victor—tomorrow he shall have it.”"
+  },
+  {
+   "id": "safie",
+   "name": "Safie",
+   "role": "major",
+   "firstAppearance": "s17",
+   "summary": "First mention: “When they separated Felix kissed the hand of the stranger and said, ‘Good night sweet Safie.”"
+  },
+  {
+   "id": "frankenstein",
+   "name": "Frankenstein",
+   "role": "major",
+   "firstAppearance": "s7",
+   "summary": "First mention: “So much has been done, exclaimed the soul of Frankenstein—more, far more, will I achieve; treading in the steps already marked, I will pioneer a new way, explore unknown powers, and unfold to the world the deepest mys…”"
+  },
+  {
+   "id": "william",
+   "name": "William",
+   "role": "major",
+   "firstAppearance": "s10",
+   "summary": "First mention: ““I must say also a few words to you, my dear cousin, of little darling William.”"
+  },
+  {
+   "id": "agatha",
+   "name": "Agatha",
+   "role": "major",
+   "firstAppearance": "s16",
+   "summary": "First mention: “Agatha listened with respect, her eyes sometimes filled with tears, which she endeavoured to wipe away unperceived; but I generally found that her countenance and tone were more cheerful after having listened to the e…”"
+  },
+  {
+   "id": "ernest",
+   "name": "Ernest",
+   "role": "supporting",
+   "firstAppearance": "s10",
+   "summary": "First mention: “How pleased you would be to remark the improvement of our Ernest!”"
+  },
+  {
+   "id": "mr-kirwin",
+   "name": "Mr. Kirwin",
+   "role": "supporting",
+   "firstAppearance": "s24",
+   "summary": "First mention: “I then moved forward, and a murmuring sound arose from the crowd as they followed and surrounded me, when an ill-looking man approaching tapped me on the shoulder and said, “Come, sir, you must follow me to Mr.”"
+  },
+  {
+   "id": "margaret",
+   "name": "Margaret",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “There, Margaret, the sun is for ever visible, its broad disk just skirting the horizon and diffusing a perpetual splendour.”"
+  },
+  {
+   "id": "de-lacey",
+   "name": "De Lacey",
+   "role": "supporting",
+   "firstAppearance": "s18",
+   "summary": "First mention: ““The name of the old man was De Lacey.”"
+  },
+  {
+   "id": "beaufort",
+   "name": "Beaufort",
+   "role": "minor",
+   "firstAppearance": "s5",
+   "summary": "First mention: “This man, whose name was Beaufort, was of a proud and unbending disposition and could not bear to live in poverty and oblivion in the same country where he had formerly been distinguished for his rank and magnificence.”"
+  },
+  {
+   "id": "cornelius-agrippa",
+   "name": "Cornelius Agrippa",
+   "role": "minor",
+   "firstAppearance": "s6",
+   "summary": "First mention: “In this house I chanced to find a volume of the works of Cornelius Agrippa.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "elizabeth",
+   "target": "victor",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s26",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "elizabeth",
+   "target": "henry-clerval",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "cornelius-agrippa",
+   "target": "frankenstein",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "frankenstein",
+   "target": "henry-clerval",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "elizabeth",
+   "target": "frankenstein",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "henry-clerval",
+   "target": "victor",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "ernest",
+   "target": "henry-clerval",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "ernest",
+   "target": "victor",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "ernest",
+   "target": "justine",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "justine",
+   "target": "william",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    },
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "victor",
+   "target": "william",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "henry-clerval",
+   "target": "william",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 6."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "ernest",
+   "target": "william",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "elizabeth",
+   "target": "william",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "elizabeth",
+   "target": "ernest",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "justine",
+   "target": "victor",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "elizabeth",
+   "target": "justine",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 7."
+    },
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "agatha",
+   "target": "felix",
+   "weight": 20,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "felix",
+   "target": "safie",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "agatha",
+   "target": "safie",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 13."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "agatha",
+   "target": "de-lacey",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "de-lacey",
+   "target": "safie",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "de-lacey",
+   "target": "felix",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "henry-clerval",
+   "target": "justine",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s23",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 19."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "henry-clerval",
+   "target": "mr-kirwin",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "justine",
+   "target": "mr-kirwin",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "felix",
+   "target": "frankenstein",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s28",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

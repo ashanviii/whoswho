@@ -1,0 +1,943 @@
+{
+  "schemaVersion": 1,
+  "workId": "OL362427W",
+  "title": "Romeo and Juliet",
+  "authors": [
+    "William Shakespeare"
+  ],
+  "firstPublished": 1597,
+  "edition": {
+    "description": "Act and scene numbering of the Folger Shakespeare Library edition (Act 2 has six scenes).",
+    "source": "Folger Shakespeare",
+    "url": "https://www.folger.edu/explore/shakespeares-works/romeo-and-juliet/"
+  },
+  "sectionLabel": {
+    "singular": "Scene",
+    "plural": "Scenes"
+  },
+  "sections": [
+    {
+      "id": "1.0",
+      "label": "Prologue",
+      "title": "Chorus",
+      "part": "Act 1"
+    },
+    {
+      "id": "1.1",
+      "label": "1.1",
+      "part": "Act 1"
+    },
+    {
+      "id": "1.2",
+      "label": "1.2",
+      "part": "Act 1"
+    },
+    {
+      "id": "1.3",
+      "label": "1.3",
+      "part": "Act 1"
+    },
+    {
+      "id": "1.4",
+      "label": "1.4",
+      "part": "Act 1"
+    },
+    {
+      "id": "1.5",
+      "label": "1.5",
+      "part": "Act 1"
+    },
+    {
+      "id": "2.0",
+      "label": "Act 2 Prologue",
+      "title": "Chorus",
+      "part": "Act 2"
+    },
+    {
+      "id": "2.1",
+      "label": "2.1",
+      "part": "Act 2"
+    },
+    {
+      "id": "2.2",
+      "label": "2.2",
+      "part": "Act 2"
+    },
+    {
+      "id": "2.3",
+      "label": "2.3",
+      "part": "Act 2"
+    },
+    {
+      "id": "2.4",
+      "label": "2.4",
+      "part": "Act 2"
+    },
+    {
+      "id": "2.5",
+      "label": "2.5",
+      "part": "Act 2"
+    },
+    {
+      "id": "2.6",
+      "label": "2.6",
+      "part": "Act 2"
+    },
+    {
+      "id": "3.1",
+      "label": "3.1",
+      "part": "Act 3"
+    },
+    {
+      "id": "3.2",
+      "label": "3.2",
+      "part": "Act 3"
+    },
+    {
+      "id": "3.3",
+      "label": "3.3",
+      "part": "Act 3"
+    },
+    {
+      "id": "3.4",
+      "label": "3.4",
+      "part": "Act 3"
+    },
+    {
+      "id": "3.5",
+      "label": "3.5",
+      "part": "Act 3"
+    },
+    {
+      "id": "4.1",
+      "label": "4.1",
+      "part": "Act 4"
+    },
+    {
+      "id": "4.2",
+      "label": "4.2",
+      "part": "Act 4"
+    },
+    {
+      "id": "4.3",
+      "label": "4.3",
+      "part": "Act 4"
+    },
+    {
+      "id": "4.4",
+      "label": "4.4",
+      "part": "Act 4"
+    },
+    {
+      "id": "4.5",
+      "label": "4.5",
+      "part": "Act 4"
+    },
+    {
+      "id": "5.1",
+      "label": "5.1",
+      "part": "Act 5"
+    },
+    {
+      "id": "5.2",
+      "label": "5.2",
+      "part": "Act 5"
+    },
+    {
+      "id": "5.3",
+      "label": "5.3",
+      "part": "Act 5"
+    }
+  ],
+  "groups": [
+    {
+      "id": "montague",
+      "label": "House of Montague"
+    },
+    {
+      "id": "capulet",
+      "label": "House of Capulet"
+    },
+    {
+      "id": "escalus",
+      "label": "The Prince’s kin"
+    },
+    {
+      "id": "church",
+      "label": "The Church"
+    }
+  ],
+  "characters": [
+    {
+      "id": "romeo",
+      "name": "Romeo",
+      "role": "protagonist",
+      "group": "montague",
+      "firstAppearance": "1.1",
+      "summary": "Only son of Montague, moping over an unrequited love.",
+      "notes": [
+        {
+          "at": "1.5",
+          "text": "Falls in love with Juliet at the Capulet feast."
+        },
+        {
+          "at": "2.6",
+          "text": "Secretly marries Juliet."
+        },
+        {
+          "at": "3.1",
+          "text": "Kills Tybalt and is banished from Verona."
+        },
+        {
+          "at": "5.3",
+          "text": "Believing Juliet dead, poisons himself in the Capulet tomb."
+        }
+      ]
+    },
+    {
+      "id": "juliet",
+      "name": "Juliet",
+      "role": "protagonist",
+      "group": "capulet",
+      "firstAppearance": "1.3",
+      "summary": "Capulet’s only daughter, not yet fourteen.",
+      "notes": [
+        {
+          "at": "2.6",
+          "text": "Secretly marries Romeo."
+        },
+        {
+          "at": "4.3",
+          "text": "Drinks Friar Laurence’s sleeping potion."
+        },
+        {
+          "at": "5.3",
+          "text": "Wakes to find Romeo dead and stabs herself with his dagger."
+        }
+      ]
+    },
+    {
+      "id": "montague",
+      "name": "Lord Montague",
+      "role": "supporting",
+      "group": "montague",
+      "firstAppearance": "1.1",
+      "summary": "Head of the house of Montague."
+    },
+    {
+      "id": "ladyMontague",
+      "name": "Lady Montague",
+      "role": "minor",
+      "group": "montague",
+      "firstAppearance": "1.1",
+      "summary": "Romeo’s mother.",
+      "notes": [
+        {
+          "at": "5.3",
+          "text": "Has died of grief at Romeo’s exile."
+        }
+      ]
+    },
+    {
+      "id": "benvolio",
+      "name": "Benvolio",
+      "role": "major",
+      "group": "montague",
+      "firstAppearance": "1.1",
+      "summary": "Montague’s nephew and Romeo’s cousin, a would-be peacemaker."
+    },
+    {
+      "id": "balthasar",
+      "name": "Balthasar",
+      "role": "minor",
+      "group": "montague",
+      "firstAppearance": "5.1",
+      "summary": "Romeo’s servant in exile."
+    },
+    {
+      "id": "capulet",
+      "name": "Lord Capulet",
+      "role": "major",
+      "group": "capulet",
+      "firstAppearance": "1.1",
+      "summary": "Head of the house of Capulet.",
+      "notes": [
+        {
+          "at": "3.4",
+          "text": "Promises Juliet to Paris, the wedding set for Thursday."
+        },
+        {
+          "at": "3.5",
+          "text": "Threatens to throw Juliet out if she will not marry Paris."
+        }
+      ]
+    },
+    {
+      "id": "ladyCapulet",
+      "name": "Lady Capulet",
+      "role": "supporting",
+      "group": "capulet",
+      "firstAppearance": "1.1",
+      "summary": "Juliet’s mother."
+    },
+    {
+      "id": "tybalt",
+      "name": "Tybalt",
+      "role": "major",
+      "group": "capulet",
+      "firstAppearance": "1.1",
+      "summary": "Hot-tempered Capulet kinsman, quick to draw his sword.",
+      "notes": [
+        {
+          "at": "1.5",
+          "text": "Recognises Romeo at the feast and vows revenge."
+        },
+        {
+          "at": "3.1",
+          "text": "Kills Mercutio and is killed by Romeo."
+        }
+      ]
+    },
+    {
+      "id": "nurse",
+      "name": "The Nurse",
+      "role": "major",
+      "group": "capulet",
+      "firstAppearance": "1.3",
+      "summary": "Juliet’s talkative, bawdy nurse, who has cared for her since infancy.",
+      "notes": [
+        {
+          "at": "3.5",
+          "text": "Advises Juliet to forget Romeo and marry Paris."
+        }
+      ]
+    },
+    {
+      "id": "rosaline",
+      "name": "Rosaline",
+      "role": "minor",
+      "group": "capulet",
+      "firstAppearance": "1.2",
+      "summary": "Capulet’s niece, the never-seen object of Romeo’s infatuation."
+    },
+    {
+      "id": "mercutio",
+      "name": "Mercutio",
+      "role": "major",
+      "group": "escalus",
+      "firstAppearance": "1.4",
+      "summary": "Romeo’s quick-witted, mercurial friend, kinsman to the Prince.",
+      "notes": [
+        {
+          "at": "3.1",
+          "text": "Is killed by Tybalt under Romeo’s arm, cursing both houses."
+        }
+      ]
+    },
+    {
+      "id": "paris",
+      "name": "Count Paris",
+      "role": "supporting",
+      "group": "escalus",
+      "firstAppearance": "1.2",
+      "summary": "Young nobleman who seeks Juliet’s hand.",
+      "notes": [
+        {
+          "at": "5.3",
+          "text": "Is killed by Romeo outside the Capulet tomb."
+        }
+      ]
+    },
+    {
+      "id": "prince",
+      "name": "Prince Escalus",
+      "role": "supporting",
+      "group": "escalus",
+      "firstAppearance": "1.1",
+      "summary": "Prince of Verona, exasperated by the feud."
+    },
+    {
+      "id": "friar",
+      "name": "Friar Laurence",
+      "role": "major",
+      "group": "church",
+      "firstAppearance": "2.3",
+      "summary": "Franciscan friar, herbalist and Romeo’s confessor.",
+      "notes": [
+        {
+          "at": "2.6",
+          "text": "Marries Romeo and Juliet in secret, hoping to end the feud."
+        },
+        {
+          "at": "4.1",
+          "text": "Gives Juliet a potion to feign death."
+        },
+        {
+          "at": "5.3",
+          "text": "Confesses the whole story to the Prince."
+        }
+      ]
+    },
+    {
+      "id": "friarJohn",
+      "name": "Friar John",
+      "role": "minor",
+      "group": "church",
+      "firstAppearance": "5.2",
+      "summary": "Franciscan sent with Friar Laurence’s letter to Romeo, but quarantined."
+    },
+    {
+      "id": "apothecary",
+      "name": "The Apothecary",
+      "role": "minor",
+      "firstAppearance": "5.1",
+      "summary": "Poor apothecary of Mantua."
+    }
+  ],
+  "relationships": [
+    {
+      "id": "r1",
+      "source": "montague",
+      "target": "capulet",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "rivalry",
+          "label": "Ancient feud",
+          "note": "Their servants brawl in the street; the Prince threatens death."
+        },
+        {
+          "at": "5.3",
+          "type": "alliance",
+          "label": "Reconciled",
+          "note": "They clasp hands over their children’s bodies."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "source": "montague",
+      "target": "ladyMontague",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "source": "capulet",
+      "target": "ladyCapulet",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "romance",
+          "label": "Married",
+          "sourceRole": "Husband",
+          "targetRole": "Wife"
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "source": "montague",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "family",
+          "label": "Father & son",
+          "sourceRole": "Father",
+          "targetRole": "Son"
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "source": "ladyMontague",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "family",
+          "label": "Mother & son",
+          "sourceRole": "Mother",
+          "targetRole": "Son"
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "source": "montague",
+      "target": "benvolio",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "family",
+          "label": "Uncle & nephew",
+          "sourceRole": "Uncle",
+          "targetRole": "Nephew"
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "source": "benvolio",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "family",
+          "label": "Cousins & friends",
+          "sourceRole": "Cousin",
+          "targetRole": "Cousin"
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "source": "capulet",
+      "target": "juliet",
+      "phases": [
+        {
+          "at": "1.3",
+          "type": "family",
+          "label": "Father & daughter",
+          "sourceRole": "Father",
+          "targetRole": "Daughter"
+        },
+        {
+          "at": "3.5",
+          "type": "family",
+          "label": "Estranged",
+          "sourceRole": "Father",
+          "targetRole": "Daughter",
+          "note": "He rages at her refusal to marry Paris."
+        }
+      ]
+    },
+    {
+      "id": "r9",
+      "source": "ladyCapulet",
+      "target": "juliet",
+      "phases": [
+        {
+          "at": "1.3",
+          "type": "family",
+          "label": "Mother & daughter",
+          "sourceRole": "Mother",
+          "targetRole": "Daughter"
+        },
+        {
+          "at": "3.5",
+          "type": "family",
+          "label": "Cold",
+          "sourceRole": "Mother",
+          "targetRole": "Daughter",
+          "note": "She refuses to help Juliet against the match."
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "source": "capulet",
+      "target": "tybalt",
+      "phases": [
+        {
+          "at": "1.5",
+          "type": "family",
+          "label": "Kinsmen",
+          "note": "Capulet forbids him to fight Romeo at the feast."
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "source": "ladyCapulet",
+      "target": "tybalt",
+      "phases": [
+        {
+          "at": "3.1",
+          "type": "family",
+          "label": "Aunt & nephew",
+          "sourceRole": "Aunt",
+          "targetRole": "Nephew",
+          "note": "She demands Romeo’s death for his."
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "source": "tybalt",
+      "target": "juliet",
+      "phases": [
+        {
+          "at": "3.2",
+          "type": "family",
+          "label": "Cousins",
+          "note": "Juliet is torn between grief for him and loyalty to Romeo."
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "source": "capulet",
+      "target": "rosaline",
+      "phases": [
+        {
+          "at": "1.2",
+          "type": "family",
+          "label": "Uncle & niece",
+          "sourceRole": "Uncle",
+          "targetRole": "Niece"
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "source": "tybalt",
+      "target": "benvolio",
+      "phases": [
+        {
+          "at": "1.1",
+          "type": "rivalry",
+          "label": "Street enemies",
+          "note": "Tybalt attacks him when he tries to part the brawlers."
+        }
+      ]
+    },
+    {
+      "id": "r15",
+      "source": "tybalt",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "1.5",
+          "type": "rivalry",
+          "label": "Sworn enemy",
+          "note": "He swears to avenge Romeo’s intrusion at the feast."
+        },
+        {
+          "at": "3.1",
+          "type": "rivalry",
+          "label": "Slain by Romeo",
+          "note": "Romeo, now secretly his kinsman by marriage, kills him to avenge Mercutio."
+        }
+      ]
+    },
+    {
+      "id": "r16",
+      "source": "tybalt",
+      "target": "mercutio",
+      "phases": [
+        {
+          "at": "2.4",
+          "type": "rivalry",
+          "label": "Mutual contempt",
+          "note": "Mercutio mocks him as the “Prince of Cats”."
+        },
+        {
+          "at": "3.1",
+          "type": "rivalry",
+          "label": "Kills him"
+        }
+      ]
+    },
+    {
+      "id": "r17",
+      "source": "mercutio",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "1.4",
+          "type": "friendship",
+          "label": "Best friends"
+        },
+        {
+          "at": "3.1",
+          "type": "friendship",
+          "label": "Fatal loyalty",
+          "note": "Mercutio fights Tybalt in Romeo’s place and dies cursing both houses."
+        }
+      ]
+    },
+    {
+      "id": "r18",
+      "source": "mercutio",
+      "target": "benvolio",
+      "phases": [
+        {
+          "at": "1.4",
+          "type": "friendship",
+          "label": "Friends"
+        }
+      ]
+    },
+    {
+      "id": "r19",
+      "source": "prince",
+      "target": "mercutio",
+      "phases": [
+        {
+          "at": "3.1",
+          "type": "family",
+          "label": "Kinsmen",
+          "note": "The Prince’s own blood is spilled in the feud."
+        }
+      ]
+    },
+    {
+      "id": "r20",
+      "source": "prince",
+      "target": "paris",
+      "phases": [
+        {
+          "at": "5.3",
+          "type": "family",
+          "label": "Kinsmen"
+        }
+      ]
+    },
+    {
+      "id": "r21",
+      "source": "romeo",
+      "target": "rosaline",
+      "phases": [
+        {
+          "at": "1.2",
+          "type": "romance",
+          "label": "Unrequited love",
+          "note": "She has sworn to stay chaste."
+        },
+        {
+          "at": "2.3",
+          "type": "romance",
+          "label": "Forgotten",
+          "note": "Romeo tells the Friar he has forgotten her name."
+        }
+      ]
+    },
+    {
+      "id": "r22",
+      "source": "romeo",
+      "target": "juliet",
+      "phases": [
+        {
+          "at": "1.5",
+          "type": "romance",
+          "label": "Love at first sight",
+          "note": "They kiss before learning each other’s names."
+        },
+        {
+          "at": "2.2",
+          "type": "romance",
+          "label": "Vows exchanged",
+          "note": "In the orchard they agree to marry."
+        },
+        {
+          "at": "2.6",
+          "type": "romance",
+          "label": "Married in secret",
+          "sourceRole": "Husband",
+          "targetRole": "Wife"
+        },
+        {
+          "at": "3.5",
+          "type": "romance",
+          "label": "Parted",
+          "note": "After their wedding night he leaves for Mantua at dawn."
+        },
+        {
+          "at": "5.3",
+          "type": "romance",
+          "label": "Die together"
+        }
+      ]
+    },
+    {
+      "id": "r23",
+      "source": "paris",
+      "target": "capulet",
+      "phases": [
+        {
+          "at": "1.2",
+          "type": "alliance",
+          "label": "Suitor",
+          "sourceRole": "Suitor",
+          "targetRole": "Prospective father-in-law",
+          "note": "Capulet asks him to wait two years and woo her."
+        }
+      ]
+    },
+    {
+      "id": "r24",
+      "source": "paris",
+      "target": "juliet",
+      "phases": [
+        {
+          "at": "1.3",
+          "type": "romance",
+          "label": "Proposed match",
+          "note": "Lady Capulet urges Juliet to consider him."
+        },
+        {
+          "at": "3.4",
+          "type": "romance",
+          "label": "Betrothed",
+          "note": "Capulet promises her to Paris without asking her."
+        }
+      ]
+    },
+    {
+      "id": "r25",
+      "source": "paris",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "5.3",
+          "type": "rivalry",
+          "label": "Slain by Romeo",
+          "note": "They fight at the tomb."
+        }
+      ]
+    },
+    {
+      "id": "r26",
+      "source": "nurse",
+      "target": "juliet",
+      "phases": [
+        {
+          "at": "1.3",
+          "type": "service",
+          "label": "Nurse & confidante",
+          "sourceRole": "Nurse",
+          "targetRole": "Charge"
+        },
+        {
+          "at": "3.5",
+          "type": "service",
+          "label": "Trust broken",
+          "sourceRole": "Nurse",
+          "targetRole": "Charge",
+          "note": "Juliet resolves never to confide in her again."
+        }
+      ]
+    },
+    {
+      "id": "r27",
+      "source": "nurse",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "2.4",
+          "type": "alliance",
+          "label": "Go-between",
+          "note": "She carries messages arranging the wedding."
+        }
+      ]
+    },
+    {
+      "id": "r28",
+      "source": "friar",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "2.3",
+          "type": "mentorship",
+          "label": "Confessor & counsellor",
+          "sourceRole": "Confessor",
+          "targetRole": "Penitent"
+        }
+      ]
+    },
+    {
+      "id": "r29",
+      "source": "friar",
+      "target": "juliet",
+      "phases": [
+        {
+          "at": "2.6",
+          "type": "mentorship",
+          "label": "Confessor",
+          "sourceRole": "Confessor",
+          "targetRole": "Penitent"
+        },
+        {
+          "at": "4.1",
+          "type": "alliance",
+          "label": "Co-conspirators",
+          "note": "He gives her the potion that will make her seem dead."
+        }
+      ]
+    },
+    {
+      "id": "r30",
+      "source": "friar",
+      "target": "friarJohn",
+      "phases": [
+        {
+          "at": "5.2",
+          "type": "alliance",
+          "label": "Fellow friars",
+          "note": "John’s failure to deliver the letter dooms the plan."
+        }
+      ]
+    },
+    {
+      "id": "r31",
+      "source": "balthasar",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "5.1",
+          "type": "service",
+          "label": "Servant",
+          "sourceRole": "Servant",
+          "targetRole": "Master",
+          "note": "Brings Romeo news of Juliet’s “death”."
+        }
+      ]
+    },
+    {
+      "id": "r32",
+      "source": "apothecary",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "5.1",
+          "type": "acquaintance",
+          "label": "Sells him poison"
+        }
+      ]
+    },
+    {
+      "id": "r33",
+      "source": "prince",
+      "target": "romeo",
+      "phases": [
+        {
+          "at": "3.1",
+          "type": "acquaintance",
+          "label": "Banishes him"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "method": "Hand-curated from the public-domain text, with section numbers following the edition named in `edition`. Drafted with AI assistance; awaiting a line-by-line human review.",
+    "contributors": [
+      "Character Chart editors"
+    ],
+    "createdAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "review": {
+      "status": "unreviewed",
+      "notes": "Spot-check chapter/scene numbers against the stated edition before marking as reviewed."
+    }
+  },
+  "license": "CC BY 4.0"
+}

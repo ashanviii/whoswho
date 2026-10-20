@@ -1,0 +1,2791 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL26668762W",
+ "title": "Jo's Boys",
+ "authors": [
+  "Louisa May Alcott"
+ ],
+ "firstPublished": 1886,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #3499.",
+  "source": "Project Gutenberg eBook #3499",
+  "url": "https://www.gutenberg.org/ebooks/3499"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 1",
+   "title": "TEN YEARS LATER"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 2",
+   "title": "PARNASSUS"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 3",
+   "title": "JO'S LAST SCRAPE"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 4",
+   "title": "DAN"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 5",
+   "title": "VACATION"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 6",
+   "title": "LAST WORDS"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 7",
+   "title": "THE LION AND THE LAMB"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 8",
+   "title": "JOSIE PLAYS MERMAID"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 9",
+   "title": "THE WORM TURNS"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 10",
+   "title": "DEMI SETTLES"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 11",
+   "title": "EMIL'S THANKSGIVING"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 12",
+   "title": "DAN'S CHRISTMAS"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 13",
+   "title": "NAT'S NEW YEAR"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 14",
+   "title": "PLAYS AT PLUMFIELD"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 15",
+   "title": "WAITING"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 16",
+   "title": "IN THE TENNIS-COURT"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 17",
+   "title": "AMONG THE MAIDS"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 18",
+   "title": "CLASS DAY"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 19",
+   "title": "WHITE ROSES"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 20",
+   "title": "LIFE FOR LIFE"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 21",
+   "title": "ASLAUGA'S KNIGHT"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 22",
+   "title": "POSITIVELY LAST APPEARANCE"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g-bhaer",
+   "label": "Bhaer (shared surname)"
+  }
+ ],
+ "characters": [
+  {
+   "id": "mrs-jo",
+   "name": "Mrs. Jo",
+   "aliases": [
+    "Jo"
+   ],
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “'If anyone had told me what wonderful changes were to take place here in ten years, I wouldn't have believed it,' said Mrs Jo to Mrs Meg, as they sat on the piazza at Plumfield one summer day, looking about them with…”"
+  },
+  {
+   "id": "dan",
+   "name": "Dan",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Dan was a wanderer still; for after the geological researches in South America he tried sheep-farming in Australia, and was now in California looking up mines.”"
+  },
+  {
+   "id": "josie",
+   "name": "Josie",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Josie at fourteen was a most original young person, full of pranks and peculiarities, the latest of which was a passion for the stage, which caused her quiet mother and sister much anxiety as well as amusement.”"
+  },
+  {
+   "id": "ted",
+   "name": "Ted",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “But in Ted she seemed to see all the faults, whims, aspirations, and fun of her own youth in a new shape.”"
+  },
+  {
+   "id": "nan",
+   "name": "Nan",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “But the pride of the community was naughty Nan; for, like so many restless, wilful children, she was growing into a woman full of the energy and promise that suddenly blossoms when the ambitious seeker finds the work…”"
+  },
+  {
+   "id": "nat",
+   "name": "Nat",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Nat was busy with music at the Conservatory, preparing for a year or two in Germany to finish him off.”"
+  },
+  {
+   "id": "tom",
+   "name": "Tom",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Tom was studying medicine and trying to like it.”"
+  },
+  {
+   "id": "demi",
+   "name": "Demi",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Demi had gone through College with honour, and Mrs Meg had set her heart on his being a minister--picturing in her fond fancy the first sermon her dignified young parson would preach, as well as the long, useful, and…”"
+  },
+  {
+   "id": "bess",
+   "name": "Bess",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Bess had grown into a tall, beautiful girl looking several years older than she was, with the same graceful ways and dainty tastes which the little Princess had, and a rich inheritance of both the father's and mother'…”"
+  },
+  {
+   "id": "emil",
+   "name": "Emil",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Emil was the jolliest tar that ever 'sailed the ocean blue'.”"
+  },
+  {
+   "id": "daisy",
+   "name": "Daisy",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Daisy, as sweet and domestic as ever, was her mother's comfort and companion.”"
+  },
+  {
+   "id": "rob",
+   "name": "Rob",
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Rob and Teddy were called the 'Lion and the Lamb'; for the latter was as rampant as the king of beasts, and the former as gentle as any sheep that ever baaed.”"
+  },
+  {
+   "id": "mrs-meg",
+   "name": "Mrs. Meg",
+   "aliases": [
+    "Meg"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “'If anyone had told me what wonderful changes were to take place here in ten years, I wouldn't have believed it,' said Mrs Jo to Mrs Meg, as they sat on the piazza at Plumfield one summer day, looking about them with…”"
+  },
+  {
+   "id": "dolly",
+   "name": "Dolly",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Dolly was in college with Stuffy and Ned reading law.”"
+  },
+  {
+   "id": "mr-laurie",
+   "name": "Mr. Laurie",
+   "role": "supporting",
+   "firstAppearance": "s2",
+   "summary": "First mention: “This hope did more for him than the Professor's counsels, Mrs Jo's care, or Mr Laurie's generous help.”"
+  },
+  {
+   "id": "mary",
+   "name": "Mary",
+   "role": "supporting",
+   "firstAppearance": "s3",
+   "summary": "First mention: “I'm all behind-hand, and serials can't wait; so deny me to everybody, Mary.”"
+  },
+  {
+   "id": "miss-cameron",
+   "name": "Miss Cameron",
+   "role": "supporting",
+   "firstAppearance": "s8",
+   "summary": "First mention: “Miss Cameron, the great actress, had hired one of the villas and retired thither to rest and 'create' a new part for next season.”"
+  },
+  {
+   "id": "teddy",
+   "name": "Teddy",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Rob and Teddy were called the 'Lion and the Lamb'; for the latter was as rampant as the king of beasts, and the former as gentle as any sheep that ever baaed.”"
+  },
+  {
+   "id": "dora",
+   "name": "Dora",
+   "role": "supporting",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Found some pleasant people and went out rowing; I had Dora, and came to grief on a confounded rock.”"
+  },
+  {
+   "id": "stuffy",
+   "name": "Stuffy",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Dolly was in college with Stuffy and Ned reading law.”"
+  },
+  {
+   "id": "alice",
+   "name": "Alice",
+   "role": "supporting",
+   "firstAppearance": "s5",
+   "summary": "First mention: “Nan and Alice are on the rampage, and we are at the bar to be tried for our lives.”"
+  },
+  {
+   "id": "john",
+   "name": "John",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “If dear Marmee, John, and Beth were here, it would be quite perfect,' added Meg, with a tender quiver in her voice; for Marmee's place was empty now.”"
+  },
+  {
+   "id": "mr-bhaer",
+   "name": "Mr. Bhaer",
+   "role": "minor",
+   "group": "g-bhaer",
+   "firstAppearance": "s1",
+   "summary": "First mention: “These were the pleasant ones; and the loss of the dear old people was sweetened by the blessings they left behind; so all prospered now in the little community, and Mr Bhaer as president, and Mr March as chaplain of t…”"
+  },
+  {
+   "id": "franz",
+   "name": "Franz",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Franz was with a merchant kinsman in Hamburg, a man of twenty-six now, and doing well.”"
+  },
+  {
+   "id": "mrs-bhaer",
+   "name": "Mrs. Bhaer",
+   "role": "minor",
+   "group": "g-bhaer",
+   "firstAppearance": "s3",
+   "summary": "First mention: “While the boys shouted over this effusion--which is a true one--their mother read several liberal offers from budding magazines for her to edit them gratis; one long letter from a young girl inconsolable because her f…”"
+  },
+  {
+   "id": "aunt-jo",
+   "name": "Aunt Jo",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Aunt Jo raged when she found that there was to be a reporter in the family, and called him 'Jenkins' on the spot.”"
+  },
+  {
+   "id": "mother-bhaer",
+   "name": "Mother Bhaer",
+   "role": "minor",
+   "group": "g-bhaer",
+   "firstAppearance": "s1",
+   "summary": "First mention: “'I saw Demi this morning, and he said she was keeping house for Mother Bhaer.'”"
+  },
+  {
+   "id": "george",
+   "name": "George",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “I don't worry about him as much as I do about George and Dolly at college, no more fit than two babies to take care of themselves.'”"
+  },
+  {
+   "id": "mary-mason",
+   "name": "Mary Mason",
+   "aliases": [
+    "Mason"
+   ],
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “There was one poor fellow in Dan's shop whose fate was harder than his, for his sentence expired in the spring, but there was little hope of his living till that time; and the coldest-hearted man pitied poor Mason as…”"
+  },
+  {
+   "id": "marmee",
+   "name": "Marmee",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “If dear Marmee, John, and Beth were here, it would be quite perfect,' added Meg, with a tender quiver in her voice; for Marmee's place was empty now.”"
+  },
+  {
+   "id": "aunty",
+   "name": "Aunty",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The first of the flock, Aunty, so say good-bye to him.”"
+  },
+  {
+   "id": "professor-bhaer",
+   "name": "Professor Bhaer",
+   "role": "minor",
+   "group": "g-bhaer",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Professor Bhaer was grey now, but robust and genial as ever; for he had the work he loved, and did it so heartily that the whole college felt his beautiful influence.”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "mrs-jo",
+   "target": "mrs-meg",
+   "weight": 64,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "marmee",
+   "target": "mrs-jo",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "john",
+   "target": "mrs-jo",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "marmee",
+   "target": "mrs-meg",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "john",
+   "target": "mrs-meg",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "mr-bhaer",
+   "target": "mrs-jo",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "emil",
+   "target": "franz",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "franz",
+   "target": "nat",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "franz",
+   "target": "mrs-jo",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "dan",
+   "target": "emil",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "emil",
+   "target": "nat",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "emil",
+   "target": "mrs-jo",
+   "weight": 42,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "dan",
+   "target": "nat",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "dan",
+   "target": "tom",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "dan",
+   "target": "teddy",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "dan",
+   "target": "mrs-jo",
+   "weight": 127,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 31
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 43
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "dan",
+   "target": "ted",
+   "weight": 67,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 19
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 59
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "mrs-jo",
+   "target": "nat",
+   "weight": 56,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "mrs-jo",
+   "target": "tom",
+   "weight": 61,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 57
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "ted",
+   "target": "tom",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "dolly",
+   "target": "stuffy",
+   "weight": 32,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 27
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "dolly",
+   "target": "mrs-jo",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "mrs-jo",
+   "target": "stuffy",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "rob",
+   "target": "teddy",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "mrs-jo",
+   "target": "rob",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "rob",
+   "target": "ted",
+   "weight": 65,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 55
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "mrs-jo",
+   "target": "teddy",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "ted",
+   "target": "teddy",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "mrs-jo",
+   "target": "ted",
+   "weight": 76,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 50
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "demi",
+   "target": "rob",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "demi",
+   "target": "mrs-jo",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "aunt-jo",
+   "target": "mrs-jo",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "demi",
+   "target": "mrs-meg",
+   "weight": 27,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "aunt-jo",
+   "target": "demi",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "aunt-jo",
+   "target": "mrs-meg",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "daisy",
+   "target": "demi",
+   "weight": 36,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "demi",
+   "target": "josie",
+   "weight": 43,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 21
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "demi",
+   "target": "nan",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "daisy",
+   "target": "mrs-meg",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "josie",
+   "target": "mrs-meg",
+   "weight": 28,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "aunt-jo",
+   "target": "daisy",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "daisy",
+   "target": "josie",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "bess",
+   "target": "daisy",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r44",
+   "source": "daisy",
+   "target": "nan",
+   "weight": 37,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r45",
+   "source": "bess",
+   "target": "josie",
+   "weight": 71,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    },
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r46",
+   "source": "bess",
+   "target": "nan",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r47",
+   "source": "daisy",
+   "target": "tom",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r48",
+   "source": "nan",
+   "target": "tom",
+   "weight": 76,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 22
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 47
+    }
+   ]
+  },
+  {
+   "id": "r49",
+   "source": "mrs-jo",
+   "target": "nan",
+   "weight": 50,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r50",
+   "source": "daisy",
+   "target": "mother-bhaer",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r51",
+   "source": "demi",
+   "target": "mother-bhaer",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r52",
+   "source": "daisy",
+   "target": "nat",
+   "weight": 51,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r53",
+   "source": "nan",
+   "target": "ted",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 9,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r54",
+   "source": "josie",
+   "target": "ted",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r55",
+   "source": "daisy",
+   "target": "mrs-jo",
+   "weight": 44,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s6",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 42
+    }
+   ]
+  },
+  {
+   "id": "r56",
+   "source": "george",
+   "target": "mrs-jo",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r57",
+   "source": "dolly",
+   "target": "george",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r58",
+   "source": "demi",
+   "target": "john",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r59",
+   "source": "demi",
+   "target": "tom",
+   "weight": 40,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 40
+    }
+   ]
+  },
+  {
+   "id": "r60",
+   "source": "aunty",
+   "target": "mrs-jo",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r61",
+   "source": "josie",
+   "target": "teddy",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r62",
+   "source": "josie",
+   "target": "mrs-jo",
+   "weight": 60,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    },
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 44
+    }
+   ]
+  },
+  {
+   "id": "r63",
+   "source": "nan",
+   "target": "rob",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Often together",
+     "weight": 35
+    }
+   ]
+  },
+  {
+   "id": "r64",
+   "source": "bess",
+   "target": "mrs-jo",
+   "weight": 45,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r65",
+   "source": "franz",
+   "target": "mrs-meg",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r66",
+   "source": "mrs-meg",
+   "target": "nat",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r67",
+   "source": "marmee",
+   "target": "ted",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r68",
+   "source": "bess",
+   "target": "marmee",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r69",
+   "source": "marmee",
+   "target": "nat",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r70",
+   "source": "nat",
+   "target": "professor-bhaer",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r71",
+   "source": "demi",
+   "target": "professor-bhaer",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r72",
+   "source": "josie",
+   "target": "professor-bhaer",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r73",
+   "source": "mrs-jo",
+   "target": "professor-bhaer",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r74",
+   "source": "emil",
+   "target": "mr-bhaer",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r75",
+   "source": "mr-bhaer",
+   "target": "nat",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r76",
+   "source": "mr-laurie",
+   "target": "mrs-jo",
+   "weight": 39,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r77",
+   "source": "mr-laurie",
+   "target": "nat",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r78",
+   "source": "mr-laurie",
+   "target": "mrs-meg",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 2."
+    },
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r79",
+   "source": "aunt-jo",
+   "target": "emil",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 2."
+    }
+   ]
+  },
+  {
+   "id": "r80",
+   "source": "mrs-bhaer",
+   "target": "mrs-jo",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r81",
+   "source": "mary",
+   "target": "mrs-bhaer",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r82",
+   "source": "mary",
+   "target": "mrs-jo",
+   "weight": 23,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 3."
+    },
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r83",
+   "source": "aunty",
+   "target": "josie",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r84",
+   "source": "josie",
+   "target": "mrs-bhaer",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r85",
+   "source": "josie",
+   "target": "mary",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r86",
+   "source": "mother-bhaer",
+   "target": "mrs-jo",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r87",
+   "source": "dan",
+   "target": "mother-bhaer",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s3",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 3."
+    }
+   ]
+  },
+  {
+   "id": "r88",
+   "source": "dan",
+   "target": "josie",
+   "weight": 35,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r89",
+   "source": "bess",
+   "target": "dan",
+   "weight": 52,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    },
+    {
+     "at": "s21",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 46
+    }
+   ]
+  },
+  {
+   "id": "r90",
+   "source": "mrs-bhaer",
+   "target": "tom",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r91",
+   "source": "dan",
+   "target": "nan",
+   "weight": 31,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r92",
+   "source": "mrs-bhaer",
+   "target": "mrs-meg",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r93",
+   "source": "dan",
+   "target": "mr-laurie",
+   "weight": 33,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 11,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 16
+    }
+   ]
+  },
+  {
+   "id": "r94",
+   "source": "dan",
+   "target": "demi",
+   "weight": 24,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 7,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r95",
+   "source": "mr-laurie",
+   "target": "ted",
+   "weight": 18,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r96",
+   "source": "dan",
+   "target": "mr-bhaer",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r97",
+   "source": "emil",
+   "target": "george",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s4",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 4."
+    }
+   ]
+  },
+  {
+   "id": "r98",
+   "source": "mr-bhaer",
+   "target": "ted",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r99",
+   "source": "george",
+   "target": "josie",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r100",
+   "source": "dolly",
+   "target": "josie",
+   "weight": 26,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 24
+    }
+   ]
+  },
+  {
+   "id": "r101",
+   "source": "george",
+   "target": "stuffy",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 5."
+    }
+   ]
+  },
+  {
+   "id": "r102",
+   "source": "alice",
+   "target": "demi",
+   "weight": 22,
+   "phases": [
+    {
+     "at": "s5",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 5."
+    },
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Often together",
+     "weight": 20
+    }
+   ]
+  },
+  {
+   "id": "r103",
+   "source": "aunty",
+   "target": "rob",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r104",
+   "source": "aunty",
+   "target": "nan",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r105",
+   "source": "aunty",
+   "target": "ted",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s7",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 7."
+    }
+   ]
+  },
+  {
+   "id": "r106",
+   "source": "josie",
+   "target": "miss-cameron",
+   "weight": 38,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 28
+    }
+   ]
+  },
+  {
+   "id": "r107",
+   "source": "bess",
+   "target": "miss-cameron",
+   "weight": 17,
+   "phases": [
+    {
+     "at": "s8",
+     "type": "together",
+     "label": "Often together",
+     "weight": 15
+    }
+   ]
+  },
+  {
+   "id": "r108",
+   "source": "mother-bhaer",
+   "target": "tom",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r109",
+   "source": "dora",
+   "target": "tom",
+   "weight": 25,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 23
+    }
+   ]
+  },
+  {
+   "id": "r110",
+   "source": "demi",
+   "target": "dora",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r111",
+   "source": "dora",
+   "target": "mrs-jo",
+   "weight": 16,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r112",
+   "source": "dora",
+   "target": "nan",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Often together",
+     "weight": 17
+    }
+   ]
+  },
+  {
+   "id": "r113",
+   "source": "alice",
+   "target": "mrs-jo",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r114",
+   "source": "dora",
+   "target": "mother-bhaer",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 9."
+    }
+   ]
+  },
+  {
+   "id": "r115",
+   "source": "daisy",
+   "target": "john",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r116",
+   "source": "alice",
+   "target": "daisy",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r117",
+   "source": "alice",
+   "target": "josie",
+   "weight": 9,
+   "phases": [
+    {
+     "at": "s10",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 10."
+    }
+   ]
+  },
+  {
+   "id": "r118",
+   "source": "emil",
+   "target": "mary",
+   "weight": 21,
+   "phases": [
+    {
+     "at": "s11",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 11."
+    },
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Often together",
+     "weight": 18
+    }
+   ]
+  },
+  {
+   "id": "r119",
+   "source": "dan",
+   "target": "mary-mason",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 6,
+     "note": "First named together in Ch. 12."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r120",
+   "source": "mr-laurie",
+   "target": "professor-bhaer",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 13."
+    }
+   ]
+  },
+  {
+   "id": "r121",
+   "source": "miss-cameron",
+   "target": "mrs-jo",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r122",
+   "source": "miss-cameron",
+   "target": "tom",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r123",
+   "source": "alice",
+   "target": "john",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 14."
+    },
+    {
+     "at": "s20",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r124",
+   "source": "miss-cameron",
+   "target": "mrs-meg",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s14",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 14."
+    }
+   ]
+  },
+  {
+   "id": "r125",
+   "source": "franz",
+   "target": "mary",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r126",
+   "source": "mary-mason",
+   "target": "ted",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s15",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 15."
+    }
+   ]
+  },
+  {
+   "id": "r127",
+   "source": "bess",
+   "target": "dolly",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r128",
+   "source": "josie",
+   "target": "stuffy",
+   "weight": 15,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r129",
+   "source": "bess",
+   "target": "stuffy",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s16",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 10,
+     "note": "First named together in Ch. 16."
+    },
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}

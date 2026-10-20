@@ -1,0 +1,746 @@
+{
+ "generatedAt": "2026-10-20T14:29:24.732Z",
+ "source": "Wikidata Query Service (CC0)",
+ "works": {
+  "OL93082W": {
+   "q": "Q40185",
+   "characters": 194,
+   "links": 54
+  },
+  "OL503666W": {
+   "q": "Q480",
+   "characters": 33,
+   "links": 18
+  },
+  "OL258850W": {
+   "q": "Q26833",
+   "characters": 12,
+   "links": 6
+  },
+  "OL258902W": {
+   "q": "Q130283",
+   "characters": 30,
+   "links": 10
+  },
+  "OL66554W": {
+   "q": "Q170583",
+   "characters": 46,
+   "links": 32
+  },
+  "OL8193478W": {
+   "q": "Q164974",
+   "characters": 12,
+   "links": 6
+  },
+  "OL138052W": {
+   "q": "Q92640",
+   "characters": 31,
+   "links": 4
+  },
+  "OL1095427W": {
+   "q": "Q182961",
+   "characters": 7,
+   "links": 6
+  },
+  "OL450063W": {
+   "q": "Q150827",
+   "characters": 5,
+   "links": 3
+  },
+  "OL8721462W": {
+   "q": "Q219552",
+   "characters": 8,
+   "links": 5
+  },
+  "OL21177W": {
+   "q": "Q202975",
+   "characters": 12,
+   "links": 8
+  },
+  "OL468431W": {
+   "q": "Q214371",
+   "characters": 8,
+   "links": 6
+  },
+  "OL66562W": {
+   "q": "Q274744",
+   "characters": 5,
+   "links": 5
+  },
+  "OL151406W": {
+   "q": "Q220331",
+   "characters": 25,
+   "links": 6
+  },
+  "OL362690W": {
+   "q": "Q332387",
+   "characters": 13,
+   "links": 6
+  },
+  "OL18417W": {
+   "q": "Q130295",
+   "characters": 23,
+   "links": 7
+  },
+  "OL267096W": {
+   "q": "Q147787",
+   "characters": 8,
+   "links": 5
+  },
+  "OL166894W": {
+   "q": "Q165318",
+   "characters": 12,
+   "links": 6
+  },
+  "OL66513W": {
+   "q": "Q223880",
+   "characters": 5,
+   "links": 3
+  },
+  "OL8193465W": {
+   "q": "Q308918",
+   "characters": 13,
+   "links": 4
+  },
+  "OL52267W": {
+   "q": "Q627333",
+   "characters": 12,
+   "links": 4
+  },
+  "OL29983W": {
+   "q": "Q523076",
+   "characters": 61,
+   "links": 54
+  },
+  "OL85892W": {
+   "q": "Q41542",
+   "characters": 28,
+   "links": 11
+  },
+  "OL9170454W": {
+   "q": "Q41567",
+   "characters": 32,
+   "links": 7
+  },
+  "OL455305W": {
+   "q": "Q907568",
+   "characters": 4,
+   "links": 4
+  },
+  "OL61982W": {
+   "q": "Q35160",
+   "characters": 56,
+   "links": 16
+  },
+  "OL36861W": {
+   "q": "Q140527",
+   "characters": 27,
+   "links": 15
+  },
+  "OL362699W": {
+   "q": "Q86440",
+   "characters": 17,
+   "links": 7
+  },
+  "OL86343W": {
+   "q": "Q465360",
+   "characters": 23,
+   "links": 5
+  },
+  "OL7180368W": {
+   "q": "Q16438",
+   "characters": 68,
+   "links": 4
+  },
+  "OL267171W": {
+   "q": "Q161531",
+   "characters": 21,
+   "links": 14
+  },
+  "OL262505W": {
+   "q": "Q863438",
+   "characters": 8,
+   "links": 4
+  },
+  "OL1168083W": {
+   "q": "Q208460",
+   "characters": 38,
+   "links": 6
+  },
+  "OL86318W": {
+   "q": "Q6511",
+   "characters": 99,
+   "links": 17
+  },
+  "OL19870W": {
+   "q": "Q189509",
+   "characters": 19,
+   "links": 5
+  },
+  "OL2775807W": {
+   "q": "Q2348190",
+   "characters": 8,
+   "links": 4
+  },
+  "OL27482W": {
+   "q": "Q74287",
+   "characters": 71,
+   "links": 29
+  },
+  "OL1063588W": {
+   "q": "Q180736",
+   "characters": 19,
+   "links": 11
+  },
+  "OL863808W": {
+   "q": "Q840974",
+   "characters": 11,
+   "links": 5
+  },
+  "OL15292640W": {
+   "q": "Q184742",
+   "characters": 46,
+   "links": 9
+  },
+  "OL85047W": {
+   "q": "Q240617",
+   "characters": 9,
+   "links": 4
+  },
+  "OL1100007W": {
+   "q": "Q1219561",
+   "characters": 8,
+   "links": 3
+  },
+  "OL462007W": {
+   "q": "Q3435337",
+   "characters": 19,
+   "links": 8
+  },
+  "OL27776452W": {
+   "q": "Q830501",
+   "characters": 5,
+   "links": 5
+  },
+  "OL82563W": {
+   "q": "Q43361",
+   "characters": 43,
+   "links": 24
+  },
+  "OL810991W": {
+   "q": "Q28754",
+   "characters": 17,
+   "links": 6
+  },
+  "OL10432709W": {
+   "q": "Q183157",
+   "characters": 13,
+   "links": 7
+  },
+  "OL15450151W": {
+   "q": "Q1136104",
+   "characters": 20,
+   "links": 7
+  },
+  "OL267933W": {
+   "q": "Q2870",
+   "characters": 8,
+   "links": 6
+  },
+  "OL848771W": {
+   "q": "Q781898",
+   "characters": 26,
+   "links": 4
+  },
+  "OL82537W": {
+   "q": "Q47209",
+   "characters": 16,
+   "links": 8
+  },
+  "OL27448W": {
+   "q": "Q15228",
+   "characters": 236,
+   "links": 61
+  },
+  "OL82560W": {
+   "q": "Q46751",
+   "characters": 23,
+   "links": 10
+  },
+  "OL627084W": {
+   "q": "Q127149",
+   "characters": 18,
+   "links": 11
+  },
+  "OL893958W": {
+   "q": "Q117182",
+   "characters": 12,
+   "links": 5
+  },
+  "OL676009W": {
+   "q": "Q188538",
+   "characters": 36,
+   "links": 6
+  },
+  "OL51785W": {
+   "q": "Q264241",
+   "characters": 5,
+   "links": 4
+  },
+  "OL5846465W": {
+   "q": "Q639072",
+   "characters": 6,
+   "links": 4
+  },
+  "OL55527W": {
+   "q": "Q753298",
+   "characters": 9,
+   "links": 5
+  },
+  "OL274505W": {
+   "q": "Q178869",
+   "characters": 10,
+   "links": 6
+  },
+  "OL476641W": {
+   "q": "Q3766392",
+   "characters": 7,
+   "links": 3
+  },
+  "OL82565W": {
+   "q": "Q46887",
+   "characters": 21,
+   "links": 5
+  },
+  "OL1455042W": {
+   "q": "Q271697",
+   "characters": 7,
+   "links": 3
+  },
+  "OL27495W": {
+   "q": "Q79762",
+   "characters": 440,
+   "links": 146
+  },
+  "OL85753W": {
+   "q": "Q1047711",
+   "characters": 7,
+   "links": 3
+  },
+  "OL857189W": {
+   "q": "Q1296168",
+   "characters": 4,
+   "links": 4
+  },
+  "OL108735W": {
+   "q": "Q580463",
+   "characters": 6,
+   "links": 5
+  },
+  "OL82586W": {
+   "q": "Q46758",
+   "characters": 15,
+   "links": 3
+  },
+  "OL5735363W": {
+   "q": "Q11678",
+   "characters": 14,
+   "links": 4
+  },
+  "OL28988W": {
+   "q": "Q169976",
+   "characters": 12,
+   "links": 4
+  },
+  "OL55417W": {
+   "q": "Q478381",
+   "characters": 12,
+   "links": 4
+  },
+  "OL85750W": {
+   "q": "Q1777426",
+   "characters": 9,
+   "links": 6
+  },
+  "OL5720023W": {
+   "q": "Q189378",
+   "characters": 4,
+   "links": 4
+  },
+  "OL1833989W": {
+   "q": "Q272506",
+   "characters": 11,
+   "links": 5
+  },
+  "OL2163649W": {
+   "q": "Q3107329",
+   "characters": 15,
+   "links": 4
+  },
+  "OL2564006W": {
+   "q": "Q8269",
+   "characters": 75,
+   "links": 59
+  },
+  "OL86319W": {
+   "q": "Q6507",
+   "characters": 15,
+   "links": 7
+  },
+  "OL81626W": {
+   "q": "Q623394",
+   "characters": 8,
+   "links": 3
+  },
+  "OL856902W": {
+   "q": "Q846870",
+   "characters": 8,
+   "links": 4
+  },
+  "OL52430W": {
+   "q": "Q208094",
+   "characters": 35,
+   "links": 5
+  },
+  "OL67334W": {
+   "q": "Q899334",
+   "characters": 97,
+   "links": 57
+  },
+  "OL492658W": {
+   "q": "Q501514",
+   "characters": 7,
+   "links": 5
+  },
+  "OL267791W": {
+   "q": "Q1262456",
+   "characters": 6,
+   "links": 5
+  },
+  "OL893461W": {
+   "q": "Q190192",
+   "characters": 44,
+   "links": 23
+  },
+  "OL71132W": {
+   "q": "Q331656",
+   "characters": 16,
+   "links": 6
+  },
+  "OL49488W": {
+   "q": "Q816016",
+   "characters": 13,
+   "links": 7
+  },
+  "OL81628W": {
+   "q": "Q1422318",
+   "characters": 5,
+   "links": 4
+  },
+  "OL14908941W": {
+   "q": "Q40354",
+   "characters": 17,
+   "links": 4
+  },
+  "OL81633W": {
+   "q": "Q470937",
+   "characters": 5,
+   "links": 3
+  },
+  "OL2163655W": {
+   "q": "Q578895",
+   "characters": 7,
+   "links": 4
+  },
+  "OL85745W": {
+   "q": "Q1952957",
+   "characters": 10,
+   "links": 4
+  },
+  "OL22156524W": {
+   "q": "Q591892",
+   "characters": 6,
+   "links": 5
+  },
+  "OL66346W": {
+   "q": "Q820862",
+   "characters": 4,
+   "links": 4
+  },
+  "OL15719630W": {
+   "q": "Q627192",
+   "characters": 9,
+   "links": 6
+  },
+  "OL85744W": {
+   "q": "Q2136755",
+   "characters": 6,
+   "links": 4
+  },
+  "OL2746369W": {
+   "q": "Q2328959",
+   "characters": 28,
+   "links": 28
+  },
+  "OL28996W": {
+   "q": "Q129929",
+   "characters": 15,
+   "links": 8
+  },
+  "OL476471W": {
+   "q": "Q1633087",
+   "characters": 7,
+   "links": 5
+  },
+  "OL66347W": {
+   "q": "Q1183443",
+   "characters": 17,
+   "links": 7
+  },
+  "OL46309W": {
+   "q": "Q853927",
+   "characters": 8,
+   "links": 3
+  },
+  "OL1388028W": {
+   "q": "Q1195086",
+   "characters": 24,
+   "links": 13
+  },
+  "OL66512W": {
+   "q": "Q274744",
+   "characters": 5,
+   "links": 5
+  },
+  "OL2163719W": {
+   "q": "Q1042294",
+   "characters": 9,
+   "links": 4
+  },
+  "OL1388027W": {
+   "q": "Q3205402",
+   "characters": 22,
+   "links": 13
+  },
+  "OL81615W": {
+   "q": "Q670552",
+   "characters": 12,
+   "links": 6
+  },
+  "OL81625W": {
+   "q": "Q1637730",
+   "characters": 6,
+   "links": 3
+  },
+  "OL2163623W": {
+   "q": "Q721",
+   "characters": 11,
+   "links": 4
+  },
+  "OL27466W": {
+   "q": "Q309019",
+   "characters": 212,
+   "links": 72
+  },
+  "OL16325201W": {
+   "q": "Q5918512",
+   "characters": 7,
+   "links": 6
+  },
+  "OL453658W": {
+   "q": "Q843400",
+   "characters": 7,
+   "links": 3
+  },
+  "OL46401W": {
+   "q": "Q482085",
+   "characters": 9,
+   "links": 3
+  },
+  "OL23480W": {
+   "q": "Q9144808",
+   "characters": 5,
+   "links": 3
+  },
+  "OL16808471W": {
+   "q": "Q15238761",
+   "characters": 5,
+   "links": 5
+  },
+  "OL2271589W": {
+   "q": "Q463108",
+   "characters": 88,
+   "links": 17
+  },
+  "OL2163638W": {
+   "q": "Q187655",
+   "characters": 5,
+   "links": 4
+  },
+  "OL16806877W": {
+   "q": "Q3657739",
+   "characters": 4,
+   "links": 3
+  },
+  "OL1955906W": {
+   "q": "Q28306",
+   "characters": 28,
+   "links": 15
+  },
+  "OL893502W": {
+   "q": "Q437353",
+   "characters": 9,
+   "links": 6
+  },
+  "OL23478W": {
+   "q": "Q929184",
+   "characters": 5,
+   "links": 5
+  },
+  "OL26459W": {
+   "q": "Q967268",
+   "characters": 15,
+   "links": 6
+  },
+  "OL262490W": {
+   "q": "Q2316684",
+   "characters": 8,
+   "links": 4
+  },
+  "OL2897798W": {
+   "q": "Q128444",
+   "characters": 16,
+   "links": 5
+  },
+  "OL46172W": {
+   "q": "Q783533",
+   "characters": 9,
+   "links": 5
+  },
+  "OL46402W": {
+   "q": "Q382862",
+   "characters": 21,
+   "links": 7
+  },
+  "OL46377W": {
+   "q": "Q440784",
+   "characters": 12,
+   "links": 7
+  },
+  "OL15029001W": {
+   "q": "Q208971",
+   "characters": 10,
+   "links": 7
+  },
+  "OL81600W": {
+   "q": "Q1472204",
+   "characters": 11,
+   "links": 7
+  },
+  "OL16664287W": {
+   "q": "Q3283718",
+   "characters": 10,
+   "links": 4
+  },
+  "OL16793865W": {
+   "q": "Q22815069",
+   "characters": 6,
+   "links": 5
+  },
+  "OL15936512W": {
+   "q": "Q3906523",
+   "characters": 11,
+   "links": 4
+  },
+  "OL2918760W": {
+   "q": "Q2734297",
+   "characters": 5,
+   "links": 4
+  },
+  "OL17112428W": {
+   "q": "Q19843206",
+   "characters": 15,
+   "links": 8
+  },
+  "OL21745884W": {
+   "q": "Q106852836",
+   "characters": 16,
+   "links": 4
+  },
+  "OL486967W": {
+   "q": "Q1935913",
+   "characters": 10,
+   "links": 5
+  },
+  "OL2577486W": {
+   "q": "Q2652386",
+   "characters": 27,
+   "links": 13
+  },
+  "OL2577481W": {
+   "q": "Q2045474",
+   "characters": 24,
+   "links": 9
+  },
+  "OL46178W": {
+   "q": "Q377230",
+   "characters": 16,
+   "links": 7
+  },
+  "OL1960079W": {
+   "q": "Q7747282",
+   "characters": 8,
+   "links": 3
+  },
+  "OL17557879W": {
+   "q": "Q21624970",
+   "characters": 4,
+   "links": 4
+  },
+  "OL15723131W": {
+   "q": "Q582811",
+   "characters": 9,
+   "links": 4
+  },
+  "OL516681W": {
+   "q": "Q5811613",
+   "characters": 9,
+   "links": 5
+  },
+  "OL20780974W": {
+   "q": "Q97841736",
+   "characters": 12,
+   "links": 3
+  },
+  "OL20907281W": {
+   "q": "Q97171148",
+   "characters": 10,
+   "links": 4
+  },
+  "OL20348172W": {
+   "q": "Q141313271",
+   "characters": 4,
+   "links": 4
+  },
+  "OL5724837W": {
+   "q": "Q1759977",
+   "characters": 26,
+   "links": 3
+  },
+  "OL23272W": {
+   "q": "Q1147949",
+   "characters": 8,
+   "links": 6
+  },
+  "OL19340381W": {
+   "q": "Q18397345",
+   "characters": 7,
+   "links": 6
+  },
+  "OL18187337W": {
+   "q": "Q10695388",
+   "characters": 5,
+   "links": 3
+  }
+ }
+}

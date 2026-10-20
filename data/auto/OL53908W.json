@@ -1,0 +1,1174 @@
+{
+ "schemaVersion": 1,
+ "workId": "OL53908W",
+ "title": "Adventures of Huckleberry Finn",
+ "authors": [
+  "Mark Twain"
+ ],
+ "firstPublished": 1876,
+ "edition": {
+  "description": "Sections as detected in Project Gutenberg eBook #76.",
+  "source": "Project Gutenberg eBook #76",
+  "url": "https://www.gutenberg.org/ebooks/76"
+ },
+ "sectionLabel": {
+  "singular": "Chapter",
+  "plural": "Chapters"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "label": "Ch. 42",
+   "title": "Tom Sawyer Wounded.—The Doctor’s Story.—Tom Confesses.—Aunt Polly"
+  },
+  {
+   "id": "s2",
+   "label": "Ch. 1"
+  },
+  {
+   "id": "s3",
+   "label": "Ch. 2",
+   "title": "We went tiptoeing along a path amongst the trees back towards the end"
+  },
+  {
+   "id": "s4",
+   "label": "Ch. 3",
+   "title": "Well, I got a good going-over in the morning from old Miss Watson on"
+  },
+  {
+   "id": "s5",
+   "label": "Ch. 4",
+   "title": "Well, three or four months run along, and it was well into the winter"
+  },
+  {
+   "id": "s6",
+   "label": "Ch. 5",
+   "title": "I had shut the door to. Then I turned around and there he was. I used"
+  },
+  {
+   "id": "s7",
+   "label": "Ch. 6"
+  },
+  {
+   "id": "s8",
+   "label": "Ch. 7",
+   "title": "“Git up! What you ’bout?”"
+  },
+  {
+   "id": "s9",
+   "label": "Ch. 8",
+   "title": "The sun was up so high when I waked that I judged it was after eight"
+  },
+  {
+   "id": "s10",
+   "label": "Ch. 9"
+  },
+  {
+   "id": "s11",
+   "label": "Ch. 10",
+   "title": "After breakfast I wanted to talk about the dead man and guess out how"
+  },
+  {
+   "id": "s12",
+   "label": "Ch. 11",
+   "title": "“Come in,” says the woman, and I did. She says: “Take a cheer.”"
+  },
+  {
+   "id": "s13",
+   "label": "Ch. 12"
+  },
+  {
+   "id": "s14",
+   "label": "Ch. 13",
+   "title": "Well, I catched my breath and most fainted. Shut up on a wreck with"
+  },
+  {
+   "id": "s15",
+   "label": "Ch. 14"
+  },
+  {
+   "id": "s16",
+   "label": "Ch. 15"
+  },
+  {
+   "id": "s17",
+   "label": "Ch. 16"
+  },
+  {
+   "id": "s18",
+   "label": "Ch. 17",
+   "title": "In about a minute somebody spoke out of a window without putting his"
+  },
+  {
+   "id": "s19",
+   "label": "Ch. 18"
+  },
+  {
+   "id": "s20",
+   "label": "Ch. 19",
+   "title": "Two or three days and nights went by; I reckon I might say they swum"
+  },
+  {
+   "id": "s21",
+   "label": "Ch. 20",
+   "title": "They asked us considerable many questions; wanted to know what we"
+  },
+  {
+   "id": "s22",
+   "label": "Ch. 21",
+   "title": "It was after sun-up now, but we went right on and didn’t tie up. The"
+  },
+  {
+   "id": "s23",
+   "label": "Ch. 22",
+   "title": "They swarmed up towards Sherburn’s house, a-whooping and raging like"
+  },
+  {
+   "id": "s24",
+   "label": "Ch. 23"
+  },
+  {
+   "id": "s25",
+   "label": "Ch. 24"
+  },
+  {
+   "id": "s26",
+   "label": "Ch. 25"
+  },
+  {
+   "id": "s27",
+   "label": "Ch. 26",
+   "title": "Well, when they was all gone the king he asks Mary Jane how they was"
+  },
+  {
+   "id": "s28",
+   "label": "Ch. 27",
+   "title": "I crept to their doors and listened; they was snoring. So I tiptoed"
+  },
+  {
+   "id": "s29",
+   "label": "Ch. 28"
+  },
+  {
+   "id": "s30",
+   "label": "Ch. 29",
+   "title": "They was fetching a very nice-looking old gentleman along, and a"
+  },
+  {
+   "id": "s31",
+   "label": "Ch. 30"
+  },
+  {
+   "id": "s32",
+   "label": "Ch. 31",
+   "title": "We dasn’t stop again at any town for days and days; kept right along"
+  },
+  {
+   "id": "s33",
+   "label": "Ch. 32",
+   "title": "When I got there it was all still and Sunday-like, and hot and"
+  },
+  {
+   "id": "s34",
+   "label": "Ch. 33",
+   "title": "So I started for town in the wagon, and when I was half-way I see a"
+  },
+  {
+   "id": "s35",
+   "label": "Ch. 34",
+   "title": "We stopped talking, and got to thinking. By-and-by Tom says:"
+  },
+  {
+   "id": "s36",
+   "label": "Ch. 35"
+  },
+  {
+   "id": "s37",
+   "label": "Ch. 36"
+  },
+  {
+   "id": "s38",
+   "label": "Ch. 37",
+   "title": "That was all fixed. So then we went away and went to the rubbage-pile"
+  },
+  {
+   "id": "s39",
+   "label": "Ch. 38",
+   "title": "Making them pens was a distressid tough job, and so was the saw; and"
+  },
+  {
+   "id": "s40",
+   "label": "Ch. 39"
+  },
+  {
+   "id": "s41",
+   "label": "Ch. 40"
+  },
+  {
+   "id": "s42",
+   "label": "Ch. 41"
+  },
+  {
+   "id": "s43",
+   "label": "Ch. 42",
+   "title": "The old man was uptown again before breakfast, but couldn’t get no"
+  }
+ ],
+ "characters": [
+  {
+   "id": "jim",
+   "name": "Jim",
+   "role": "protagonist",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Judge Thatcher surprised Jim Listening “Pap” Huck and his Father Reforming the Drunkard Falling from Grace Getting out of the Way Solid Comfort Thinking it Over Raising a Howl “Git Up” The Shanty Shooting the Pig Taki…”"
+  },
+  {
+   "id": "tom-sawyer",
+   "name": "Tom Sawyer",
+   "aliases": [
+    "Tom",
+    "Sawyer"
+   ],
+   "role": "major",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Tom Sawyer Wounded.—The Doctor’s Story.—Tom Confesses.—Aunt Polly Arrives.—Hand Out Them Letters.”"
+  },
+  {
+   "id": "aunt-sally",
+   "name": "Aunt Sally",
+   "role": "supporting",
+   "firstAppearance": "s33",
+   "summary": "First mention: ““Don’t say yes’m—say Aunt Sally.”"
+  },
+  {
+   "id": "mary-jane",
+   "name": "Mary Jane",
+   "aliases": [
+    "Miss Mary Jane"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s25",
+   "summary": "First mention: “You see, he was pretty old, and George’s g’yirls was too young to be much company for him, except Mary Jane, the red-headed one; and so he was kinder lonesome after George and his wife died, and didn’t seem to care mu…”"
+  },
+  {
+   "id": "buck",
+   "name": "Buck",
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Lordy, Lordy!” In a Fix “Hello, What’s Up?” The Wreck We turned in and Slept Turning over the Truck Solomon and his Million Wives The story of “Sollermun” “We Would Sell the Raft” Among the Snags Asleep on the Raft “S…”"
+  },
+  {
+   "id": "uncle-silas",
+   "name": "Uncle Silas",
+   "aliases": [
+    "Silas"
+   ],
+   "role": "supporting",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Archibald Nichols, I presume?” A pretty long Blessing Traveling By Rail Vittles A Simple Job Witches Getting Wood One of the Best Authorities The Breakfast-Horn Smouching the Knives Going down the Lightning-Rod Steali…”"
+  },
+  {
+   "id": "sid",
+   "name": "Sid",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Pap, and Judge Thatcher, and Bessie Thatcher, and Jo Harper, and Tom Sawyer, and his old Aunt Polly, and Sid and Mary, and plenty more.”"
+  },
+  {
+   "id": "miss-watson",
+   "name": "Miss Watson",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “Her sister, Miss Watson, a tolerable slim old maid, with goggles on, had just come to live with her, and took a set at me now with a spelling-book.”"
+  },
+  {
+   "id": "huck-finn",
+   "name": "Huck Finn",
+   "aliases": [
+    "Finn"
+   ],
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Out of Bondage.—Paying the Captive.—Yours Truly, Huck Finn.”"
+  },
+  {
+   "id": "harvey",
+   "name": "Harvey",
+   "aliases": [
+    "Uncle Harvey"
+   ],
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: “Harvey and William’s the only ones that’s left now; and, as I was saying, they haven’t got here in time.””"
+  },
+  {
+   "id": "boggs",
+   "name": "Boggs",
+   "role": "minor",
+   "firstAppearance": "s22",
+   "summary": "First mention: ““Here comes old Boggs!—in from the country for his little old monthly drunk; here he comes, boys!””"
+  },
+  {
+   "id": "william",
+   "name": "William",
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: ““Well, he don’t miss any property by it, because he’ll get that all right; but he’s missed seeing his brother Peter die—which he mayn’t mind, nobody can tell as to that—but his brother would a give anything in this wo…”"
+  },
+  {
+   "id": "sherburn",
+   "name": "Sherburn",
+   "role": "minor",
+   "firstAppearance": "s22",
+   "summary": "First mention: ““Come out here, Sherburn!”"
+  },
+  {
+   "id": "peter",
+   "name": "Peter",
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: ““Well, he don’t miss any property by it, because he’ll get that all right; but he’s missed seeing his brother Peter die—which he mayn’t mind, nobody can tell as to that—but his brother would a give anything in this wo…”"
+  },
+  {
+   "id": "juliet",
+   "name": "Juliet",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Grangerford Young Harney Shepherdson Miss Charlotte “And asked me if I Liked Her” “Behind the Wood-pile” Hiding Day-times “And Dogs a-Coming” “By rights I am a Duke!” “I am the Late Dauphin” Tail Piece On the Raft The…”"
+  },
+  {
+   "id": "bob",
+   "name": "Bob",
+   "role": "minor",
+   "firstAppearance": "s9",
+   "summary": "First mention: “Dey wuz a nigger name’ Bob, dat had ketched a wood-flat, en his marster didn’ know it; en I bought it off’n him en told him to take de thirty-five dollars when de en’ er de year come; but somebody stole de wood-flat d…”"
+  },
+  {
+   "id": "george",
+   "name": "George",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: ““Well, try to remember it, George.”"
+  },
+  {
+   "id": "jack",
+   "name": "Jack",
+   "role": "minor",
+   "firstAppearance": "s16",
+   "summary": "First mention: “Well, I warn’t long loosing the whoops down amongst the tow-heads; and I only tried to chase them a little while, anyway, because it was worse than chasing a Jack-o’-lantern.”"
+  },
+  {
+   "id": "aunt-polly",
+   "name": "Aunt Polly",
+   "role": "minor",
+   "firstAppearance": "s2",
+   "summary": "First mention: “I never seen anybody but lied one time or another, without it was Aunt Polly, or the widow, or maybe Mary.”"
+  },
+  {
+   "id": "goshen",
+   "name": "Goshen",
+   "role": "minor",
+   "firstAppearance": "s12",
+   "summary": "First mention: “I said I believed my uncle Abner Moore would take care of me, and so that was why I struck out for this town of Goshen.”"
+  },
+  {
+   "id": "miss-sophia",
+   "name": "Miss Sophia",
+   "role": "minor",
+   "firstAppearance": "s19",
+   "summary": "First mention: “So was her sister, Miss Sophia, but it was a different kind.”"
+  },
+  {
+   "id": "sollermun",
+   "name": "Sollermun",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Lordy, Lordy!” In a Fix “Hello, What’s Up?” The Wreck We turned in and Slept Turning over the Truck Solomon and his Million Wives The story of “Sollermun” “We Would Sell the Raft” Among the Snags Asleep on the Raft “S…”"
+  },
+  {
+   "id": "st-louis",
+   "name": "St. Louis",
+   "role": "minor",
+   "firstAppearance": "s13",
+   "summary": "First mention: “The fifth night we passed St.”"
+  },
+  {
+   "id": "shepherdsons",
+   "name": "Shepherdsons",
+   "role": "minor",
+   "firstAppearance": "s18",
+   "summary": "First mention: ““Now, George Jackson, do you know the Shepherdsons?””"
+  },
+  {
+   "id": "susan",
+   "name": "Susan",
+   "role": "minor",
+   "firstAppearance": "s25",
+   "summary": "First mention: ““Mary Jane’s nineteen, Susan’s fifteen, and Joanna’s about fourteen—that’s the one that gives herself to good works and has a hare-lip.””"
+  },
+  {
+   "id": "miss-hooker",
+   "name": "Miss Hooker",
+   "role": "minor",
+   "firstAppearance": "s14",
+   "summary": "First mention: ““Why, pap and mam and sis and Miss Hooker; and if you’d take your ferry-boat and go up there—””"
+  },
+  {
+   "id": "grangerfords",
+   "name": "Grangerfords",
+   "role": "minor",
+   "firstAppearance": "s19",
+   "summary": "First mention: “They was as high-toned and well born and rich and grand as the tribe of Grangerfords.”"
+  },
+  {
+   "id": "peter-wilks",
+   "name": "Peter Wilks",
+   "role": "minor",
+   "firstAppearance": "s26",
+   "summary": "First mention: “_You_ Peter Wilks’s brother!”"
+  },
+  {
+   "id": "mr-lothrop",
+   "name": "Mr. Lothrop",
+   "role": "minor",
+   "firstAppearance": "s29",
+   "summary": "First mention: ““Yes; Mr.”"
+  },
+  {
+   "id": "nat",
+   "name": "Nat",
+   "role": "minor",
+   "firstAppearance": "s37",
+   "summary": "First mention: “So he told Jim how we’d have to smuggle in the rope-ladder pie and other large things by Nat, the nigger that fed him, and he must be on the lookout, and not be surprised, and not let Nat see him open them; and we wou…”"
+  },
+  {
+   "id": "moses",
+   "name": "Moses",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “The Widows Moses and the “Bulrushers” Miss Watson Huck Stealing Away They Tip-toed Along Jim Tom Sawyer’s Band of Robbers Huck Creeps into his Window Miss Watson’s Lecture The Robbers Dispersed Rubbing the Lamp !”"
+  },
+  {
+   "id": "henry",
+   "name": "Henry",
+   "role": "minor",
+   "firstAppearance": "s1",
+   "summary": "First mention: “Grangerford Young Harney Shepherdson Miss Charlotte “And asked me if I Liked Her” “Behind the Wood-pile” Hiding Day-times “And Dogs a-Coming” “By rights I am a Duke!” “I am the Late Dauphin” Tail Piece On the Raft The…”"
+  }
+ ],
+ "relationships": [
+  {
+   "id": "r1",
+   "source": "huck-finn",
+   "target": "tom-sawyer",
+   "weight": 12,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 42."
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "source": "jim",
+   "target": "tom-sawyer",
+   "weight": 61,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 42."
+    },
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Often together",
+     "weight": 12
+    },
+    {
+     "at": "s39",
+     "type": "together",
+     "label": "Constantly together",
+     "weight": 45
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "source": "buck",
+   "target": "tom-sawyer",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "source": "tom-sawyer",
+   "target": "uncle-silas",
+   "weight": 19,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 42."
+    },
+    {
+     "at": "s42",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r5",
+   "source": "jim",
+   "target": "sollermun",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  },
+  {
+   "id": "r6",
+   "source": "buck",
+   "target": "jim",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  },
+  {
+   "id": "r7",
+   "source": "jim",
+   "target": "uncle-silas",
+   "weight": 14,
+   "phases": [
+    {
+     "at": "s1",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 42."
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r8",
+   "source": "aunt-polly",
+   "target": "tom-sawyer",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r9",
+   "source": "miss-watson",
+   "target": "tom-sawyer",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 1."
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "source": "jim",
+   "target": "miss-watson",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s2",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 1."
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "source": "sid",
+   "target": "tom-sawyer",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s9",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 8."
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "source": "bob",
+   "target": "tom-sawyer",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s12",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 11."
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "source": "jim",
+   "target": "st-louis",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s13",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 12."
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "source": "jack",
+   "target": "jim",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s17",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 16."
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "source": "buck",
+   "target": "shepherdsons",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "source": "bob",
+   "target": "buck",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s18",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 17."
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "source": "buck",
+   "target": "miss-sophia",
+   "weight": 8,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 8,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "source": "grangerfords",
+   "target": "shepherdsons",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "source": "buck",
+   "target": "grangerfords",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s19",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 18."
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "source": "boggs",
+   "target": "sherburn",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s22",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 21."
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "source": "peter",
+   "target": "william",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "source": "george",
+   "target": "peter",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "source": "harvey",
+   "target": "peter",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "source": "george",
+   "target": "william",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "source": "harvey",
+   "target": "william",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "source": "george",
+   "target": "harvey",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "source": "mary-jane",
+   "target": "peter",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "source": "harvey",
+   "target": "mary-jane",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "source": "mary-jane",
+   "target": "william",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "source": "mary-jane",
+   "target": "susan",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s25",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 24."
+    }
+   ]
+  },
+  {
+   "id": "r31",
+   "source": "mary-jane",
+   "target": "mr-lothrop",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s29",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 28."
+    }
+   ]
+  },
+  {
+   "id": "r32",
+   "source": "huck-finn",
+   "target": "jim",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 31."
+    }
+   ]
+  },
+  {
+   "id": "r33",
+   "source": "huck-finn",
+   "target": "miss-watson",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s32",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 31."
+    }
+   ]
+  },
+  {
+   "id": "r34",
+   "source": "aunt-sally",
+   "target": "uncle-silas",
+   "weight": 10,
+   "phases": [
+    {
+     "at": "s33",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 32."
+    }
+   ]
+  },
+  {
+   "id": "r35",
+   "source": "aunt-sally",
+   "target": "tom-sawyer",
+   "weight": 29,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 33."
+    },
+    {
+     "at": "s41",
+     "type": "together",
+     "label": "Often together",
+     "weight": 14
+    }
+   ]
+  },
+  {
+   "id": "r36",
+   "source": "aunt-sally",
+   "target": "sid",
+   "weight": 11,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 33."
+    }
+   ]
+  },
+  {
+   "id": "r37",
+   "source": "sid",
+   "target": "uncle-silas",
+   "weight": 7,
+   "phases": [
+    {
+     "at": "s34",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 2,
+     "note": "First named together in Ch. 33."
+    }
+   ]
+  },
+  {
+   "id": "r38",
+   "source": "aunt-sally",
+   "target": "jim",
+   "weight": 13,
+   "phases": [
+    {
+     "at": "s36",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 1,
+     "note": "First named together in Ch. 35."
+    },
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Often together",
+     "weight": 13
+    }
+   ]
+  },
+  {
+   "id": "r39",
+   "source": "jim",
+   "target": "nat",
+   "weight": 6,
+   "phases": [
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 36."
+    }
+   ]
+  },
+  {
+   "id": "r40",
+   "source": "nat",
+   "target": "tom-sawyer",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s37",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 36."
+    }
+   ]
+  },
+  {
+   "id": "r41",
+   "source": "aunt-polly",
+   "target": "aunt-sally",
+   "weight": 5,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 5,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  },
+  {
+   "id": "r42",
+   "source": "aunt-polly",
+   "target": "uncle-silas",
+   "weight": 3,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 3,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  },
+  {
+   "id": "r43",
+   "source": "aunt-polly",
+   "target": "jim",
+   "weight": 4,
+   "phases": [
+    {
+     "at": "s43",
+     "type": "together",
+     "label": "Appear together",
+     "weight": 4,
+     "note": "First named together in Ch. 42."
+    }
+   ]
+  }
+ ],
+ "provenance": {
+  "kind": "auto-text",
+  "method": "Extracted automatically from the full public-domain text. Characters are recurring names with evidence of being people; a link means two names appear in the same or adjacent paragraphs, growing stronger as they share more passages. The kind of relationship is not inferred. Expect missed nicknames, occasional duplicates (a title and a first name for one person) and the odd non-character.",
+  "contributors": [
+   "Character Chart auto-extractor v1"
+  ],
+  "createdAt": "2026-10-20",
+  "updatedAt": "2026-10-20",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Generated automatically; not checked by a person."
+  }
+ },
+ "license": "CC BY 4.0 (map data). Source text: public domain."
+}
